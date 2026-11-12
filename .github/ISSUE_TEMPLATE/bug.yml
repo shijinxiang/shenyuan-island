@@ -1,7 +1,7 @@
 name: 问题反馈
 description: 记录游戏中可以复现的问题
 title: "[问题] "
-labels: [bug, 待处理]
+labels: [bug]
 body:
   - type: input
     id: version

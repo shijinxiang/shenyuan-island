@@ -1,7 +1,7 @@
 name: 功能与资产任务
 description: 记录玩法、模型、动作或文档工作
 title: "[任务] "
-labels: [enhancement, 待处理]
+labels: [enhancement]
 body:
   - type: textarea
     id: outcome
