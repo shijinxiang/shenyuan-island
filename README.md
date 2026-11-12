@@ -6,7 +6,7 @@
 
 ## 试玩
 
-在仓库的 Releases 页面下载 `深渊岛_Windows独立游戏.zip`，完整解压后运行“开始游戏.cmd”。请把 EXE、同名 PCK 和许可证目录一起保留。Windows 版本需要支持 Vulkan 的显卡和驱动。
+在仓库的 Releases 页面下载 `ShenyuanIsland_Windows_v0.2.0.zip`，完整解压后运行“开始游戏.cmd”。请把 EXE、同名 PCK 和许可证目录一起保留。Windows 版本需要支持 Vulkan 的显卡和驱动。
 
 ## 获取开发工程
 
