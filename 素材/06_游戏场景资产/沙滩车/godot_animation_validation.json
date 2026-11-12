@@ -1,0 +1,98 @@
+{
+  "Driving": {
+    "duration": 5.0,
+    "loop": true,
+    "resource": "D:/浪费GPT额度/小温的游戏/游戏/assets/characters/C01_driving.res",
+    "samples": [
+      {
+        "hips": [
+          0.0,
+          0.779999971389771,
+          0.0
+        ],
+        "root": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "time": 0.0
+      },
+      {
+        "hips": [
+          0.0,
+          0.780152440071106,
+          0.0
+        ],
+        "root": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "time": 2.5
+      },
+      {
+        "hips": [
+          0.0,
+          0.77999746799469,
+          0.0
+        ],
+        "root": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "time": 4.999
+      }
+    ],
+    "skeleton_path": "GeneralSkeleton/Skeleton3D",
+    "tracks": 52
+  },
+  "Entering Car": {
+    "duration": 5.46666669845581,
+    "loop": false,
+    "resource": "D:/浪费GPT额度/小温的游戏/游戏/assets/characters/C01_entering_car.res",
+    "samples": [
+      {
+        "hips": [
+          0.0,
+          0.917966485023499,
+          0.0
+        ],
+        "root": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "time": 0.0
+      },
+      {
+        "hips": [
+          0.0,
+          0.878530025482178,
+          0.0
+        ],
+        "root": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "time": 2.73333334922791
+      },
+      {
+        "hips": [
+          0.0,
+          0.780000507831573,
+          0.0
+        ],
+        "root": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "time": 5.46566669845581
+      }
+    ],
+    "skeleton_path": "GeneralSkeleton/Skeleton3D",
+    "tracks": 53
+  }
+}

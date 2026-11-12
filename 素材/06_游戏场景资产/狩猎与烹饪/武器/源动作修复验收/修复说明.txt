@@ -1,0 +1,14 @@
+源动作修复验收
+动作来自素材/07_动作源文件/Mixamo/弓箭.fbx，经既有C01_bow.res重定向，未替换源动画。
+源长度5秒，已实际逐相位渲染。选2.15秒举弓、2.50秒拉满、2.80秒放弦后右手后撤。
+弓动作不走手臂IK，不覆盖为浇水手指，保留源躯干、双臂、手腕、手指。站定保留源侧站腿姿；走动保留Walk腿部，髋部55%源朝向，保留源上身朝向，避免腰部90度绞转。
+瞄准仅整体旋转上身；左手掌心安装实体弓柄，右手Index2/Middle2源指节中点为弦/箭尾位置，箭沿右手弦点到左手箭台。
+弓模型恢复原设计1.28米高；build_weapons.py去除原0.7缩小步骤，bow.blend/bow.glb一致。
+放弦时，draw_amount 0-.16映射源2.50→2.80秒，.16-.30接回2.15秒，.30-1回拉2.15→2.50秒；放弦时弦回弹、隐藏在弦箭。父控制器回拉1秒、冷却0.9秒。
+按用户指定缩小帽檐时，只处理原帽独立连通岛外缘692个顶点，帽冠/脸/发/UV/权重保留。外帽檐半径从最大0.488米缩为约0.162米，同时按比例减小原帽檐垂弧。仅持弓时切换专用C01_bow_hat.glb的Mesh/Skin，退出恢复原Mesh/Skin，不改原C01_locomotion.glb。
+头颈保留源姿势并仅加4度小幅侧倾避开原发梢，手臂/手掌不做IK挪动、不横翻弓。
+实际渲染覆盖full_front/full_side/full_rear/half/return/release/up/down/walk；截图在本目录。未操作live游戏或存档。
+几何核验采用41个回拉进度×俯仰-57.3/0/+57.3度（另含初始化满弓），共126次对实际蒙皮后头部网格三角形检查，上弦交点0；独立日志保留。所测范围内帽弦/发弦无交叉。
+退出弓后，HAT_RESTORE_PASS，验证原Mesh和原Skin对象恢复，另有fixed_hat_restored.png。回归枪械独立渲染无脚本错误。
+备份保存在D:/Temp/bow_source_fix/weapon_grip.before.gd、bow.before.blend。未采用的背帽试做已移至同一Temp目录，游戏内无背帽资源引用。
+主场景复核直接加载scenes/coastal_beauty.scn，独立prefix CodexAbyssBowNormalSceneReview20261110；正常装备弓后关闭hunting._process，固定水平以及±40°瞄准。嵌入骨架与C01_locomotion逐骨rest一致（差异数组为空）。五张实际渲染确认源左右手关系一致，无主场景绑骨回归。截图main_scene_level_front/rear/side、main_scene_up40/down40。场景初始化有Godot Vulkan shader cache写入警告，未发生GDScript/资源加载错误，渲染完整结束MAIN_SCENE_RENDER_PASS。

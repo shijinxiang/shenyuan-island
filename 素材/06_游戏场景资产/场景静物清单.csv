@@ -1,0 +1,137 @@
+﻿编号,名称,模型路径,场景数量,单件三角面
+B01,B01,res://assets/optimized/B01.glb,1,9998
+B02,B02,res://assets/optimized/B02.glb,1,10000
+B03,B03,res://assets/optimized/B03.glb,1,9499
+F01,F01,res://assets/optimized/F01.glb,1,1300
+F02,F02,res://assets/optimized/F02.glb,1,550
+MP_Coral,Coral,res://assets/library/marine_props/MP_Coral.glb,5,274
+MP_Coral1,Coral1,res://assets/library/marine_props/MP_Coral1.glb,5,1332
+MP_Coral2,Coral2,res://assets/library/marine_props/MP_Coral2.glb,5,866
+MP_Coral3,Coral3,res://assets/library/marine_props/MP_Coral3.glb,5,1590
+MP_Coral4,Coral4,res://assets/library/marine_props/MP_Coral4.glb,5,948
+MP_Coral5,Coral5,res://assets/library/marine_props/MP_Coral5.glb,5,740
+MP_Coral6,Coral6,res://assets/library/marine_props/MP_Coral6.glb,5,756
+MP_Rock,Rock,res://assets/library/marine_props/MP_Rock.glb,5,44
+MP_Rock1,Rock1,res://assets/library/marine_props/MP_Rock1.glb,5,87
+MP_Rock10,Rock10,res://assets/library/marine_props/MP_Rock10.glb,5,20
+MP_Rock2,Rock2,res://assets/library/marine_props/MP_Rock2.glb,5,108
+MP_Rock3,Rock3,res://assets/library/marine_props/MP_Rock3.glb,5,182
+MP_Rock4,Rock4,res://assets/library/marine_props/MP_Rock4.glb,5,20
+MP_Rock5,Rock5,res://assets/library/marine_props/MP_Rock5.glb,5,20
+MP_Rock6,Rock6,res://assets/library/marine_props/MP_Rock6.glb,5,46
+MP_Rock7,Rock7,res://assets/library/marine_props/MP_Rock7.glb,5,36
+MP_Rock8,Rock8,res://assets/library/marine_props/MP_Rock8.glb,5,20
+MP_Rock9,Rock9,res://assets/library/marine_props/MP_Rock9.glb,5,8
+MP_SeaWeed,SeaWeed,res://assets/library/seaweed/MP_SeaWeed.glb,5,864
+MP_SeaWeed1,SeaWeed1,res://assets/library/seaweed/MP_SeaWeed1.glb,5,324
+MP_SeaWeed2,SeaWeed2,res://assets/library/seaweed/MP_SeaWeed2.glb,5,176
+MP_Shells,Shells,res://assets/library/marine_props/MP_Shells.glb,5,1334
+MP_Shells1,Shells1,res://assets/library/marine_props/MP_Shells1.glb,5,116
+MP_Shells2,Shells2,res://assets/library/marine_props/MP_Shells2.glb,5,116
+MP_Shells3,Shells3,res://assets/library/marine_props/MP_Shells3.glb,5,454
+MP_StarFish,StarFish,res://assets/library/marine_props/MP_StarFish.glb,5,360
+P01,P01,res://assets/optimized/P01.glb,1,9497
+P02,P02,res://assets/optimized/P02.glb,1,15999
+P03,P03,res://assets/optimized/P03.glb,1,9498
+R01,R01,res://assets/optimized/R01.glb,7,4363
+R02,R02,res://assets/optimized/R02.glb,7,7934
+R03,R03,res://assets/optimized/R03.glb,7,6740
+R04,R04,res://assets/optimized/R04.glb,7,7656
+RP01,Rock Type1 01 mesh,res://assets/library/rocks/RP01.glb,3,222
+RP02,Rock Type1 02 mesh,res://assets/library/rocks/RP02.glb,3,368
+RP03,Rock Type1 03 mesh,res://assets/library/rocks/RP03.glb,3,118
+RP04,Rock Type1 04 mesh,res://assets/library/rocks/RP04.glb,3,30
+RP05,Rock Type2 01 mesh,res://assets/library/rocks/RP05.glb,3,156
+RP06,Rock Type2 02 mesh,res://assets/library/rocks/RP06.glb,3,228
+RP07,Rock Type2 03 mesh,res://assets/library/rocks/RP07.glb,3,88
+RP08,Rock Type2 04 mesh,res://assets/library/rocks/RP08.glb,3,52
+RP09,Rock Type3 01 mesh,res://assets/library/rocks/RP09.glb,3,156
+RP10,Rock Type3 02 mesh,res://assets/library/rocks/RP10.glb,3,214
+RP11,Rock Type3 03 mesh,res://assets/library/rocks/RP11.glb,3,58
+RP12,Rock Type3 04 mesh,res://assets/library/rocks/RP12.glb,3,160
+RP13,Rock Type4 01 mesh,res://assets/library/rocks/RP13.glb,3,126
+RP14,Rock Type4 02 mesh,res://assets/library/rocks/RP14.glb,3,152
+RP15,Rock Type4 03 mesh,res://assets/library/rocks/RP15.glb,3,94
+RP16,Rock Type4 04 mesh,res://assets/library/rocks/RP16.glb,3,36
+RP17,Rock Type5 01 mesh,res://assets/library/rocks/RP17.glb,3,100
+RP18,Rock Type5 02 mesh,res://assets/library/rocks/RP18.glb,3,140
+RP19,Rock Type5 03 mesh,res://assets/library/rocks/RP19.glb,3,80
+RP20,Rock Type5 04 mesh,res://assets/library/rocks/RP20.glb,3,40
+RP21,Rock Type6 01 mesh,res://assets/library/rocks/RP21.glb,3,212
+RP22,Rock Type6 02 mesh,res://assets/library/rocks/RP22.glb,3,188
+RP23,Rock Type6 03 mesh,res://assets/library/rocks/RP23.glb,3,96
+RP24,Rock Type6 04 mesh,res://assets/library/rocks/RP24.glb,3,32
+SH01,queen_conch,res://assets/library/shells/SH01.glb,5,4392
+SH02,chambered_nautilus,res://assets/library/shells/SH02.glb,5,4177
+SH03,scallop,res://assets/library/shells/SH03.glb,5,4111
+SH04,tiger_cowrie,res://assets/library/shells/SH04.glb,5,3910
+SH05,murex,res://assets/library/shells/SH05.glb,5,3857
+SH06,green_turban,res://assets/library/shells/SH06.glb,5,3593
+SH07,textile_cone,res://assets/library/shells/SH07.glb,5,3523
+SH08,auger,res://assets/library/shells/SH08.glb,5,4332
+SH09,lightning_whelk,res://assets/library/shells/SH09.glb,5,4178
+SH10,heart_cockle,res://assets/library/shells/SH10.glb,5,3864
+SH11,oyster,res://assets/library/shells/SH11.glb,5,6218
+SH12,abalone,res://assets/library/shells/SH12.glb,5,4507
+SH13,sand_dollar,res://assets/library/shells/SH13.glb,5,3909
+SH14,sea_urchin_test,res://assets/library/shells/SH14.glb,5,7767
+SH15,moon_snail,res://assets/library/shells/SH15.glb,5,6356
+SH16,triton_trumpet,res://assets/library/shells/SH16.glb,5,5414
+SH17,spider_conch,res://assets/library/shells/SH17.glb,5,4670
+SH18,spiny_oyster,res://assets/library/shells/SH18.glb,5,5753
+SH19,tulip_shell,res://assets/library/shells/SH19.glb,5,4119
+SH20,olive_shell,res://assets/library/shells/SH20.glb,5,3603
+SH21,sundial_shell,res://assets/library/shells/SH21.glb,5,4830
+SH22,limpet,res://assets/library/shells/SH22.glb,5,3874
+SH23,blue_mussel,res://assets/library/shells/SH23.glb,5,4126
+SH24,giant_clam,res://assets/library/shells/SH24.glb,5,3019
+SH25,wentletrap,res://assets/library/shells/SH25.glb,5,4701
+T05,T05,res://assets/optimized/T05.glb,3,850
+T06,T06,res://assets/optimized/T06.glb,3,850
+T07,T07,res://assets/optimized/T07.glb,3,850
+TP01,Tree Type0 01 Model,res://assets/library/trees/TP01.glb,2,924
+TP02,Tree Type0 02 Model,res://assets/library/trees/TP02.glb,2,893
+TP03,Tree Type0 03 Model,res://assets/library/trees/TP03.glb,2,1550
+TP04,Tree Type0 04 Model,res://assets/library/trees/TP04.glb,2,3498
+TP05,Tree Type0 05 Model,res://assets/library/trees/TP05.glb,2,352
+TP06,Tree Type0 06 Model,res://assets/library/trees/TP06.glb,2,678
+TP07,Tree Type1 01 Model,res://assets/library/trees/TP07.glb,2,58
+TP08,Tree Type1 02 Model,res://assets/library/trees/TP08.glb,2,58
+TP09,Tree Type1 03 Model,res://assets/library/trees/TP09.glb,2,82
+TP10,Tree Type1 04 Model,res://assets/library/trees/TP10.glb,2,142
+TP11,Tree Type1 05 Model,res://assets/library/trees/TP11.glb,2,214
+TP12,Tree Type2 01 Model,res://assets/library/trees/TP12.glb,2,165
+TP13,Tree Type2 02 Model,res://assets/library/trees/TP13.glb,2,165
+TP14,Tree Type2 03 Model,res://assets/library/trees/TP14.glb,2,237
+TP15,Tree Type2 04 Model,res://assets/library/trees/TP15.glb,2,309
+TP16,Tree Type2 05 Model,res://assets/library/trees/TP16.glb,2,381
+TP17,Tree Type3 01 Model,res://assets/library/trees/TP17.glb,2,131
+TP18,Tree Type3 02 Model,res://assets/library/trees/TP18.glb,18,279
+TP19,Tree Type3 03 Model,res://assets/library/trees/TP19.glb,19,372
+TP20,Tree Type3 04 Model,res://assets/library/trees/TP20.glb,30,452
+TP21,Tree Type3 05 Model,res://assets/library/trees/TP21.glb,35,452
+TP22,Tree Type4 01 Model,res://assets/library/trees/TP22.glb,2,184
+TP23,Tree Type4 02 Model,res://assets/library/trees/TP23.glb,21,279
+TP24,Tree Type4 03 Model,res://assets/library/trees/TP24.glb,21,328
+TP25,Tree Type4 04 Model,res://assets/library/trees/TP25.glb,25,624
+TP26,Tree Type4 05 Model,res://assets/library/trees/TP26.glb,21,972
+TP27,Tree Type5 01 Model,res://assets/library/trees/TP27.glb,2,160
+TP28,Tree Type5 02 Model,res://assets/library/trees/TP28.glb,21,304
+TP29,Tree Type5 03 Model,res://assets/library/trees/TP29.glb,30,452
+TP30,Tree Type5 04 Model,res://assets/library/trees/TP30.glb,23,656
+TP31,Tree Type6 01 Model,res://assets/library/trees/TP31.glb,2,224
+TP32,Tree Type6 02 Model,res://assets/library/trees/TP32.glb,25,964
+TP33,Tree Type6 03 Model,res://assets/library/trees/TP33.glb,37,1236
+TP34,Tree Type6 04 Model,res://assets/library/trees/TP34.glb,31,2393
+TP35,Tree Type7 01 Model,res://assets/library/trees/TP35.glb,28,324
+TP36,Tree Type7 02 Model,res://assets/library/trees/TP36.glb,24,388
+TP37,Tree Type7 03 Model,res://assets/library/trees/TP37.glb,30,332
+TP38,Tree Type7 04 Model,res://assets/library/trees/TP38.glb,21,612
+V01,V01,res://assets/optimized/V01.glb,110,36000
+V02,V02,res://assets/optimized/V02.glb,110,27999
+V03,V03,res://assets/optimized/V03.glb,60,18000
+V04,V04,res://assets/optimized/V04.glb,60,17999
+V05,V05,res://assets/optimized/V05.glb,60,12000
+V06,V06,res://assets/optimized/V06.glb,60,14000
+V07,V07,res://assets/optimized/V07.glb,60,5388
+V08,V08,res://assets/optimized/V08.glb,60,13999

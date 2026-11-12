@@ -1,0 +1,78 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://addons/pd_move_vfx/demo/free_demo.gd" id="s0"]
+[ext_resource type="PackedScene" path="res://addons/pd_move_vfx/effects/Landing_Heavy.tscn" id="e0"]
+[ext_resource type="PackedScene" path="res://addons/pd_move_vfx/effects/Dash_Ground.tscn" id="e1"]
+[ext_resource type="PackedScene" path="res://addons/pd_move_vfx/effects/Footstep_Water_PSX.tscn" id="e2"]
+
+[sub_resource type="StandardMaterial3D" id="Ground"]
+albedo_color = Color(0.05, 0.05, 0.075, 1)
+roughness = 0.9
+
+[sub_resource type="PlaneMesh" id="GroundMesh"]
+size = Vector2(60, 60)
+
+[sub_resource type="Environment" id="Env"]
+background_mode = 1
+background_color = Color(0.008, 0.008, 0.02, 1)
+ambient_light_source = 2
+ambient_light_color = Color(0.3, 0.3, 0.45, 1)
+ambient_light_energy = 0.4
+tonemap_mode = 2
+glow_enabled = true
+glow_intensity = 1.0
+glow_bloom = 0.15
+
+[node name="FreeDemo" type="Node3D"]
+script = ExtResource("s0")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Env")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1.00000, 0.00000, -0.00000, -0.00000, 0.96201, 0.27300, 0.00000, -0.27300, 0.96201, 0, 2.8, 7.4)
+fov = 50.0
+current = true
+
+[node name="Ground" type="MeshInstance3D" parent="."]
+mesh = SubResource("GroundMesh")
+surface_material_override/0 = SubResource("Ground")
+
+[node name="FX" type="Node3D" parent="."]
+
+[node name="Landing_Heavy" parent="FX" instance=ExtResource("e0")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.20, 0, 0)
+repeat_every = 2.0
+play_on_ready = true
+
+[node name="Landing_Heavy_label" type="Label3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0, 1, 0, -1, 0, -3.20, 0.02, 1.4)
+pixel_size = 0.005
+text = "Landing Heavy"
+font_size = 44
+modulate = Color(0.75, 0.82, 0.95, 0.9)
+
+[node name="Dash_Ground" parent="FX" instance=ExtResource("e1")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.00, 0, 0)
+repeat_every = 2.0
+play_on_ready = true
+
+[node name="Dash_Ground_label" type="Label3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0, 1, 0, -1, 0, 0.00, 0.02, 1.4)
+pixel_size = 0.005
+text = "Dash Ground"
+font_size = 44
+modulate = Color(0.75, 0.82, 0.95, 0.9)
+
+[node name="Footstep_Water_PSX" parent="FX" instance=ExtResource("e2")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3.20, 0, 0)
+repeat_every = 2.0
+play_on_ready = true
+
+[node name="Footstep_Water_PSX_label" type="Label3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0, 1, 0, -1, 0, 3.20, 0.02, 1.4)
+pixel_size = 0.005
+text = "Footstep Water PSX"
+font_size = 44
+modulate = Color(0.75, 0.82, 0.95, 0.9)
+

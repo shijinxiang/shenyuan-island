@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "script_data_roots": {
+    "compose_sources.py": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11",
+    "prepare_update_evidence.py": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11",
+    "build_updated_documents.py": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11",
+    "finalize_documents.py": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11",
+    "render_updated_documents.py": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11",
+    "package_latest.py": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11",
+    "verify_latest.py": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11"
+  },
+  "evidence_paths_verified": 67
+}

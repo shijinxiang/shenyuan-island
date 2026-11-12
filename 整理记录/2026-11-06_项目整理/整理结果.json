@@ -1,0 +1,19 @@
+{
+  "before_files": 7983,
+  "after_files": 2887,
+  "before_bytes": 12093777432,
+  "after_bytes": 9069993772,
+  "net_saved_bytes": 3023783660,
+  "archived_original_files": 4166,
+  "archive_count": 6,
+  "cache_files_removed": 987,
+  "cache_bytes_removed": 2252983040,
+  "runtime_scripts": 32,
+  "missing_dependencies": 0,
+  "stale_script_paths": 0,
+  "runtime_startup": "passed",
+  "editor_launcher": "passed",
+  "game_launcher": "passed",
+  "mcp_cli_bridge": "connected",
+  "mcp_native_session": "existing session requires reconnect"
+}

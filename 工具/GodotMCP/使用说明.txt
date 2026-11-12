@@ -1,0 +1,7 @@
+Godot MCP 辅助工具
+
+打开编辑器.cmd 和 运行场景.cmd 用于启动项目。
+mcp_call.py 使用当前 Codex 配置连接 Godot，并将结果保存到 整理记录/MCP操作记录。
+在匹配版本的 godot-ai Python 环境运行时，辅助脚本直接复用该环境启动桥接，减少重复依赖解析。
+本机可用命令为 uvx --python C:\Python314\python.exe --from godot-ai==4.4.1 python mcp_call.py 工具名 参数JSON路径。
+安装来源与工具定义分别记录在 安装来源.json、mcp_tools.json。

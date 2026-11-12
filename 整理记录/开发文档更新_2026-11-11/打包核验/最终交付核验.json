@@ -1,0 +1,81 @@
+{
+  "passed": true,
+  "version": "0.2.0",
+  "date": "2026-11-11",
+  "packages": [
+    {
+      "file": "深渊岛_Windows独立游戏.zip",
+      "bytes": 408117413,
+      "sha256": "e2f6543dc94aac9ff3643404cf97128239e957018453a299b0225010cb961d3e",
+      "manifest_files_verified": 10,
+      "crc_verified": true
+    },
+    {
+      "file": "深渊岛_全部资源与可编辑工程.zip",
+      "bytes": 8839215756,
+      "sha256": "e5411dfecf922d3115f9f9a28e110cc093d0a7a49e905da3e9b023cf1e712e4b",
+      "manifest_files_verified": 2990,
+      "crc_verified": true
+    }
+  ],
+  "standalone": {
+    "passed": true,
+    "binary_sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562",
+    "binary_matches_delivery": true,
+    "runtime_copy": "D:\\浪费GPT额度\\交付核验_2026-11-11\\隔离存档运行",
+    "isolated_user_data": "C:\\Users\\SHIJINXIANG\\AppData\\Roaming\\CodexAbyssStandalone20261111",
+    "started": "2026-11-11T18:35:44.7716735+09:00",
+    "exit_code": 0,
+    "markers": {
+      "ISLAND_ADVENTURE_READY": true,
+      "COASTAL_PRESENTATION_READY": true,
+      "SHALLOW_WATER_READY": true
+    },
+    "errors": [],
+    "settings_difference": "isolated save directory and diagnostic logging"
+  },
+  "editable_project_migration": {
+    "passed": true,
+    "relocated_project": "D:\\浪费GPT额度\\交付核验_2026-11-11\\迁移工程",
+    "initial_import_cache_present": false,
+    "files_extracted": 1507,
+    "import_exit_code": 0,
+    "import_errors": [],
+    "matching_document_hashes": true
+  },
+  "documents": {
+    "passed": true,
+    "version": "0.2.0",
+    "documents": [
+      {
+        "file": "D:\\浪费GPT额度\\小温的游戏\\需求\\开发过程文档\\深渊岛_三人分工开发文档.docx",
+        "pages": 68,
+        "images": 74,
+        "bytes": 50414875,
+        "sha256": "417ca992141132a5f686d6b0136b9dd24fc75e7138bccfa4713ff9e8d5a5a04e",
+        "requirements": 27,
+        "toc_updated": true
+      },
+      {
+        "file": "D:\\浪费GPT额度\\小温的游戏\\需求\\开发过程文档\\深渊岛_完整开发过程.docx",
+        "pages": 97,
+        "images": 111,
+        "bytes": 69330469,
+        "sha256": "c6d30f28792b2b887701e5e9e4164605176c5db189156232fab1f039563db257",
+        "requirements": 27,
+        "toc_updated": true
+      }
+    ],
+    "new_requirement_records": 27,
+    "runtime_evidence_files": 67,
+    "visual_review_pages": 165,
+    "newly_rendered_from_release_pck": 33,
+    "role_basis": "组员一资源建模 组员二内容规划 组员三场景接入的责任框架"
+  },
+  "runtime_dependencies": {
+    "checked_resources": 265,
+    "missing_dependencies": [],
+    "passed": true,
+    "version": "0.2.0"
+  }
+}

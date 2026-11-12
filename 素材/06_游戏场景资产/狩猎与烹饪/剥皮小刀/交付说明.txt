@@ -1,0 +1,37 @@
+剥皮小刀交付
+
+运行模型：游戏/assets/hunting/skinning_knife.glb
+可编辑源：skinning_knife.blend；重建脚本：build_skinning_knife.py
+276 三角面；全长 0.28m；木柄 0.12m，刃长 0.16m。
+Godot 原点为握柄中心；+Y 柄至尖，+Z 刃前方，X 为薄刃厚度。
+标记 Grip=(0,0,0)，BladeTip 与 Muzzle=(0,0.22,0.018)。
+
+接口：scripts/player/skinning_grip.gd extends SkeletonModifier3D。
+var hunting:Node3D；依赖 hunting.game.player.visual、processing_corpse:bool、processing_progress:float、knife_model:Node3D。
+创建实例、先设置 hunting，再添加到 game.fishing.skeleton，放在其他 modifier 后。
+父控制器创建刀模型；本修改器处理时显示，结束后隐藏。
+父控制器可播放 Harvest，下肢、躯干、左臂保持原动画。
+右臂为低位轻微往复，三次幅度 2.5cm；右手手指源自 Watering 握拳。
+右手 -X 对齐刀 +Y，掌心 -Z 朝躯干内侧，刀刃 +Z 对齐右手手指 +Y。
+局部手掌锚点 (0,0.09,-0.048)。前臂同时绕长轴转动，避免只翻腕。
+skeleton_updated 同步模型，不使用独立 _process 延迟绑定。
+
+验证：独立隐藏 Godot Compatibility SubViewport，custom_user_dir_name=AbyssIsland_Test_SkinningKnife。
+validation_front.png / validation_side.png / validation_back.png 已实际查看，右手握柄、刀尖向前下且离身。
+验证脚本在 skeleton_updated 内检验锚点与模型位置误差（阈值 0.00001m），而非在 modifier 自动恢复骨姿后检验。
+不操作系统鼠标，不关闭正式游戏，不写正式存档。
+
+低位处理修订（2026-11-11）
+新增输入 hunting.processing_target（世界坐标，近端实际表面点）与 hunting.game.player.swimming。
+刀刃腹部接触点 BLADE_CONTACT=(0,.155,.03) 精确定位目标，前后往复幅度 1.8cm。
+陆地按目标离脚高度降低髋部、前倾脊柱，双腿二骨 IK 固定原脚踝位置和脚方向；不拉伸骨骼。
+左手自然置于膝上。水中跳过蹲姿及左手支撑，保留 Treading Water 下身。
+
+独立实测目标：(-.15,.15,.55)、(-.15,.45,.55)。
+low_0.15_* 为地面鱼尸；low_0.45_* 为放在 0.30m 测试台上的同一鱼尸，用于检验更高表面。
+验证先对实际鱼网格进行竖直三角面射线求真实躯体表面，不以背鳍 AABB 最高点冒充切割面。
+两高度：握点误差 0；刃中点误差 <2e-7m；脚踝位置误差 <1.6e-7m；骨长误差 <2.4e-7m。
+water_pose_metrics.json：Treading Water 左右腿和脚位置改变量均0，握点误差0，刃中点误差<2.1e-7m。
+这些数值在 modifier 的 skeleton_updated 回调中记录，避免 Godot 帧后恢复骨姿干扰。
+
+交互判定 1.25m 并不等于人体实际可达距离。父控制器应选真实近端表面，并让玩家靠近后处理；超出手臂长度时修改器限制可达半径，不伸长手臂。

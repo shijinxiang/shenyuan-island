@@ -1,0 +1,562 @@
+[
+  {
+    "old": "借鉴.mp4",
+    "new": "资料/参考视频/借鉴.mp4",
+    "sha256": "86f8cd3dffbf3fd451b297cdd370395508a52a5e1e77877793c9cc5160b557e4"
+  },
+  {
+    "old": "风格化写实沙滩.mp4",
+    "new": "资料/参考视频/风格化写实沙滩.mp4",
+    "sha256": "576ca4e5a5c2c8ea5868d174872d9a77d1709e28d6a832760abe5cd836d91b27"
+  },
+  {
+    "old": "风格化沙滩pipeline.mp4",
+    "new": "资料/参考视频/风格化沙滩pipeline.mp4",
+    "sha256": "5d28736022e783dd8e4a2cd4c10781870de1f23787779f551183fb0b911d7de6"
+  },
+  {
+    "old": "mixamo/Fast Run.fbx",
+    "new": "素材/07_动作源文件/Mixamo/Fast Run.fbx",
+    "sha256": "a9a2ceaf9515de0bda32bf86b52c493a48105e8b56a36d7eec5a4b019b9f1421"
+  },
+  {
+    "old": "mixamo/Fishing Cast.fbx",
+    "new": "素材/07_动作源文件/Mixamo/Fishing Cast.fbx",
+    "sha256": "16bc630cc1e035061f14b61dcb4e5c4710aac32702692c2f957792b079e1281b"
+  },
+  {
+    "old": "mixamo/Fishing Idle.fbx",
+    "new": "素材/07_动作源文件/Mixamo/Fishing Idle.fbx",
+    "sha256": "c69c89c43fa3c665f7c72adc5c9b78a240e6a1137883b0030dc6c5ad2343ef8a"
+  },
+  {
+    "old": "mixamo/Idle.fbx",
+    "new": "素材/07_动作源文件/Mixamo/Idle.fbx",
+    "sha256": "e818e7952041f434d00fc99d4c39e4456c874978d565fcb12ec22c9c6bdb9d81"
+  },
+  {
+    "old": "mixamo/Paddling.fbx",
+    "new": "素材/07_动作源文件/Mixamo/Paddling.fbx",
+    "sha256": "06b1000357772b42ff061e07d9728c193b421f43178657ff128cecb9c501c08f"
+  },
+  {
+    "old": "mixamo/Swimming To Edge.fbx",
+    "new": "素材/07_动作源文件/Mixamo/Swimming To Edge.fbx",
+    "sha256": "8442db41f2decd17a3e9476ce8108ac62d1637213b145c2908603c1e77d26306"
+  },
+  {
+    "old": "mixamo/Swimming.fbx",
+    "new": "素材/07_动作源文件/Mixamo/Swimming.fbx",
+    "sha256": "0a71dabc383d0fee3d7f5bcbaceb2cd105fe8527282c125b589f2489ef7b774e"
+  },
+  {
+    "old": "mixamo/Talking1.fbx",
+    "new": "素材/07_动作源文件/Mixamo/Talking1.fbx",
+    "sha256": "dd088a62254e52226b83c562a5a3482b9366744bb30339a30addbce40733564a"
+  },
+  {
+    "old": "mixamo/Talking2.fbx",
+    "new": "素材/07_动作源文件/Mixamo/Talking2.fbx",
+    "sha256": "bfe6a614c7f468db19556e40e8195b8ad00d5d507a86375d2589fbc95f3cc211"
+  },
+  {
+    "old": "mixamo/Talking3.fbx",
+    "new": "素材/07_动作源文件/Mixamo/Talking3.fbx",
+    "sha256": "2e4844456e8ad188cad28e3dedd1dc6de565ebd9704ce70b3a7afc75c837ba3b"
+  },
+  {
+    "old": "mixamo/Walking.fbx",
+    "new": "素材/07_动作源文件/Mixamo/Walking.fbx",
+    "sha256": "13cd8e2cf65945799575165567864e3925f5f1905a66786c893d64c81376d329"
+  },
+  {
+    "old": "完整流程/blender建模大致效果.png",
+    "new": "资料/制作流程/blender建模大致效果.png",
+    "sha256": "f6816ec25124cf6a864266d02f5c2294abb13f978e940cfd91dffa8e0bc305da"
+  },
+  {
+    "old": "完整流程/blender绑骨操作.png",
+    "new": "资料/制作流程/blender绑骨操作.png",
+    "sha256": "7217fdb76c6f99936e5e56eeea0768d78768107acc3e4ba0833516e327e68c39"
+  },
+  {
+    "old": "完整流程/三视图大致效果.png",
+    "new": "资料/制作流程/三视图大致效果.png",
+    "sha256": "3d2c8a604c506877baefd089d3ef1c66102d894cce8849f89f3f29e5dc4583b5"
+  },
+  {
+    "old": "完整流程/为效果不好的模型重新建模（之前的木制码头不合格）.png",
+    "new": "资料/制作流程/为效果不好的模型重新建模（之前的木制码头不合格）.png",
+    "sha256": "27dbdd456ba257d2b0d08b83967635deb358f86ef815e0005b35e1224716f06c"
+  },
+  {
+    "old": "完整流程/为水体做类似浪花的效果.png",
+    "new": "资料/制作流程/为水体做类似浪花的效果.png",
+    "sha256": "973f30dfed46fb2743edc377ef95af5d02672c7d1bae5b9908b08e0c0c112487"
+  },
+  {
+    "old": "完整流程/人物动作绑定（mixamo，run）.png",
+    "new": "资料/制作流程/人物动作绑定（mixamo，run）.png",
+    "sha256": "3c0fd4ff9fa6d9756ac71c5231456b74487d497e73fc61977076df0428e47f52"
+  },
+  {
+    "old": "完整流程/使用blender建模（接入mcp实现）.png",
+    "new": "资料/制作流程/使用blender建模（接入mcp实现）.png",
+    "sha256": "86a34ba0a12c319d8b9bcc44492868dbe881f665c90d6e5293f2a6d1e5a0f628"
+  },
+  {
+    "old": "完整流程/使用godot-ai-mcp在godot进行场景的布置和模型资产的摆放.png",
+    "new": "资料/制作流程/使用godot-ai-mcp在godot进行场景的布置和模型资产的摆放.png",
+    "sha256": "0dfe2620c30fa181ad25e2ab43d423cd55bc5a4ddeb504d39c3c12e84fd554c6"
+  },
+  {
+    "old": "完整流程/使用tripo对人物进行建模.png",
+    "new": "资料/制作流程/使用tripo对人物进行建模.png",
+    "sha256": "5a3240c52f6b50888ca038363629c71ec9ffd20738275348ffe5c45263995273"
+  },
+  {
+    "old": "完整流程/单个模型产出的文件资源.png",
+    "new": "资料/制作流程/单个模型产出的文件资源.png",
+    "sha256": "c766a6cea882ac41f2a08d4b965e103b3c99dc6924636bdaabcdedcd22161581"
+  },
+  {
+    "old": "完整流程/单独列出各个资产模型的提示词用于生成模型三视图.png",
+    "new": "资料/制作流程/单独列出各个资产模型的提示词用于生成模型三视图.png",
+    "sha256": "52cbbd654d2f78538db4d61743f11cff59646c2904836dcd6fdf4a29448347e6"
+  },
+  {
+    "old": "完整流程/在mixamo上找动作.png",
+    "new": "资料/制作流程/在mixamo上找动作.png",
+    "sha256": "de4d57db7e7f31700696159ba36d3ebb7292cd1feaf71c29ff9411a491edecf0"
+  },
+  {
+    "old": "完整流程/在开源的游戏资源站上寻找免费的适用的资源用以减少工作量.png",
+    "new": "资料/制作流程/在开源的游戏资源站上寻找免费的适用的资源用以减少工作量.png",
+    "sha256": "21c3552ed8a3d4196b59bcb40ee9e66232bde9940d13d796abda15b35af47f05"
+  },
+  {
+    "old": "完整流程/大致场景摆放.png",
+    "new": "资料/制作流程/大致场景摆放.png",
+    "sha256": "9e2f9d311e0a8b546cdfe5c68fbeaa59d870899d10c77cf81efc8f675abbb95b"
+  },
+  {
+    "old": "完整流程/完善功能（开船，钓鱼，和商人交易）.png",
+    "new": "资料/制作流程/完善功能（开船，钓鱼，和商人交易）.png",
+    "sha256": "221fea7aa7955e31d05cb22bf3143d61e48d9206d5f05b78311018df535e01ec"
+  },
+  {
+    "old": "完整流程/对于效果不好的的blender建模使用混元3d文生模型重新建模.png",
+    "new": "资料/制作流程/对于效果不好的的blender建模使用混元3d文生模型重新建模.png",
+    "sha256": "61ef8bfe95bb8a9e02bdd40a827a2ce9246e9682448f5c7b59140558e50b2343"
+  },
+  {
+    "old": "完整流程/对场景摆放做设计.png",
+    "new": "资料/制作流程/对场景摆放做设计.png",
+    "sha256": "904c7163b03003ca69e30c2b349418b67c83fa1bdd22886252bac528e3b76a75"
+  },
+  {
+    "old": "完整流程/对新引进的红枫树规划防止区域.png",
+    "new": "资料/制作流程/对新引进的红枫树规划防止区域.png",
+    "sha256": "d4fb9d0a45bfd553faecdd72f0a0f46f686e485406ad18b6cab5bf0617ea7d91"
+  },
+  {
+    "old": "完整流程/构建需求文档.png",
+    "new": "资料/制作流程/构建需求文档.png",
+    "sha256": "4ca4e33b4fb17c8437a003aa6b9dbd6d5dadbbb5e72c976707990947fc157370"
+  },
+  {
+    "old": "完整流程/植入天气系统和生物.png",
+    "new": "资料/制作流程/植入天气系统和生物.png",
+    "sha256": "c8a3e69c5b31823d5dc9b389cdac58f41c99edde4fcd0a1e382feeb0738debe3"
+  },
+  {
+    "old": "完整流程/混元3d产出的模型资源.png",
+    "new": "资料/制作流程/混元3d产出的模型资源.png",
+    "sha256": "2c9f89a2d4e3884708cff34fb5de1176eff4aa2fec2352cb885b5798ab69c1df"
+  },
+  {
+    "old": "完整流程/理想的完成图.png",
+    "new": "资料/制作流程/理想的完成图.png",
+    "sha256": "f3618b61480c1b4ab1db7a2963a423451a31ace84954ccea4c0a36b28b82f35c"
+  },
+  {
+    "old": "完整流程/铺上草地.png",
+    "new": "资料/制作流程/铺上草地.png",
+    "sha256": "ca19cbc153746be61d6efd9bb4f47866043d6c2b466ae4c96d8892bdabff5148"
+  },
+  {
+    "old": "完整流程/鱼竿绑骨.png",
+    "new": "资料/制作流程/鱼竿绑骨.png",
+    "sha256": "954b8347a6f10dbd57a605a613a226b2de730db8dd1f441959a6f840eb3f02f2"
+  },
+  {
+    "old": "素材/商人.zip",
+    "new": "归档/05_原始下载包/商人.zip",
+    "sha256": "611121976d0d1edf794d2085047a1df5e4c76af7e441ad2b8e0b2208fa253ef3"
+  },
+  {
+    "old": "素材/钓鱼佬.zip",
+    "new": "归档/05_原始下载包/钓鱼佬.zip",
+    "sha256": "948e3d0e83976739ced0980b6b57498653f0d557f7ef162bc5a4db2018ccafbe"
+  },
+  {
+    "old": "素材/钓鱼竿.zip",
+    "new": "归档/05_原始下载包/钓鱼竿.zip",
+    "sha256": "21eb538557e0ba927be845a924b4ab59916ebcf6c2abc303a71d8ccc6fd8ee2c"
+  },
+  {
+    "old": "素材/05_待选资源库/3D_seashells_pack_low.zip",
+    "new": "归档/05_原始下载包/3D_seashells_pack_low.zip",
+    "sha256": "1e52a26f72ba27c437a51ede58ec67f50de2c34af83f524076bbf4f957038f5c"
+  },
+  {
+    "old": "素材/05_待选资源库/Free Forest Nature Pack Updated.zip",
+    "new": "归档/05_原始下载包/Free Forest Nature Pack Updated.zip",
+    "sha256": "c1907778116a55495bf854930d6e45d6b14d813504a8b38b3b2b7218eb9e9d2d"
+  },
+  {
+    "old": "素材/05_待选资源库/free-rain-vfx-godot-4-lite.zip",
+    "new": "归档/05_原始下载包/free-rain-vfx-godot-4-lite.zip",
+    "sha256": "c7325deadd61c22c602eed6bffd058baaf64f4fa24713ec7c9110e63148a821d"
+  },
+  {
+    "old": "素材/05_待选资源库/LookToTheBirds_FreeSample_AmericanRobin_v1.0.zip",
+    "new": "归档/05_原始下载包/LookToTheBirds_FreeSample_AmericanRobin_v1.0.zip",
+    "sha256": "bf13c091fc9df8171ef0de6bf562d96742451773bffd6046f3ce2cee06aa4ecb"
+  },
+  {
+    "old": "素材/05_待选资源库/low-poly-skies-free-assets.zip",
+    "new": "归档/05_原始下载包/low-poly-skies-free-assets.zip",
+    "sha256": "d5be1d932d240029d90f88f666fc4785b8c556d6d33e7008a073416b963625ff"
+  },
+  {
+    "old": "素材/05_待选资源库/PixelDreamer_Movement_VFX_DEMO_Godot4.zip",
+    "new": "归档/05_原始下载包/PixelDreamer_Movement_VFX_DEMO_Godot4.zip",
+    "sha256": "73c6cff8ab0b93e4dcee5b474d578a033ba3c60470a1850d567fd20368f8be20"
+  },
+  {
+    "old": "素材/05_待选资源库/weather-atmosphere-toolkit-1.0.1.zip",
+    "new": "归档/05_原始下载包/weather-atmosphere-toolkit-1.0.1.zip",
+    "sha256": "ae90f88e2bb1a6e49ea9fc47aa833d711a5c5121c86401ab88efb15705ffb289"
+  },
+  {
+    "old": "游戏/scripts/coastal_presentation.gd",
+    "new": "游戏/scripts/core/coastal_presentation.gd",
+    "sha256": "c1ac20da89cf560b69dcb82fb0e2e09df0da86d65203126e1965296de8a34eda"
+  },
+  {
+    "old": "游戏/scripts/coastal_presentation.gd.uid",
+    "new": "游戏/scripts/core/coastal_presentation.gd.uid",
+    "sha256": "0284ecdcf24c4c8ac85d98d1f934655ff9a6dab8c3e75b9d2d599681c38aa852"
+  },
+  {
+    "old": "游戏/scripts/world_life_setup.gd",
+    "new": "游戏/scripts/core/world_life_setup.gd",
+    "sha256": "6a15d6e4b2a07a5d20cf3da1ba13e3db11bfae81e497cb350589a13570c15ec5"
+  },
+  {
+    "old": "游戏/scripts/world_life_setup.gd.uid",
+    "new": "游戏/scripts/core/world_life_setup.gd.uid",
+    "sha256": "846e5701f8fa6b310ae30f107476c04147eef4706a7524c15eeed17919aadc8d"
+  },
+  {
+    "old": "游戏/scripts/island_static_setup.gd",
+    "new": "游戏/scripts/core/island_static_setup.gd",
+    "sha256": "d90d62f89feb54873e6841a8d6e01453009c93c1a6e912883791e272611414f7"
+  },
+  {
+    "old": "游戏/scripts/island_static_setup.gd.uid",
+    "new": "游戏/scripts/core/island_static_setup.gd.uid",
+    "sha256": "64c62517e68ca15bf2387d305bd4e24cb03c6b6e5ba48b2085191e608dd3f038"
+  },
+  {
+    "old": "游戏/scripts/explorer.gd",
+    "new": "游戏/scripts/player/explorer.gd",
+    "sha256": "4d053c0ad5b1dcdf0475880df8394345311f0ed5ef4296f53b970d31b83adf1f"
+  },
+  {
+    "old": "游戏/scripts/explorer.gd.uid",
+    "new": "游戏/scripts/player/explorer.gd.uid",
+    "sha256": "3b1bc59676b43f1ca23ac00d4eb9e9eae959433b888b54bba2af4be106f1cf69"
+  },
+  {
+    "old": "游戏/scripts/fisherwoman_setup.gd",
+    "new": "游戏/scripts/player/fisherwoman_setup.gd",
+    "sha256": "2d236bbd1c5b50824b24de3a2e92b1f42d5676c03788641d7d6b0bd44896c621"
+  },
+  {
+    "old": "游戏/scripts/fisherwoman_setup.gd.uid",
+    "new": "游戏/scripts/player/fisherwoman_setup.gd.uid",
+    "sha256": "0d624d73b7728df1666728bdf7ba8c1e70555f9a6a6a0b00e3f901135186eb80"
+  },
+  {
+    "old": "游戏/scripts/follow_camera_safety.gd",
+    "new": "游戏/scripts/player/follow_camera_safety.gd",
+    "sha256": "fc76d72e7a2c2d1c2684a33d18a0ae998d4938ba0920c2c81334ba6e301f0495"
+  },
+  {
+    "old": "游戏/scripts/follow_camera_safety.gd.uid",
+    "new": "游戏/scripts/player/follow_camera_safety.gd.uid",
+    "sha256": "cfd240aeb1412819ea3d7992413f11d248e90f912504ea61cdd435cf8a199a10"
+  },
+  {
+    "old": "游戏/scripts/player_movement_vfx.gd",
+    "new": "游戏/scripts/player/player_movement_vfx.gd",
+    "sha256": "a05b2928bbba117a1ad8e0336c520663a8eebc437c1321078bd360199e148d70"
+  },
+  {
+    "old": "游戏/scripts/player_movement_vfx.gd.uid",
+    "new": "游戏/scripts/player/player_movement_vfx.gd.uid",
+    "sha256": "f250c4d60f7021fc9993afea986bf6932a684285ebceb631333bfc5cecec2a4f"
+  },
+  {
+    "old": "游戏/scripts/building_revision.gd",
+    "new": "游戏/scripts/world/building_revision.gd",
+    "sha256": "a7a0691fd0bece911a4e2e4fdfc110379aa3105535792985cd236fbc3f4d4d91"
+  },
+  {
+    "old": "游戏/scripts/building_revision.gd.uid",
+    "new": "游戏/scripts/world/building_revision.gd.uid",
+    "sha256": "c84d9f99e5cbe8c81e936e3b135c837180f107acd2633e9a71d475bec5c9b9dc"
+  },
+  {
+    "old": "游戏/scripts/building_doors.gd",
+    "new": "游戏/scripts/world/building_doors.gd",
+    "sha256": "2b26f6467917344de4bc049a3506a0275096a0d6c743fa840f5961e9bceea84d"
+  },
+  {
+    "old": "游戏/scripts/building_doors.gd.uid",
+    "new": "游戏/scripts/world/building_doors.gd.uid",
+    "sha256": "fccbf138234f8dfcd797c70c0ba2ba5e400419c5020720f3287b934471fb9892"
+  },
+  {
+    "old": "游戏/scripts/cabin_access.gd",
+    "new": "游戏/scripts/world/cabin_access.gd",
+    "sha256": "66749055d7cd7d4b3bad9f03e1e8e25b8b925f799fe08ec66ee8c2ee360d57b7"
+  },
+  {
+    "old": "游戏/scripts/cabin_access.gd.uid",
+    "new": "游戏/scripts/world/cabin_access.gd.uid",
+    "sha256": "b876e0494825b3ea1748b00164ea4b322fa65b3b4f1c30af1f9ab26f4063d68a"
+  },
+  {
+    "old": "游戏/scripts/coastal_palm_setup.gd",
+    "new": "游戏/scripts/world/coastal_palm_setup.gd",
+    "sha256": "c66f334ce14b1600a37b916719423dbbe18e57da846e39728da2c6833788f4c6"
+  },
+  {
+    "old": "游戏/scripts/coastal_palm_setup.gd.uid",
+    "new": "游戏/scripts/world/coastal_palm_setup.gd.uid",
+    "sha256": "75671fcc3757223b50d214e0a5c1d303bdf20fe361b261733454e10a23339809"
+  },
+  {
+    "old": "游戏/scripts/forest_biome_setup.gd",
+    "new": "游戏/scripts/world/forest_biome_setup.gd",
+    "sha256": "b6d492258b60dc99ebc76d15d07241dfd84f59d9c4dc4f17b19942a58e2d2827"
+  },
+  {
+    "old": "游戏/scripts/forest_biome_setup.gd.uid",
+    "new": "游戏/scripts/world/forest_biome_setup.gd.uid",
+    "sha256": "448085769d57c30c88926258bf7ff80fe4e7192820965a503659a0d3e5026e5e"
+  },
+  {
+    "old": "游戏/scripts/ground_sampler.gd",
+    "new": "游戏/scripts/world/ground_sampler.gd",
+    "sha256": "00a2cb473e4c935aa69c8f095f3f81ea5d4460935f4e5d70604cdec774a1d456"
+  },
+  {
+    "old": "游戏/scripts/ground_sampler.gd.uid",
+    "new": "游戏/scripts/world/ground_sampler.gd.uid",
+    "sha256": "708a202098184f9810a7e80d9e57276dcde1b7c07874e4baeb400de7305cc134"
+  },
+  {
+    "old": "游戏/scripts/nearshore_enrichment.gd",
+    "new": "游戏/scripts/world/nearshore_enrichment.gd",
+    "sha256": "67fbac836be6d28326ea2e0e85d1f8aacc90196c7b10bdddd55082c89173c471"
+  },
+  {
+    "old": "游戏/scripts/nearshore_enrichment.gd.uid",
+    "new": "游戏/scripts/world/nearshore_enrichment.gd.uid",
+    "sha256": "1de8ed96048597f7698af87780a864eb3e85b2533c5a47f9c2f78ddce498db3a"
+  },
+  {
+    "old": "游戏/scripts/island_grass_setup.gd",
+    "new": "游戏/scripts/world/island_grass_setup.gd",
+    "sha256": "07e7755adece6140befb00e7b8b22325e6244035ee4cfe50aa2bb228e654093b"
+  },
+  {
+    "old": "游戏/scripts/island_grass_setup.gd.uid",
+    "new": "游戏/scripts/world/island_grass_setup.gd.uid",
+    "sha256": "09cdc09224a653505ddf33d03d498e98f6894cc6c0701066b79bca56b4f0dfdd"
+  },
+  {
+    "old": "游戏/scripts/shallow_water_simulation.gd",
+    "new": "游戏/scripts/water/shallow_water_simulation.gd",
+    "sha256": "79c2c532795f2f0b6e3941dc5397aced2f68b817d7c421c83f7bbe5adebb2c5a"
+  },
+  {
+    "old": "游戏/scripts/shallow_water_simulation.gd.uid",
+    "new": "游戏/scripts/water/shallow_water_simulation.gd.uid",
+    "sha256": "3d409f1561787c0d6c51061fe88b67d0bc81fbcbba57fa203f6f8d9d1c906fd1"
+  },
+  {
+    "old": "游戏/scripts/shore_waves_setup.gd",
+    "new": "游戏/scripts/water/shore_waves_setup.gd",
+    "sha256": "cd38befa2e3a9156388c9fb73e692317b1608c7812ec5ca95a8aac523a641651"
+  },
+  {
+    "old": "游戏/scripts/shore_waves_setup.gd.uid",
+    "new": "游戏/scripts/water/shore_waves_setup.gd.uid",
+    "sha256": "758a97bacb9b1a5a3e8d9288ea56a274a843bc7a322dc3a1e24c2a14618e0347"
+  },
+  {
+    "old": "游戏/scripts/island_rain.gd",
+    "new": "游戏/scripts/water/island_rain.gd",
+    "sha256": "3d5ab8ded959fc1ea380c94cf2d178c1b9b04a12e66a5e6b658294893620b9c1"
+  },
+  {
+    "old": "游戏/scripts/island_rain.gd.uid",
+    "new": "游戏/scripts/water/island_rain.gd.uid",
+    "sha256": "aae5e607196f48d5df601ed88759101f2a5b67ce684b21e64886ec69541c7a23"
+  },
+  {
+    "old": "游戏/scripts/island_weather.gd",
+    "new": "游戏/scripts/weather/island_weather.gd",
+    "sha256": "1671c81365e3acf3c999617a2a4690d871ba862a1cc91d48411aa4ab4d74787d"
+  },
+  {
+    "old": "游戏/scripts/island_weather.gd.uid",
+    "new": "游戏/scripts/weather/island_weather.gd.uid",
+    "sha256": "2fc1d4bb1c4752601a0f6eb61d553b5fcf6d6879498538655ce43fe6c3534760"
+  },
+  {
+    "old": "游戏/scripts/island_wildlife.gd",
+    "new": "游戏/scripts/wildlife/island_wildlife.gd",
+    "sha256": "be8b69018b6d881d18ac6976f3f9c24487aa47ec9a15a80a631eac87edeb37fb"
+  },
+  {
+    "old": "游戏/scripts/island_wildlife.gd.uid",
+    "new": "游戏/scripts/wildlife/island_wildlife.gd.uid",
+    "sha256": "96d14293b0e9f5ebbc2e5c891561f0857e9b923640b78104f655177782ad8bd6"
+  },
+  {
+    "old": "游戏/scripts/fish_schools.gd",
+    "new": "游戏/scripts/wildlife/fish_schools.gd",
+    "sha256": "1b3c7c5019ea5a7e37d13cf79827c80869427906f66de5a66475c6ca65d06da2"
+  },
+  {
+    "old": "游戏/scripts/fish_schools.gd.uid",
+    "new": "游戏/scripts/wildlife/fish_schools.gd.uid",
+    "sha256": "b4a96bffe246c725e3d3c61545d02efd51aafad16e5ebb647220169ae29f3d24"
+  },
+  {
+    "old": "游戏/scripts/fishing_controller.gd",
+    "new": "游戏/scripts/fishing/fishing_controller.gd",
+    "sha256": "d1d94a22b37f7efb4b06f6084f9c2ab66a9765f4b2db62e1fa927f6f7e0907ad"
+  },
+  {
+    "old": "游戏/scripts/fishing_controller.gd.uid",
+    "new": "游戏/scripts/fishing/fishing_controller.gd.uid",
+    "sha256": "3a66efda3f22f3049db58027d4f4a62b95ea27536ad0ea8202ef6f43fe82ba0c"
+  },
+  {
+    "old": "游戏/scripts/fishing_locomotion.gd",
+    "new": "游戏/scripts/fishing/fishing_locomotion.gd",
+    "sha256": "c5906c2fc637fe77b30d88484c8593f1091b7abdd565dbb8ab9a5e0b46e50a75"
+  },
+  {
+    "old": "游戏/scripts/fishing_locomotion.gd.uid",
+    "new": "游戏/scripts/fishing/fishing_locomotion.gd.uid",
+    "sha256": "b97c8f72615220ba9e42f276541ccf1f43f00872493a2b3edce5507a969c92e3"
+  },
+  {
+    "old": "游戏/scripts/caught_fish.gd",
+    "new": "游戏/scripts/fishing/caught_fish.gd",
+    "sha256": "efe8c50fb469800e0f212f898f3cd9f7f5444fd4f29b3eeed8af851b7582df6a"
+  },
+  {
+    "old": "游戏/scripts/caught_fish.gd.uid",
+    "new": "游戏/scripts/fishing/caught_fish.gd.uid",
+    "sha256": "77d2687d810a4812eb0d155908ca6f2978bf9c94439419c6a7b6a1bafcf9fd87"
+  },
+  {
+    "old": "游戏/scripts/rowboat_controller.gd",
+    "new": "游戏/scripts/boating/rowboat_controller.gd",
+    "sha256": "5241c313d604dc2eb8d48284ebc4c77f4d70607b84ac32590daa598a14bcee26"
+  },
+  {
+    "old": "游戏/scripts/rowboat_controller.gd.uid",
+    "new": "游戏/scripts/boating/rowboat_controller.gd.uid",
+    "sha256": "1786b793b1ea415e99e513e8defb7df3112d6b9abd134c9f7380243be12eba86"
+  },
+  {
+    "old": "游戏/scripts/boat_wake.gd",
+    "new": "游戏/scripts/boating/boat_wake.gd",
+    "sha256": "8d42d4e81c5ed1bf82a19b56716448ac6c5031a90fc93b42e292b2c093a21418"
+  },
+  {
+    "old": "游戏/scripts/boat_wake.gd.uid",
+    "new": "游戏/scripts/boating/boat_wake.gd.uid",
+    "sha256": "fa208789f53765e84b004b64824d53df82e2e8b6a0974fbff23d576ef64f87c1"
+  },
+  {
+    "old": "游戏/scripts/island_adventure.gd",
+    "new": "游戏/scripts/adventure/island_adventure.gd",
+    "sha256": "16914944eb9418cab7c35497be4a1b7a9dad37fd3581e2ee3b198e07769f529b"
+  },
+  {
+    "old": "游戏/scripts/island_adventure.gd.uid",
+    "new": "游戏/scripts/adventure/island_adventure.gd.uid",
+    "sha256": "8f468b5b24aef7068cde72d96f0f926b4b7a32b858b5f6a714147558af652ec2"
+  },
+  {
+    "old": "游戏/scripts/island_opening.gd",
+    "new": "游戏/scripts/adventure/island_opening.gd",
+    "sha256": "b1908125efaff47c66590221a9fa204ccd13affbd1db2ef5e11ad4654b587c92"
+  },
+  {
+    "old": "游戏/scripts/island_opening.gd.uid",
+    "new": "游戏/scripts/adventure/island_opening.gd.uid",
+    "sha256": "c47463c17d144af39e54804b5277def2ee35aec806cb212c72f773965151628e"
+  },
+  {
+    "old": "游戏/scripts/island_game_ui.gd",
+    "new": "游戏/scripts/ui/island_game_ui.gd",
+    "sha256": "db6c9fc9374f752b6290396080a436670a1fedb30acfda122daf07c74d99ea6f"
+  },
+  {
+    "old": "游戏/scripts/island_game_ui.gd.uid",
+    "new": "游戏/scripts/ui/island_game_ui.gd.uid",
+    "sha256": "6b571326859be295da61cc352b5a38657986cccdc455dcffab354820bdf93f34"
+  },
+  {
+    "old": "游戏/scripts/live_item_preview.gd",
+    "new": "游戏/scripts/ui/live_item_preview.gd",
+    "sha256": "598de0c9237f9950c860f087011a15c17484b304a8e75bd6bed6694388beffb0"
+  },
+  {
+    "old": "游戏/scripts/live_item_preview.gd.uid",
+    "new": "游戏/scripts/ui/live_item_preview.gd.uid",
+    "sha256": "137a5c1b8c376e1c70a108af7fe987f54b48900802f70676b8f36db3d906467b"
+  },
+  {
+    "old": "游戏/scripts/nautical_button.gd",
+    "new": "游戏/scripts/ui/nautical_button.gd",
+    "sha256": "f9987f5300ef0e7412c5adf935ddd5ef62b86a93e5004740d6e22789f10fe534"
+  },
+  {
+    "old": "游戏/scripts/nautical_button.gd.uid",
+    "new": "游戏/scripts/ui/nautical_button.gd.uid",
+    "sha256": "bfff83320868f84987f9e2edaaf1248116724d22cd507251145a216a5f8272a2"
+  },
+  {
+    "old": "游戏/scripts/nautical_panel.gd",
+    "new": "游戏/scripts/ui/nautical_panel.gd",
+    "sha256": "41e8cb97f8ee53753131ffca1bac315dc31b615a296a9e04d7478f9128e9f0e9"
+  },
+  {
+    "old": "游戏/scripts/nautical_panel.gd.uid",
+    "new": "游戏/scripts/ui/nautical_panel.gd.uid",
+    "sha256": "73ab1efc1e4ce772e1cc48346af4c19a998d70f6a4fd9cca17e374ded4616a81"
+  }
+]

@@ -1,0 +1,26 @@
+{
+	"can": "res://assets/farming/watering_can.glb",
+	"can_grip": [
+		0,
+		0.55,
+		0
+	],
+	"duration": 5.6,
+	"finger_bones": 15,
+	"frames": 169,
+	"hand": "RightHand",
+	"hand_local_center": [
+		0,
+		0.09,
+		-0.048
+	],
+	"max_anchor_error_m": 0.0000000596046447753906,
+	"max_finger_rotation_delta_radians": 0.0009765625,
+	"max_nozzle_up_dot": -0.173647731542587,
+	"min_nozzle_forward_dot": 0.696364045143127,
+	"tracks": 53,
+	"watering_window": [
+		1.0,
+		4.6
+	]
+}

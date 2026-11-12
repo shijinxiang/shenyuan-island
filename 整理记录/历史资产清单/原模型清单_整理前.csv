@@ -1,0 +1,86 @@
+﻿编号,名称,采用来源,三角面数,模型相对路径
+B01,B01_钓鱼小屋,重设计可进入建筑,28640,06_游戏场景资产\钓鱼小屋_B01新版\B01_fishing.glb
+B02,B02_大型红色仓库,独立可开关门版,9965,06_游戏场景资产\仓库_B02可开关门\B02_interactive.glb
+B03,B03_白色灯塔,游戏减面版,9499,06_游戏场景资产\已减面模型\B03.glb
+C02,C02_白色海鸟,游戏减面版,12999,06_游戏场景资产\已减面模型\C02.glb
+F01,F01_近远岛尖礁,游戏减面版,1300,06_游戏场景资产\已减面模型\F01.glb
+F02,F02_最远天际山影,游戏减面版,550,06_游戏场景资产\已减面模型\F02.glb
+P01,P01_L形钓鱼码头,游戏减面版,9497,06_游戏场景资产\已减面模型\P01.glb
+P02,P02_泊岸旧木船,游戏减面版,15999,06_游戏场景资产\已减面模型\P02.glb
+P03,P03_灯塔防波堤底座,游戏减面版,9498,06_游戏场景资产\已减面模型\P03.glb
+R01,R01_圆钝灰色巨石,游戏减面版,4363,06_游戏场景资产\已减面模型\R01.glb
+R02,R02_扁平岸石,游戏减面版,7934,06_游戏场景资产\已减面模型\R02.glb
+R03,R03_尖棱立石,游戏减面版,6740,06_游戏场景资产\已减面模型\R03.glb
+R04,R04_低矮礁石组合,游戏减面版,7656,06_游戏场景资产\已减面模型\R04.glb
+T00,T00_北端主山体,用户新模型,1499942,01_正式模型\T_地形与主山体\T00_北端主山体\T00_北端主山体.glb
+T05,T05_西岸岩壁模块,游戏减面版,850,06_游戏场景资产\已减面模型\T05.glb
+T06,T06_东岸岩壁模块,游戏减面版,850,06_游戏场景资产\已减面模型\T06.glb
+T07,T07_南岸低崖草坡,游戏减面版,850,06_游戏场景资产\已减面模型\T07.glb
+V01,V01_高圆冠阔叶树,已撤下（场景停用）,36000,06_游戏场景资产\已减面模型\V01.glb
+V02,V02_矮宽冠阔叶树,已撤下（场景停用）,27999,06_游戏场景资产\已减面模型\V02.glb
+V03,V03_直干棕榈树,参考原版重新建模,5532,06_游戏场景资产\棕榈树_6000面重建\V03.glb
+V04,V04_弯干棕榈树,参考原版重新建模,5532,06_游戏场景资产\棕榈树_6000面重建\V04.glb
+V05,V05_圆团灌木,已撤下（场景停用）,12000,06_游戏场景资产\已减面模型\V05.glb
+V06,V06_横向舒展灌木,已撤下（场景停用）,14000,06_游戏场景资产\已减面模型\V06.glb
+V07,V07_短草簇,已撤下（场景停用）,5388,06_游戏场景资产\已减面模型\V07.glb
+V08,V08_黄色花灌丛,游戏减面版,13999,06_游戏场景资产\已减面模型\V08.glb
+NF_Bush_with_Flowers,Bush_with_Flowers,Free Forest Nature Pack Updated,362,05_待选资源库\Free Forest Nature Pack Updated\Bushes\Flat_Bush_with_Flowers.glb
+NF_Bush_Clumps_small,Bush_Clumps_small,Free Forest Nature Pack Updated,168,05_待选资源库\Free Forest Nature Pack Updated\Bushes\Flat_Bush_Clumps_small.glb
+NF_Bush_large,Bush_large,Free Forest Nature Pack Updated,82,05_待选资源库\Free Forest Nature Pack Updated\Bushes\Flat_Bush_large.glb
+NF_Bush_small,Bush_small,Free Forest Nature Pack Updated,42,05_待选资源库\Free Forest Nature Pack Updated\Bushes\Flat_Bush_small.glb
+NF_Bush_Clumps_large,Bush_Clumps_large,Free Forest Nature Pack Updated,246,05_待选资源库\Free Forest Nature Pack Updated\Bushes\Flat_Bush_Clumps_large.glb
+NF_Bush_Clumps_medium,Bush_Clumps_medium,Free Forest Nature Pack Updated,98,05_待选资源库\Free Forest Nature Pack Updated\Bushes\Flat_Bush_Clumps_medium.glb
+NF_Bush_medium,Bush_medium,Free Forest Nature Pack Updated,56,05_待选资源库\Free Forest Nature Pack Updated\Bushes\Flat_Bush_medium.glb
+NF_Mushroom_Brown_medium,Mushroom_Brown_medium,Free Forest Nature Pack Updated,172,05_待选资源库\Free Forest Nature Pack Updated\Mushrooms\Flat_Mushroom_Brown_medium.glb
+NF_Mushroom_Red_small,Mushroom_Red_small,Free Forest Nature Pack Updated,856,05_待选资源库\Free Forest Nature Pack Updated\Mushrooms\Flat_Mushroom_Red_small.glb
+NF_Mushroom_Red_large,Mushroom_Red_large,Free Forest Nature Pack Updated,856,05_待选资源库\Free Forest Nature Pack Updated\Mushrooms\Flat_Mushroom_Red_large.glb
+NF_Mushroom_Brown_large,Mushroom_Brown_large,Free Forest Nature Pack Updated,172,05_待选资源库\Free Forest Nature Pack Updated\Mushrooms\Flat_Mushroom_Brown_large.glb
+NF_Mushroom_Brown_small,Mushroom_Brown_small,Free Forest Nature Pack Updated,140,05_待选资源库\Free Forest Nature Pack Updated\Mushrooms\Flat_Mushroom_Brown_small.glb
+NF_Tree_Stump,Tree_Stump,Free Forest Nature Pack Updated,504,05_待选资源库\Free Forest Nature Pack Updated\Extras\Flat_Tree_Stump.glb
+NF_Flowers_red,Flowers_red,Free Forest Nature Pack Updated,1248,05_待选资源库\Free Forest Nature Pack Updated\Extras\Flat_Flowers_red.glb
+NF_Fallen_Log,Fallen_Log,Free Forest Nature Pack Updated,618,05_待选资源库\Free Forest Nature Pack Updated\Extras\Flat_Fallen_Log.glb
+NF_Tree_Oak_medium_green,Tree_Oak_medium_green,Free Forest Nature Pack Updated,302,05_待选资源库\Free Forest Nature Pack Updated\Trees\Oak\Flat_Tree_Oak_medium_green.glb
+NF_Tree_Oak_hero_green,Tree_Oak_hero_green,Free Forest Nature Pack Updated,1681,05_待选资源库\Free Forest Nature Pack Updated\Trees\Oak\Flat_Tree_Oak_hero_green.glb
+NF_Tree_Oak_small_green,Tree_Oak_small_green,Free Forest Nature Pack Updated,126,05_待选资源库\Free Forest Nature Pack Updated\Trees\Oak\Flat_Tree_Oak_small_green.glb
+NF_Tree_Oak_large_green,Tree_Oak_large_green,Free Forest Nature Pack Updated,394,05_待选资源库\Free Forest Nature Pack Updated\Trees\Oak\Flat_Tree_Oak_large_green.glb
+NF_Tree_Cypress_medium,Tree_Cypress_medium,Free Forest Nature Pack Updated,106,05_待选资源库\Free Forest Nature Pack Updated\Trees\Cypress\Flat_Tree_Cypress_medium.glb
+NF_Tree_Cypress_large,Tree_Cypress_large,Free Forest Nature Pack Updated,106,05_待选资源库\Free Forest Nature Pack Updated\Trees\Cypress\Flat_Tree_Cypress_large.glb
+NF_Tree_Cypress_small,Tree_Cypress_small,Free Forest Nature Pack Updated,62,05_待选资源库\Free Forest Nature Pack Updated\Trees\Cypress\Flat_Tree_Cypress_small.glb
+NF_Tree_Spruce_medium,Tree_Spruce_medium,Free Forest Nature Pack Updated,385,05_待选资源库\Free Forest Nature Pack Updated\Trees\Spruce\Flat_Tree_Spruce_medium.glb
+NF_Tree_Spruce_small,Tree_Spruce_small,Free Forest Nature Pack Updated,387,05_待选资源库\Free Forest Nature Pack Updated\Trees\Spruce\Flat_Tree_Spruce_small.glb
+NF_Tree_Spruce_large,Tree_Spruce_large,Free Forest Nature Pack Updated,499,05_待选资源库\Free Forest Nature Pack Updated\Trees\Spruce\Flat_Tree_Spruce_large.glb
+NF_Tree_Pine_medium,Tree_Pine_medium,Free Forest Nature Pack Updated,1576,05_待选资源库\Free Forest Nature Pack Updated\Trees\Pine\Flat_Tree_Pine_medium.glb
+NF_Tree_Pine_hero,Tree_Pine_hero,Free Forest Nature Pack Updated,1236,05_待选资源库\Free Forest Nature Pack Updated\Trees\Pine\Flat_Tree_Pine_hero.glb
+NF_Tree_Pine_large,Tree_Pine_large,Free Forest Nature Pack Updated,1304,05_待选资源库\Free Forest Nature Pack Updated\Trees\Pine\Flat_Tree_Pine_large.glb
+NF_Tree_Pine_small,Tree_Pine_small,Free Forest Nature Pack Updated,1576,05_待选资源库\Free Forest Nature Pack Updated\Trees\Pine\Flat_Tree_Pine_small.glb
+NF_Tree_Birch_medium_green,Tree_Birch_medium_green,Free Forest Nature Pack Updated,520,05_待选资源库\Free Forest Nature Pack Updated\Trees\Birch\Flat_Tree_Birch_medium_green.glb
+NF_Tree_Birch_small_green,Tree_Birch_small_green,Free Forest Nature Pack Updated,314,05_待选资源库\Free Forest Nature Pack Updated\Trees\Birch\Flat_Tree_Birch_small_green.glb
+NF_Tree_Birch_hero_green,Tree_Birch_hero_green,Free Forest Nature Pack Updated,4498,05_待选资源库\Free Forest Nature Pack Updated\Trees\Birch\Flat_Tree_Birch_hero_green.glb
+NF_Tree_Birch_large_green,Tree_Birch_large_green,Free Forest Nature Pack Updated,540,05_待选资源库\Free Forest Nature Pack Updated\Trees\Birch\Flat_Tree_Birch_large_green.glb
+NF_Tree_Park_large_green,Tree_Park_large_green,Free Forest Nature Pack Updated,216,05_待选资源库\Free Forest Nature Pack Updated\Trees\Park Trees\Flat_Tree_Park_large_green.glb
+NF_Tree_Park_medium_green,Tree_Park_medium_green,Free Forest Nature Pack Updated,216,05_待选资源库\Free Forest Nature Pack Updated\Trees\Park Trees\Flat_Tree_Park_medium_green.glb
+NF_Tree_Park_small_green,Tree_Park_small_green,Free Forest Nature Pack Updated,216,05_待选资源库\Free Forest Nature Pack Updated\Trees\Park Trees\Flat_Tree_Park_small_green.glb
+NF_Tree_Simple_medium,Tree_Simple_medium,Free Forest Nature Pack Updated,290,05_待选资源库\Free Forest Nature Pack Updated\Trees\Simple Trees\Flat_Tree_Simple_medium.glb
+NF_Tree_Simple_small,Tree_Simple_small,Free Forest Nature Pack Updated,160,05_待选资源库\Free Forest Nature Pack Updated\Trees\Simple Trees\Flat_Tree_Simple_small.glb
+NF_Tree_Simple_large,Tree_Simple_large,Free Forest Nature Pack Updated,692,05_待选资源库\Free Forest Nature Pack Updated\Trees\Simple Trees\Flat_Tree_Simple_large.glb
+NF_Tree_with_Mistletoe,Tree_with_Mistletoe,Free Forest Nature Pack Updated,1139,05_待选资源库\Free Forest Nature Pack Updated\Trees\Other\Flat_Tree_with_Mistletoe.glb
+NF_Tree_Windswept_dark_green,Tree_Windswept_dark_green,Free Forest Nature Pack Updated,774,05_待选资源库\Free Forest Nature Pack Updated\Trees\Other\Flat_Tree_Windswept_dark_green.glb
+NF_Tree_Maple_red,Tree_Maple_red,Free Forest Nature Pack Updated,260,05_待选资源库\Free Forest Nature Pack Updated\Trees\Other\Flat_Tree_Maple_red.glb
+NF_Tree_Elm_green,Tree_Elm_green,Free Forest Nature Pack Updated,464,05_待选资源库\Free Forest Nature Pack Updated\Trees\Other\Flat_Tree_Elm_green.glb
+NF_Boulder_01,Boulder_01,Free Forest Nature Pack Updated,50,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Boulder_01.glb
+NF_Boulder_02,Boulder_02,Free Forest Nature Pack Updated,50,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Boulder_02.glb
+NF_Boulder_03,Boulder_03,Free Forest Nature Pack Updated,66,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Boulder_03.glb
+NF_Rock_01,Rock_01,Free Forest Nature Pack Updated,20,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Rock_01.glb
+NF_Rock_02,Rock_02,Free Forest Nature Pack Updated,20,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Rock_02.glb
+NF_Rock_03,Rock_03,Free Forest Nature Pack Updated,20,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Rock_03.glb
+NF_Rock_04,Rock_04,Free Forest Nature Pack Updated,20,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Rock_04.glb
+NF_Rock_05,Rock_05,Free Forest Nature Pack Updated,40,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Rock_05.glb
+NF_Rock_06,Rock_06,Free Forest Nature Pack Updated,100,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Rock_06.glb
+NF_Rock_07,Rock_07,Free Forest Nature Pack Updated,32,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Rock_07.glb
+NF_Rock_08,Rock_08,Free Forest Nature Pack Updated,20,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Rock_08.glb
+NF_Rock_09,Rock_09,Free Forest Nature Pack Updated,20,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Rock_09.glb
+NF_Rock_10,Rock_10,Free Forest Nature Pack Updated,20,05_待选资源库\Free Forest Nature Pack Updated\Rocks\Flat_Rock_10.glb
+C01,女渔夫,用户模型，53骨骼绑定版,40764,06_游戏场景资产\人物接入\女渔夫\C01_女渔夫_已绑骨.glb
+C03,商人,用户模型，53骨骼绑定版,39039,06_游戏场景资产\人物接入\商人\C03_商人_已绑骨.glb
+P04,钓鱼竿,用户模型，9骨骼绑定版,3268,06_游戏场景资产\钓鱼竿接入\鱼竿_已绑骨.glb
+P05,鱼钩,用户模型，独立挂点,122,06_游戏场景资产\钓鱼竿接入\鱼钩.glb

@@ -1,0 +1,532 @@
+{
+ "atlas": 1024,
+ "atlas_used": 448,
+ "fps": 30,
+ "props": [
+  {
+   "name": "cloud_cumulus_small",
+   "title": "Small cumulus",
+   "group": "clouds",
+   "place": "floor",
+   "note": "A fair-weather cloud, 9 m.",
+   "tris": 1080,
+   "size": [
+    8.82,
+    4.318,
+    3.707
+   ],
+   "min": [
+    -4.417,
+    -2.175,
+    0.0
+   ],
+   "max": [
+    4.403,
+    2.143,
+    3.707
+   ],
+   "parts": [
+    {
+     "name": "cloud_cumulus_small",
+     "parent": null,
+     "pivot": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "tris": 1080,
+     "min": [
+      -4.4168,
+      -2.1754,
+      0.0
+     ],
+     "max": [
+      4.4029,
+      2.1426,
+      3.7075
+     ]
+    }
+   ],
+   "anims": [
+    {
+     "name": "drift",
+     "seconds": 7.3,
+     "loop": true
+    }
+   ],
+   "solid": false
+  },
+  {
+   "name": "cloud_cumulus",
+   "title": "Cumulus",
+   "group": "clouds",
+   "place": "floor",
+   "note": "A fair-weather cloud, 16 m.",
+   "tris": 1560,
+   "size": [
+    15.792,
+    9.005,
+    7.53
+   ],
+   "min": [
+    -8.02,
+    -4.658,
+    0.0
+   ],
+   "max": [
+    7.772,
+    4.347,
+    7.53
+   ],
+   "parts": [
+    {
+     "name": "cloud_cumulus",
+     "parent": null,
+     "pivot": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "tris": 1560,
+     "min": [
+      -8.0199,
+      -4.6578,
+      0.0
+     ],
+     "max": [
+      7.7721,
+      4.3472,
+      7.5296
+     ]
+    }
+   ],
+   "anims": [
+    {
+     "name": "drift",
+     "seconds": 9.8,
+     "loop": true
+    }
+   ],
+   "solid": false
+  },
+  {
+   "name": "cloud_bank",
+   "title": "Cloud bank",
+   "group": "clouds",
+   "place": "floor",
+   "note": "A long low roll of cloud, 40 m.",
+   "tris": 1080,
+   "size": [
+    47.143,
+    11.358,
+    4.414
+   ],
+   "min": [
+    -23.999,
+    -5.802,
+    0.0
+   ],
+   "max": [
+    23.144,
+    5.556,
+    4.414
+   ],
+   "parts": [
+    {
+     "name": "cloud_bank",
+     "parent": null,
+     "pivot": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "tris": 1080,
+     "min": [
+      -23.999,
+      -5.8023,
+      0.0
+     ],
+     "max": [
+      23.1442,
+      5.5561,
+      4.4144
+     ]
+    }
+   ],
+   "anims": [
+    {
+     "name": "drift",
+     "seconds": 8.9,
+     "loop": true
+    }
+   ],
+   "solid": false
+  },
+  {
+   "name": "cloud_storm",
+   "title": "Storm cloud",
+   "group": "clouds",
+   "place": "floor",
+   "note": "A dark heavy cloud, 30 m.",
+   "tris": 2040,
+   "size": [
+    29.668,
+    12.538,
+    9.552
+   ],
+   "min": [
+    -14.805,
+    -6.608,
+    0.0
+   ],
+   "max": [
+    14.863,
+    5.93,
+    9.552
+   ],
+   "parts": [
+    {
+     "name": "cloud_storm",
+     "parent": null,
+     "pivot": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "tris": 2040,
+     "min": [
+      -14.8053,
+      -6.6083,
+      0.0
+     ],
+     "max": [
+      14.8629,
+      5.9297,
+      9.5516
+     ]
+    }
+   ],
+   "anims": [
+    {
+     "name": "drift",
+     "seconds": 7.4,
+     "loop": true
+    }
+   ],
+   "solid": false
+  },
+  {
+   "name": "sun",
+   "title": "Sun",
+   "group": "sun, moon and stars",
+   "place": "floor",
+   "note": "A glowing sun 6 m across, its rays 11 m, turning slowly.",
+   "tris": 292,
+   "size": [
+    10.8,
+    5.85,
+    9.353
+   ],
+   "min": [
+    -5.4,
+    -2.925,
+    0.723
+   ],
+   "max": [
+    5.4,
+    2.925,
+    10.077
+   ],
+   "parts": [
+    {
+     "name": "sun",
+     "parent": null,
+     "pivot": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "tris": 196,
+     "min": [
+      -3.0,
+      -2.9248,
+      2.4
+     ],
+     "max": [
+      3.0,
+      2.9248,
+      8.4
+     ]
+    },
+    {
+     "name": "sun_rays",
+     "parent": "sun",
+     "pivot": [
+      0.0,
+      0.0,
+      5.4
+     ],
+     "tris": 96,
+     "min": [
+      -5.4,
+      -0.2,
+      0.7235
+     ],
+     "max": [
+      5.4,
+      0.2,
+      10.0765
+     ]
+    }
+   ],
+   "anims": [
+    {
+     "name": "shine",
+     "seconds": 24.0,
+     "loop": true
+    }
+   ],
+   "solid": false
+  },
+  {
+   "name": "moon_crescent",
+   "title": "Crescent moon",
+   "group": "sun, moon and stars",
+   "place": "floor",
+   "note": "A glowing crescent moon 6 m tall, cut thick.",
+   "tris": 92,
+   "size": [
+    4.32,
+    0.9,
+    5.954
+   ],
+   "min": [
+    -3.0,
+    -0.45,
+    0.0
+   ],
+   "max": [
+    1.32,
+    0.45,
+    5.954
+   ],
+   "parts": [
+    {
+     "name": "moon_crescent",
+     "parent": null,
+     "pivot": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "tris": 92,
+     "min": [
+      -3.0,
+      -0.45,
+      0.0
+     ],
+     "max": [
+      1.32,
+      0.45,
+      5.9544
+     ]
+    }
+   ],
+   "anims": [],
+   "solid": false
+  },
+  {
+   "name": "star",
+   "title": "Star",
+   "group": "sun, moon and stars",
+   "place": "floor",
+   "note": "A five-pointed star 2 m across, twinkling as it turns.",
+   "tris": 36,
+   "size": [
+    1.902,
+    0.4,
+    1.809
+   ],
+   "min": [
+    -0.951,
+    -0.2,
+    0.0
+   ],
+   "max": [
+    0.951,
+    0.2,
+    1.809
+   ],
+   "parts": [
+    {
+     "name": "star",
+     "parent": null,
+     "pivot": [
+      0.0,
+      0.0,
+      0.809
+     ],
+     "tris": 36,
+     "min": [
+      -0.9511,
+      -0.2,
+      0.0
+     ],
+     "max": [
+      0.9511,
+      0.2,
+      1.809
+     ]
+    }
+   ],
+   "anims": [
+    {
+     "name": "twinkle",
+     "seconds": 6.0,
+     "loop": true
+    }
+   ],
+   "solid": false
+  },
+  {
+   "name": "rainbow",
+   "title": "Rainbow",
+   "group": "weather",
+   "place": "floor",
+   "note": "A glowing rainbow, an arc 40 m across and 20 m high.",
+   "tris": 228,
+   "size": [
+    40.0,
+    0.3,
+    20.0
+   ],
+   "min": [
+    -20.0,
+    -0.15,
+    0.0
+   ],
+   "max": [
+    20.0,
+    0.15,
+    20.0
+   ],
+   "parts": [
+    {
+     "name": "rainbow",
+     "parent": null,
+     "pivot": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "tris": 228,
+     "min": [
+      -20.0,
+      -0.15,
+      0.0
+     ],
+     "max": [
+      20.0,
+      0.15,
+      20.0
+     ]
+    }
+   ],
+   "anims": [],
+   "solid": false
+  },
+  {
+   "name": "lightning",
+   "title": "Lightning bolt",
+   "group": "weather",
+   "place": "floor",
+   "note": "A glowing bolt 28 m long, forked once: show it for a few frames.",
+   "tris": 120,
+   "size": [
+    5.878,
+    1.616,
+    28.22
+   ],
+   "min": [
+    -2.994,
+    -0.693,
+    -0.013
+   ],
+   "max": [
+    2.884,
+    0.922,
+    28.208
+   ],
+   "parts": [
+    {
+     "name": "lightning",
+     "parent": null,
+     "pivot": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "tris": 120,
+     "min": [
+      -2.994,
+      -0.6932,
+      -0.0125
+     ],
+     "max": [
+      2.8836,
+      0.9225,
+      28.2079
+     ]
+    }
+   ],
+   "anims": [],
+   "solid": false
+  },
+  {
+   "name": "ground_meadow",
+   "title": "Meadow ground",
+   "group": "lookout",
+   "place": "floor",
+   "note": "An 8 m square of short grass; the squares meet any way round.",
+   "tris": 42,
+   "size": [
+    8.0,
+    8.0,
+    0.2
+   ],
+   "min": [
+    -4.0,
+    -4.0,
+    -0.2
+   ],
+   "max": [
+    4.0,
+    4.0,
+    0.0
+   ],
+   "parts": [
+    {
+     "name": "ground_meadow",
+     "parent": null,
+     "pivot": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "tris": 42,
+     "min": [
+      -4.0,
+      -4.0,
+      -0.2
+     ],
+     "max": [
+      4.0,
+      4.0,
+      0.0
+     ]
+    }
+   ],
+   "anims": []
+  }
+ ]
+}

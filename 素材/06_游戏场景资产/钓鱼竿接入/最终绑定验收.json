@@ -1,0 +1,23 @@
+{
+  "rig_bones": 9,
+  "maximum_influences": 2,
+  "unweighted_vertices": 0,
+  "crank_motion_m": 0.1805290723076344,
+  "fixed_parts_during_cranking_error_m": 3.3527612686157227e-08,
+  "reel_controls": [
+    "Reel_Crank",
+    "Reel_Knob"
+  ],
+  "handle_motion_error_m": 3.3527612686157227e-08,
+  "tip_travel_in_test_m": 0.6101155183215977,
+  "rod_length_m": 2.0,
+  "hook_height_m": 0.07549,
+  "removed": [
+    "鱼线",
+    "浮漂"
+  ],
+  "rod_triangles": 3268,
+  "hook_triangles": 122,
+  "rod_glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\钓鱼竿接入\\鱼竿_已绑骨.glb",
+  "hook_glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\钓鱼竿接入\\鱼钩.glb"
+}

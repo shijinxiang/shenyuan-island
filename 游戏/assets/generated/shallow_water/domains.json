@@ -1,0 +1,22 @@
+{
+  "global": {
+    "size": 384,
+    "origin": [
+      -400.0,
+      -400.0
+    ],
+    "extent": 800.0,
+    "spacing": 2.0833333333333335,
+    "file": "global_terrain.bin"
+  },
+  "local": {
+    "size": 384,
+    "origin": [
+      88.0,
+      72.0
+    ],
+    "extent": 128.0,
+    "spacing": 0.3333333333333333,
+    "file": "local_terrain.bin"
+  }
+}

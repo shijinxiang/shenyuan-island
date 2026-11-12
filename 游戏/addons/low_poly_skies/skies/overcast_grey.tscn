@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Environment" path="res://addons/low_poly_skies/skies/overcast_grey.tres" id="1"]
+
+[node name="SkyOvercastGrey" type="Node3D"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = ExtResource("1")
+
+[node name="Sun" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.86603, -0.32139, 0.38300, 0.00000, 0.76602, 0.64280, -0.49999, -0.55669, 0.66340, 0, 0, 0)
+light_color = Color(0.8784, 0.8863, 0.8941, 1)
+light_energy = 0.688
+shadow_enabled = true

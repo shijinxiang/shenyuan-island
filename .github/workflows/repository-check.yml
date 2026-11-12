@@ -1,0 +1,30 @@
+name: 仓库检查
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  repository:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          lfs: false
+          fetch-depth: 0
+          persist-credentials: false
+      - name: 检查文件归类和 LFS
+        run: python3 工具/版本管理/检查仓库.py
+      - name: 检查 LFS 指针
+        run: git lfs fsck --pointers HEAD
+      - name: 检查差异格式
+        if: github.event_name == 'pull_request'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          git diff --check "$BASE_SHA" HEAD

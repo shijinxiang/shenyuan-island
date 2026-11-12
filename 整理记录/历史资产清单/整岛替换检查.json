@@ -1,0 +1,77 @@
+{
+  "removed_objects": [
+    "P01 proxy | pier deck",
+    "P01 proxy | shore access ramp",
+    "P01 proxy | support 1_-1",
+    "P01 proxy | support 1_1",
+    "P01 proxy | support 8_-1",
+    "P01 proxy | support 8_1",
+    "P01 proxy | support 16_-1",
+    "P01 proxy | support 16_1",
+    "P01 proxy | support 23_-1",
+    "P01 proxy | support 23_1",
+    "P02 proxy | moored boat volume",
+    "T_MountainRange_SurroundingPeaks_12K"
+  ],
+  "terrain_vertices_sha256_before": "8edc3b6ef2d0a5d72b684e32c75113145fab753b3d7c89f524835e0b8011bacc",
+  "placements": [
+    {
+      "id": "T00",
+      "triangles": 1499942,
+      "uniform_scale": 293.68461508355676,
+      "bounds": [
+        [
+          -171.9254150390625,
+          70.92726135253906,
+          -4.0
+        ],
+        [
+          168.89202880859375,
+          189.47483825683594,
+          86.85194396972656
+        ]
+      ],
+      "mesh_unchanged": true,
+      "material_unchanged": true
+    },
+    {
+      "id": "P01",
+      "triangles": 1500000,
+      "uniform_scale": 20.66994549522467,
+      "bounds": [
+        [
+          134.2572479248047,
+          -137.086669921875,
+          -1.946516513824463
+        ],
+        [
+          154.02272033691406,
+          -114.13622283935547,
+          3.3808557987213135
+        ]
+      ],
+      "mesh_unchanged": true,
+      "material_unchanged": true
+    },
+    {
+      "id": "P02",
+      "triangles": 999868,
+      "uniform_scale": 5.290635702727515,
+      "bounds": [
+        [
+          150.72454833984375,
+          -132.8638458251953,
+          0.10000000149011612
+        ],
+        [
+          156.46441650390625,
+          -126.51077270507812,
+          1.6267249584197998
+        ]
+      ],
+      "mesh_unchanged": true,
+      "material_unchanged": true
+    }
+  ],
+  "terrain_and_building_geometry_unchanged": true
+}

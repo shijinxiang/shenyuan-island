@@ -1,0 +1,57 @@
+[
+  {
+    "sha256": "428B06E6845BEF5376E2899563AE3EDEAEB41AE9241EABCC2CD743E8D816C9B3",
+    "source": "D:\\浪费GPT额度\\refs_R.jpg",
+    "destination": "D:\\浪费GPT额度\\小温的游戏\\素材\\03_参考图与资料\\参考拼图\\岩石_参考总览.jpg",
+    "action": "归档参考拼图"
+  },
+  {
+    "sha256": "930FD6D564BF5BD678679359513D4E4200F98FA7D398C2CB387B080A5B2397E7",
+    "source": "D:\\浪费GPT额度\\vegetation_review.png",
+    "destination": "D:\\浪费GPT额度\\小温的游戏\\素材\\03_参考图与资料\\参考拼图\\植物全类_四视参考.png",
+    "action": "归档参考拼图"
+  },
+  {
+    "sha256": "DFD56290774B746F2CB27C87FC2C5797B7FD4A9D237C03E27565DB7E309D4537",
+    "source": "D:\\浪费GPT额度\\references.jpg",
+    "destination": "D:\\浪费GPT额度\\小温的游戏\\素材\\03_参考图与资料\\参考拼图\\棕榈与黄花_四视参考.jpg",
+    "action": "归档参考拼图"
+  },
+  {
+    "sha256": "565C6BBDF78C7229A12EC2F4017557AE451EE8A20493675C27D25A03A456B220",
+    "source": "D:\\浪费GPT额度\\refs_T.jpg",
+    "destination": "D:\\浪费GPT额度\\小温的游戏\\素材\\03_参考图与资料\\参考拼图\\地形_参考总览.jpg",
+    "action": "归档参考拼图"
+  },
+  {
+    "sha256": "B82DA66E404255833297AE549AA3EB20F9A31C5926F2C98BC45F924760299840",
+    "source": "D:\\浪费GPT额度\\refs_F.jpg",
+    "destination": "D:\\浪费GPT额度\\小温的游戏\\素材\\03_参考图与资料\\参考拼图\\远景_参考总览.jpg",
+    "action": "归档参考拼图"
+  },
+  {
+    "source": "D:\\浪费GPT额度\\refsheet.py",
+    "destination": "D:\\浪费GPT额度\\小温的游戏\\素材\\90_制作工程与原有版本\\参考图工具\\生成棕榈花灌丛参考拼图.py",
+    "action": "归档并修正路径"
+  },
+  {
+    "source": "D:\\浪费GPT额度\\植物格式审计.py",
+    "retained": "D:\\浪费GPT额度\\小温的游戏\\素材\\90_制作工程与原有版本\\V03_直干棕榈树\\格式审计.py",
+    "action": "删除相同副本"
+  },
+  {
+    "source": "D:\\浪费GPT额度\\棕榈花灌丛制作.py",
+    "retained": "D:\\浪费GPT额度\\小温的游戏\\素材\\90_制作工程与原有版本\\V03_直干棕榈树\\制作.py",
+    "action": "删除相同副本"
+  },
+  {
+    "source": "D:\\浪费GPT额度\\inspect_buildings.py",
+    "reason": "硬编码的旧建模目录/旧场景已删除，无其他脚本引用",
+    "action": "删除已失效的一次性检查脚本"
+  },
+  {
+    "source": "D:\\浪费GPT额度\\inspect_island.py",
+    "reason": "硬编码的旧建模目录/旧场景已删除，无其他脚本引用",
+    "action": "删除已失效的一次性检查脚本"
+  }
+]

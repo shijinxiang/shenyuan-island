@@ -1,0 +1,234 @@
+[
+  {
+    "old": "素材/99_资产清单与整理记录/V03_替换核验/V03_直干棕榈树.glb",
+    "new": "整理记录/历史资产清单/V03_替换核验/V03_直干棕榈树.glb"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/V03_替换核验/导入检查.json",
+    "new": "整理记录/历史资产清单/V03_替换核验/导入检查.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/V03_替换核验/导入检查.py",
+    "new": "整理记录/历史资产清单/V03_替换核验/导入检查.py"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/V03_替换核验/新模型信息.json",
+    "new": "整理记录/历史资产清单/V03_替换核验/新模型信息.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/V03_替换核验/替换完成记录.json",
+    "new": "整理记录/历史资产清单/V03_替换核验/替换完成记录.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/V03_替换核验/检查日志.txt",
+    "new": "整理记录/历史资产清单/V03_替换核验/检查日志.txt"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/保留模型检查日志.txt",
+    "new": "整理记录/历史资产清单/保留模型检查日志.txt"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/保留模型贴图检查.json",
+    "new": "整理记录/历史资产清单/保留模型贴图检查.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/原制作记录/岩石岸壁远景_交付清单.json",
+    "new": "整理记录/历史资产清单/原制作记录/岩石岸壁远景_交付清单.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/原制作记录/环境资源实施计划.json",
+    "new": "整理记录/历史资产清单/原制作记录/环境资源实施计划.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/原制作记录/资产进度.json",
+    "new": "整理记录/历史资产清单/原制作记录/资产进度.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/场景更新日志.txt",
+    "new": "整理记录/历史资产清单/场景更新日志.txt"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/实际删除与移动记录.json",
+    "new": "整理记录/历史资产清单/实际删除与移动记录.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/整岛替换检查.json",
+    "new": "整理记录/历史资产清单/整岛替换检查.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/整理前场景检查.json",
+    "new": "整理记录/历史资产清单/整理前场景检查.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/整理后核验.json",
+    "new": "整理记录/历史资产清单/整理后核验.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/整理脚本/audit_retained_assets.py",
+    "new": "整理记录/历史资产清单/整理脚本/audit_retained_assets.py"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/整理脚本/inspect_replacement.py",
+    "new": "整理记录/历史资产清单/整理脚本/inspect_replacement.py"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/整理脚本/organize_assets_commit.ps1",
+    "new": "整理记录/历史资产清单/整理脚本/organize_assets_commit.ps1"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/整理脚本/organize_assets_prepare.py",
+    "new": "整理记录/历史资产清单/整理脚本/organize_assets_prepare.py"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/整理脚本/organize_scene_replace.py",
+    "new": "整理记录/历史资产清单/整理脚本/organize_scene_replace.py"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/整理脚本/verify_organized_scene.py",
+    "new": "整理记录/历史资产清单/整理脚本/verify_organized_scene.py"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/整理计划.json",
+    "new": "整理记录/历史资产清单/整理计划.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/归档核验.json",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/归档核验.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/归档盘点.py",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/归档盘点.py"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Piranha/piranhahigh.bin",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Piranha/piranhahigh.bin"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Piranha/piranhahigh.blend",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Piranha/piranhahigh.blend"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Piranha/piranhahigh.gltf",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Piranha/piranhahigh.gltf"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Piranha/piranhahigh.mtl",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Piranha/piranhahigh.mtl"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Piranha/piranhahigh.png",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Piranha/piranhahigh.png"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Shark/shork.bin",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Shark/shork.bin"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Shark/shork.blend",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Shark/shork.blend"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Shark/shork.gltf",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Shark/shork.gltf"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Shark/shork.mtl",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Shark/shork.mtl"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Shark/shork.png",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FishBundleLowPoly.rar/Shark/shork.png"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/BrownFish.fbx",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/BrownFish.fbx"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/ClownFish.fbx",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/ClownFish.fbx"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/DoryFish.fbx",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/DoryFish.fbx"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/Rock.fbx",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/Rock.fbx"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/SeaWeed.fbx",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/SeaWeed.fbx"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/TunaFish.fbx",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/FolderToUpload.zip/FolderToUpload/fbx/TunaFish.fbx"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/shaderSTYLIZEDGRASS.zip/grass.gdshader",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/shaderSTYLIZEDGRASS.zip/grass.gdshader"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/shaderSTYLIZEDGRASS.zip/license.txt",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/shaderSTYLIZEDGRASS.zip/license.txt"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/stylizedGrassMeshes.zip/grass.glb",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/stylizedGrassMeshes.zip/grass.glb"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/stylizedGrassMeshes.zip/grass.res",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/stylizedGrassMeshes.zip/grass.res"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/stylizedGrassMeshes.zip/grass2.glb",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/stylizedGrassMeshes.zip/grass2.glb"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/stylizedGrassMeshes.zip/grass2.res",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/stylizedGrassMeshes.zip/grass2.res"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/检查用解包/stylizedGrassMeshes.zip/license.txt",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/检查用解包/stylizedGrassMeshes.zip/license.txt"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/模型检查.json",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/模型检查.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/模型检查.py",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/模型检查.py"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/清单.csv",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/清单.csv"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/简明使用建议.txt",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/简明使用建议.txt"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/新增资源盘点_2026-11-05/解包检查.py",
+    "new": "整理记录/历史资产清单/新增资源盘点_2026-11-05/解包检查.py"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/最终场景打开检查.json",
+    "new": "整理记录/历史资产清单/最终场景打开检查.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/根目录散落文件整理.json",
+    "new": "整理记录/历史资产清单/根目录散落文件整理.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/移除北端大山.json",
+    "new": "整理记录/历史资产清单/移除北端大山.json"
+  },
+  {
+    "old": "素材/99_资产清单与整理记录/资产清单.json",
+    "new": "整理记录/历史资产清单/资产清单.json"
+  },
+  {
+    "old": "素材/模型清单.csv",
+    "new": "整理记录/历史资产清单/原模型清单_整理前.csv"
+  }
+]

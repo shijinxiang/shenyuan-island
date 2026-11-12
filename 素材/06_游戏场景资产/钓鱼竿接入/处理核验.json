@@ -1,0 +1,34 @@
+{
+  "source_triangles": 2752,
+  "rod_triangles": 3268,
+  "hook_triangles": 122,
+  "bones": 9,
+  "rod_length_m": 2.0,
+  "removed_components": [
+    4,
+    13,
+    16
+  ],
+  "removed_integrated_line_faces": 49,
+  "hook_height_m": 0.07548569142818451,
+  "shaft_polynomial": [
+    -0.07742016124432514,
+    0.33221618291851396,
+    0.21929532289470363
+  ],
+  "rig_markers": [
+    "GripPoint",
+    "LineTip",
+    "HookAttach"
+  ],
+  "crank_pivot": [
+    0.0004710944485850632,
+    -0.08574074506759644,
+    0.1622600555419922
+  ],
+  "knob_pivot": [
+    0.13422298431396484,
+    -0.05279970541596413,
+    0.20554396510124207
+  ]
+}

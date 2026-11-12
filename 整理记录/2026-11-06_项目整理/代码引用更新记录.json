@@ -1,0 +1,22 @@
+[
+  "游戏/scripts/adventure/island_adventure.gd",
+  "游戏/scripts/boating/rowboat_controller.gd",
+  "游戏/scripts/core/coastal_presentation.gd",
+  "游戏/scripts/core/world_life_setup.gd",
+  "游戏/scripts/fishing/caught_fish.gd",
+  "游戏/scripts/fishing/fishing_controller.gd",
+  "游戏/scripts/player/explorer.gd",
+  "游戏/scripts/player/fisherwoman_setup.gd",
+  "游戏/scripts/player/follow_camera_safety.gd",
+  "游戏/scripts/ui/island_game_ui.gd",
+  "游戏/scripts/ui/live_item_preview.gd",
+  "游戏/scripts/water/shore_waves_setup.gd",
+  "游戏/scripts/weather/island_weather.gd",
+  "游戏/scripts/wildlife/fish_schools.gd",
+  "游戏/scripts/wildlife/island_wildlife.gd",
+  "游戏/scripts/world/building_revision.gd",
+  "游戏/scripts/world/coastal_palm_setup.gd",
+  "游戏/scripts/world/forest_biome_setup.gd",
+  "游戏/scripts/world/ground_sampler.gd",
+  "游戏/scripts/world/nearshore_enrichment.gd"
+]

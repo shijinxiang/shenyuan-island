@@ -1,0 +1,569 @@
+[
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\沙滩车\\C01_车辆动作_重定向.blend1",
+    "bytes": 7948022,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\沙滩车\\沙滩车_人物驾驶核验.blend1",
+    "bytes": 3107686,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\沙滩车\\沙滩车_模型库.blend1",
+    "bytes": 221539,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\海岸生存\\海岸生存_模型与动画.blend1",
+    "bytes": 379480,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\海岸生存\\海岸生存_预览场景.blend1",
+    "bytes": 377013,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\农耕与伐木\\动作\\C01_watering_held_review.blend1",
+    "bytes": 7268150,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\农耕与伐木\\动作\\C01_watering_preview.blend1",
+    "bytes": 7307543,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\海岸生存\\鲨鱼游泳修复\\Shark_原骨骼动作核验.blend1",
+    "bytes": 238896,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\狩猎与烹饪\\武器\\bow.blend1",
+    "bytes": 103370,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\狩猎与烹饪\\武器\\C01_弓姿窄帽檐变体.blend1",
+    "bytes": 3164728,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\狩猎与烹饪\\武器\\C01_狩猎动作_重定向.blend1",
+    "bytes": 4575262,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\狩猎与烹饪\\武器\\hunting_rifle.blend1",
+    "bytes": 98402,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\狩猎与烹饪\\武器\\rifle_ammo.blend1",
+    "bytes": 97428,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\狩猎与烹饪\\武器\\wooden_arrow.blend1",
+    "bytes": 96605,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\狩猎与烹饪\\烹饪采集\\cooking_forage.blend1",
+    "bytes": 215349,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\show_diagnostic_word.ps1",
+    "bytes": 375,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\word_pdf_diagnostic.ps1",
+    "bytes": 437,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\word_status.ps1",
+    "bytes": 455,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\release_smoke.gd",
+    "bytes": 2461,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\export_qa_release.ps1",
+    "bytes": 3238,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\render_when_ready.ps1",
+    "bytes": 665,
+    "files": 1,
+    "reason": "已归档并核对SHA256的制作备份或完成的一次性脚本"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\Word导出进程.txt",
+    "bytes": 7,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\Word导出错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\Word新版诊断进程.txt",
+    "bytes": 7,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\Word新版诊断错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\Word状态进程.txt",
+    "bytes": 7,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\Word状态错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\Word诊断进程.txt",
+    "bytes": 7,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\Word诊断错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\实机总览_1.jpg",
+    "bytes": 194426,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\实机总览_2.jpg",
+    "bytes": 171416,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\实机总览_3.jpg",
+    "bytes": 195302,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\实机总览_4.jpg",
+    "bytes": 143541,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\实机截图进程.txt",
+    "bytes": 7,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\实机截图错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\导出进程.txt",
+    "bytes": 7,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\导出错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\工程包打包进程.txt",
+    "bytes": 7,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\工程包打包错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\显示诊断错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\独立EXE进程.txt",
+    "bytes": 7,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\独立EXE错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\运行包打包进程.txt",
+    "bytes": 7,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\运行包打包错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\隔离EXE验证输出.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\隔离EXE验证进程.txt",
+    "bytes": 6,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\隔离EXE验证错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\面板补拍进程.txt",
+    "bytes": 7,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\面板补拍错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\页面渲染进程.txt",
+    "bytes": 7,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\页面渲染错误.log",
+    "bytes": 0,
+    "files": 1,
+    "reason": "失效进程号、空日志或可由原始图片重建的总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_三人分工开发文档\\总览-1.jpg",
+    "bytes": 283677,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_三人分工开发文档\\总览-2.jpg",
+    "bytes": 267292,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_三人分工开发文档\\总览-3.jpg",
+    "bytes": 275174,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_三人分工开发文档\\总览-4.jpg",
+    "bytes": 325903,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_三人分工开发文档\\总览-5.jpg",
+    "bytes": 305336,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_三人分工开发文档\\总览-6.jpg",
+    "bytes": 70307,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_完整开发过程\\总览-1.jpg",
+    "bytes": 289430,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_完整开发过程\\总览-2.jpg",
+    "bytes": 291483,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_完整开发过程\\总览-3.jpg",
+    "bytes": 327672,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_完整开发过程\\总览-4.jpg",
+    "bytes": 312618,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_完整开发过程\\总览-5.jpg",
+    "bytes": 305256,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_完整开发过程\\总览-6.jpg",
+    "bytes": 325196,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_file",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_完整开发过程\\总览-7.jpg",
+    "bytes": 242178,
+    "files": 1,
+    "reason": "可由历史文档PDF重新生成的页面总览"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\交付核验_2026-11-11",
+    "bytes": 4159883852,
+    "files": 2621,
+    "reason": "独立启动与迁移检查已经完成，结果已保存"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\_build",
+    "bytes": 3859704302,
+    "files": 4979,
+    "reason": "已完成导出的临时工程副本和导入缓存"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\深渊岛_交付_2026-11-07\\Windows独立游戏",
+    "bytes": 946031609,
+    "files": 10,
+    "reason": "与同版本ZIP逐文件核验一致的旧版解压运行副本"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\游戏\\.godot\\shader_cache",
+    "bytes": 47394188,
+    "files": 204,
+    "reason": "可自动重新编译的GPU着色器缓存"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\排版核验",
+    "bytes": 155334004,
+    "files": 407,
+    "reason": "由Word文档重新生成的PDF与逐页图片缓存"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\成稿",
+    "bytes": 119745506,
+    "files": 3,
+    "reason": "已与需求目录正式Word文档逐文件校验一致的成稿副本"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\原稿",
+    "bytes": 78862108,
+    "files": 2,
+    "reason": "与11月7日历史工程包逐文件校验一致的原稿重复副本"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\2026-11-07_打包发布\\__pycache__",
+    "bytes": 12145,
+    "files": 1,
+    "reason": "Python可重建字节码缓存"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\__pycache__",
+    "bytes": 32404,
+    "files": 1,
+    "reason": "Python可重建字节码缓存"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\农耕与伐木\\__pycache__",
+    "bytes": 62578,
+    "files": 1,
+    "reason": "Python可重建字节码缓存"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\海岸生存\\animation_frames",
+    "bytes": 22937439,
+    "files": 89,
+    "reason": "动画GIF及BLEND源工程已保留，清理可重渲染的逐帧PNG"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\农耕与伐木\\verify_godot",
+    "bytes": 5547197,
+    "files": 153,
+    "reason": "已逐文件核对SHA256的制作备份或验证工程已归档"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_三人分工开发文档\\页面",
+    "bytes": 13959479,
+    "files": 42,
+    "reason": "历史文档PDF可再次光栅化生成的页面缓存"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档编制_2026-11-07\\深渊岛_完整开发过程\\页面",
+    "bytes": 18747700,
+    "files": 55,
+    "reason": "历史文档PDF可再次光栅化生成的页面缓存"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\海岸生存\\鲨鱼游泳修复\\frames",
+    "bytes": 17752572,
+    "files": 72,
+    "reason": "鲨鱼GIF及绑定源工程已保留，清理逐帧PNG缓存"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\狩猎与烹饪\\剥皮小刀\\备份_低位前",
+    "bytes": 7605,
+    "files": 2,
+    "reason": "已逐文件核对SHA256的制作备份或验证工程已归档"
+  },
+  {
+    "action": "recycle_directory",
+    "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\狩猎与烹饪\\剥皮小刀\\备份_初版",
+    "bytes": 10376,
+    "files": 3,
+    "reason": "已逐文件核对SHA256的制作备份或验证工程已归档"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "removed_scene_nodes": [
+    "T00_用户原模",
+    "T00_node_0"
+  ],
+  "removed_from_blender_and_godot_world": true,
+  "standalone_user_asset_preserved": true,
+  "world_sha256": "9918b9181062eb78de81de20b883f7ce4d2ea865c7ecc8ba3296b659f6f2295e"
+}

@@ -1,0 +1,35 @@
+name: 问题反馈
+description: 记录游戏中可以复现的问题
+title: "[问题] "
+labels: [bug, 待处理]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 游戏版本与运行环境
+      placeholder: 例如 0.2.0，Windows 11，显卡型号
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 从进入游戏开始，写明位置、装备、前置状态和操作顺序。
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 实际结果与预期结果
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 实机截图、录屏或日志
+      description: 可直接拖入附件。存档问题请同时说明新存档或旧存档。
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: 修复后的验收结果
+      description: 处理时补充验证步骤、结果和对应提交。

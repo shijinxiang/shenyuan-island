@@ -1,0 +1,46 @@
+[
+  {
+    "file": "鱼竿_已绑骨.glb",
+    "bones": 9,
+    "triangles": 3268,
+    "textures": [
+      [
+        2048,
+        2048
+      ]
+    ]
+  },
+  {
+    "file": "鱼竿_已绑骨.fbx",
+    "bones": 9,
+    "triangles": 3268,
+    "textures": [
+      [
+        2048,
+        2048
+      ]
+    ]
+  },
+  {
+    "file": "鱼钩.glb",
+    "bones": 0,
+    "triangles": 122,
+    "textures": [
+      [
+        2048,
+        2048
+      ]
+    ]
+  },
+  {
+    "file": "鱼钩.fbx",
+    "bones": 0,
+    "triangles": 122,
+    "textures": [
+      [
+        2048,
+        2048
+      ]
+    ]
+  }
+]

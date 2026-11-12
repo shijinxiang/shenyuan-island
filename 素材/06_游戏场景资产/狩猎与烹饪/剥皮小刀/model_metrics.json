@@ -1,0 +1,12 @@
+{
+  "triangles": 276,
+  "length_m": 0.28,
+  "grip_length_m": 0.12,
+  "blade_length_m": 0.16,
+  "godot_axis": "+Y longitudinal, +Z edge",
+  "markers": [
+    "Grip",
+    "BladeTip",
+    "Muzzle"
+  ]
+}

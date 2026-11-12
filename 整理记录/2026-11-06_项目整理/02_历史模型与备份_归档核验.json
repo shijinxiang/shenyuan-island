@@ -1,0 +1,3750 @@
+{
+  "archive": "归档/02_历史模型与备份.zip",
+  "sha256": "b90f24ae00d7893a4e71e9a0fa4c9c746f5dbb0af0de99467ca36da9ee2927ad",
+  "verified": true,
+  "original_bytes": 4466681348,
+  "archive_bytes": 4057648755,
+  "files": [
+    {
+      "path": "工具/人物动作接入/FastRun/修改前/C01_locomotion.glb",
+      "size": 4442856,
+      "sha256": "286d63e4041ca718f59a5f4cb5553d1ecce6a2c1580385fe6acaa7cc8a1de8f8"
+    },
+    {
+      "path": "工具/人物动作接入/FastRun/修改前/C01_motion.json",
+      "size": 3572,
+      "sha256": "9e1d2652e5f225d26a45fa15c6be71da268092beb7d2698a42a221baba6c2951"
+    },
+    {
+      "path": "工具/人物动作接入/FastRun/修改前/C01_女渔夫_完整动作.blend",
+      "size": 5963358,
+      "sha256": "2f9b96468aa02ca189251c3ee1867da5520e5b1265594ce9a897b6ae7b353712"
+    },
+    {
+      "path": "工具/人物动作接入/修改前/coastal_beauty.scn",
+      "size": 29747465,
+      "sha256": "8a2ef07cb00654492d6bd3b9f5346dc3d849a637b202fa7e74035cd4f99fddb5"
+    },
+    {
+      "path": "工具/人物动作接入/修改前/coastal_presentation.gd",
+      "size": 3119,
+      "sha256": "3daa410776db4be0e390a5779373baa0d04a6d9cd67845617d3f5d607f62cf0c"
+    },
+    {
+      "path": "工具/人物动作接入/修改前/coastal_showcase.gd",
+      "size": 8871,
+      "sha256": "4bc2cb5b0345aa856cbdc34e06474d3a1b8d5c596ad3e82a99bfd553f0324740"
+    },
+    {
+      "path": "工具/人物动作接入/修改前/explorer.gd",
+      "size": 2083,
+      "sha256": "4228de400c08396cf0cf623ef3c60fec815836c6e474598169d8a1aa0517bb6c"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Coral.fbx",
+      "size": 25020,
+      "sha256": "85fe0973243afe6950ce192e0307ec0fcac87dc2dc64b1226f7b5c51b4a2a784"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Coral1.fbx",
+      "size": 55228,
+      "sha256": "bc1b318adf2f239c1d0ce9d6e7735e3da2941401d96e6b77f62fddb66fa751fb"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Coral2.fbx",
+      "size": 39596,
+      "sha256": "4d718abc4ee6c178027613673630566c111791b7e5027e639becdf4a13993d76"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Coral3.fbx",
+      "size": 60508,
+      "sha256": "ed8b184530a81d250a798fc7e4cf246328a9e6147fc397a77284ce0b14f54241"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Coral4.fbx",
+      "size": 37676,
+      "sha256": "1d104773be2840d50f163bff70c1027d1fd8d2c4d3450bd6c0e3d2171a43363d"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Coral5.fbx",
+      "size": 39708,
+      "sha256": "e0aed57bc2ace424261ad9f50643b6562dddd1eab54d75d9504835af0f09ae37"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Coral6.fbx",
+      "size": 32060,
+      "sha256": "c342f95944e3306261f24fc1fd7e64182664e27a4d84c7e7100abcefd5e0cfc8"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Rock.fbx",
+      "size": 16236,
+      "sha256": "f48e3019d11a8c003aeb730574c5fe939eddfa8ebea4c6b2464bb43cc98d4f3c"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Rock1.fbx",
+      "size": 18620,
+      "sha256": "2f0ec157c09e63b1f6120b163788257ac4028f8949eec7d54078c8cf923af0ed"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Rock10.fbx",
+      "size": 15580,
+      "sha256": "76cceb60bafb04401a404c0be8e5c2775b8d2134679edf0dbdcdd681e5aa7700"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Rock2.fbx",
+      "size": 18364,
+      "sha256": "b68006eb02c5b41213b3b5e4e749a10ec295558d99ea106fae6bb041042b6521"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Rock3.fbx",
+      "size": 21692,
+      "sha256": "e2466648501786ba5bd77744659754f6a8a4a31b5039522d6ec40caec99b7002"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Rock4.fbx",
+      "size": 15628,
+      "sha256": "3f538ad3a1c15b9a51ba54b0fa722ea49d33330021cfbbc9eb9d34f80b000da1"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Rock5.fbx",
+      "size": 15612,
+      "sha256": "85abc16a87d6096a9d9c18f4e37b159a9b4585c988f9e1fbf5f545874a82c84e"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Rock6.fbx",
+      "size": 16700,
+      "sha256": "2d9dedf4f3c752fe3260523bf31b762e0d007d01a71e3cb8dd44ff94ec7172d8"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Rock7.fbx",
+      "size": 16332,
+      "sha256": "da7e7b6e8af7969d2ad5c1efe3547ad1450c3cc146bab0300d4bab631dfd0634"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Rock8.fbx",
+      "size": 15788,
+      "sha256": "dfb51774229556b3accaf247cac6b71301318b8ca1a9882f95a0c99bddbcf0a4"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Rock9.fbx",
+      "size": 15244,
+      "sha256": "127bea943f4bdda1af5269fb0ecf498180d13526c19997f391a9f50cf9035a9e"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/SeaWeed.fbx",
+      "size": 1980684,
+      "sha256": "7290738750a8e92977cd0df756b8bcbcec380ad9c0ebaf398a9fe14ba7a06124"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/SeaWeed1.fbx",
+      "size": 271036,
+      "sha256": "922534e5df8412faab75af2a6eeeda7a45cf3866691c07f5e5459925d158bcfa"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/SeaWeed2.fbx",
+      "size": 1237244,
+      "sha256": "feecb45ce0ccd4348145d2458ab5722a8e2b5c84f43ad0abf44c7d9132a457d9"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Shells.fbx",
+      "size": 52236,
+      "sha256": "71e827798bb36f0c2442f2dcd1d635f4ea17359a14b6fca2264ea8ac64dce7d3"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Shells1.fbx",
+      "size": 17164,
+      "sha256": "56ec614d07a1b6e4f2deb2e43b706d817a869592e3e9b512473e514255228dd6"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Shells2.fbx",
+      "size": 17132,
+      "sha256": "5348d5a0965ba3b8e453ec84442107fcffed08b50c40744a5e0585312125a684"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/Shells3.fbx",
+      "size": 27564,
+      "sha256": "b1c4feb1e9bae146d5ae359b7f918900a8c76ec4f6d3933fb0ec63b224c41c56"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/marine/StarFish.fbx",
+      "size": 79436,
+      "sha256": "ca666156fbbbbd07b331ef99055edf516c47ce2ce1bd79735da632b4c3c34b4e"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/01_queen_conch.glb",
+      "size": 1914880,
+      "sha256": "f9b6fd8829ee320e5fc8c7e37f4dbfb607de74b3cafed4aa14159a0f37ca8a9c"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/02_chambered_nautilus.glb",
+      "size": 1925500,
+      "sha256": "d499b2ff3bcb151c77caf30f7bce4c19d42ae36173c27a73868851922013b014"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/03_scallop.glb",
+      "size": 1834888,
+      "sha256": "77fdaf17d72783cbd9eef3a81809f1ed83045c0885c77fd910a1c392c5e65202"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/04_tiger_cowrie.glb",
+      "size": 1591368,
+      "sha256": "60196273b33f033b4a1661b28e0e8ff8fc1565c652cf716596687896a30b7cf9"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/05_murex.glb",
+      "size": 1933996,
+      "sha256": "bdae54883f021e7e7a3f93a5b890d3632a6aa9bc0be03e9ed591cdecbb15a7ea"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/06_green_turban.glb",
+      "size": 1954128,
+      "sha256": "bca40b8087c6a203460fe87748b06089d4247a9df4aeafb88f583ba0a74456a8"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/07_textile_cone.glb",
+      "size": 1807584,
+      "sha256": "3011944dfb478c90b363b7854c158b9f1aad243f409744e996ee4cb0dddd2c6b"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/08_auger.glb",
+      "size": 1803080,
+      "sha256": "56b480ad1fadcecaff3b3e1cebd7d6bb89b6c2b3e011ed64d601e8c60701ec67"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/09_lightning_whelk.glb",
+      "size": 1682900,
+      "sha256": "060e0f970406f27b5d1c5aed7cee79b6a8ba0c29da0dad53dd9b58918cc7c29a"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/10_heart_cockle.glb",
+      "size": 2006240,
+      "sha256": "25ca71b1e0120a7e610de66b11a9fb2a99c21b0709539ca5d3da00da0461539d"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/11_oyster.glb",
+      "size": 1998012,
+      "sha256": "6e432984312072c500efde615d8626c59863e2de9f1823a138fc9b8bce134326"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/12_abalone.glb",
+      "size": 1998100,
+      "sha256": "2933a0bcd2315b992919c66cfbe15373230f30c005d228171f737b959e2123e2"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/13_sand_dollar.glb",
+      "size": 1164368,
+      "sha256": "e198180e6b90cc95d7b72a14d37a502c7a0a4f541077b9883124f54f7f675e88"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/14_sea_urchin_test.glb",
+      "size": 2150828,
+      "sha256": "8e100b801c9f2bb0a73380bb3fd2a6740ffd891cdaf463335ae3fe22e3c26a1c"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/15_moon_snail.glb",
+      "size": 2111800,
+      "sha256": "3fb12c7d874617ebbdd4bd9d919b32fff1665da17790ba5bdc4cf64045821ea2"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/16_triton_trumpet.glb",
+      "size": 2732412,
+      "sha256": "f10650806c72d817ef1c06edc17f9c92f77fa8c863f82cdd963eced166997e71"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/17_spider_conch.glb",
+      "size": 2124512,
+      "sha256": "d7031ce69274218e16de16a18825aa80ca2857a87c176d3c9a0728956e677172"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/18_spiny_oyster.glb",
+      "size": 1801704,
+      "sha256": "ad99816addeeb61cc1713b5ee379032ce339787f628336437aec9281c952e815"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/19_tulip_shell.glb",
+      "size": 2128040,
+      "sha256": "13998551913ac19a2cb44a78a1544e4e4d7a93fd1eae765265986fe019f99755"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/20_olive_shell.glb",
+      "size": 2111156,
+      "sha256": "6e17278f205c6de937500da32fbb215112095d99424f9f4ab650fa314501b1da"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/21_sundial_shell.glb",
+      "size": 1927036,
+      "sha256": "880369fa82080a39ccad423787d92a2dda842d682212e1baf2e5f936235fae2e"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/22_limpet.glb",
+      "size": 1806964,
+      "sha256": "3c00c26e91db1f252b6b93ebbaef5692cc7f2e46dc467542b1ac0464cda62b8d"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/23_blue_mussel.glb",
+      "size": 1708768,
+      "sha256": "90eec1605b01b42e36558d22c746f3d476cc4e3f1ac3d62a7be0423740af369f"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/24_giant_clam.glb",
+      "size": 2364872,
+      "sha256": "a25388cc6d98a82b4436a0bb7354369858a5a17f8fe98f08dcf3cb3242617d83"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/25_wentletrap.glb",
+      "size": 2343612,
+      "sha256": "ab3f3886dafe2341b93b5afaad89b8737c5250552f1423fd1189aaaf91b14716"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/LICENSE.txt",
+      "size": 386,
+      "sha256": "f9e2cbc7130a5d353c3c9566a1df3ec33babf0a348ecba72fc335a4317f8cd00"
+    },
+    {
+      "path": "工具/全岛布置与优化/source/shells/README.txt",
+      "size": 1998,
+      "sha256": "f099f3d8743d16cbcf97eeee2ae304381fb91cf6ed3a7d8e2a0e5ca125461cff"
+    },
+    {
+      "path": "工具/全岛布置与优化/修改前/coastal_beauty.scn",
+      "size": 282143742,
+      "sha256": "8430f20aa1baddf16b6a6bce21a1afeeb19c25bb131a9370bbc0538b558cb4f9"
+    },
+    {
+      "path": "工具/全岛布置与优化/修改前/plan_island_v1.py",
+      "size": 10133,
+      "sha256": "17fdf188be235667bf7d20a2c761cd1844e7327ed445767cfde1d369c1e1c9a4"
+    },
+    {
+      "path": "工具/全岛布置与优化/珊瑚制作/backup_blend/NC01.blend1",
+      "size": 123039,
+      "sha256": "b9270a4e21ea82a57a42d41e6444e978cfbf010a734341cab64636020a18dcb5"
+    },
+    {
+      "path": "工具/全岛布置与优化/珊瑚制作/backup_blend/NC02.blend1",
+      "size": 123819,
+      "sha256": "881f9217576ff5433677f352eb20db0beda1b1d94a31bb917ca851f8163f7094"
+    },
+    {
+      "path": "工具/全岛布置与优化/珊瑚制作/backup_blend/NC03.blend1",
+      "size": 125030,
+      "sha256": "b4b7ae0b55aea1486f78642f431033b2021f4cfc3d411cd9c49c9f6a9030066b"
+    },
+    {
+      "path": "工具/全岛布置与优化/珊瑚制作/backup_blend/NW01.blend1",
+      "size": 110594,
+      "sha256": "9c68812b7eed37962a22f138ab9e5d036d2cc0402b5ed86313607c2bd1529935"
+    },
+    {
+      "path": "工具/划船与镜头/修改前/coastal_presentation.gd",
+      "size": 2842,
+      "sha256": "8c0f3999cf47d2455dc9daf8c397f3232bbe0a308da09f8b334916a68db2c52e"
+    },
+    {
+      "path": "工具/划船与镜头/修改前/explorer.gd",
+      "size": 7753,
+      "sha256": "d6ec0e73c43ab6ad19835ba82f81398b0a79127234b77cbd6bd337e0c1140d88"
+    },
+    {
+      "path": "工具/划船与镜头/修改前/fisherwoman_setup.gd",
+      "size": 2596,
+      "sha256": "fc60b60da55ec37e24c7662df590e68ad4ef94aac8851fffd4a69c77a3f51119"
+    },
+    {
+      "path": "工具/划船与镜头/修改前/island_wildlife.gd",
+      "size": 8797,
+      "sha256": "f92e017319ba171ac99461c5dca6cd70c9560caa3fd40c652a0b17e37e15104c"
+    },
+    {
+      "path": "工具/划船与镜头/修改前/player_movement_vfx.gd",
+      "size": 3961,
+      "sha256": "06cf3316691e064d21a66746f94389ad2e7fc65cd8cb2442597416ffb6445452"
+    },
+    {
+      "path": "工具/划船与镜头/修改前/shallow_water_simulation.gd",
+      "size": 13021,
+      "sha256": "91f19ee4a9bd79e9a8949644748a998cb9af1c39f09d10665cfe74661e58caab"
+    },
+    {
+      "path": "工具/动态海浪/修改前/coastal_beauty.scn",
+      "size": 278293924,
+      "sha256": "9ded9c7c4bd16a0b0ea2d146fc3ca2cd44793119137f3ba1393924b7968e025d"
+    },
+    {
+      "path": "工具/动态海浪/修改前/coastal_presentation.gd",
+      "size": 1958,
+      "sha256": "f22cba6ea5c37d17c96291ab16d7bbe0825b429b20d4a4b6c856f8a120947db1"
+    },
+    {
+      "path": "工具/动态海浪/修改前/coastal_showcase.gd",
+      "size": 7273,
+      "sha256": "c7322c04257721b7e613fff85b821d9cf08cfbc59e0232ce91f6b5def0e32042"
+    },
+    {
+      "path": "工具/动态海浪/修改前/shore_water.gdshader",
+      "size": 3102,
+      "sha256": "3ba96fdd0077c42bdae4d0dd857e0471d5300e30ccb58f643ba1ec6efe31c97f"
+    },
+    {
+      "path": "工具/天气与生物/修改前/coastal_beauty.scn",
+      "size": 31065470,
+      "sha256": "ece4c4da1dd7f73763888f0d74af9b55824f8871bd2e14fbf73226ddb1e8a8b8"
+    },
+    {
+      "path": "工具/天气与生物/修改前/coastal_presentation.gd",
+      "size": 3020,
+      "sha256": "c0466e5c9f4f7345877d97d6d29e2707fa9930b70adf5168b85a78c04c397118"
+    },
+    {
+      "path": "工具/天气与生物/修改前/coastal_showcase.gd",
+      "size": 8819,
+      "sha256": "190bc85595d56cfd5bacdba951ed21ffe0a5d8ef8464c1658d8661dd09cb2cc3"
+    },
+    {
+      "path": "工具/天气与生物/修改前/island_grass.gdshader",
+      "size": 2369,
+      "sha256": "93b9ef55546083558468c068c27241a409028044a04c0328d526ad38febc45aa"
+    },
+    {
+      "path": "工具/天气与生物/修改前/island_trail.gdshader",
+      "size": 1626,
+      "sha256": "1c04093885e9f6a1858d163d39f6bed248089fb2c6bf835dc94601ebfcbfca31"
+    },
+    {
+      "path": "工具/天气与生物/修改前/physical_water.gdshader",
+      "size": 6546,
+      "sha256": "03eda83e5deab8f211a8ba0cf6f943536c84a6f79f5101b90d150fe10257844c"
+    },
+    {
+      "path": "工具/天气与生物/修改前/shore_sand.gdshader",
+      "size": 3485,
+      "sha256": "812ba3c24860fd5e4f397877941c76153f267b27ad28197d9770f6db4b80b086"
+    },
+    {
+      "path": "工具/实时浅水模拟/修改前/coastal_beauty.scn",
+      "size": 278280042,
+      "sha256": "894c660ad12450bd33376615376fb01a84b508f86c6db2fb2c028760838e1104"
+    },
+    {
+      "path": "工具/实时浅水模拟/修改前/project.godot",
+      "size": 699,
+      "sha256": "8cb9afeab1007e4a7c5453847b9b937672780bc7881b11f8a44fdc9fbd8fc849"
+    },
+    {
+      "path": "工具/实时浅水模拟/修改前/shore_sand.gdshader",
+      "size": 3530,
+      "sha256": "24b219690bdc02662cdc5d46e60abe7ae3574d6b84f9f27ad2e4249960306ee1"
+    },
+    {
+      "path": "工具/实时浅水模拟/修改前/shore_waves_setup.gd",
+      "size": 1952,
+      "sha256": "ed36090f053bbd68267b09e2a1eb78c9eac1b4263c41fb5ba3d376373d7f5ed0"
+    },
+    {
+      "path": "工具/小屋与卷轴UI修复/修改前/building_doors.gd",
+      "size": 1935,
+      "sha256": "2b26f6467917344de4bc049a3506a0275096a0d6c743fa840f5961e9bceea84d"
+    },
+    {
+      "path": "工具/小屋与卷轴UI修复/修改前/building_revision.gd",
+      "size": 3645,
+      "sha256": "06978b8e36f406b9bef312a01a9761ea3bfdd00c31551d14656d56523dd60653"
+    },
+    {
+      "path": "工具/小屋与卷轴UI修复/修改前/island_adventure.gd",
+      "size": 24718,
+      "sha256": "a57fdcc00295c82677ecfffa6502d5295e488eb8d24fce55b23bd1433c9c2653"
+    },
+    {
+      "path": "工具/小屋与卷轴UI修复/修改前/island_game_ui.gd",
+      "size": 17000,
+      "sha256": "6e3662995dcbafd0b73c5a0b1b6dd3fe82d9d56870417dc3e70880cca32b2fe8"
+    },
+    {
+      "path": "工具/小屋与卷轴UI修复/修改前/存档.json",
+      "size": 1393,
+      "sha256": "d2bba3c932d2621fe61212d5bd7c0e67a495dcf219ccbb53556e79133fa8b439"
+    },
+    {
+      "path": "工具/岛屿玩法与UI/修改前/explorer.gd",
+      "size": 13537,
+      "sha256": "5a615175c70a349ce0b2a737d7a1ddd148da814a252b1283dc7ddc374fb07db6"
+    },
+    {
+      "path": "工具/岛屿玩法与UI/修改前/fisherwoman_setup.gd",
+      "size": 2728,
+      "sha256": "2d236bbd1c5b50824b24de3a2e92b1f42d5676c03788641d7d6b0bd44896c621"
+    },
+    {
+      "path": "工具/岛屿玩法与UI/修改前/fishing_catches.json",
+      "size": 1793,
+      "sha256": "4aa0dff733d02f4b22c6eec03e68e437f64ce552961d62349c638df45846c000"
+    },
+    {
+      "path": "工具/岛屿玩法与UI/修改前/fishing_controller.gd",
+      "size": 20187,
+      "sha256": "ef32c51b26dc7df486dcf2a17657d8fb871c472ae45d12e26974d79b4e0af4a6"
+    },
+    {
+      "path": "工具/岛屿玩法与UI/修改前/island_weather.gd",
+      "size": 16041,
+      "sha256": "ef668a8861e60e98364d81c3faff11ea9ed515cca9826cb7567f7acee2f46092"
+    },
+    {
+      "path": "工具/岛屿玩法与UI/修改前/island_wildlife.gd",
+      "size": 10255,
+      "sha256": "c71c0fbd1af198642623e23e734362100dc8eaacf1266699142ad960ff9b3664"
+    },
+    {
+      "path": "工具/岛屿玩法与UI/修改前/rowboat_controller.gd",
+      "size": 10276,
+      "sha256": "e5a6eae8247860c96fe12362dce29b9860d6168491c2567ccd26792d0867fe2d"
+    },
+    {
+      "path": "工具/岛屿玩法与UI/修改前/world_life_setup.gd",
+      "size": 1599,
+      "sha256": "bd5e2926038ee66810d607abfdb5f81e87641ccf8f90fe98a4b1b178f010d11c"
+    },
+    {
+      "path": "工具/建筑道路与植被改版/修改前/build_trails.py",
+      "size": 2978,
+      "sha256": "a0da44b95566fa005f242d332e959e3c84cf51358144f7e597de6da187ec4b74"
+    },
+    {
+      "path": "工具/建筑道路与植被改版/修改前/coastal_beauty.scn",
+      "size": 30345088,
+      "sha256": "38e99424b7c8ef5b0892a119b8720d1628caaba5509e03182a1b4e24a40f41d2"
+    },
+    {
+      "path": "工具/建筑道路与植被改版/修改前/physical_water.gdshader",
+      "size": 6213,
+      "sha256": "18e83bf76a036aa8846200c7769e58f5d8d783934ec8cfa869381b54bdbccbc7"
+    },
+    {
+      "path": "工具/建筑道路与植被改版/修改前/plan_island.py",
+      "size": 12704,
+      "sha256": "25378aca849092da3c76a328e9a7e5c36dafa16dcbdc572298ca84289c33aa7b"
+    },
+    {
+      "path": "工具/建筑道路与植被改版/修改前/terrain.bin",
+      "size": 1153980,
+      "sha256": "5d64d3d58452409a3b69fe04fdd0e056467d3de370e248f2ec56acf3b165babc"
+    },
+    {
+      "path": "工具/森林素材更新/修改前/coastal_beauty.scn",
+      "size": 34182955,
+      "sha256": "9bc00a43f8755b5bc13209a9f8060e2437123b56a80be4b2aca6d27f67baa657"
+    },
+    {
+      "path": "工具/森林素材更新/修改前/placements.json",
+      "size": 1417606,
+      "sha256": "72ea18a0d386c681285e4e8a227eb4b3a3afd2505e5270ba6c3b70cd9c433562"
+    },
+    {
+      "path": "工具/森林素材更新/修改前/replan_vegetation.py",
+      "size": 11284,
+      "sha256": "e34219ba6f653173658ce83feac1104559eda191b7b0c8446fa9e4b7797df946"
+    },
+    {
+      "path": "工具/海水风格迭代/修改前/shore_sand.gdshader",
+      "size": 2472,
+      "sha256": "5894a0c76585b7f380a846d6b8059027ab96443ecc38de4a0f69729cb7087d41"
+    },
+    {
+      "path": "工具/海水风格迭代/修改前/shore_water.gdshader",
+      "size": 1529,
+      "sha256": "e8ec905b01efe2ede7b169e177a3dbf5c892ce28bd8b19dfc9ccd2d9ac500522"
+    },
+    {
+      "path": "工具/码头重建/修改前/coastal_beauty.scn",
+      "size": 277490204,
+      "sha256": "8193c06ced407e31905334adb094cbcacded8dbae273d3f0ac0fd0f6346f204e"
+    },
+    {
+      "path": "工具/码头重建/修改前/coastal_presentation.gd",
+      "size": 1958,
+      "sha256": "f22cba6ea5c37d17c96291ab16d7bbe0825b429b20d4a4b6c856f8a120947db1"
+    },
+    {
+      "path": "工具/码头重建/修改前/coastal_showcase.gd",
+      "size": 7219,
+      "sha256": "267e38f4cd6117ad9397d5a484dcabd5cf0a261d3c5b454a964bfe0e52ae9b91"
+    },
+    {
+      "path": "工具/钓鱼移动与背包/修改前/explorer.gd",
+      "size": 10011,
+      "sha256": "7285203ab973032a94014b5f7467ac55eb9faa10a59228feef949624b32c8c5b"
+    },
+    {
+      "path": "工具/钓鱼移动与背包/修改前/fishing_controller.gd",
+      "size": 14872,
+      "sha256": "636e1e72c875f739943ba60e0dbbfa84737e5c1fe39337c15e17543b2b005960"
+    },
+    {
+      "path": "工具/钓鱼移动与背包/修改前/player_movement_vfx.gd",
+      "size": 4064,
+      "sha256": "251068d093441070e4a73ec4f60fd6258d3af2a32962fd127057a041dda05efc"
+    },
+    {
+      "path": "工具/钓鱼移动与背包/修改前/rowboat_controller.gd",
+      "size": 9468,
+      "sha256": "8498b3ca1599fbf1c7a03a5a7c3df0929ecc0be2a8dbd30d374c1f8f70951ae0"
+    },
+    {
+      "path": "工具/镜头与浅水状态修复/修改前/explorer.gd",
+      "size": 10491,
+      "sha256": "2e52cbf61a9db51f5b492f0fd3389f1d4bd9187e973fafc05e0bc94963114783"
+    },
+    {
+      "path": "工具/镜头与浅水状态修复/修改前/fisherwoman_setup.gd",
+      "size": 2646,
+      "sha256": "95b175467e44e858ad65520f8487fb6f0b6efe5ff8ad5f06423f87cc7a64f560"
+    },
+    {
+      "path": "工具/镜头与浅水状态修复/修改前/fishing_controller.gd",
+      "size": 20076,
+      "sha256": "db9da7eccab50561c62289df582b43b64378f61ea71825866b9355803ce1fbd5"
+    },
+    {
+      "path": "工具/风动草地/修改前/coastal_beauty.scn",
+      "size": 282132595,
+      "sha256": "239bd5b90296a015ebbc407e03acd1d3bb2983427a120508db3552bc566aaf31"
+    },
+    {
+      "path": "素材/01_正式模型/B_建筑/B01_破旧木屋/B01_破旧木屋.fbx",
+      "size": 10744764,
+      "sha256": "787be5dca294e0c80a86321669810ab9f188c9ec056f1f9257eb9cf86c3b2ca6"
+    },
+    {
+      "path": "素材/01_正式模型/B_建筑/B01_破旧木屋/B01_破旧木屋.glb",
+      "size": 11290300,
+      "sha256": "913e2308cea15101d1b8f31374df7e1e07c31413fd33b745df62569622b75dcd"
+    },
+    {
+      "path": "素材/01_正式模型/B_建筑/B01_破旧木屋/B01_破旧木屋_外部细节.blend",
+      "size": 10396345,
+      "sha256": "8bcf8b48e35fd294b686e51437e71880c070267a4a677f577fd7ea9e4ebfe57c"
+    },
+    {
+      "path": "素材/01_正式模型/B_建筑/B01_破旧木屋/B01_破旧木屋_游戏网格.blend",
+      "size": 10448796,
+      "sha256": "da2ec3ed6e1511433dab3d70b4782f56c5726612c67dc362ccae9a7265d852be"
+    },
+    {
+      "path": "素材/01_正式模型/B_建筑/B01_破旧木屋/预览/01_preview.png",
+      "size": 2409532,
+      "sha256": "01fb092423faba230d7e78383c40f4c45ab2dbbf68f36a9bc4af389f70a8828a"
+    },
+    {
+      "path": "素材/01_正式模型/B_建筑/B01_破旧木屋/预览/02_preview.png",
+      "size": 2491587,
+      "sha256": "54d7d3794c0e15e36734a1771ce267fbbf830c314ed7ebdbb7844e9c14c68188"
+    },
+    {
+      "path": "素材/01_正式模型/C_飞鸟/C02_白色海鸟/C02_白色海鸟.glb",
+      "size": 70706232,
+      "sha256": "4ffe81d2305747c298b7c4a8931596d7818acf901dd5eb14593d6a95d1702b9b"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F01_近远岛尖礁/F01_近远岛尖礁.blend",
+      "size": 3300462,
+      "sha256": "72ea7cc1c535ca41bcad5dd704ae91edab4fef447ac7623b00d1f6386985bdf8"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F01_近远岛尖礁/F01_近远岛尖礁.fbx",
+      "size": 3565436,
+      "sha256": "64536e3318d706c13d36ac1bc53b024ecd883293714dabc760996cfb420e7d35"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F01_近远岛尖礁/F01_近远岛尖礁.glb",
+      "size": 3633164,
+      "sha256": "cfa576762da39737d6340dbb4ecf905cce7e7bba92a58ed06b8fc5012c1539df"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F01_近远岛尖礁/F01_近远岛尖礁_游戏版.blend",
+      "size": 3299390,
+      "sha256": "b1cbb679f040692520947bc6781b483dfdebdcc061eb2ef7fcf0b23577180de2"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F01_近远岛尖礁/预览/侧面.png",
+      "size": 968386,
+      "sha256": "5b5b2f44f11ace7b6d49dcd0eb3c705703359c81daf645518942d20d7ec33f28"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F01_近远岛尖礁/预览/斜前.png",
+      "size": 987104,
+      "sha256": "0b0e177db49d1c89ebe842613f4d8baeefb9c91f3fa9d368b28671ed02e4bd4f"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F01_近远岛尖礁/预览/正面.png",
+      "size": 977868,
+      "sha256": "3869a60fbb711257d0c04d19d11f31d8aba2387b74a783ec8b1cf7c41e8f1622"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F01_近远岛尖礁/预览/背面.png",
+      "size": 983943,
+      "sha256": "bfd8e9fd7e13f813896cb36eb54653b1ace7b6cd6e3fa69d8e6b0fccb4da648b"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F01_近远岛尖礁/预览/顶部.png",
+      "size": 978109,
+      "sha256": "5d8152882ee899dd814bd513c4663e07264b68753818d287fdd7dac17138bef7"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F02_最远天际山影/F02_最远天际山影.blend",
+      "size": 6451788,
+      "sha256": "6d28084d565d5475b6ea341fc247df43e3241acbfb3ba89de1fa4aeeba77063f"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F02_最远天际山影/F02_最远天际山影.fbx",
+      "size": 1792236,
+      "sha256": "9897dd71aba234f28d40dc8863ccf0f48f7e9b67c335655bf7ca5dcc43bf0cd3"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F02_最远天际山影/F02_最远天际山影.glb",
+      "size": 54676,
+      "sha256": "68a4573e6188ee87ad4415e923326f3c55104ceeb18c54d694eef1afef03a30c"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F02_最远天际山影/F02_最远天际山影_游戏版.blend",
+      "size": 6450465,
+      "sha256": "eb7a00ea2301b7bcc0fb702fa960051fe01c68b124aa831de768f3c863891f05"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F02_最远天际山影/预览/侧面.png",
+      "size": 953973,
+      "sha256": "96fabe910ba97379535c2a688ccffc09455de60ad723b0610cd197fbf5f049ad"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F02_最远天际山影/预览/斜前.png",
+      "size": 947885,
+      "sha256": "1143fc35f8bedcdc15fc599aebfbbbb73ab548aa59f8c3dc3df9b6852c9e826f"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F02_最远天际山影/预览/正面.png",
+      "size": 952035,
+      "sha256": "c4496a1104bf6eaeae8fc3e8928421e2030c8c1e66f8a8ba5e549e7417f7caae"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F02_最远天际山影/预览/背面.png",
+      "size": 949820,
+      "sha256": "c082c045be8925dfa3c5d9bc55f6683518638d3f86823fb32310dc5018cd75a1"
+    },
+    {
+      "path": "素材/01_正式模型/F_远景/F02_最远天际山影/预览/顶部.png",
+      "size": 954098,
+      "sha256": "43c8f89424f65bfa42dd936c96aa85897cc7b52934b7a59b3d18c079290a6916"
+    },
+    {
+      "path": "素材/01_正式模型/R_岩石/R01_圆钝灰色巨石/R01_圆钝灰色巨石.glb",
+      "size": 55648932,
+      "sha256": "d5e98f6c4daa3551fd51b8cd66307ee03a8914e8d018283b3c4c69b4597816c3"
+    },
+    {
+      "path": "素材/01_正式模型/R_岩石/R02_扁平岸石/R02_扁平岸石.glb",
+      "size": 59214868,
+      "sha256": "af7082f30134d4b81bd107a104bd52e5831db780593bd163d87ec346f70de641"
+    },
+    {
+      "path": "素材/01_正式模型/R_岩石/R03_尖棱立石/R03_尖棱立石.glb",
+      "size": 56869476,
+      "sha256": "3686149b04aa9f317fa54f13bf013ee573e0e827b9bcf58860d4dfe40f83b574"
+    },
+    {
+      "path": "素材/01_正式模型/R_岩石/R04_低矮礁石组合/R04_低矮礁石组合.glb",
+      "size": 65633200,
+      "sha256": "ba2ec5ab9ba57b6a649f9443185fd52c1dec8c627c2f3fd2a65b2cae866ecd58"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T00_北端主山体/T00_北端主山体.glb",
+      "size": 96109548,
+      "sha256": "c206706e01a003316cced23f79f4dda7069c0b814abb865b07e9ffc5dd54f449"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T05_西岸岩壁模块/T05_西岸岩壁模块.blend",
+      "size": 4872620,
+      "sha256": "617ea7609b1ecdd6d7a49ed37bf804b7af0043d6cd808eb34198e378170fdf5d"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T05_西岸岩壁模块/T05_西岸岩壁模块.fbx",
+      "size": 3550700,
+      "sha256": "90adef79f3665ef4ae57448c45e3aeffe8ffa27f7f6481ccc07f4adef6fbd0fb"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T05_西岸岩壁模块/T05_西岸岩壁模块.glb",
+      "size": 3592952,
+      "sha256": "3fd5e46fbe2d5379301c6be407a4ce604b5fb64160ffea54582aec181bfd14f5"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T05_西岸岩壁模块/T05_西岸岩壁模块_游戏版.blend",
+      "size": 4872199,
+      "sha256": "cef75876a1d21283a67e6212c4feba42145ecc329ac2022091529bc6ed9eb4b2"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T05_西岸岩壁模块/预览/侧面.png",
+      "size": 1068509,
+      "sha256": "0f2b5ba44c081b4982e3bd39690e93906fdead2027e15fda5bd9f67b2468505d"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T05_西岸岩壁模块/预览/斜前.png",
+      "size": 1117034,
+      "sha256": "821e59f93e5ec8e77c8c65db6d599bd2ac55848c691ebe8abe49e4ba33bcc2a2"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T05_西岸岩壁模块/预览/背面.png",
+      "size": 1094593,
+      "sha256": "6ee25c73a4dd14e96d85e7fdf816ea594a75639abf3a366939b331ff0fcca1b9"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T05_西岸岩壁模块/预览/顶部.png",
+      "size": 1174624,
+      "sha256": "37cdcf20359236f3583e2dec0352143ca58566fb4bef8a403c6b4a4b94c361c1"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T06_东岸岩壁模块/T06_东岸岩壁模块.blend",
+      "size": 8036195,
+      "sha256": "191d30200ac60f9568772846bf95d71cadd7f02ca88534af10bb6910289c4ec6"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T06_东岸岩壁模块/T06_东岸岩壁模块.fbx",
+      "size": 3551004,
+      "sha256": "f379a5ad9435240e926efa742625574fd728cd0dae2522e3d9719ca3075284db"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T06_东岸岩壁模块/T06_东岸岩壁模块.glb",
+      "size": 3592952,
+      "sha256": "f73faf95f43c61c8d3543aaf60f9b5a67ea8a698db4189766ba02164b9c652b5"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T06_东岸岩壁模块/T06_东岸岩壁模块_游戏版.blend",
+      "size": 8035808,
+      "sha256": "05a3e7ebdb311f82d45d71c83ae90ad5f328a11e4db0f5b719125a0566e8e104"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T06_东岸岩壁模块/预览/侧面.png",
+      "size": 1031249,
+      "sha256": "d992c385285cf4c2aa6cdc0c5d0d02f4388cd3cc4443c7d656fa22785c22e511"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T06_东岸岩壁模块/预览/斜前.png",
+      "size": 1108242,
+      "sha256": "b9ae5a1d9b6e93195710c205f82b7a8cc4508a71e2447898d895a17755d09858"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T06_东岸岩壁模块/预览/背面.png",
+      "size": 1119155,
+      "sha256": "40cca5759c7cfbc58d5e63f6321fa6e0c0d95cc28ae18e3c55b92f1beb1356f6"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T06_东岸岩壁模块/预览/顶部.png",
+      "size": 1166855,
+      "sha256": "4d7655e91f6ca86109858e998c66cf3917d165ebf80f26a42b8627537f95307b"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T07_南岸低崖草坡/T07_南岸低崖草坡.blend",
+      "size": 11207886,
+      "sha256": "1ffb85f422e32777b61e3b0945b1a671d3099d72b66b514c0767ee069146b2b7"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T07_南岸低崖草坡/T07_南岸低崖草坡.fbx",
+      "size": 3551036,
+      "sha256": "2c150d5cbe336f457eb328a4f9eddb065b0517c3037d126244ae5c4416ed8c6e"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T07_南岸低崖草坡/T07_南岸低崖草坡.glb",
+      "size": 3592952,
+      "sha256": "1fb9f961ba4f237d168fca3d23eb0dafa9a68804be0f3e63d4922ca5c46fa0a8"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T07_南岸低崖草坡/T07_南岸低崖草坡_游戏版.blend",
+      "size": 11207447,
+      "sha256": "a690892bf430350393d2f071f272dad9aa0920d698b9ca336afd00250284878e"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T07_南岸低崖草坡/预览/侧面.png",
+      "size": 1039686,
+      "sha256": "1e831e341465c726617a7ae407482b680f2f4ce4360184f61e2ed43e568d24e3"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T07_南岸低崖草坡/预览/斜前.png",
+      "size": 1084156,
+      "sha256": "c3ee909b7544d7a58cdceac37b349542ab60533505a5cb415dad623bd9596e4f"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T07_南岸低崖草坡/预览/背面.png",
+      "size": 1059439,
+      "sha256": "a5b3fd2e1d1a192002c9dd0bd3798172d7a2af4f7f6e2a199e6a28a714173f74"
+    },
+    {
+      "path": "素材/01_正式模型/T_地形与主山体/T07_南岸低崖草坡/预览/顶部.png",
+      "size": 1190646,
+      "sha256": "013a05c32adfc0b623f796c53520e83ae93081a5e0dd1496954a1c96aebf8c16"
+    },
+    {
+      "path": "素材/01_正式模型/V_植物/V01_高圆冠阔叶树/V01_高圆冠阔叶树.glb",
+      "size": 80021664,
+      "sha256": "92e690abb0174a82e3f3fdf65b78709d8faa1a155bbbbfb5100a84af88075bb2"
+    },
+    {
+      "path": "素材/01_正式模型/V_植物/V02_矮宽冠阔叶树/V02_矮宽冠阔叶树.glb",
+      "size": 77437696,
+      "sha256": "fbebef55b235788235792627cab445e84e5d59134a52f309126b7f030a41afde"
+    },
+    {
+      "path": "素材/01_正式模型/V_植物/V03_直干棕榈树/V03_直干棕榈树.glb",
+      "size": 82383404,
+      "sha256": "2827513fd74c78964e9979199cf21236f3b0349a3e08ca20cd4b2086f59292eb"
+    },
+    {
+      "path": "素材/01_正式模型/V_植物/V03_直干棕榈树/预览/新模型预览.png",
+      "size": 1324485,
+      "sha256": "aa6a35aff3b2d54918ad8db388e7fc5d4eda84dd6f9b79212ec4e817e5d658a1"
+    },
+    {
+      "path": "素材/01_正式模型/V_植物/V04_弯干棕榈树/V04_弯干棕榈树.glb",
+      "size": 85990064,
+      "sha256": "049f88d5ff2d9451d11676f8f697711239a07d28a749c15a91ca1d47bfe4bbde"
+    },
+    {
+      "path": "素材/01_正式模型/V_植物/V05_圆团灌木/V05_圆团灌木.glb",
+      "size": 74559140,
+      "sha256": "7aac4acc7e872fbf8e91082caf1ba3dfb6bc7ad1cab3b858b9298d75b66b3ad2"
+    },
+    {
+      "path": "素材/01_正式模型/V_植物/V06_横向舒展灌木/V06_横向舒展灌木.glb",
+      "size": 82746712,
+      "sha256": "a97b7d14b10af3aacef122f59cdeb328edfcfa9a939745a87e30932c705c4a30"
+    },
+    {
+      "path": "素材/01_正式模型/V_植物/V07_短草簇/V07_短草簇.glb",
+      "size": 59343652,
+      "sha256": "4e9043eea758e3b14849f6db433b9c63efeea7c54e9e9dc8f2e8f0c5b5a807c1"
+    },
+    {
+      "path": "素材/02_整岛场景/深渊岛_当前场景.blend",
+      "size": 196575475,
+      "sha256": "2fb35dfe4403b7adb2c4740d2f856020ed71ea3cece8a70641dad2dcd2196cc5"
+    },
+    {
+      "path": "素材/02_整岛场景/深渊岛_当前场景.glb",
+      "size": 178907308,
+      "sha256": "9918b9181062eb78de81de20b883f7ce4d2ea865c7ecc8ba3296b659f6f2295e"
+    },
+    {
+      "path": "素材/02_整岛场景/预览/整岛替换预览.png",
+      "size": 1588551,
+      "sha256": "95d1bf2ee2d4ad726d2243be9b990fbcd996a8aa1fc6de9a586b2902c694e2d2"
+    },
+    {
+      "path": "素材/02_整岛场景/预览/新码头与船.png",
+      "size": 1626135,
+      "sha256": "32a3d4d2d990fcd88cb628cf2b4f32099ee203343d6712bc686d6b4e1de9c233"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/商人/C03_原始检查.blend",
+      "size": 2218096,
+      "sha256": "ae2fd7470c08a47e384333df7fe0a5700c115ae9104e30bd555ec2234da3f793"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/商人/C03_绑骨进行中.blend",
+      "size": 2368091,
+      "sha256": "42d0979402846055bc0dc30ad249ad9d66329d6e44d0a5bf097c3513214c25bf"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/商人/C03_绑骨进行中.blend1",
+      "size": 2368532,
+      "sha256": "31e5a2495fd86246fa775ccfd405e05fcb60b7ac225fb0f522f1ab869de8c255"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_原始检查.blend",
+      "size": 2436320,
+      "sha256": "c53efd0fb37e3d0e7d263283eee008fe701069c9c5059ec01d6ffed41bc2bf7e"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_女渔夫_完整动作.blend1",
+      "size": 5963358,
+      "sha256": "2f9b96468aa02ca189251c3ee1867da5520e5b1265594ce9a897b6ae7b353712"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_女渔夫_已绑骨.blend1",
+      "size": 2571984,
+      "sha256": "025920b562c5b60362de23dc29d2e701035eae9fcd7639de20d10123e850aa4f"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_女渔夫_行走跑步.blend",
+      "size": 3536670,
+      "sha256": "772a9484fd79967d2e5cd2811623b0b17360fd22e459300428f1a2a1b44acd73"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_女渔夫_行走跑步.blend1",
+      "size": 3533080,
+      "sha256": "f50b60400098bca865f0342febdc1a3aa9ab99437e6b7a23227d62ee7cee5623"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_女渔夫_行走跑步.glb",
+      "size": 3717520,
+      "sha256": "9dfac70ce244ecc4d60bb0f0b6b59fdb85acdcd094d11aa8e23fee48e3c08015"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_女渔夫_行走跑步游泳.blend",
+      "size": 4159502,
+      "sha256": "829b52739cc693291283bf0c45a97e327856903eebd904f832af1a169c68d467"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_女渔夫_行走跑步游泳.glb",
+      "size": 3917612,
+      "sha256": "57025ff5e008117e114bbb66bdf6bca5134768e37b5b47d0197ba65bdc832318"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_女渔夫_行走跑步游泳划船.blend",
+      "size": 4880735,
+      "sha256": "746b15ef2f2c6c7c66f2c3d32d9925256858625a5879cf0d58dd92413bcafccf"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_女渔夫_行走跑步游泳划船.glb",
+      "size": 4130036,
+      "sha256": "53fced2d5b9bb4898b7cff3b213ee63a2391b114df79f30c9077947ef2676a7f"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_绑骨进行中.blend",
+      "size": 2572571,
+      "sha256": "bff56f0a4e8c392dce9f99a6b85c2e0fd539487ac285be0b7ccb0f7065c8d6bf"
+    },
+    {
+      "path": "素材/06_游戏场景资产/人物接入/女渔夫/C01_绑骨进行中.blend1",
+      "size": 2565731,
+      "sha256": "55910be07545f469a56db8f99a9cf147fbd92831a0ea2988fd23772ec05abbd8"
+    },
+    {
+      "path": "素材/06_游戏场景资产/仓库_B02可开关门/B02_interactive.blend1",
+      "size": 5397148,
+      "sha256": "bd4af6e9ccc25c53e56cf2293ae5c597d88a7df8942f608bc007ce650e15fe09"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/B01.glb",
+      "size": 11125848,
+      "sha256": "2ec62f42a0f4b6e7ff6038d01deab9c6c0c864fbed15e45e8970b465e3ee4d5d"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/B02.glb",
+      "size": 6560940,
+      "sha256": "8ec5e9db3dba2c884957e95693db8da0b69ec741b5d58caef39cdb29f1bf283c"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/B03.glb",
+      "size": 4405676,
+      "sha256": "245ebe117c21eecf30762c850bc2af657bdaa8e137506e7cc72063b798f52002"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/C02.glb",
+      "size": 26365244,
+      "sha256": "a0d2952be64a6037df412db0a3c5f59273f0af1b92f13e7de333c1c5675ae9bb"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/F01.glb",
+      "size": 3620396,
+      "sha256": "105c09060d9fd9bc986ff3c5330f5c20ed387fbfd42752b6d156998dbb32b42b"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/F02.glb",
+      "size": 51012,
+      "sha256": "789b8748c6391a8fc6eb76eb2438d9701eb334d55b5ac927c1c12f61c2c519df"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/P01.glb",
+      "size": 1880484,
+      "sha256": "0a2722aac6fd3e108c33189d3e06e4105f8563b3c293a4e42c4283508b8a7787"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/P02.glb",
+      "size": 39267192,
+      "sha256": "55426aa5c23650ebeb92a829dd7b3a57865e8fa5824fef17c078832f234beeeb"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/P03.glb",
+      "size": 4467100,
+      "sha256": "d251aa95e231b85b7de81d365b296a53a7d2308086b9477d8e4f8f7dfac1595f"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/R01.glb",
+      "size": 25953216,
+      "sha256": "9e1704196062270a26bbaf0705e0935146137470e925b84373f2412d5970fcc0"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/R02.glb",
+      "size": 29467400,
+      "sha256": "15bad04cb60f7d001c19713f36fa0ccc9a9abee7574d19178c33d67ca7f2bd6a"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/R03.glb",
+      "size": 26453688,
+      "sha256": "67718c1eb21d04859a112c066db336d9a457e812185781a48cb775b270c83b92"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/R04.glb",
+      "size": 35177152,
+      "sha256": "c62cdd875e009753992018bb2a9fc61ab4425ef36f42a29c6dd7892adaa177a5"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/T05.glb",
+      "size": 3582192,
+      "sha256": "6abfc98f7b226067451a7f93a8349e3141370a89b0b26e6b7f7d55aca8e1ba74"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/T06.glb",
+      "size": 3582068,
+      "sha256": "112f17326e77f339befe7e55c8eb85afebca5982a756186289f69570ea6814f5"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/T07.glb",
+      "size": 3581232,
+      "sha256": "66815ea3d6e55a8c40171f7648ff41bd1eb071e002bae11f9c6fa2217df69f3e"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/V01.glb",
+      "size": 32671384,
+      "sha256": "d4a36fe7cc5a652c3a5fc92f5c068d7661e13d5f8f982c73410592b61b6bf689"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/V02.glb",
+      "size": 30321280,
+      "sha256": "5186eda6ec2f8bc05b3a4c651750c28e3a95b09963c50b7f3dcf28ab850aa405"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/V03.glb",
+      "size": 35854708,
+      "sha256": "eedd7c86ffa7b9e6de51efeee4e04f4e8ae8e99caef60109e289ec0717edc943"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/V04.glb",
+      "size": 37337956,
+      "sha256": "1d86835656516aee4e7cbc521dcca6699cfa80802063f16f5d0211badd703b7c"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/V05.glb",
+      "size": 27235064,
+      "sha256": "9154617cc955e287dd93bee418b162b8267e49dd53bf903f7794edbbabf5411d"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/V06.glb",
+      "size": 31937016,
+      "sha256": "69eae4d5b6c30c36a711d50c6beb408b581f16f79f64b93a1e1b3c8b864f9fba"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/V07.glb",
+      "size": 27734420,
+      "sha256": "c70766930efa7b6e3c3ada16cd70693c262fcf5576016135265ed03418885837"
+    },
+    {
+      "path": "素材/06_游戏场景资产/已减面模型/V08.glb",
+      "size": 25941136,
+      "sha256": "26061af8bf52006ebb69548572c6acf7d70584aac9dd2922acdb6ef86fc89445"
+    },
+    {
+      "path": "素材/06_游戏场景资产/棕榈树_6000面重建/两种棕榈_重建工程.blend1",
+      "size": 417550,
+      "sha256": "88bda9146410155ac341c6f870dc7bcb52f766c047afcb675f5fb5eed2d59560"
+    },
+    {
+      "path": "素材/06_游戏场景资产/船桨/单支双头木桨.blend1",
+      "size": 131770,
+      "sha256": "bca8e28a9f4ab463b57a605b395a96a9f8c9d3fa55f73b41133ae8a38494603d"
+    },
+    {
+      "path": "素材/06_游戏场景资产/钓鱼竿接入/鱼竿_原始检查.blend",
+      "size": 1060145,
+      "sha256": "c567330114d1d9ef3239f8b28b03dd1dfa4027f73bee8fda50b872819f235d95"
+    },
+    {
+      "path": "素材/06_游戏场景资产/钓鱼竿接入/鱼竿_摇柄绑定前.blend",
+      "size": 1103695,
+      "sha256": "0ca98db7c2a6a6271cf3613e03c1d0424b174c7360e26aaba3a81dd5efd4a3f7"
+    },
+    {
+      "path": "素材/06_游戏场景资产/钓鱼竿接入/鱼竿与鱼钩_绑定工程.blend1",
+      "size": 1097468,
+      "sha256": "839e7564821cee10b309f5a313ff59cac2eaf52ba8bc4cb7c99c5765e795d0cc"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/B01_破旧木屋.blend",
+      "size": 9052040,
+      "sha256": "c76c343985fe5e3e055b05d2eba4189c76aee4fc012d339bd8a4c21d85b6384f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/B01_破旧木屋.fbx",
+      "size": 9492540,
+      "sha256": "41252691e15b9e086a613eda0480bfa795b46dfca0704381d3bb8740e3e90f54"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/B01_破旧木屋.glb",
+      "size": 10545808,
+      "sha256": "80fa18aa0eb85c54982f61662d894319cf339ba350b64b509fb5ca678ec5ef54"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/B01_破旧木屋_游戏网格.blend",
+      "size": 9231689,
+      "sha256": "ccfa2702f8c2af62e110d0811c1c4d2418d8936728df1f1037a637e5f093b227"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/export_report.json",
+      "size": 272,
+      "sha256": "244a526fe5b08c2e8288f34d27ccffa9619d7e3d09a3520244a01616269fb0e1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/export_verification.json",
+      "size": 672,
+      "sha256": "f3deb8c5d177c1c12603e9effff6e35f5a6375ad1ce45b96f6a84cce21a9dcb3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/manifest.json",
+      "size": 7102,
+      "sha256": "d1630bca0abaf95ab011de100f33a357e00cb440c77b2147970a14aeb86537d9"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/material_setup.json",
+      "size": 1386,
+      "sha256": "f0963585f63525499eb1988c4c836d3da0fee524b9cbcd0a839e3e98729b641f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/mesh_audit.json",
+      "size": 872,
+      "sha256": "b2061708ac39f70920bb79c5766609ddfcebdf10ae25929d4ebf52039506ab38"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/reference/B01_01_source.png",
+      "size": 1769391,
+      "sha256": "b7ab83c27e5b4a62202b58ba729ec30b10691cc111478216e75f751b38b1aa14"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/reference/B01_02_front.png",
+      "size": 1619447,
+      "sha256": "1bb04057f356bdc8fd59903a5409117d990664c28399d226a6f26025f250ace7"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/reference/B01_03_right.png",
+      "size": 1580932,
+      "sha256": "63e22a0e75be9acdf7342a7beb2827b8e040ebf09844de2c4e416d22cb31f267"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/reference/B01_04_top.png",
+      "size": 1693027,
+      "sha256": "c957e859f4ee929a56b02a9ce297637c10d81d0b6dd5a37964ca49328c337ab9"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/00_geometry_preview.png",
+      "size": 765561,
+      "sha256": "93e25e9c95c4cf7d0ffa2080153b4d2a20ad087f6dac1ef8c9a2a5aa1a882a98"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/01_hero.png",
+      "size": 2509092,
+      "sha256": "5e498532bce199e8cac9fe92fc01c7da14451dead23a1f709c8cbe3a3d81d34a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/02_rear.png",
+      "size": 2457168,
+      "sha256": "668b7c005e8125361be0132eee8dcae2b788f01c9b57c06e76f4980b77ccf455"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/03_front.png",
+      "size": 2048663,
+      "sha256": "d3f60ba74e2c0c4b1c251d2740559bba49b1ebcf5fd5187d0b7b685ae7417f84"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/04_left.png",
+      "size": 1990056,
+      "sha256": "ca2a40752499ec1a61d60ef38d2b432fe48a97679d4539ba0fa31a51cd7fd6bb"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/05_top.png",
+      "size": 2069223,
+      "sha256": "be7e246e0fa5390a883e17f5afdf13aad24db8031d9887cf29370a5702e2b721"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/06_interior.png",
+      "size": 2309030,
+      "sha256": "1d83be3cd5fa611f8e2a57c34efd0e751aece5bc12abe16d5a908ffdb71e4f95"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/orbit_00.png",
+      "size": 789357,
+      "sha256": "e41af5efdc0d4a4133d6a1ba190f098973fe8195194e2433b35ed876e7808fa8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/orbit_01.png",
+      "size": 894055,
+      "sha256": "4f6c731998bbed9b12af87a5acfdb3fbf3de30f6974530cded0fd73ae405c9fa"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/orbit_02.png",
+      "size": 832493,
+      "sha256": "47ebf49d3abc43dcb4f91785c476cf543ed30716cb2a6cbb390c026b6ba114c4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/orbit_03.png",
+      "size": 874808,
+      "sha256": "5cddb5433164378b911bfd99509bc3880a5c448fcd09eb8a6ffe08cb136e4473"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/orbit_04.png",
+      "size": 775019,
+      "sha256": "ea46586a2dc7be154979974b8ff5115c49576d3a66e5f7e9c7153a281158805d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/orbit_05.png",
+      "size": 871877,
+      "sha256": "ef2d106883468e76f893289227e689f0fd8ca876e126c172752529e307cb9cb8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/orbit_06.png",
+      "size": 828117,
+      "sha256": "88d52e62cb2081a10c0268c527f8ba0fca5fa0eb6a0d1238c6c57b084898d510"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/orbit_07.png",
+      "size": 888405,
+      "sha256": "208943cc55fdfbc6c257e2b9e6b13e7b1192c5a1c7c47dc791ba99652df1ffc4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/stage_01_frame.png",
+      "size": 806745,
+      "sha256": "cff9d8a57d757ba04bdba94d887c880adaca1ee883c17ae0acdb11e739dddfbe"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/stage_02_walls.png",
+      "size": 852124,
+      "sha256": "e878acb1960772b90c4d2f94f59b7a5beb8d0bcbc5cee86fb46bc8912aa027d8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/renders/stage_03_roof.png",
+      "size": 842618,
+      "sha256": "e6a9793c388d9fbb0ab61614c0921ad59eaf41b32e04bc7f720251b0b578efff"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/scripts/audit_b01.py",
+      "size": 2406,
+      "sha256": "bb838766f683dc278d05abf214050af7000d731fc5a69c3c059497ba244ec626"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/scripts/build_b01.py",
+      "size": 18199,
+      "sha256": "f15cff38ec2671b8e564bffdf7ec180b1264c0e8a18637ab44ed04020705fb92"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/scripts/finish_b01.py",
+      "size": 7827,
+      "sha256": "7ee941eebbe5df721cff8cdff729304e59cbb3378ec92b933d1ee006edcaab0f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/scripts/live_preview.py",
+      "size": 1613,
+      "sha256": "6f843cae9e71008a9a70b6286e25c6eb68263f5d395bbf26d1627ace635a4300"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/scripts/package_b01.py",
+      "size": 1832,
+      "sha256": "5748e06fa22919b9be3ee9b258c3abf65e06e7931740df1271f1c57611a70756"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/scripts/publish_b01.py",
+      "size": 7845,
+      "sha256": "e69d45d4aa0a36e041ebf5f9987f3d53782b8b4bf7c6fad177babbd8037755c3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/scripts/verify_exports.py",
+      "size": 2588,
+      "sha256": "b83969e5ae1d89fcec9fe53c6a029d94678542bf509fea157dbb00121b1ea623"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/textures/B01_damp_sill_BaseColor.png",
+      "size": 1077603,
+      "sha256": "e727d31201e550abfaa1beeea07b47795b65ce4af00b59a4e397a965c648e2bf"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/textures/B01_exposed_warm_fibres_BaseColor.png",
+      "size": 1047345,
+      "sha256": "6433ca2772fbe6e3658a41148f9a5e423364dac3f21c2fe2af1d7ec7d5a23270"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/textures/B01_interior_lining_BaseColor.png",
+      "size": 1019925,
+      "sha256": "7c5b5211db3aa128fca27436a5bd1b421051b258106396a274859026470dfe18"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/textures/B01_pale_chipped_trim_BaseColor.png",
+      "size": 1208864,
+      "sha256": "b1731d51329529b0020b8329687bd405dedd3a93a87d8648fdddd92ee721d98f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/textures/B01_silver_grey_roof_BaseColor.png",
+      "size": 1077254,
+      "sha256": "b877a8c6b4f66c9215f466d0f9c1991311e9937b37b5efe6753874cea79dc248"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/textures/B01_warm_weathered_siding_BaseColor.png",
+      "size": 1114423,
+      "sha256": "7334ce393bf3e673075b7ec694eee8f68e05c419168117ba1516313457c7b8c5"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/textures/B01_weathered_wood_basecolor.png",
+      "size": 1562053,
+      "sha256": "ce0ef281c2b32f16cec516b156971ca30248e5fecc51ecd60c5095b117923a6f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/textures/B01_weathered_wood_basecolor_v2.png",
+      "size": 1478182,
+      "sha256": "0d47a4c4dd552eac9fd03fba3e9d9226f45ac33cc65fa33e03f52c590f7b7de1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/textures/B01_weathered_wood_normal.png",
+      "size": 1417721,
+      "sha256": "011f39c8bb886810e9291b82cf5546290700d0c377d231aa1371e1fed739ea52"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/textures/B01_worn_floor_BaseColor.png",
+      "size": 1041650,
+      "sha256": "6d94894012cdc4643452179f6804064f747706efcd584597d1fedb51f533b1f8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/textures/prompts.json",
+      "size": 5022,
+      "sha256": "3a15ac9e28e036d75cb8d0372487f336da66deb8c1f9fc841cada8d78a4d5a43"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋/交付说明.txt",
+      "size": 4997,
+      "sha256": "bb30698de9c753fa8127e9ce1a48a38b75f0bc3ca5308747df0adea01d8e4670"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋_外部细节版/B01_破旧木屋.fbx",
+      "size": 10744764,
+      "sha256": "787be5dca294e0c80a86321669810ab9f188c9ec056f1f9257eb9cf86c3b2ca6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋_外部细节版/B01_破旧木屋.glb",
+      "size": 11290300,
+      "sha256": "913e2308cea15101d1b8f31374df7e1e07c31413fd33b745df62569622b75dcd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋_外部细节版/B01_破旧木屋_外部细节.blend",
+      "size": 10396345,
+      "sha256": "8bcf8b48e35fd294b686e51437e71880c070267a4a677f577fd7ea9e4ebfe57c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋_外部细节版/B01_破旧木屋_外部细节.blend1",
+      "size": 10405909,
+      "sha256": "51bc177cd48a2ec942d566c775bc2fd58248f0788dfa9a94d033606c274c2a71"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋_外部细节版/B01_破旧木屋_游戏网格.blend",
+      "size": 10448796,
+      "sha256": "da2ec3ed6e1511433dab3d70b4782f56c5726612c67dc362ccae9a7265d852be"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋_外部细节版/B01_破旧木屋_游戏网格.blend1",
+      "size": 10449099,
+      "sha256": "45ae3a44e837c52799602edea4638f6f71d43454e16373de9c28add9684bc8fe"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋_外部细节版/export_report.json",
+      "size": 250,
+      "sha256": "ee13da08955e90629537850809d8c5b4511057cec100f0af708e1f53b6afe04e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋_外部细节版/renders/01_preview.png",
+      "size": 2409532,
+      "sha256": "01fb092423faba230d7e78383c40f4c45ab2dbbf68f36a9bc4af389f70a8828a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋_外部细节版/renders/02_preview.png",
+      "size": 2491587,
+      "sha256": "54d7d3794c0e15e36734a1771ce267fbbf830c314ed7ebdbb7844e9c14c68188"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B01_破旧木屋_外部细节版/交付说明.txt",
+      "size": 780,
+      "sha256": "fdf4210c6a998c4ddd1afa0e7f1abab449ca5f686aa6350de7dd5ddfbe2de0a0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/B02_大型红色仓库.blend",
+      "size": 3964278,
+      "sha256": "5019e3fa7ecc2365bdc463e0b5f4ce4a0f95b0a766c7174095383bd8ed33d789"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/B02_大型红色仓库.fbx",
+      "size": 4886908,
+      "sha256": "8472880638ed6145acd7bd94c060c9a74c7fdb79c1366738f6783854c7fa52f9"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/B02_大型红色仓库.glb",
+      "size": 6012316,
+      "sha256": "2486da171fa0f05c9f9696a5511c9638856253bf30026a126e07bfb795d41b8a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/B02_大型红色仓库_游戏网格.blend",
+      "size": 4136333,
+      "sha256": "63037fccd001b5663cbdea4bf2ad24bd4fce4915f50d153f60ff3b07833a6db6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/build_stats.json",
+      "size": 215,
+      "sha256": "adc601bd51d72833817644591c9b4a078531670b1f25ead178caf9f12af49040"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/export_report.json",
+      "size": 272,
+      "sha256": "a049e0a706294a013ebf798fe8149f3e69877e3da9723ec9a5e8d95214e8cc67"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/export_verification.json",
+      "size": 674,
+      "sha256": "771afb04f23bd7502820d6fa730b7398e2be1d059bb86f849d735bfc131cab58"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/manifest.json",
+      "size": 6040,
+      "sha256": "61a331cf1cb0562bf6aa6d9da39640cde6cc592e89cf96b5d9356ddb027f4524"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/mesh_audit.json",
+      "size": 844,
+      "sha256": "d08de51b93c655510f85773365791b572cd260ef7d048366dec3e9fe94ffb359"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/reference/B02_01_source.png",
+      "size": 1543620,
+      "sha256": "47360772171b8834947f8ad3ff16d2afc260efc685307778272b393ec2975ad3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/reference/B02_02_front.png",
+      "size": 1375273,
+      "sha256": "deefce97918d89b20f50e6aed0ebe9de9af85b4cec27974b509d6fd2c19d529d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/reference/B02_03_right.png",
+      "size": 1598512,
+      "sha256": "fed3a91da1fdc8bfa262af0d01c672fa249d3190bcc6963cf158756267308c99"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/reference/B02_04_top.png",
+      "size": 1381188,
+      "sha256": "8d27edff5c156430b6baa3448c68c51e1fed298e7ef271c286321fa2b22e74e0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/reference/prompts.json",
+      "size": 3053,
+      "sha256": "edf4ac371fecf7f6a9ea50c55a72db4105e684fe18cae9b1015255bf12c54d62"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/00_structure.png",
+      "size": 1650823,
+      "sha256": "b95848061a2a8a6febea6c6371eab396546eebe175852f10faedeaff36829c31"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/01_hero.png",
+      "size": 1672531,
+      "sha256": "826b10d928cc0dcd2eba15ffae58c2cb0c9e87653f047430916290dd96e30e2e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/02_rear.png",
+      "size": 1695059,
+      "sha256": "7a2677ffe15f246558900ac04509990fb4a59b3e99b4b53005a766d49973e7f3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/03_front.png",
+      "size": 1643623,
+      "sha256": "e1fd70c060b359fd86095f644d69988ff648ab02d341bd691ca27592b2e5c1f5"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/04_side.png",
+      "size": 1705813,
+      "sha256": "ab16694ffee0bab86ecd9a9c7c5d0ac33afaea3917f5ac74a47945c34b9a6b9d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/05_top.png",
+      "size": 1530709,
+      "sha256": "60c76815c2077396201dc93729827e2325751a4680aa93ab78c97c69ecb01ce4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/06_interior.png",
+      "size": 1737601,
+      "sha256": "5ac2ba6f8723f5b2310bb85d0b965047b89200cb220647762935c1952a2f97db"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/orbit_00.png",
+      "size": 732031,
+      "sha256": "ebfbcb379b381216af7309fb94a1ba8e2553b8cd824fc286123a4dadd5c0a5b4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/orbit_01.png",
+      "size": 802496,
+      "sha256": "b6668a20fab174c50a766fc843092b5e50348215c19c49caa16ae5d9cc1080c6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/orbit_02.png",
+      "size": 754561,
+      "sha256": "42e518ed9b5337e1acae6ba5079eb7ab526f5c4ea5425600fbb37d5188e0d0c3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/orbit_03.png",
+      "size": 784226,
+      "sha256": "8af3284f54e907b3e6e3600d36fda6a67efac8ac0a6716e3a5908f5de723bf89"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/orbit_04.png",
+      "size": 714068,
+      "sha256": "dc79adeba3cabf1e6555873aa2a1cabd4cedd13c30cecfaa061f97ecfe43c823"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/orbit_05.png",
+      "size": 782907,
+      "sha256": "a3ff8a680fe42b6958374424a02ed7a393206029bcaa4d061c78c9224daea6a3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/orbit_06.png",
+      "size": 755092,
+      "sha256": "c7d1f64d523401c1005d1f2d90becb28bcccadcf69df6a562a736d1db70565d4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/orbit_07.png",
+      "size": 804967,
+      "sha256": "64bb3b891ee40cf1200c02f3d5ffcccae7d7ee3937a893de351fbdf030ccb05d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/stage_01_frame.png",
+      "size": 773987,
+      "sha256": "d230f6a099f4cf89e515614fa1b77b47c7acbe4ac14788d3848d138a4e102865"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/renders/stage_02_shell.png",
+      "size": 840819,
+      "sha256": "e93dd3905bee3aac64f204fd07e99b43338e598a077b3c264c81325010aef828"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/scripts/audit.py",
+      "size": 2388,
+      "sha256": "5af8d405c079e48800fc39449566f52a991d9bfcbac85534427e64cabb31c35c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/scripts/build.py",
+      "size": 12186,
+      "sha256": "86c3ea21928137b9fd9677225547fe3d9d8c72d339089e1b69fbabbc4ba18525"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/scripts/core.py",
+      "size": 5703,
+      "sha256": "c3616da3a38ff37a991fd36b4e82d74294beafeaebd4ccef403f2250b4a802f9"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/scripts/export_tail.py",
+      "size": 3352,
+      "sha256": "a7b98281cc9adaba5cb7246df60bb1ebdb621f518cb95cfd8032ef7a2f138f6f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/scripts/finish.py",
+      "size": 3992,
+      "sha256": "e3337caf7a6374ba444c4a88d32167c645b8a3242bc86147527337dfb058f2f6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/scripts/live_preview.py",
+      "size": 1620,
+      "sha256": "d53f0fe96c916518dbfbc1bb721d63ac4e4d00249070e6fecbc2d05ebe0c90d4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/scripts/package.py",
+      "size": 1824,
+      "sha256": "08e86110279f35ddde90c20c7b92d5693cbbd7be0b08c3650e9a3a926ab2fe17"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/scripts/verify.py",
+      "size": 2622,
+      "sha256": "347949ea335e76b1e9d4e3cf5871d14feb6effbbe16003f4a5b25fd716f1ba1c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/textures/B02_red_paint.png",
+      "size": 1544768,
+      "sha256": "709733cc424dd5b361d44e47febba3d0961d799cf50926df05fd625bc129b8b4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/textures/B02_roof_metal.png",
+      "size": 1476502,
+      "sha256": "20d119b6f8d462409c87824bb8878a4d9ab95d2a4945b6c7d44bbccf86a3bf89"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/textures/B02_wood_normal.png",
+      "size": 1417721,
+      "sha256": "011f39c8bb886810e9291b82cf5546290700d0c377d231aa1371e1fed739ea52"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/textures/prompts.json",
+      "size": 2388,
+      "sha256": "9a8f82bb7187f4337a68d1e0b8941264d4f2d4ffb5814ec41842e94decbe3ebd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库/交付说明.txt",
+      "size": 3757,
+      "sha256": "d1f964501719e96b673616360c4d97bc10618db48621215be70760699e35b795"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库_外部细节版/B02_大型红色仓库.fbx",
+      "size": 6140620,
+      "sha256": "9a054e148f4f071b9449308f4ebbfd59bbd591d68ac99dc9b7f6d5948bd38c55"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库_外部细节版/B02_大型红色仓库.glb",
+      "size": 6737540,
+      "sha256": "90248c7701af1a8799344d9cbac51374e24a8401ab6ea95d0a7dbd3c48b5807a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库_外部细节版/B02_大型红色仓库_外部细节.blend",
+      "size": 5312256,
+      "sha256": "de3f0593fdce90765874d2e2d6601c122356fd8a0ca9efe3b5bd0eb11fe663cf"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库_外部细节版/B02_大型红色仓库_外部细节.blend1",
+      "size": 5324482,
+      "sha256": "b4265c3bc1ec40d013d69c8a34281fd831f779711ecddc57a2fb82c1e138c5a8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库_外部细节版/B02_大型红色仓库_游戏网格.blend",
+      "size": 5357725,
+      "sha256": "a7d66f7e412c595cc2963774fd84969eb2a3f975926c1457e64f6187b40cb546"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库_外部细节版/B02_大型红色仓库_游戏网格.blend1",
+      "size": 5359392,
+      "sha256": "5446aaf92e76dcb5cd2e4470d7322eb1cf52d5ad77d40c42d0fb13c1ad5d4f2d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库_外部细节版/export_report.json",
+      "size": 350,
+      "sha256": "f58d38ffc934feab06d34851679431226152e7d0d2a1a11c11a7394c0d1c39c2"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库_外部细节版/renders/01_preview.png",
+      "size": 1764758,
+      "sha256": "dbecfce98a0f1338e73cee7c71f025458c3108ee67ce1bb9b143b92f338f81ee"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库_外部细节版/renders/02_preview.png",
+      "size": 1912720,
+      "sha256": "2771c36cffa4dcecc2894fa60c23656a569eb9fc83054ef6830d3c14820130a7"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B02_大型红色仓库_外部细节版/交付说明.txt",
+      "size": 798,
+      "sha256": "c54373830c63f30903d9f595697931fda6dcbbe971af03da6260439be4b75b4a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔/B03_白色灯塔.blend",
+      "size": 285294,
+      "sha256": "9a5470c47dba55b4944223ae910dd648b3f1b1ee53c95934125a5bd57fe9a179"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔/B03_白色灯塔.blend1",
+      "size": 308890,
+      "sha256": "5cced320d73408329376ae45c9ff72c0fbf4ba20920aa3991b659aaa76253ec4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔/build_stats.json",
+      "size": 37,
+      "sha256": "bd674e91dba01b6bfc30e4d672e231ea09b5ea6839b81d2dfd83a072414e0bdd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔/renders/00_structure.png",
+      "size": 1727624,
+      "sha256": "f0ca5f7847ab8a71b9f56037aa5cdf837053bbb997356f58669e01cc6ef7217f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔/scripts/build.py",
+      "size": 13396,
+      "sha256": "a7a064ad811c2e143c870f9efd4962e8c4cddcf773f85486a3cc256d4473b9a3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔/textures/B03_plaster.png",
+      "size": 2030861,
+      "sha256": "7401a6463610f99e507cdb7b6813b554fa153a24e9ced1e80eb96f6b030295b7"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔/textures/B03_roof.png",
+      "size": 1415592,
+      "sha256": "97ec5097b12cbd3f0dad9a901f7e529f0d0297228fc46a38c5bbbc5c844c4805"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔/textures/prompts.json",
+      "size": 2233,
+      "sha256": "4869bca7bdfbb977d422e31617ebcb0b787ca263f2e676ce3b58b519ee5555af"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔_外部细节版/B03_白色灯塔.fbx",
+      "size": 3999788,
+      "sha256": "4a26094210f547968ec4d26d8adb8e760caf99595e6801844bdb7c5c227ca841"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔_外部细节版/B03_白色灯塔.glb",
+      "size": 4480032,
+      "sha256": "70d662d5e892b3f1ca7b45e1bc45ad0fab6f36f78eeede4a78cead777f2b3976"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔_外部细节版/B03_白色灯塔_外部细节.blend",
+      "size": 3521519,
+      "sha256": "6b59ebf81b5a0f6c99ee6ad4b8d4119b7a8374a7e73e2cd5eeea992f07cb4a4d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔_外部细节版/B03_白色灯塔_外部细节.blend1",
+      "size": 3521134,
+      "sha256": "88c6b4693f9d3b63030bc654e3c0f59b329e4d5030a49f1a68c5353456bf2e87"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔_外部细节版/B03_白色灯塔_游戏网格.blend",
+      "size": 3603701,
+      "sha256": "d18e7b2c5f0189160d05582dd67147710bbad44a362a4ed84d742b7f3bd6d7e6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔_外部细节版/B03_白色灯塔_游戏网格.blend1",
+      "size": 3625484,
+      "sha256": "8f40221cd88b932e391ac8e46c37ef26b1748af8c2115d71ec6044d86bf6ad46"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔_外部细节版/export_report.json",
+      "size": 250,
+      "sha256": "0ae41f12e17faf30ba02ef90bc3e51c6da0f37c9dc682364af688b4729beb898"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔_外部细节版/renders/01_preview.png",
+      "size": 2527718,
+      "sha256": "cf5b2e61318e49d2df4b326b5e8db394a432b6b842dc84c781fb72a3535e820e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔_外部细节版/renders/02_preview.png",
+      "size": 2482311,
+      "sha256": "90c32c70c821dc442328d590aeee40a484857e158131b5168a3433e8a63d414a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔_外部细节版/renders/03_preview.png",
+      "size": 2775976,
+      "sha256": "f87eb7634b8c1e98a24baa9b80a61fa9a385bfe389b11dcb078a6b16f12f7c0a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/B03_白色灯塔_外部细节版/交付说明.txt",
+      "size": 768,
+      "sha256": "7c542f9ca925fb24f476558715526c02df74f9d527cb041220dbfbd5c7e21983"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/F01_近远岛尖礁.blend",
+      "size": 218372,
+      "sha256": "95c92d08514f516fa5144a795d20ff894ee8956d6b8a8acebd01b50218f39378"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/F01_近远岛尖礁.blend1",
+      "size": 218200,
+      "sha256": "2fdf60d7c36ef315ea46db7426a1d3ade0c5bf9d69a0abbc4c3a79747df18a8c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/F01_近远岛尖礁.fbx",
+      "size": 84188,
+      "sha256": "38890bfd5372953e28d422f7e66cf953a53ac589a93a7a2c5d372248fe91912b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/F01_近远岛尖礁.glb",
+      "size": 163000,
+      "sha256": "6cdbf7569b58f737e7f07b2e4626e7cee07987bdadb7fac3d742eef25a2904a5"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/侧面.png",
+      "size": 191584,
+      "sha256": "8dcd073008df35090ba8851367a0a00bdb5d46cc04674bc6c7c41376ef9d2331"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/审计报告.json",
+      "size": 2580,
+      "sha256": "8d9f2bedbdacedf7d8ce4c3a1bc2e796ed3dd3cf6a5a0d63a405b32be953cb94"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/斜前.png",
+      "size": 200899,
+      "sha256": "ab425a32e65a914df405e257e02c05e4dad509fcce4fa2f24e2afba8d5b51acc"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/生成脚本.py",
+      "size": 8793,
+      "sha256": "7165ac69f671cefde682eb52bda7ed241af2ceef33d8a5c02e1ae7c1b84c03a0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v2/F01_近远岛尖礁.blend",
+      "size": 3295100,
+      "sha256": "027c15602a2fa72b5c5b322c118cb2d2bb3c11a5d484fa500ae17e82c94902ad"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v2/F01_近远岛尖礁.fbx",
+      "size": 65756,
+      "sha256": "5732738e4936b707182a23d77a970981e81afd211595eeb91923e41c5949cedf"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v2/F01_近远岛尖礁.glb",
+      "size": 3633160,
+      "sha256": "c6ef25fb283868f160a4e6222a6b1eaa54aa4cba4e2b92a1cd63e9340168ed31"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v2/F01_近远岛尖礁_游戏版.blend",
+      "size": 3293762,
+      "sha256": "3cec11dbfcd77a47a9558d27d45566b1c4ead055fe722c80c9e3cb380fc14a88"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v2/侧面.png",
+      "size": 965299,
+      "sha256": "342571ef05d180b530ffb5d46be9b3df73fe8ec71f9c4cb7186b3b4c5ddeadb6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v2/基准重建脚本.py",
+      "size": 14496,
+      "sha256": "bcc7fc4c8b87e45009fbb6556247a206aecc6a85e9dd5c763f73957fc494b1db"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v2/审计报告.json",
+      "size": 1252,
+      "sha256": "d886489d1905d525a40112e8676e2887c2de2662c1abe410f3c3545f7c0f70dc"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v2/斜前.png",
+      "size": 989406,
+      "sha256": "37d294729b260f58854053aa8480f1de26185c7d7cacd609b4ec55c599a1d498"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v2/背面.png",
+      "size": 981932,
+      "sha256": "fc1d9e43b002c406e9755ac196d43df80a88c6d4230979aaffd4b39700c34492"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v2/顶部.png",
+      "size": 977368,
+      "sha256": "9a227eeeddfcb1b6c491f3e3053a024aa68c4892ee27da8a41e1babbced0a607"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v3/F01_近远岛尖礁.blend",
+      "size": 3297611,
+      "sha256": "cad40dd21e14096c05432a49e879e0876c370241d8a30b4aa4288aaae4ad8708"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v3/F01_近远岛尖礁.fbx",
+      "size": 67244,
+      "sha256": "3960e08ff3c82e3e93a5a2a33184459420f5c5dc6833dd25318a1e520b0e47af"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v3/F01_近远岛尖礁.glb",
+      "size": 3633164,
+      "sha256": "f08e18777ab3f19c64b66ba9067341a5cbe70b9973e5c9597702c162d40f9920"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v3/F01_近远岛尖礁_游戏版.blend",
+      "size": 3296354,
+      "sha256": "8d10bb358b3db9b3084d2c2378f56aef0050ea23d74ec4702cedb9065fc87567"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v3/侧面.png",
+      "size": 967948,
+      "sha256": "84e70ebe4773a103f6f44e6e5c64234dc25d01f0774a119c6bc360c32692c710"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v3/基准重建脚本.py",
+      "size": 14591,
+      "sha256": "e525611265e1b8c0ff7cf66a6142aee8b8cfc646f9bfde9be1242fcee4aa0a61"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v3/审计报告.json",
+      "size": 1249,
+      "sha256": "be3b47596ff08536d5167ef9d84c1c771b41be4be55bbd40ca96019804e442b3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v3/斜前.png",
+      "size": 997604,
+      "sha256": "1f197ca44cfa50c9107a8c2a69b6223418adc32ecf810c24425c41d2782dca6a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v3/正面.png",
+      "size": 988291,
+      "sha256": "42928be14ad70eabf952a16a758ea2e1a0a645c1723eada6b8cf5668377c1a9e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v3/背面.png",
+      "size": 989724,
+      "sha256": "4a346488ccaadefa5688c9dbe541c3285f5e7b5e28e6de50edf41f99273803f9"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v3/顶部.png",
+      "size": 980541,
+      "sha256": "28fc60a7e7d0cf39cf66771a170c4c91e8b594061184dfbc3bf27f680e0d91d8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v4/F01_近远岛尖礁.blend",
+      "size": 3300462,
+      "sha256": "72ea7cc1c535ca41bcad5dd704ae91edab4fef447ac7623b00d1f6386985bdf8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v4/F01_近远岛尖礁.fbx",
+      "size": 3565436,
+      "sha256": "64536e3318d706c13d36ac1bc53b024ecd883293714dabc760996cfb420e7d35"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v4/F01_近远岛尖礁.glb",
+      "size": 3633164,
+      "sha256": "cfa576762da39737d6340dbb4ecf905cce7e7bba92a58ed06b8fc5012c1539df"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v4/F01_近远岛尖礁_游戏版.blend",
+      "size": 3299390,
+      "sha256": "b1cbb679f040692520947bc6781b483dfdebdcc061eb2ef7fcf0b23577180de2"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v4/侧面.png",
+      "size": 968386,
+      "sha256": "5b5b2f44f11ace7b6d49dcd0eb3c705703359c81daf645518942d20d7ec33f28"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v4/基准重建脚本.py",
+      "size": 14949,
+      "sha256": "148125aa5ba816d385a9386ee4d72fbfd3ba46bc2b483279894fe88ca93ed606"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v4/审计报告.json",
+      "size": 5359,
+      "sha256": "efaa78f70a32e5c83379c33ee24fcd45f4ce65f3c4328b5af260f3c1f24981a9"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v4/斜前.png",
+      "size": 987104,
+      "sha256": "0b0e177db49d1c89ebe842613f4d8baeefb9c91f3fa9d368b28671ed02e4bd4f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v4/正面.png",
+      "size": 977868,
+      "sha256": "3869a60fbb711257d0c04d19d11f31d8aba2387b74a783ec8b1cf7c41e8f1622"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v4/背面.png",
+      "size": 983943,
+      "sha256": "bfd8e9fd7e13f813896cb36eb54653b1ace7b6cd6e3fa69d8e6b0fccb4da648b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/精修样板_v4/顶部.png",
+      "size": 978109,
+      "sha256": "5d8152882ee899dd814bd513c4663e07264b68753818d287fdd7dac17138bef7"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/背面.png",
+      "size": 198302,
+      "sha256": "230a01b2a45b26808507bb9d4df0b78a7ee81e32ee0d07e6fe7e77fcf42ce46d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F01_近远岛尖礁/顶部.png",
+      "size": 202782,
+      "sha256": "9dd0fc5633b618181e1d5f2dd46e7a41da7a82f15d61ddf14bbc04a5e5725531"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/F02_最远天际山影.blend",
+      "size": 223040,
+      "sha256": "885657c7d92972aca5cd2dd8b0aabf1ad5033a992a75b37bbeabd4f52faf5b73"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/F02_最远天际山影.blend1",
+      "size": 222799,
+      "sha256": "674e6c3cd3b5ece316d5e80a965c8f52327c798b3fca0429a1f4f8c5bc2f4e1e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/F02_最远天际山影.fbx",
+      "size": 49628,
+      "sha256": "becc050b0bad2a4425893e510745d488153bf08f955385c8b1ea9ad6f3956944"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/F02_最远天际山影.glb",
+      "size": 69436,
+      "sha256": "d69acae33efb6ae9d076140b5813f4c49889938efd1510e2108a1fe83af1da3c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/侧面.png",
+      "size": 182909,
+      "sha256": "ad02d40fa5d802f915014c0cedc2040b6ea774c714bd611db66f5a6c34b6f076"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/审计报告.json",
+      "size": 1252,
+      "sha256": "0653ff7f3e7b005167e1bc6ee4b8d188210acc17d3abcfa4ea3b59aa0e14c9ab"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/斜前.png",
+      "size": 181103,
+      "sha256": "1a1813eac4adc5883fad0ef805edda557ddf91f242463f3fbf138235edda1524"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/生成脚本.py",
+      "size": 8793,
+      "sha256": "7165ac69f671cefde682eb52bda7ed241af2ceef33d8a5c02e1ae7c1b84c03a0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v2/F02_最远天际山影.blend",
+      "size": 6450041,
+      "sha256": "9f940a51fcd5bf787f9019762db9dfebed34a1c19e3e17db83cb99b219bc6e9f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v2/F02_最远天际山影.fbx",
+      "size": 37596,
+      "sha256": "06e7e884cf37396276304c8b0d5c42f8ed0131650814a4f062d3697275f02d5a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v2/F02_最远天际山影.glb",
+      "size": 54676,
+      "sha256": "3b8731ad4e0605c019cbf15455127d8d1fff71285abf98e04803b8343c60a15b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v2/F02_最远天际山影_游戏版.blend",
+      "size": 6448557,
+      "sha256": "21a1ae344e8164ef7f348d20104cc5263b320db16ca0a28594c3ba70f30a1332"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v2/侧面.png",
+      "size": 955457,
+      "sha256": "419e447922f9a0dd840b27e0cb4a3d9da3f4077d9f4e1a4f821fa003b8c11ebc"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v2/基准重建脚本.py",
+      "size": 14496,
+      "sha256": "bcc7fc4c8b87e45009fbb6556247a206aecc6a85e9dd5c763f73957fc494b1db"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v2/审计报告.json",
+      "size": 1252,
+      "sha256": "d75b60c9440f11a9d62fb99aaf1027ffa02f3c336c77394fcbc9b4b983cefb9b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v2/斜前.png",
+      "size": 948160,
+      "sha256": "f2ddfd938a7bb822ba1ef148cdf1792271e53c4f8e54f2a6eab921d69c79e4bc"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v2/背面.png",
+      "size": 950588,
+      "sha256": "7b5e42439c3627dfa4e7ffcc27f4b0791f5059067c1956ae2e38f7d3b7dff075"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v2/顶部.png",
+      "size": 955343,
+      "sha256": "d3f3a71ebeeb9ffc3c2ef36c7fdbf23668c781993226fc4888fbd79333a9e40e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v3/F02_最远天际山影.blend",
+      "size": 6450244,
+      "sha256": "87e6449deacc19a115f8ab56ea298bc20551e99a325e4ae08371e7a881d67dc6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v3/F02_最远天际山影.fbx",
+      "size": 37964,
+      "sha256": "35b0d54a621ec49ea39c0e1747a8b969d2ee83397048f22d70609d473c5ad719"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v3/F02_最远天际山影.glb",
+      "size": 54676,
+      "sha256": "161604aa683d1ff243588d1f5d21cd2693e85cf1b1ee5f7b367042f6ae494bcc"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v3/F02_最远天际山影_游戏版.blend",
+      "size": 6448772,
+      "sha256": "829e659e34cbf0dda628a67a8facb8f4b15df3a6158f1b56529392f4e8450682"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v3/侧面.png",
+      "size": 955428,
+      "sha256": "5588176dd57215be0d1b82360f0a994fae306c7a3f4f7489315bd26c337aaaa3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v3/基准重建脚本.py",
+      "size": 14591,
+      "sha256": "e525611265e1b8c0ff7cf66a6142aee8b8cfc646f9bfde9be1242fcee4aa0a61"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v3/审计报告.json",
+      "size": 1252,
+      "sha256": "d75b60c9440f11a9d62fb99aaf1027ffa02f3c336c77394fcbc9b4b983cefb9b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v3/斜前.png",
+      "size": 948419,
+      "sha256": "913b2e0f4ff48e3ce09c4da06f609674c9b20c664f29e4df3c641b1fd9072e69"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v3/正面.png",
+      "size": 953002,
+      "sha256": "8ed9ee782488c4e757895feb7e280454e56ed53e0af63e20a422a7bcf20a700b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v3/背面.png",
+      "size": 950748,
+      "sha256": "382960108d64c62f4dc91550ba6d63a8c938d9740e4a2c7a711ed9cd576f398b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v3/顶部.png",
+      "size": 954884,
+      "sha256": "de1d6703884a961aaa78ca4ab972a437dbb7fd6e8390ea113c16aeb135262bdc"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v4/F02_最远天际山影.blend",
+      "size": 6451788,
+      "sha256": "6d28084d565d5475b6ea341fc247df43e3241acbfb3ba89de1fa4aeeba77063f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v4/F02_最远天际山影.fbx",
+      "size": 1792236,
+      "sha256": "9897dd71aba234f28d40dc8863ccf0f48f7e9b67c335655bf7ca5dcc43bf0cd3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v4/F02_最远天际山影.glb",
+      "size": 54676,
+      "sha256": "68a4573e6188ee87ad4415e923326f3c55104ceeb18c54d694eef1afef03a30c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v4/F02_最远天际山影_游戏版.blend",
+      "size": 6450465,
+      "sha256": "eb7a00ea2301b7bcc0fb702fa960051fe01c68b124aa831de768f3c863891f05"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v4/侧面.png",
+      "size": 953973,
+      "sha256": "96fabe910ba97379535c2a688ccffc09455de60ad723b0610cd197fbf5f049ad"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v4/基准重建脚本.py",
+      "size": 14949,
+      "sha256": "148125aa5ba816d385a9386ee4d72fbfd3ba46bc2b483279894fe88ca93ed606"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v4/审计报告.json",
+      "size": 2958,
+      "sha256": "af4f86d7a0f26cfb53f9698cad4b7fdcda4b296b61eaf6213209cfe604e7f151"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v4/斜前.png",
+      "size": 947885,
+      "sha256": "1143fc35f8bedcdc15fc599aebfbbbb73ab548aa59f8c3dc3df9b6852c9e826f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v4/正面.png",
+      "size": 952035,
+      "sha256": "c4496a1104bf6eaeae8fc3e8928421e2030c8c1e66f8a8ba5e549e7417f7caae"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v4/背面.png",
+      "size": 949820,
+      "sha256": "c082c045be8925dfa3c5d9bc55f6683518638d3f86823fb32310dc5018cd75a1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/精修样板_v4/顶部.png",
+      "size": 954098,
+      "sha256": "43c8f89424f65bfa42dd936c96aa85897cc7b52934b7a59b3d18c079290a6916"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/背面.png",
+      "size": 183265,
+      "sha256": "7abaf6215adaa4bd27060f0deaf59c84ba26a71755dfe3878add21057e2e364a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/F02_最远天际山影/顶部.png",
+      "size": 188611,
+      "sha256": "8cd0f7e73fbd34c1bf431f42a86f24e293d68553709459f747a6e5e849158ec4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/T05_西岸岩壁模块.blend",
+      "size": 3279995,
+      "sha256": "7d07dbdb118d8f744c6853586300c32ee0b43ab95187019c50c66781552df899"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/T05_西岸岩壁模块.blend1",
+      "size": 3279999,
+      "sha256": "2e115e6f456f23177599af5a6d3e5264903ba83b51b25e64e97f086bd721782e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/T05_西岸岩壁模块.fbx",
+      "size": 47980,
+      "sha256": "555bbb8a8e9bb16e4e7acb6e01aa7e795052b541058e769362076bf333e22237"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/T05_西岸岩壁模块.glb",
+      "size": 1825344,
+      "sha256": "7a728a420f4a75fa2ecfdc7a39175c37a67449cff089c5e3500c01fe0eb74b67"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/T05_西岸岩壁模块_游戏版.blend",
+      "size": 3278623,
+      "sha256": "1941d9f00a99d6a994c7687090169d73cbbfc7b018d43ec41e90f3ae0fbefb1c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/T05_西岸岩壁模块_游戏版.blend1",
+      "size": 3278621,
+      "sha256": "bdcd4ec0149f601e978d622c5a434a4f9ca1c80ae6d7d5a2c5d4eb6bcf30174b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/侧面.png",
+      "size": 1040448,
+      "sha256": "72f2c69418b9b7beb2effaebc5efc7257ce5b86a20354de978212f5b3cbec813"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/基准重建脚本.py",
+      "size": 7343,
+      "sha256": "6d9e2189818aa23f5d90e226713847e293058be1299641b250d81971b7dd94fe"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/审计报告.json",
+      "size": 613,
+      "sha256": "3475a6a2e7d596884af0429d89bfe66044227442a142b66de983531c2f3dffda"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/斜前.png",
+      "size": 1078844,
+      "sha256": "52ab1764f94448dcf1592d0e9a7fbdfa8add8e84639a3ac6f81f11352c029d6d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/生成脚本.py",
+      "size": 8793,
+      "sha256": "7165ac69f671cefde682eb52bda7ed241af2ceef33d8a5c02e1ae7c1b84c03a0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/T05_西岸岩壁模块.blend",
+      "size": 4884886,
+      "sha256": "c81bc2ddef6e223ebc980fb9471224553b9adbb8f08ca0efd496e08b40d32f88"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/T05_西岸岩壁模块.blend1",
+      "size": 4884976,
+      "sha256": "5c7f77c1a94771e18622df8bd12eff6961a9aa7904997468817c553774a79af5"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/T05_西岸岩壁模块.fbx",
+      "size": 67644,
+      "sha256": "0a63960fb3113962f44c62c86d877886471b7d3ee09b5d26115120463e2185ef"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/T05_西岸岩壁模块.glb",
+      "size": 3618252,
+      "sha256": "6ea11010880a5a2ac15af8b5510d046fc26db8980ab7fe6bc21beff0fb64f2a4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/T05_西岸岩壁模块_游戏版.blend",
+      "size": 4883274,
+      "sha256": "9e06f5c01dff5274ef6a9a1e9b24069ec43acefbbf9378c7fbed3f1fa3c58c35"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/T05_西岸岩壁模块_游戏版.blend1",
+      "size": 4883084,
+      "sha256": "c63974f1d4ffec4f41d7cb057f357e24806aa207f2598c711fc3579ce7f1acdf"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/侧面.png",
+      "size": 1061275,
+      "sha256": "d1658e678c22b72bef4dcc22bbbca5d73ce8b86b8837909ddaa4a2562b77083d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/基准重建脚本.py",
+      "size": 9120,
+      "sha256": "6114538f695b58d82a1c11baa71971a4a59cde745dab064952d29d9e89fbc143"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/审计报告.json",
+      "size": 901,
+      "sha256": "18c0203a54c4c3377a470b96a29e8b86c0b215f84910b28445f9f6b37e6e6abe"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/斜前.png",
+      "size": 1103813,
+      "sha256": "ed5051efeb60571a336b22e9e7182c56f968e249a3384da98173775176be4c09"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/背面.png",
+      "size": 1083024,
+      "sha256": "9764e3802eb7ccdab6f5db1ff97d41e7059c4b5ba53f0e7ad980f3d706c189f8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v2/顶部.png",
+      "size": 1151367,
+      "sha256": "a429c4045437f4de29efc17894aa53ba096737a0a99fe2a20b9c0388a0aa4a7b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/T05_西岸岩壁模块.blend",
+      "size": 4871046,
+      "sha256": "3e75572b1d649a08fe0a9705503c3a8875d0bfdcd1b2587eb572f10d2a0920a5"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/T05_西岸岩壁模块.blend1",
+      "size": 4871053,
+      "sha256": "fdc28852b4faea11728c1cf59714c8ad176b87ea7b0a98d94aa187110f657c8e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/T05_西岸岩壁模块.fbx",
+      "size": 50172,
+      "sha256": "a4d6e00d2da56c9afdce8746a57849ac8d082219e17455439d2e9ae34b4efc5d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/T05_西岸岩壁模块.glb",
+      "size": 3589880,
+      "sha256": "5a0c68ca4197bda4aa740c8a62cf0dd5a8d81b90aa2b222eda6e834690e78a70"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/T05_西岸岩壁模块_游戏版.blend",
+      "size": 4870590,
+      "sha256": "0c03107a7babf201f99b11727018a9ce413acf2496153aff829723f12dfec580"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/T05_西岸岩壁模块_游戏版.blend1",
+      "size": 4870584,
+      "sha256": "9cba0a083f94f3d3b7c748af8bd6fac2d7a7136df9dc2416d864dd4c3bade27b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/侧面.png",
+      "size": 1072861,
+      "sha256": "4de4e6393ee7660e3f3dcbbb1f442334b08342040e91c9058bfa29564ba22f3f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/基准重建脚本.py",
+      "size": 9260,
+      "sha256": "c4e06d5446d21d961bb541fb246a1ca449865e72a0bea80a75ceac1871cdc4fd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/审计报告.json",
+      "size": 878,
+      "sha256": "9034078042fe414c925137c38dddbf78c37f6e4cfefd3e7ced9ba8feb7edc41f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/斜前.png",
+      "size": 1122072,
+      "sha256": "bc35e9499f64c9382a3d7874ad212009067ba5b196daf422969bc316adddec14"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/背面.png",
+      "size": 1098717,
+      "sha256": "8ed6f07981ba0b8bd6706f10dfacb8fc37ac871bc9b9267d76af8d7c4ae0375c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v3/顶部.png",
+      "size": 1170726,
+      "sha256": "6dd17255d574958e900f7f2d57a10104911cdab2dbe9530bebf8bf33b37f05ad"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v4/T05_西岸岩壁模块.blend",
+      "size": 4872620,
+      "sha256": "617ea7609b1ecdd6d7a49ed37bf804b7af0043d6cd808eb34198e378170fdf5d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v4/T05_西岸岩壁模块.fbx",
+      "size": 3550700,
+      "sha256": "90adef79f3665ef4ae57448c45e3aeffe8ffa27f7f6481ccc07f4adef6fbd0fb"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v4/T05_西岸岩壁模块.glb",
+      "size": 3592952,
+      "sha256": "3fd5e46fbe2d5379301c6be407a4ce604b5fb64160ffea54582aec181bfd14f5"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v4/T05_西岸岩壁模块_游戏版.blend",
+      "size": 4872199,
+      "sha256": "cef75876a1d21283a67e6212c4feba42145ecc329ac2022091529bc6ed9eb4b2"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v4/侧面.png",
+      "size": 1068509,
+      "sha256": "0f2b5ba44c081b4982e3bd39690e93906fdead2027e15fda5bd9f67b2468505d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v4/基准重建脚本.py",
+      "size": 9707,
+      "sha256": "e0f9ae015aa6ee8eda5acc21baa356ebaa336046522d753fc5ef26e0ef5e6c2b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v4/审计报告.json",
+      "size": 5830,
+      "sha256": "a78f39f9b51c2f702e5284ad563a0765dd5f8aeb139717b1b4045d98c8120d06"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v4/斜前.png",
+      "size": 1117034,
+      "sha256": "821e59f93e5ec8e77c8c65db6d599bd2ac55848c691ebe8abe49e4ba33bcc2a2"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v4/背面.png",
+      "size": 1094593,
+      "sha256": "6ee25c73a4dd14e96d85e7fdf816ea594a75639abf3a366939b331ff0fcca1b9"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/精修样板_v4/顶部.png",
+      "size": 1174624,
+      "sha256": "37cdcf20359236f3583e2dec0352143ca58566fb4bef8a403c6b4a4b94c361c1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/背面.png",
+      "size": 1078191,
+      "sha256": "95e4eef52d9e36dc5dbf11324e160bfe02b253e7b0637303b5d85145cbebc5e8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T05_西岸岩壁模块/顶部.png",
+      "size": 1026348,
+      "sha256": "e280a9ad4a594f80966076be7e9df305450e12e069a25f254427471b42c6dbb6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/T06_东岸岩壁模块.blend",
+      "size": 194935,
+      "sha256": "b01dd5ea6f8f518a68d791908f55a6d548a447964481b3c90ab50b7a45f187e1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/T06_东岸岩壁模块.blend1",
+      "size": 195208,
+      "sha256": "26022d4fd828a0415204c7fe84558c2ed9ea118f9920a73f2fa87449f4294efd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/T06_东岸岩壁模块.fbx",
+      "size": 60956,
+      "sha256": "863dcbd5b9191d06b946f146b20a1920e156e9c513566131e5c6a4a121c0bc44"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/T06_东岸岩壁模块.glb",
+      "size": 112012,
+      "sha256": "1b89d5868a9568d62a8ac4b53b0f76c3e20f76bf7718f5a90accfbfe51837479"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/侧面.png",
+      "size": 197116,
+      "sha256": "5e8829a9ea59a0d4214092049015d05b2531263fdaf2b353aa2ce5d602b392ff"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/审计报告.json",
+      "size": 778,
+      "sha256": "82ad0e7a352997110b9be746117df794d52c250637203bdb20243df316013f7f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/斜前.png",
+      "size": 220874,
+      "sha256": "61d0e99b8b0c827a479b89442a1cf5a148a9ddfb0f9bdb43b084060815a6e141"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/生成脚本.py",
+      "size": 8793,
+      "sha256": "7165ac69f671cefde682eb52bda7ed241af2ceef33d8a5c02e1ae7c1b84c03a0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v1/T06_东岸岩壁模块.blend",
+      "size": 8036199,
+      "sha256": "d3d50595f60eb6f929f82849c59550deb31c5ff082b004ee41ae23c613528963"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v1/T06_东岸岩壁模块.fbx",
+      "size": 53804,
+      "sha256": "e1b40c36c40b2e62b2130a102f960fee98dc50b496e29a9436afdee04972792e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v1/T06_东岸岩壁模块.glb",
+      "size": 3592952,
+      "sha256": "f73faf95f43c61c8d3543aaf60f9b5a67ea8a698db4189766ba02164b9c652b5"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v1/T06_东岸岩壁模块_游戏版.blend",
+      "size": 8035802,
+      "sha256": "b581bcd0e360dabcab26cb1bfd42636fe3fe9222d4c9695d74d939305f88bfbf"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v1/侧面.png",
+      "size": 1031249,
+      "sha256": "0679d8e8d6395f5502e95055ef7c9a0882d2a12866c08abc6266a3bd5d217e39"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v1/基准重建脚本.py",
+      "size": 12219,
+      "sha256": "eb51681dbbe295e040e4d09bb85fe9988b5550b357963bcc45bf743bbc1e4191"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v1/审计报告.json",
+      "size": 406,
+      "sha256": "14830c07d4396c994d94c49536f1c7964b2c6870f9537098b8a3d5186588a509"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v1/斜前.png",
+      "size": 1108242,
+      "sha256": "1cb340f96ed0bcab878a00fced7aa769992c916089511f1630f2b8891c2389de"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v1/背面.png",
+      "size": 1119155,
+      "sha256": "8c13b84d618682f065fbe907df5a6047d3ae1047536fa68d5a7c0801f0d3227b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v1/顶部.png",
+      "size": 1166855,
+      "sha256": "116df8ec40a41499ab8dd663623384b018e2494dc5afa9f9233ff6687cfeb741"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v2/T06_东岸岩壁模块.blend",
+      "size": 8036195,
+      "sha256": "191d30200ac60f9568772846bf95d71cadd7f02ca88534af10bb6910289c4ec6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v2/T06_东岸岩壁模块.fbx",
+      "size": 3551004,
+      "sha256": "f379a5ad9435240e926efa742625574fd728cd0dae2522e3d9719ca3075284db"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v2/T06_东岸岩壁模块.glb",
+      "size": 3592952,
+      "sha256": "f73faf95f43c61c8d3543aaf60f9b5a67ea8a698db4189766ba02164b9c652b5"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v2/T06_东岸岩壁模块_游戏版.blend",
+      "size": 8035808,
+      "sha256": "05a3e7ebdb311f82d45d71c83ae90ad5f328a11e4db0f5b719125a0566e8e104"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v2/侧面.png",
+      "size": 1031249,
+      "sha256": "d992c385285cf4c2aa6cdc0c5d0d02f4388cd3cc4443c7d656fa22785c22e511"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v2/基准重建脚本.py",
+      "size": 13325,
+      "sha256": "1c7a4777093d9423044d7b53746aa0a42b0c293d55d052ec9e9d4b1751240d38"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v2/审计报告.json",
+      "size": 5390,
+      "sha256": "1df6c301d94639eeff20775a995e65a766ac3d969d09e2757e93086d0e4e23ee"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v2/斜前.png",
+      "size": 1108242,
+      "sha256": "b9ae5a1d9b6e93195710c205f82b7a8cc4508a71e2447898d895a17755d09858"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v2/背面.png",
+      "size": 1119155,
+      "sha256": "40cca5759c7cfbc58d5e63f6321fa6e0c0d95cc28ae18e3c55b92f1beb1356f6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/精修样板_v2/顶部.png",
+      "size": 1166855,
+      "sha256": "4d7655e91f6ca86109858e998c66cf3917d165ebf80f26a42b8627537f95307b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/背面.png",
+      "size": 220962,
+      "sha256": "64c130ee0daf7ba525662aa2136caa6ef4394b154f55b61a11b9268f31621419"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T06_东岸岩壁模块/顶部.png",
+      "size": 228057,
+      "sha256": "2ba074ae0d65e37bfa3ace1ef0f4b4f6888da0dd27233603f04f4a02ac1308e9"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/T07_南岸低崖草坡.blend",
+      "size": 198393,
+      "sha256": "b8a80e33744bfc9644651e7a6e5483997e12004d14445b5db42d32306350e210"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/T07_南岸低崖草坡.blend1",
+      "size": 198716,
+      "sha256": "bc90738ba105bd38f8ca2b16f2ce064b510ccee6821bc71df164d3a267398aef"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/T07_南岸低崖草坡.fbx",
+      "size": 48924,
+      "sha256": "c2f6d93146fdef39e3b0959aa3a069d756bae541a3547ee1553e51a77e833337"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/T07_南岸低崖草坡.glb",
+      "size": 78136,
+      "sha256": "4309f93b1dc954a4150d2476d58189603419694c7de0601b235852048699f8d1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/侧面.png",
+      "size": 204225,
+      "sha256": "c8914834cc98f3d9d921cd11fe6264f4ccfe3f2d64e1e55b380dadce96a63d88"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/审计报告.json",
+      "size": 774,
+      "sha256": "c2536249bda8abe5149dc8a4aa026330d96774743c81295465e6861fce47ea01"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/斜前.png",
+      "size": 213922,
+      "sha256": "31d914d1f5fcbbdaaddc3218d0da276a18b71bf9ff8d1edd70a1a7c7483602c1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/生成脚本.py",
+      "size": 8793,
+      "sha256": "7165ac69f671cefde682eb52bda7ed241af2ceef33d8a5c02e1ae7c1b84c03a0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v1/T07_南岸低崖草坡.blend",
+      "size": 11207934,
+      "sha256": "c884651dbc89da31d1f73c51947c5b3fddc882edfae09e8d04ada98566a5231b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v1/T07_南岸低崖草坡.fbx",
+      "size": 53852,
+      "sha256": "fc0560c35e18fbfd7853f3149198e40e488434f7e7762a665fbc2316b7345e86"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v1/T07_南岸低崖草坡.glb",
+      "size": 3592952,
+      "sha256": "4d4c1bcb4aa6d4e3d1eb19fb43b672d33f6d22780831b537dfc066f2ebe73452"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v1/T07_南岸低崖草坡_游戏版.blend",
+      "size": 11207495,
+      "sha256": "9e11fd0730a38e8d0d681429d7056c82a54122bcf31a3851ba3eb4a324b03911"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v1/侧面.png",
+      "size": 1041894,
+      "sha256": "ba3772fd40a85bf5daba673ed40517ff53f3d69fc62ee470a165c5757b497adc"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v1/基准重建脚本.py",
+      "size": 12219,
+      "sha256": "eb51681dbbe295e040e4d09bb85fe9988b5550b357963bcc45bf743bbc1e4191"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v1/审计报告.json",
+      "size": 406,
+      "sha256": "9b30aa0a0035cc5912b96aa425981427b2e64fcb29c62562f213fe61c721b457"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v1/斜前.png",
+      "size": 1107603,
+      "sha256": "5e8b708000557f8ce902e819b06b8934c882b300ab870bb3e84fa22e0632459e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v1/背面.png",
+      "size": 1073230,
+      "sha256": "770c96e0f62b5cceb29801561f4791ea5dd8703a8e549e0f3a14a880b6f3471e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v1/顶部.png",
+      "size": 1240406,
+      "sha256": "8e8f20286dca184e587eb14084bf9480e572c57a62757a6c9a2d18f163e37830"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v2/T07_南岸低崖草坡.blend",
+      "size": 11207886,
+      "sha256": "1ffb85f422e32777b61e3b0945b1a671d3099d72b66b514c0767ee069146b2b7"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v2/T07_南岸低崖草坡.fbx",
+      "size": 3551036,
+      "sha256": "2c150d5cbe336f457eb328a4f9eddb065b0517c3037d126244ae5c4416ed8c6e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v2/T07_南岸低崖草坡.glb",
+      "size": 3592952,
+      "sha256": "1fb9f961ba4f237d168fca3d23eb0dafa9a68804be0f3e63d4922ca5c46fa0a8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v2/T07_南岸低崖草坡_游戏版.blend",
+      "size": 11207447,
+      "sha256": "a690892bf430350393d2f071f272dad9aa0920d698b9ca336afd00250284878e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v2/侧面.png",
+      "size": 1039686,
+      "sha256": "1e831e341465c726617a7ae407482b680f2f4ce4360184f61e2ed43e568d24e3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v2/基准重建脚本.py",
+      "size": 13325,
+      "sha256": "1c7a4777093d9423044d7b53746aa0a42b0c293d55d052ec9e9d4b1751240d38"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v2/审计报告.json",
+      "size": 5394,
+      "sha256": "932b0319321385f2a188a3b98a61458c1b29487db9d87e84b14f404af3126181"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v2/斜前.png",
+      "size": 1084156,
+      "sha256": "c3ee909b7544d7a58cdceac37b349542ab60533505a5cb415dad623bd9596e4f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v2/背面.png",
+      "size": 1059439,
+      "sha256": "a5b3fd2e1d1a192002c9dd0bd3798172d7a2af4f7f6e2a199e6a28a714173f74"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v2/顶部.png",
+      "size": 1190646,
+      "sha256": "013a05c32adfc0b623f796c53520e83ae93081a5e0dd1496954a1c96aebf8c16"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v3/T07_南岸低崖草坡.blend",
+      "size": 6454594,
+      "sha256": "08432750a6dac5e0e5adb79e89c1d2fb12e715d09447545c91c60b5d0704fa71"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v3/T07_南岸低崖草坡.fbx",
+      "size": 53868,
+      "sha256": "2ee7917db7f8deebfeab79e3402a793c51008ba88f9f65414738849f0e027187"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v3/T07_南岸低崖草坡.glb",
+      "size": 3592824,
+      "sha256": "031354ececbcf228666a0a6aa04a2c392d679e910332e747b2013ae6c37de0a4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v3/T07_南岸低崖草坡_游戏版.blend",
+      "size": 6453635,
+      "sha256": "5d586df8ef40a1699816109ed75038886c775a877b4df4813d3f04a14d0d260d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v3/侧面.png",
+      "size": 1022193,
+      "sha256": "121972b9234f5371574d76125281cd082f532bf9bd535e0f0b09ab5a2615a455"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v3/基准重建脚本.py",
+      "size": 13523,
+      "sha256": "47639b07faa5c82197a8e7c5c04736eae4185aeb79437fad4be6c57b81b40262"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v3/审计报告.json",
+      "size": 406,
+      "sha256": "9b30aa0a0035cc5912b96aa425981427b2e64fcb29c62562f213fe61c721b457"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v3/斜前.png",
+      "size": 1046183,
+      "sha256": "2ee590c43c13a5f47686e55411bd25f2e92a0ee10477e537ae0f97f590c48172"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v3/背面.png",
+      "size": 1033409,
+      "sha256": "57c715b940a178a6cc16fc5b1cd7c580de18a7a24521e55c62bce4c25239047a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/精修样板_v3/顶部.png",
+      "size": 1107614,
+      "sha256": "52df206a205f50fa3f7a1a9394914caa2c82079bd957b2de2b885af57528f7f7"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/背面.png",
+      "size": 210756,
+      "sha256": "e8ececefbf6882cd9f55f097893b93d913f92d8d70f601da773bc92eadce8832"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/T07_南岸低崖草坡/顶部.png",
+      "size": 247422,
+      "sha256": "492655c4e5ffbef1fab5f325f37fa0b03aabd23fa55495bf9f235f623a62de28"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/V03_直干棕榈树.fbx",
+      "size": 106476,
+      "sha256": "450eaeb8a5399fd4ba95736dadd57345075bf49004bda674ce8289a208084ee3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/V03_直干棕榈树.glb",
+      "size": 201728,
+      "sha256": "a626e9e969fa03b921c18320522f43b7b16e182dd17d90a4f5e717a56ff329c0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/V03_直干棕榈树_可编辑.blend",
+      "size": 158609,
+      "sha256": "fc9a8bff9d7d78de6c032b8b2bd03c7ed97864f422ec149bf68c40d68ededcfd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/V03_直干棕榈树_可编辑.blend1",
+      "size": 158372,
+      "sha256": "ecaf971973b3c230f3d4abd27a8a2857d2258362e2913bb6b5bdf0b7caad85af"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/V03_直干棕榈树_游戏.blend",
+      "size": 164794,
+      "sha256": "9d95f126c69bf685fcf2b3315eadff37af84ca6357c1613ffc5bcd48450b1de3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/V03_直干棕榈树_游戏.blend1",
+      "size": 164734,
+      "sha256": "8fb4ee0290e7aa83ae4563c4bf78f717a6dc87c6dcb4007adbf1887e4176de43"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/front.png",
+      "size": 1102638,
+      "sha256": "ddf20e28c4818d92b0ae50b9f5bb9381d55f635f18fb5cf9e3a3dc3b80a4655c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/right.png",
+      "size": 1100917,
+      "sha256": "7f53c5dfaafc8233129d766f3ebdafaee74226970aff62bceb45ffa4032ef8aa"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/threequarter.png",
+      "size": 1146000,
+      "sha256": "bf294cc525f82cb1cbcf601c8340dd18c9add032176394ff62d028c6ad4fa43a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/top.png",
+      "size": 1233675,
+      "sha256": "92721ce1d0ab15e714481071ce93452888c75af3300fd177a1691f201f5e9fa3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/制作.py",
+      "size": 8530,
+      "sha256": "e9fe3a5e23c6f7111f2feb298e71564fea3f6d0e846eeb0b2e3967fbc4ff8a09"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/审计.json",
+      "size": 108,
+      "sha256": "b36e5ae0b9bb7b57603238886ffae8639b4253eb8cc5d7f11276e46395ac0ed4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/格式回读审计.json",
+      "size": 1349,
+      "sha256": "80221d70c9ca2fcfc69b599d0853e98092891848482da544dfc5dcec572fc638"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/V03_直干棕榈树/格式审计.py",
+      "size": 1146,
+      "sha256": "76b5d7c8aec6480b647ac5cc7c61042d13225c92a5fdc82197cef745cbe8ba71"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/停用旧版/V03_直干棕榈树_替换前正式库/V03_直干棕榈树.fbx",
+      "size": 106476,
+      "sha256": "450eaeb8a5399fd4ba95736dadd57345075bf49004bda674ce8289a208084ee3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/停用旧版/V03_直干棕榈树_替换前正式库/V03_直干棕榈树.glb",
+      "size": 201728,
+      "sha256": "a626e9e969fa03b921c18320522f43b7b16e182dd17d90a4f5e717a56ff329c0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/停用旧版/V03_直干棕榈树_替换前正式库/V03_直干棕榈树_可编辑.blend",
+      "size": 158609,
+      "sha256": "fc9a8bff9d7d78de6c032b8b2bd03c7ed97864f422ec149bf68c40d68ededcfd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/停用旧版/V03_直干棕榈树_替换前正式库/V03_直干棕榈树_游戏.blend",
+      "size": 164794,
+      "sha256": "9d95f126c69bf685fcf2b3315eadff37af84ca6357c1613ffc5bcd48450b1de3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/停用旧版/V03_直干棕榈树_替换前正式库/预览/front.png",
+      "size": 1102638,
+      "sha256": "ddf20e28c4818d92b0ae50b9f5bb9381d55f635f18fb5cf9e3a3dc3b80a4655c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/停用旧版/V03_直干棕榈树_替换前正式库/预览/right.png",
+      "size": 1100917,
+      "sha256": "7f53c5dfaafc8233129d766f3ebdafaee74226970aff62bceb45ffa4032ef8aa"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/停用旧版/V03_直干棕榈树_替换前正式库/预览/threequarter.png",
+      "size": 1146000,
+      "sha256": "bf294cc525f82cb1cbcf601c8340dd18c9add032176394ff62d028c6ad4fa43a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/停用旧版/V03_直干棕榈树_替换前正式库/预览/top.png",
+      "size": 1233675,
+      "sha256": "92721ce1d0ab15e714481071ce93452888c75af3300fd177a1691f201f5e9fa3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/参考图工具/生成棕榈花灌丛参考拼图.py",
+      "size": 736,
+      "sha256": "69e00bcfcb4865f9fdbc7e375963e795293a243b285df0068856192769766930"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F01_近远岛尖礁/F01_近远岛尖礁.blend",
+      "size": 218198,
+      "sha256": "a96aa4f1393772513f8427df925d0981a70fa941b7ce9ac1e91c9d05603216e7"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F01_近远岛尖礁/F01_近远岛尖礁.fbx",
+      "size": 83516,
+      "sha256": "a93f24a390460e4b862d19160311f54199e1a29d56b89172be7b5d7d04264b95"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F01_近远岛尖礁/F01_近远岛尖礁.glb",
+      "size": 162032,
+      "sha256": "7a14e2a495386e4611baf8aa77af5a12f90e07a62e2fb7e8cacb0d0712bb04d1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F01_近远岛尖礁/侧面.png",
+      "size": 222165,
+      "sha256": "d8e28826d7206c60888478c988a763673b0da40650e3944fb655f56edc35bc9f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F01_近远岛尖礁/审计报告.json",
+      "size": 1697,
+      "sha256": "3294e3480833abdbd1a3678bdbee0756e4f4db75b7e58b91532f4bb663218117"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F01_近远岛尖礁/斜前.png",
+      "size": 230411,
+      "sha256": "66d0b8b340152bd9221502b1293be01e4ad028e5e4d03b32ed1108ed8e085962"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F01_近远岛尖礁/背面.png",
+      "size": 227549,
+      "sha256": "4c961212488c335e659cc09d3d702e1889e411c1749fa4a61be9657fbc3780de"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F01_近远岛尖礁/顶部.png",
+      "size": 229444,
+      "sha256": "2e94b8aace9a6354fb6380b5fca1760cf6ff991a346f99b50c1ecd7366772dee"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F02_最远天际山影/F02_最远天际山影.blend",
+      "size": 217957,
+      "sha256": "de4624aba642def3bb7b3bdb60025271edb94d2ab2dbe01b3bbf4c8cdf685162"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F02_最远天际山影/F02_最远天际山影.fbx",
+      "size": 34796,
+      "sha256": "3d38cf0387a2874b09ae613c2cddb2cfe0a4c2afcf63e8a6109e32ccd512a412"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F02_最远天际山影/F02_最远天际山影.glb",
+      "size": 34940,
+      "sha256": "825ac8a65235b3b2cb8feed74c5e03a0848f0f5915bf8d24a5a16019d7be2aaa"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F02_最远天际山影/侧面.png",
+      "size": 213886,
+      "sha256": "0ae53ad17f0a38b6b0e11f7124ced67ca4c2ca4e2316e9a542b79ae0a6cb0f4f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F02_最远天际山影/审计报告.json",
+      "size": 569,
+      "sha256": "94f49887ac0b435563f8625af6e082d7fe5de578e2d12652123e34c2e1ae02fa"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F02_最远天际山影/斜前.png",
+      "size": 212953,
+      "sha256": "9461047e0e4bd795fe88d065dc497fcdfad6d4ddf8cb5e289962e2693d89c32d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F02_最远天际山影/背面.png",
+      "size": 215770,
+      "sha256": "c51c8b86b116e286452d2fb5987fd3e3e752aa2b1857ef463ca330735c32413a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/F02_最远天际山影/顶部.png",
+      "size": 214757,
+      "sha256": "54944c15c696d1b2feb0d631d2b321b0dc735ee7580a75a99aefca12815b13ef"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T05_西岸岩壁模块/T05_西岸岩壁模块.blend",
+      "size": 170347,
+      "sha256": "983db4a516b56de9b747ba11d6e0f6acf8b8f312fddc59783e7357d098d763f3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T05_西岸岩壁模块/T05_西岸岩壁模块.fbx",
+      "size": 51388,
+      "sha256": "fedc1b8f82765b6ed50cbb65ad942d3f06a0a61bf7ee3f2a4012cd9ee8874729"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T05_西岸岩壁模块/T05_西岸岩壁模块.glb",
+      "size": 86084,
+      "sha256": "d32abe0f26e856a0058f81a04d858e4e8a23ba85a23510a7cc17256293dc8548"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T05_西岸岩壁模块/侧面.png",
+      "size": 233798,
+      "sha256": "6bb1434cfd38d8a29cd3fcf9dca0e9e01acd5fd98422e380cb46e19058f14d47"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T05_西岸岩壁模块/审计报告.json",
+      "size": 570,
+      "sha256": "676dc2c9a84ae191ca2acc69cde5a7350359aa50c4779dc2766bd1853fa1b47b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T05_西岸岩壁模块/斜前.png",
+      "size": 251048,
+      "sha256": "4857fb83f113ac1f0eb60330fe9d84320723b1d1a9cd01f116c96e960a1d6312"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T05_西岸岩壁模块/背面.png",
+      "size": 244600,
+      "sha256": "8fb7364b188cae1c7a41ab95c3c4ab35583db176cd7c0de35a5f5cbed57cb179"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T05_西岸岩壁模块/顶部.png",
+      "size": 258097,
+      "sha256": "548c9be9dc5f63736509a638fd3cc41e6c7f8c86fa2361f3e572ff830fbafdeb"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T06_东岸岩壁模块/T06_东岸岩壁模块.blend",
+      "size": 195194,
+      "sha256": "6d0caddb295313b295637186bfc15e39124c31c7dc0d77fd817c2c1a945d20a2"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T06_东岸岩壁模块/T06_东岸岩壁模块.fbx",
+      "size": 60988,
+      "sha256": "b1f8c3a5d0d33292a71d7c1b8654195367139d4a5af7f978579eab8c4657e19a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T06_东岸岩壁模块/T06_东岸岩壁模块.glb",
+      "size": 111884,
+      "sha256": "7233ede6d15b946e54da4665f9a93876dffc36c1ad156bba65c081fd0b40481a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T06_东岸岩壁模块/侧面.png",
+      "size": 222742,
+      "sha256": "2dc4aff79072d210ab3a36a8710c5a2f73de17a2b20439a647c1700679056987"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T06_东岸岩壁模块/审计报告.json",
+      "size": 573,
+      "sha256": "fd2ff3cd10bd7519dca79f884e2b66d5e48a997174122a9e8c8100c27bad137d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T06_东岸岩壁模块/斜前.png",
+      "size": 241800,
+      "sha256": "e69be39857ed040830f2f8cca5a183f7c6f21583b899b55eff6900e3807be186"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T06_东岸岩壁模块/背面.png",
+      "size": 248523,
+      "sha256": "bace00cb1cdd60840b036e4c2123164e2077310e3758bd6f02adcf59a54d238b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T06_东岸岩壁模块/顶部.png",
+      "size": 250347,
+      "sha256": "84ddf0d02767248d5fb8a89cab414a89eb3eec3494bd6dbea0066452224dde8f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T07_南岸低崖草坡/T07_南岸低崖草坡.blend",
+      "size": 198558,
+      "sha256": "11097a62d7f9694c201a7ecca416e0772eb11915030ef06ce9daa769fb24d5a3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T07_南岸低崖草坡/T07_南岸低崖草坡.fbx",
+      "size": 48684,
+      "sha256": "e14f498581973ebb63d0fc22fd9a205c7c5a03d245bdcf6247bf67b3029551d2"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T07_南岸低崖草坡/T07_南岸低崖草坡.glb",
+      "size": 77964,
+      "sha256": "5f1d56ff76c8568c9e496878b5bb95bcc85b4c23dca12415c3c38fe6ea5db6ac"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T07_南岸低崖草坡/侧面.png",
+      "size": 230820,
+      "sha256": "c9ecc86d1bacc0e75a44e722ef63076a82a4af904c44ebf2eaaf6ca7f6015143"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T07_南岸低崖草坡/审计报告.json",
+      "size": 570,
+      "sha256": "461c8d51a1e84120b8097e9f48fbfe0ba598448b47d34a15055a81718a5bb174"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T07_南岸低崖草坡/斜前.png",
+      "size": 241789,
+      "sha256": "684946c1f5417c3d20cfcec73b8720ac95aa923800048504711e5a3459d39dc3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T07_南岸低崖草坡/背面.png",
+      "size": 237710,
+      "sha256": "9ca2b87a379c7dd913d4c750eae56f9c445112bd6c960e12dc7a31d7eca67adb"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_初版备份/T07_南岸低崖草坡/顶部.png",
+      "size": 264254,
+      "sha256": "ebbe90919ac0683aa2f456ddd52bbd5e5a3f717dd8efac0633228b1a713f6512"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F01_近远岛尖礁/F01_近远岛尖礁.blend",
+      "size": 218200,
+      "sha256": "2fdf60d7c36ef315ea46db7426a1d3ade0c5bf9d69a0abbc4c3a79747df18a8c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F01_近远岛尖礁/F01_近远岛尖礁.blend1",
+      "size": 218198,
+      "sha256": "a96aa4f1393772513f8427df925d0981a70fa941b7ce9ac1e91c9d05603216e7"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F01_近远岛尖礁/F01_近远岛尖礁.fbx",
+      "size": 83788,
+      "sha256": "2b5c50619de147cd8bf568cee1e6ddb14e705747c635a822e4cc5e98793739c6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F01_近远岛尖礁/F01_近远岛尖礁.glb",
+      "size": 163004,
+      "sha256": "f8632a80754e25d4df2d44b0e1aafd2a662d638c135c9a43718615848cc13ba0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F01_近远岛尖礁/侧面.png",
+      "size": 191126,
+      "sha256": "6fcb7504f18221330b209d3126d040019f078cd50429f03320075940bd5603b1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F01_近远岛尖礁/审计报告.json",
+      "size": 2580,
+      "sha256": "8d9f2bedbdacedf7d8ce4c3a1bc2e796ed3dd3cf6a5a0d63a405b32be953cb94"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F01_近远岛尖礁/斜前.png",
+      "size": 200572,
+      "sha256": "2164b9f85020cbb4fe3a1293c9e2ec2e2001a1b4b88827f69966d48679399fd0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F01_近远岛尖礁/生成脚本.py",
+      "size": 8681,
+      "sha256": "a578fa7b1229081ca9879661aa430096a9a096b5b16c71d60fc07067d8be1c97"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F01_近远岛尖礁/背面.png",
+      "size": 198162,
+      "sha256": "3d7cd2d4a228cf4533a713952f794102f4ad0643e454a2f1454ade6d027e58ad"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F01_近远岛尖礁/顶部.png",
+      "size": 202538,
+      "sha256": "903b654baffb4bcc44fcc5aee3f14526c53e61b2a3d17516a707d8bc7c37965c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F02_最远天际山影/F02_最远天际山影.blend",
+      "size": 222799,
+      "sha256": "674e6c3cd3b5ece316d5e80a965c8f52327c798b3fca0429a1f4f8c5bc2f4e1e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F02_最远天际山影/F02_最远天际山影.blend1",
+      "size": 217957,
+      "sha256": "de4624aba642def3bb7b3bdb60025271edb94d2ab2dbe01b3bbf4c8cdf685162"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F02_最远天际山影/F02_最远天际山影.fbx",
+      "size": 49404,
+      "sha256": "3d107d553052e3739d9bf39a2800206c4da408901076a3af5ffd69e3124f182e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F02_最远天际山影/F02_最远天际山影.glb",
+      "size": 69340,
+      "sha256": "a626373c10e63ab6ff93b3b150acc77b8f92d2f976a99bd2a49891aa62868f6f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F02_最远天际山影/侧面.png",
+      "size": 182819,
+      "sha256": "991ac5a467920acdacae9b5bd73e1ba46494113552251d4d8bf23e9a0f3962f6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F02_最远天际山影/审计报告.json",
+      "size": 1252,
+      "sha256": "0653ff7f3e7b005167e1bc6ee4b8d188210acc17d3abcfa4ea3b59aa0e14c9ab"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F02_最远天际山影/斜前.png",
+      "size": 180607,
+      "sha256": "9170bbea718f5463e8615e5bba6ee646813162fa4ce393544b7e6ae51dde085e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F02_最远天际山影/生成脚本.py",
+      "size": 8681,
+      "sha256": "a578fa7b1229081ca9879661aa430096a9a096b5b16c71d60fc07067d8be1c97"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F02_最远天际山影/背面.png",
+      "size": 182736,
+      "sha256": "fbb49f52014665b7a330ec00013c0f2e2fcf02e7fd8342410674d842cf9f9866"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/F02_最远天际山影/顶部.png",
+      "size": 188319,
+      "sha256": "e57992774c0c70ef7a7d3569fcec8d1483df6b3aeec4476b511a7ad11949777f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T05_西岸岩壁模块/T05_西岸岩壁模块.blend",
+      "size": 170387,
+      "sha256": "38e2e0b3e679ec3841d56c98db5f62102e351d7ffd631971b85e78db5a6d7942"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T05_西岸岩壁模块/T05_西岸岩壁模块.blend1",
+      "size": 170347,
+      "sha256": "983db4a516b56de9b747ba11d6e0f6acf8b8f312fddc59783e7357d098d763f3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T05_西岸岩壁模块/T05_西岸岩壁模块.fbx",
+      "size": 51452,
+      "sha256": "792bde501b4e73466dd6ae196c464d048cc14905373cb5724fe0b304dc52bef0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T05_西岸岩壁模块/T05_西岸岩壁模块.glb",
+      "size": 86152,
+      "sha256": "70a91e851d38931b0255818da4c31b4aaf6f5c40084c81affa64e8b8b5180fd2"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T05_西岸岩壁模块/侧面.png",
+      "size": 211350,
+      "sha256": "f8296f6047b8fb19686868d69bb1fb3b5c32e7b31b768fb12f817b7d6de09246"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T05_西岸岩壁模块/审计报告.json",
+      "size": 774,
+      "sha256": "822a6fc1781ec22386a414e3f2e92ffa009882f6364089c19a5553cd243cb10a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T05_西岸岩壁模块/斜前.png",
+      "size": 231242,
+      "sha256": "3186ade9fbfca5adf593ef66d3605f3f2e19ab7728a9edca836bbbd7919c91be"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T05_西岸岩壁模块/生成脚本.py",
+      "size": 8681,
+      "sha256": "a578fa7b1229081ca9879661aa430096a9a096b5b16c71d60fc07067d8be1c97"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T05_西岸岩壁模块/背面.png",
+      "size": 222620,
+      "sha256": "b372c8189d5d0999ad9c948805e1013ad6fb6f597060ead2636fb94f65e96e81"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T05_西岸岩壁模块/顶部.png",
+      "size": 242396,
+      "sha256": "44a4db41c556421662dcb61d3180b891d4963e36b53730adbd9fc3bc73d309fc"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T06_东岸岩壁模块/T06_东岸岩壁模块.blend",
+      "size": 195208,
+      "sha256": "26022d4fd828a0415204c7fe84558c2ed9ea118f9920a73f2fa87449f4294efd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T06_东岸岩壁模块/T06_东岸岩壁模块.blend1",
+      "size": 195194,
+      "sha256": "6d0caddb295313b295637186bfc15e39124c31c7dc0d77fd817c2c1a945d20a2"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T06_东岸岩壁模块/T06_东岸岩壁模块.fbx",
+      "size": 61004,
+      "sha256": "72a989ef1afbd99efb3ddedba88c0f4721545d4d30c914f187ab127ca39a5ee1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T06_东岸岩壁模块/T06_东岸岩壁模块.glb",
+      "size": 111884,
+      "sha256": "bdf07622e700f7e38908d1703024c49fce6698a56c606b35596f3ddd5063c875"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T06_东岸岩壁模块/侧面.png",
+      "size": 197820,
+      "sha256": "6351573c6399f3e1081550a9571301518b3b2db51a80f2cb370337f3838ff63d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T06_东岸岩壁模块/审计报告.json",
+      "size": 778,
+      "sha256": "82ad0e7a352997110b9be746117df794d52c250637203bdb20243df316013f7f"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T06_东岸岩壁模块/斜前.png",
+      "size": 224003,
+      "sha256": "2b45a2db8b2d56aa5d72d5a8a5d594396dbb135d1243deead3006b2c9040a2c4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T06_东岸岩壁模块/生成脚本.py",
+      "size": 8681,
+      "sha256": "a578fa7b1229081ca9879661aa430096a9a096b5b16c71d60fc07067d8be1c97"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T06_东岸岩壁模块/背面.png",
+      "size": 222691,
+      "sha256": "c3015fa2aab2df1a55522fccd2810e970f2f2460307ee4c8087e4feeae29f9d6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T06_东岸岩壁模块/顶部.png",
+      "size": 231797,
+      "sha256": "dbbd9f405ac97c6563bb5d4afaec2a3e058d508e59e54f5c0bb05a6c4b4f4ac5"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T07_南岸低崖草坡/T07_南岸低崖草坡.blend",
+      "size": 198716,
+      "sha256": "bc90738ba105bd38f8ca2b16f2ce064b510ccee6821bc71df164d3a267398aef"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T07_南岸低崖草坡/T07_南岸低崖草坡.blend1",
+      "size": 198558,
+      "sha256": "11097a62d7f9694c201a7ecca416e0772eb11915030ef06ce9daa769fb24d5a3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T07_南岸低崖草坡/T07_南岸低崖草坡.fbx",
+      "size": 48764,
+      "sha256": "41b4b943b3b77b10b137240a30258d72419bbcbaaae81f58ed34a7c2933677d6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T07_南岸低崖草坡/T07_南岸低崖草坡.glb",
+      "size": 77968,
+      "sha256": "fc62fa15a27fcc4221d3f83746f7d80a246b8a5f8ec17568cb2fcf9a5f62f403"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T07_南岸低崖草坡/侧面.png",
+      "size": 207094,
+      "sha256": "8c5e0d57065447fa6764b098b41a7c210414a0259b850b658785a985b8e5c92c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T07_南岸低崖草坡/审计报告.json",
+      "size": 774,
+      "sha256": "c2536249bda8abe5149dc8a4aa026330d96774743c81295465e6861fce47ea01"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T07_南岸低崖草坡/斜前.png",
+      "size": 217524,
+      "sha256": "e49681ea5e36df8624e124626f57da30a6a96ee389f64e3d50893b474eda1042"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T07_南岸低崖草坡/生成脚本.py",
+      "size": 8681,
+      "sha256": "a578fa7b1229081ca9879661aa430096a9a096b5b16c71d60fc07067d8be1c97"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T07_南岸低崖草坡/背面.png",
+      "size": 213683,
+      "sha256": "598ae4e3cad788676beb3be4c8621ebe9eede235644f8c376a77b08f56b319e3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/岩岸历史工程/岩石岸壁远景_第二版备份/T07_南岸低崖草坡/顶部.png",
+      "size": 253544,
+      "sha256": "8466e21831d4303966b45076ca034306eb6b562faaef34abb800f5d3b2acfc87"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/替换归档/2026-11-05_L形码头/P01_破旧木码头/P01_破旧木码头.glb",
+      "size": 84432512,
+      "sha256": "7f626436f2fb9460d8f087b339954d54034ba5135206a602c06a9d17069c3d4e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC01.blend",
+      "size": 121060,
+      "sha256": "a718d1c68c3597c2df91d66ec3d28c9ec64cf64e7f1892c30daa9129cb6eee33"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC01.glb",
+      "size": 28776,
+      "sha256": "ab6e83a0dfe88683b949f81d5a2c3b21c8701bb8fd99a6cfc707c1cf19e270b1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC01_front.png",
+      "size": 262487,
+      "sha256": "971012548238c370e46bdb5f407e11f4d556497c5305e4f7b2c253c23fd197b1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC01_preview.png",
+      "size": 255231,
+      "sha256": "63f93181a44a826d8346e9ed409f801da9b17cd166bf535d824e7cbf0ff2d691"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC02.blend",
+      "size": 112326,
+      "sha256": "d158002ee633c28af5625f7f3e99b0e1a44d5d19a4c66e49eb2b45dcaeb8ccb4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC02.glb",
+      "size": 23908,
+      "sha256": "7347e0549dafd19e219d49ef64f18ed4d24323d25a2b36040032256395797eff"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC02_front.png",
+      "size": 316510,
+      "sha256": "2d172e73eb917c64ba85a7589183d9a77229d1a97f17ae14876e076c4571148b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC02_preview.png",
+      "size": 294271,
+      "sha256": "73f23c2a5d794601a003cca3d064a899284378b60809d355f57fa80d3200e1a8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC03.blend",
+      "size": 111549,
+      "sha256": "d8868e7314c43ba9b45801687462f3f466cd909f92f7b5483b03361a532f8422"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC03.glb",
+      "size": 20636,
+      "sha256": "b403bf8e5704c9fc4a0f18ae6d3e35a4f57d38456544b5ba69282a54b85086ac"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC03_front.png",
+      "size": 215832,
+      "sha256": "effdd05e0fc8bf075acb2b780b5793b7e228266b0bc6b3f3e1d7aa2dbdce5b4e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NC03_preview.png",
+      "size": 219871,
+      "sha256": "951e5d461bc1202e3a2709c8d7a7808d07f4cce3da3b1182480c4b0a29df880e"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NW01.blend",
+      "size": 112053,
+      "sha256": "595c5c856779f60a0e503256a986d9c8a66875f661b6f9b5d6bb6574ef8d03c6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NW01.glb",
+      "size": 19552,
+      "sha256": "633d347ae8dd8998565c380b9ec10dbdc3970333ffe1cc92a0fc10f0cf730e3d"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NW01_front.png",
+      "size": 220044,
+      "sha256": "852407daddfa2cb139b3256204aa169649cb393f40d9031b2f3c8c455ebf12f1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/NW01_preview.png",
+      "size": 219195,
+      "sha256": "6bb75a592feb31e97cb3b42a196982c8861cb0260b48c214de472cadc816a805"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/未采用方案/自制珊瑚水草/validation.json",
+      "size": 1167,
+      "sha256": "d3c4e1ec361101fe2f204ebf0b527b8a0783ff1d42f5200d0a1c90e4f11577b4"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/植物批量脚本/build_plants.py",
+      "size": 9952,
+      "sha256": "cd65dc4b6dfd30155e566c3bca99982d8568c92b972f6051da1695476ae001a0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/B01_破旧木屋_交付包.zip",
+      "size": 77268377,
+      "sha256": "c40421d132cbeab0c4cc9c3b8dc1dd9f5259aa3d4a42e587e18ef22043da10f1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/B02_大型红色仓库_交付包.zip",
+      "size": 43961965,
+      "sha256": "b6d045f90a20b1c25fa10610200eee445b4e4d756c9d7c19bbb537bd51f86cd7"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/R02_岸石_精修_v3.py",
+      "size": 13495,
+      "sha256": "251879a94e66fe35ea4556837283f8db8989f1a2d84a91037d99daafcb01bf33"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/R02_岸石_精修_v3日志.txt",
+      "size": 3294,
+      "sha256": "2c2742018668fa65f187fa6a30e52a7b0b0dba0d6550b1cb0b58083a65ab9ffd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/R02_岸石_精修_v4.py",
+      "size": 13573,
+      "sha256": "e851633f442fb80469324e94c03ebfdad601cb694b6ed0433f7ef1681e05fb42"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/R02_岸石_精修_v4日志.txt",
+      "size": 3294,
+      "sha256": "f871411a2925f36391d9729537a2af25c11fb78ad0c63a05b51136ab1acf9e0a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/R02_岸石_精修_v5.py",
+      "size": 13492,
+      "sha256": "aec02228cc7b6816e2d9a0b5a00c1c5badd74be7694b907802e4c6d60606aad3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/R02_岸石_精修_v5日志.txt",
+      "size": 3294,
+      "sha256": "9672ab7b8461b565a6fbbe6875a68a80eb091642f91bcd36b96a8b3ef86196d3"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/R02_岸石_精修_v6.py",
+      "size": 13482,
+      "sha256": "dea9ee2da272b2471bb26e3043fdea1801947034f3a116182eff44787c050efd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/R02_岸石_精修_v6日志.txt",
+      "size": 3295,
+      "sha256": "be1898c6458b47fef24b8498ba5b652d45a27be95418f72eaec8ec5a11628ff1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/v2制作日志.txt",
+      "size": 5954,
+      "sha256": "d6d530465c3b24fffe4e2103791b699bd8c7f408ee6d70dfb4b851bcda701f66"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/v3GLB自交检查.py",
+      "size": 1285,
+      "sha256": "0afc284307724958daab3cf86b62a9b2ad890ff3ec8200cd7a8d87b71db6ca64"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/v3制作日志.txt",
+      "size": 5954,
+      "sha256": "90e8bcf6dc2e76f8a3134cb4c2b2cd8f534e0db372075b1f5891bfa087fcb274"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/v3自交检查.py",
+      "size": 1348,
+      "sha256": "14168f6c788926f22e989bcb0499ad3e4dde269bbce558d55dcb80dd5e0ea2b0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/v4GLB自交检查.py",
+      "size": 1296,
+      "sha256": "6ce972861d5fb558c5e88d6038df4d3f5770c696ca7a9c83fbca99efba0e6b13"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/v4制作日志.txt",
+      "size": 5953,
+      "sha256": "f70bdcd74ec72f3877f8a7f10a9b7b28e035f93b5619bcc99144209b3cc38fdd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/v4自交检查.py",
+      "size": 1360,
+      "sha256": "d3cb03f99e9af70f554182a7030dc8469264ebcaa3824c2d75c9cb196cc117f8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/九项_FBX内嵌日志.txt",
+      "size": 3651,
+      "sha256": "5c34f7978be1176c9e69956c329934fe4c5c50a89e211b51716c849d14537ca7"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/九项_FBX内嵌材质.py",
+      "size": 906,
+      "sha256": "62946c96e55f3318f32eb54b44fdb0bb7d069d088a44fa7df0cdb3080d7a8e03"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/九项_最终核验交付.py",
+      "size": 4711,
+      "sha256": "b546337dc2686ba4dabc87162dd0d7053d288a4213e8296b48bb39d713091ab1"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/九项_最终核验日志.txt",
+      "size": 4196,
+      "sha256": "f3ee2bfa6cc8107c2275863237169246a6d6f7086dadfe6353ac7067c5814500"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸七项_回读自交检查.py",
+      "size": 2033,
+      "sha256": "61358dc932efcb654c01e918c4483449cb63c12dc1eb960b76f3294365739906"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸七项_检查日志.txt",
+      "size": 5813,
+      "sha256": "f19175565e5fc46b0f4193f70c1a5d7671f57300417a61d7eb34ae502577c482"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸三项_精修_v3.py",
+      "size": 13523,
+      "sha256": "47639b07faa5c82197a8e7c5c04736eae4185aeb79437fad4be6c57b81b40262"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸三项_精修_v3日志.txt",
+      "size": 7326,
+      "sha256": "2063d4f1b2a08457a974560a17cbb66aa4eafa380b979c798594f2ec882e84cd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸其余资产_精修.py",
+      "size": 12219,
+      "sha256": "eb51681dbbe295e040e4d09bb85fe9988b5550b357963bcc45bf743bbc1e4191"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸其余资产_精修_v2.py",
+      "size": 13325,
+      "sha256": "1c7a4777093d9423044d7b53746aa0a42b0c293d55d052ec9e9d4b1751240d38"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸其余资产_精修_v2日志.txt",
+      "size": 9898,
+      "sha256": "93511e306d8af213ec691b8324b15169fcf6184cbbb097d3aaa1ecb66ed9edc6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸其余资产_精修日志.txt",
+      "size": 9883,
+      "sha256": "282d76e8f5e8b4bceb4a674335c191b5629f1e9d3a005a57394f60c06e3aadff"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸更新项_回读自交检查.py",
+      "size": 1924,
+      "sha256": "370aa83ffc55ec1f1021b3dddf062939cef7257d56165dc62b139389eb7368e9"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸更新项_检查日志.txt",
+      "size": 2502,
+      "sha256": "65b63135f07a95840197669d4eabafaa95138fd01667f0efb80b34449e91eea6"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸最新项_回读自交检查.py",
+      "size": 1988,
+      "sha256": "ad0c440d82fcf122d5534a38c909080a110164731c815d2f92011320ca8d1c18"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸最新项_检查日志.txt",
+      "size": 4156,
+      "sha256": "042dec72f98896eddd5590e7ca3af9f899c9a104e2e1eb26edf9bd680d5921d0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸样板_回读检查.py",
+      "size": 1895,
+      "sha256": "bb3949f6b30d3a594a72b8b271584df7ae72ed6acaf602002542341925e19065"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩岸样板_检查日志.txt",
+      "size": 1693,
+      "sha256": "412cf88f79ec4cd3de401c5fc2fddfcad6c343553727d2d50e24fa74e2b0526a"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩石岸壁_基准重建.py",
+      "size": 7343,
+      "sha256": "6d9e2189818aa23f5d90e226713847e293058be1299641b250d81971b7dd94fe"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩石岸壁_基准重建日志.txt",
+      "size": 5126,
+      "sha256": "3e488ffb35b190bce2003f1db4eef32e348ace8958d1e245164b1c1fb784f73b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩石岸壁远景_FBX审计.py",
+      "size": 1321,
+      "sha256": "27d3b6eed53819e1faf5ee599a21f7d4b576ebfc3e0c4b7c76e6eff25eb2d429"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩石岸壁远景_FBX审计日志.txt",
+      "size": 2191,
+      "sha256": "4ba7d7e49b796e88c732199a8791fea411daab03b8c2edeb70bc8967757c60f7"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩石岸壁远景_生成日志.txt",
+      "size": 13129,
+      "sha256": "e7dfadbb640a4e598b97e043f943687dd964eddabcb67ee9e61a707a15454e54"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/岩石岸壁远景_生成脚本.py",
+      "size": 8793,
+      "sha256": "7165ac69f671cefde682eb52bda7ed241af2ceef33d8a5c02e1ae7c1b84c03a0"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/精修样板_v2_制作.py",
+      "size": 9120,
+      "sha256": "6114538f695b58d82a1c11baa71971a4a59cde745dab064952d29d9e89fbc143"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/精修样板_v3_制作.py",
+      "size": 9260,
+      "sha256": "c4e06d5446d21d961bb541fb246a1ca449865e72a0bea80a75ceac1871cdc4fd"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/精修样板_v4_制作.py",
+      "size": 9707,
+      "sha256": "e0f9ae015aa6ee8eda5acc21baa356ebaa336046522d753fc5ef26e0ef5e6c2b"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/远景_精修.py",
+      "size": 14496,
+      "sha256": "bcc7fc4c8b87e45009fbb6556247a206aecc6a85e9dd5c763f73957fc494b1db"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/远景_精修_v3.py",
+      "size": 14591,
+      "sha256": "e525611265e1b8c0ff7cf66a6142aee8b8cfc646f9bfde9be1242fcee4aa0a61"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/远景_精修_v3日志.txt",
+      "size": 6248,
+      "sha256": "fa178920aeadd2c8a80c11b885b85efd9a6822473d3e8f5b60c77f3e007e40e8"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/远景_精修_v4.py",
+      "size": 14949,
+      "sha256": "148125aa5ba816d385a9386ee4d72fbfd3ba46bc2b483279894fe88ca93ed606"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/远景_精修_v4日志.txt",
+      "size": 6247,
+      "sha256": "f4e351353ab02fe239dedbadf3b236b8d956c21a8c759b8ce01da332e1c15a9c"
+    },
+    {
+      "path": "素材/90_制作工程与原有版本/脚本日志与旧交付包/远景_精修日志.txt",
+      "size": 5944,
+      "sha256": "cb12cf80c0a3a715ea2369ff907444c3ed77057cfda6eb8ef1bc0dd85a9ac359"
+    }
+  ],
+  "remove_originals": true
+}

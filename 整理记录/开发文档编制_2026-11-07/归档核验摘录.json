@@ -1,0 +1,237 @@
+[
+  {
+    "entry": "工具/划船与镜头/运行结果.json",
+    "data": {
+      "boarded": true,
+      "camera_projection": 0,
+      "disembarked": true,
+      "fish_movement": 2.36958122253418,
+      "fps": 94.0,
+      "rowing_clip": "Paddle",
+      "schools": 34,
+      "small_fish": 672,
+      "speeds": {
+        "run": 6.6,
+        "swim": 2.4
+      },
+      "swimming_after_exit": true,
+      "travel": 9.06013488769531
+    }
+  },
+  {
+    "entry": "工具/划船与镜头/钓鱼运行结果.json",
+    "data": {
+      "bite": true,
+      "catch": {
+        "habitat": "ocean",
+        "name": "褐鳞鱼",
+        "species": "BrownFish",
+        "time": "2026-11-06T15:47:32",
+        "weight_kg": 0.22
+      },
+      "caught": true,
+      "fps": 92.0,
+      "inventory_saved": true,
+      "started": true
+    }
+  },
+  {
+    "entry": "工具/天气与生物/修复运行结果.json",
+    "data": {
+      "bird": {
+        "clip": "A_Fly_01",
+        "distance": 4.00837326049805,
+        "night": true,
+        "rain": 0.95,
+        "state": "flight"
+      },
+      "extra_props": 971,
+      "fog_density": 0.006,
+      "fog_enabled": true,
+      "fps": 109.0,
+      "land_motion": "Walk",
+      "renderer": "forward_plus",
+      "swim": {
+        "active": true,
+        "clip": "Swim",
+        "depth": 10.0,
+        "position": "(159.0541, -0.167525, 160.7807)",
+        "water": -0.184368086153532
+      },
+      "swim_idle": {
+        "active": true,
+        "clip": "SwimIdle",
+        "head_y": -0.165853559970856
+      }
+    }
+  },
+  {
+    "entry": "工具/天气与生物/浅海增密统计.json",
+    "data": {
+      "before": {
+        "large_rock": 181,
+        "coral": 54,
+        "seaweed": 32,
+        "shell": 121
+      },
+      "added": {
+        "large_rock": 453,
+        "coral": 135,
+        "seaweed": 80,
+        "shell": 303
+      },
+      "large_submerged_rocks": 91
+    }
+  },
+  {
+    "entry": "工具/小屋与卷轴UI修复/检查结果.json",
+    "data": {
+      "cabin_interaction": "rod",
+      "colliders": [
+        "/root/ShenyuanIsland/Island/B01_FishingCabin/B01_Structure/StructureCollision"
+      ],
+      "dialog_exit": true,
+      "dialog_on_screen": true,
+      "dialog_rectangle": "[P: (240.0, 457.0), S: (800.0, 247.0)]",
+      "dialog_visible": true,
+      "exit_button_visible": true,
+      "inside_cabin": true,
+      "letter_dialog": true,
+      "local_position": "(-0.748653, 0.654729, -0.589478)",
+      "rod_obtained": true,
+      "roof_open": true,
+      "scroll_unfolded": true,
+      "scroll_visible": true,
+      "settings_exit": true
+    }
+  },
+  {
+    "entry": "工具/岛屿玩法与UI/运行检查.json",
+    "data": {
+      "accelerated_hours": 0.100982042648731,
+      "boat_upgraded": true,
+      "creative_weather_allowed": true,
+      "death_after_attacks": true,
+      "fps": 70.0,
+      "hand_catch": true,
+      "harpoon_capture": true,
+      "harpoon_cost": 8,
+      "harpoon_purchased": true,
+      "intro_finished": true,
+      "inventory_slots": 8,
+      "merchant_gone_at_night": true,
+      "merchant_returns_morning": true,
+      "normal_weather_locked": true,
+      "run_speed": 4.8,
+      "seeds_purchased": true,
+      "shark_requires_harpoon": true,
+      "talk_clips": [
+        "Idle",
+        "Talk1",
+        "Talk2",
+        "Talk3"
+      ]
+    }
+  },
+  {
+    "entry": "工具/森林素材更新/岸边与水底散布核验.json",
+    "data": {
+      "seed": 11050624,
+      "shore_props": 997,
+      "above_water": 471,
+      "underwater": 526,
+      "large_rocks_on_shore": 69,
+      "counts": {
+        "shell": 470,
+        "large_rock": 415,
+        "coral": 70,
+        "seaweed": 42
+      },
+      "distribution": "uniform random candidates with footprint clearance; no cluster centers"
+    }
+  },
+  {
+    "entry": "工具/镜头与浅水状态修复/运行检查.json",
+    "data": {
+      "camera": [
+        {
+          "clear_plane": true,
+          "distance": 32.4676895141602,
+          "position": "(130.0, 1.449085, 110.0)",
+          "yaw": 0.65
+        },
+        {
+          "clear_plane": true,
+          "distance": 37.5660438537598,
+          "position": "(130.0, 1.449085, 110.0)",
+          "yaw": 2.2
+        },
+        {
+          "clear_plane": true,
+          "distance": 61.6192626953125,
+          "position": "(130.0, 1.449085, 110.0)",
+          "yaw": 3.8
+        },
+        {
+          "clear_plane": true,
+          "distance": 45.5253601074219,
+          "position": "(110.0, 5.0398, 92.0)",
+          "yaw": 0.65
+        },
+        {
+          "clear_plane": true,
+          "distance": 39.6921348571777,
+          "position": "(110.0, 5.0398, 92.0)",
+          "yaw": 2.2
+        },
+        {
+          "clear_plane": true,
+          "distance": 43.598949432373,
+          "position": "(110.0, 5.0398, 92.0)",
+          "yaw": 3.8
+        },
+        {
+          "clear_plane": true,
+          "distance": 41.399097442627,
+          "position": "(35.0, 4.04, -145.0)",
+          "yaw": 0.65
+        },
+        {
+          "clear_plane": true,
+          "distance": 55.1916275024414,
+          "position": "(35.0, 4.04, -145.0)",
+          "yaw": 2.2
+        },
+        {
+          "clear_plane": true,
+          "distance": 50.8892440795898,
+          "position": "(35.0, 4.04, -145.0)",
+          "yaw": 3.8
+        }
+      ],
+      "deep_entry": {
+        "capsule_clear": true,
+        "fish_target_released": true,
+        "fishing": false,
+        "fishing_state": 0,
+        "floor": -2.71644258499146,
+        "moved": 2.21075057983398,
+        "swimming": true
+      },
+      "fps": 94.0,
+      "shallow_crest": {
+        "fishing": true,
+        "floor": -0.507662534713745,
+        "moved": 1.41117525100708,
+        "swimming": false,
+        "water": 0.85
+      },
+      "shore_return": {
+        "capsule_height": 1.67999994754791,
+        "motion": "Walk",
+        "moved": 1.05960023403168,
+        "swimming": false
+      }
+    }
+  }
+]

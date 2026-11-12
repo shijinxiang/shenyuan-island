@@ -1,0 +1,288 @@
+{
+  "file": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\仓库_B02可开关门\\B02_interactive.glb",
+  "triangles": 9965,
+  "mesh_objects": 20,
+  "bounds_blender": [
+    [
+      -9.425000190734863,
+      -4.607499599456787,
+      0.0
+    ],
+    [
+      9.370000839233398,
+      4.325000286102295,
+      5.662635326385498
+    ]
+  ],
+  "dimensions_blender": [
+    18.79500102996826,
+    8.932499885559082,
+    5.662635326385498
+  ],
+  "ivy_nodes": [],
+  "missing_uv": [],
+  "front_blender": "-Y",
+  "front_godot": "+Z",
+  "default_pose": "closed",
+  "door_nodes_gltf": [
+    {
+      "children": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "extras": {
+        "motion": "slide",
+        "open_offset_x": -3.5,
+        "default_pose": "closed",
+        "closed_position_blender": [
+          -2.2799999713897705,
+          -4.375,
+          0.25999999046325684
+        ]
+      },
+      "mesh": 13,
+      "name": "Door_Cargo_Left",
+      "translation": [
+        -2.2799999713897705,
+        0.25999999046325684,
+        4.375
+      ]
+    },
+    {
+      "children": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "extras": {
+        "motion": "slide",
+        "open_offset_x": 3.5,
+        "default_pose": "closed",
+        "closed_position_blender": [
+          4.579999923706055,
+          -4.375,
+          0.25999999046325684
+        ]
+      },
+      "mesh": 18,
+      "name": "Door_Cargo_Right",
+      "translation": [
+        4.579999923706055,
+        0.25999999046325684,
+        4.375
+      ]
+    },
+    {
+      "extras": {
+        "motion": "hinge",
+        "hinge_axis_blender": "Z",
+        "open_angle_degrees": -100,
+        "default_pose": "closed",
+        "closed_position_blender": [
+          -9.125,
+          0.38999998569488525,
+          0.2199999988079071
+        ]
+      },
+      "mesh": 19,
+      "name": "Door_Service",
+      "translation": [
+        -9.125,
+        0.2199999988079071,
+        -0.38999998569488525
+      ]
+    }
+  ],
+  "doors": {
+    "Door_Cargo_Left": {
+      "godot_open_translation_delta": [
+        -3.5,
+        0,
+        0
+      ]
+    },
+    "Door_Cargo_Right": {
+      "godot_open_translation_delta": [
+        3.5,
+        0,
+        0
+      ]
+    },
+    "Door_Service": {
+      "godot_hinge_axis": "local Y",
+      "open_rotation_degrees_y": -100,
+      "blender_hinge_axis": "local Z"
+    }
+  },
+  "closed_main_hits": [
+    "Door_Cargo_Left"
+  ],
+  "closed_service_hits": [
+    "Door_Service"
+  ],
+  "open_main_rays": [
+    {
+      "x": -2,
+      "z": 0.4,
+      "hits": []
+    },
+    {
+      "x": -2,
+      "z": 1.6,
+      "hits": []
+    },
+    {
+      "x": -2,
+      "z": 3.3,
+      "hits": []
+    },
+    {
+      "x": -1,
+      "z": 0.4,
+      "hits": []
+    },
+    {
+      "x": -1,
+      "z": 1.6,
+      "hits": []
+    },
+    {
+      "x": -1,
+      "z": 3.3,
+      "hits": []
+    },
+    {
+      "x": 0,
+      "z": 0.4,
+      "hits": []
+    },
+    {
+      "x": 0,
+      "z": 1.6,
+      "hits": []
+    },
+    {
+      "x": 0,
+      "z": 3.3,
+      "hits": []
+    },
+    {
+      "x": 1,
+      "z": 0.4,
+      "hits": []
+    },
+    {
+      "x": 1,
+      "z": 1.6,
+      "hits": []
+    },
+    {
+      "x": 1,
+      "z": 3.3,
+      "hits": []
+    },
+    {
+      "x": 2,
+      "z": 0.4,
+      "hits": []
+    },
+    {
+      "x": 2,
+      "z": 1.6,
+      "hits": []
+    },
+    {
+      "x": 2,
+      "z": 3.3,
+      "hits": []
+    },
+    {
+      "x": 3,
+      "z": 0.4,
+      "hits": []
+    },
+    {
+      "x": 3,
+      "z": 1.6,
+      "hits": []
+    },
+    {
+      "x": 3,
+      "z": 3.3,
+      "hits": []
+    },
+    {
+      "x": 4.2,
+      "z": 0.4,
+      "hits": []
+    },
+    {
+      "x": 4.2,
+      "z": 1.6,
+      "hits": []
+    },
+    {
+      "x": 4.2,
+      "z": 3.3,
+      "hits": []
+    }
+  ],
+  "open_service_rays": [
+    {
+      "y": -0.6,
+      "z": 0.4,
+      "hits": []
+    },
+    {
+      "y": -0.6,
+      "z": 1.5,
+      "hits": []
+    },
+    {
+      "y": -0.6,
+      "z": 2.4,
+      "hits": []
+    },
+    {
+      "y": -0.2,
+      "z": 0.4,
+      "hits": []
+    },
+    {
+      "y": -0.2,
+      "z": 1.5,
+      "hits": []
+    },
+    {
+      "y": -0.2,
+      "z": 2.4,
+      "hits": []
+    },
+    {
+      "y": 0.25,
+      "z": 0.4,
+      "hits": []
+    },
+    {
+      "y": 0.25,
+      "z": 1.5,
+      "hits": []
+    },
+    {
+      "y": 0.25,
+      "z": 2.4,
+      "hits": []
+    }
+  ],
+  "floor_hits": [
+    "B02_05_Interior"
+  ],
+  "interior_back_wall_hits": [
+    "B02_01_Exterior"
+  ],
+  "pass": true,
+  "source_game_sha256_match": true
+}

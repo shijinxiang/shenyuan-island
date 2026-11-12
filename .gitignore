@@ -1,0 +1,32 @@
+# Godot caches and local editor data
+游戏/.godot/
+游戏/addons/.godot_ai_update/
+**/__pycache__/
+**/*.pyc
+.DS_Store
+Thumbs.db
+~$*
+
+# Rebuildable exports and temporary staging
+_build/
+发布/
+整理记录/运行诊断/
+**/*.tmp
+**/*.log
+**/*.pid
+**/*.blend[0-9]
+
+# Local secrets do not belong in collaboration history
+.env
+.env.*
+*.pfx
+*.pem
+*.key
+export_credentials.cfg
+.credentials/
+
+# Large historical archives are supplied separately from Git workflows
+归档/
+工具/Godot_4.7.2/
+
+# Keep UID and import settings files to preserve stable references

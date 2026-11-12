@@ -1,0 +1,374 @@
+{
+  "date": "2026-11-03",
+  "coordinator": "root: scheduling and independent review only",
+  "modeling_model": "gpt-6.1-terra",
+  "image_generation_model": "gpt-6-luna",
+  "current_island": "整岛灰模_v08_建筑细节",
+  "acceptance": [
+    "参考形态与美术风格对比",
+    "实际三角面数不超确认上限",
+    "实体拓扑、退化面、重合面与明显穿模检查",
+    "按实际尺寸的UV与材质",
+    "360度多视图渲染",
+    "可编辑及游戏blend，GLB/FBX回读",
+    "用户确认前人物不做，瀑布不擅自增加"
+  ],
+  "assets": [
+    {
+      "id": "B01",
+      "asset": "B01_破旧木屋",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\B_建筑\\B01_破旧木屋",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "现有资产保留，不重复建模"
+    },
+    {
+      "id": "B02",
+      "asset": "B02_褪色蓝仓库",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\B_建筑\\B02_褪色蓝仓库",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "现有资产保留，不重复建模"
+    },
+    {
+      "id": "B03",
+      "asset": "B03_白色灯塔",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\B_建筑\\B03_白色灯塔",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "现有资产保留，不重复建模"
+    },
+    {
+      "id": "C01",
+      "asset": "C01_登陆点主角",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\C_人物与飞鸟\\C01_登陆点主角",
+      "assigned_agent": "terra_props",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "按用户要求暂不建模"
+    },
+    {
+      "id": "C02",
+      "asset": "C02_白色海鸟",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\C_人物与飞鸟\\C02_白色海鸟",
+      "assigned_agent": "terra_props",
+      "triangle_limit": 4000,
+      "budget_confirmed": true,
+      "status": "v04，3862三角面；合组4网格已回读，风格化海鸟修订候选未装岛",
+      "actual_triangles": 3862
+    },
+    {
+      "id": "F01",
+      "asset": "F01_近远岛尖礁",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\F_远景分层\\F01_近远岛尖礁",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": 3000,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "F02",
+      "asset": "F02_最远天际山影",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\F_远景分层\\F02_最远天际山影",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": 800,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "G01",
+      "asset": "G01_整岛地面",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\G_地面贴图\\G01_整岛地面",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "环境资源方案已编制，待实施安排"
+    },
+    {
+      "id": "P01",
+      "asset": "P01_破旧木码头",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\P_设施与摆件\\P01_破旧木码头",
+      "assigned_agent": "terra_props",
+      "triangle_limit": 8000,
+      "budget_confirmed": true,
+      "status": "4908三角面修订版已核对；未装入岛"
+    },
+    {
+      "id": "P02",
+      "asset": "P02_泊岸旧木船",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\P_设施与摆件\\P02_泊岸旧木船",
+      "assigned_agent": "terra_props",
+      "triangle_limit": 10000,
+      "budget_confirmed": true,
+      "status": "用户提供新船，原样导入和基础检查完成；旧自制船停止修订，未装岛",
+      "actual_triangles": 999868,
+      "source_file": "D:\\浪费GPT额度\\小温的游戏\\素材\\船.glb",
+      "selected_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\P02_用户提供原模\\原样导入检查.blend",
+      "source_sha256": "92724a9b509b334291fbc13d42f36bca36d8d677a562ae541712a9e64b02a78d",
+      "processing_policy": "保留用户源文件，本次未执行任何减面；原10000预算不用于此次原样导入"
+    },
+    {
+      "id": "R01",
+      "asset": "R01_圆钝灰色巨石",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\R_岩石\\R01_圆钝灰色巨石",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": 600,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "R02",
+      "asset": "R02_扁平岸石",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\R_岩石\\R02_扁平岸石",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": 500,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "R03",
+      "asset": "R03_尖棱立石",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\R_岩石\\R03_尖棱立石",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": 700,
+      "budget_confirmed": true,
+      "status": "v4单主峰连续斜肩修订候选，待最终对比验收",
+      "actual_triangles": null
+    },
+    {
+      "id": "R04",
+      "asset": "R04_低矮礁石组合",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\R_岩石\\R04_低矮礁石组合",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": 1400,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "S01",
+      "asset": "S01_白色积云",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\S_天空与云\\S01_白色积云",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "环境资源方案已编制，待实施安排"
+    },
+    {
+      "id": "S02",
+      "asset": "S02_晴天天空色片",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\S_天空与云\\S02_晴天天空色片",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "环境资源方案已编制，待实施安排"
+    },
+    {
+      "id": "T01",
+      "asset": "T01_环形岛地形基底",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\T_地形\\T01_环形岛地形基底",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "现有资产保留，不重复建模"
+    },
+    {
+      "id": "T02",
+      "asset": "T02_北侧西段山脊",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\T_地形\\T02_北侧西段山脊",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "现有资产保留，不重复建模"
+    },
+    {
+      "id": "T03",
+      "asset": "T03_北侧中段尖峰山脊",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\T_地形\\T03_北侧中段尖峰山脊",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "现有资产保留，不重复建模"
+    },
+    {
+      "id": "T04",
+      "asset": "T04_北侧东段山脊",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\T_地形\\T04_北侧东段山脊",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "现有资产保留，不重复建模"
+    },
+    {
+      "id": "T05",
+      "asset": "T05_西岸岩壁模块",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\T_地形\\T05_西岸岩壁模块",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": 1800,
+      "budget_confirmed": true,
+      "status": "v4单一连续岩壁、取消附加岩块，修订候选待最终验收",
+      "actual_triangles": null
+    },
+    {
+      "id": "T06",
+      "asset": "T06_东岸岩壁模块",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\T_地形\\T06_东岸岩壁模块",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": 2500,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "T07",
+      "asset": "T07_南岸低崖草坡",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\T_地形\\T07_南岸低崖草坡",
+      "assigned_agent": "terra_rocks",
+      "triangle_limit": 1500,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "V01",
+      "asset": "V01_高圆冠阔叶树",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\V_植物\\V01_高圆冠阔叶树",
+      "assigned_agent": "terra_vegetation",
+      "triangle_limit": null,
+      "budget_confirmed": true,
+      "status": "用户明确选定外部原树：保留原始面数、造型和材质；旧V01弃用；尚未装岛",
+      "actual_triangles": 1498398,
+      "source_file": "D:\\浪费GPT额度\\小温的游戏\\素材\\树.glb",
+      "no_decimation": true,
+      "source_sha256": "92e690abb0174a82e3f3fdf65b78709d8faa1a155bbbbfb5100a84af88075bb2",
+      "selected_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\V01_用户提供原模\\导入检查.blend"
+    },
+    {
+      "id": "V02",
+      "asset": "V02_矮宽冠阔叶树",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\V_植物\\V02_矮宽冠阔叶树",
+      "assigned_agent": "terra_vegetation",
+      "triangle_limit": 6000,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "V03",
+      "asset": "V03_直干棕榈树",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\V_植物\\V03_直干棕榈树",
+      "assigned_agent": "terra_vegetation",
+      "triangle_limit": 4000,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "V04",
+      "asset": "V04_弯干棕榈树",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\V_植物\\V04_弯干棕榈树",
+      "assigned_agent": "terra_vegetation",
+      "triangle_limit": 4500,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "V05",
+      "asset": "V05_圆团灌木",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\V_植物\\V05_圆团灌木",
+      "assigned_agent": "terra_vegetation",
+      "triangle_limit": 3000,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "V06",
+      "asset": "V06_横向舒展灌木",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\V_植物\\V06_横向舒展灌木",
+      "assigned_agent": "terra_vegetation",
+      "triangle_limit": 3500,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "V07",
+      "asset": "V07_短草簇",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\V_植物\\V07_短草簇",
+      "assigned_agent": "terra_vegetation",
+      "triangle_limit": 1000,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "V08",
+      "asset": "V08_黄色花灌丛",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\V_植物\\V08_黄色花灌丛",
+      "assigned_agent": "terra_vegetation",
+      "triangle_limit": 4000,
+      "budget_confirmed": true,
+      "status": "预算已确认；暂停批量扩展，待同类样板通过视觉验收"
+    },
+    {
+      "id": "W01",
+      "asset": "W01_中央潟湖水色",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\W_水体与效果\\W01_中央潟湖水色",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "环境资源方案已编制，待实施安排"
+    },
+    {
+      "id": "W02",
+      "asset": "W02_外海水面",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\W_水体与效果\\W02_外海水面",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "环境资源方案已编制，待实施安排"
+    },
+    {
+      "id": "W03",
+      "asset": "W03_西侧小瀑布",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\W_水体与效果\\W03_西侧小瀑布",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "遵守原要求，暂不制作可见瀑布效果"
+    },
+    {
+      "id": "W04",
+      "asset": "W04_中段高瀑布",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\W_水体与效果\\W04_中段高瀑布",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "遵守原要求，暂不制作可见瀑布效果"
+    },
+    {
+      "id": "W05",
+      "asset": "W05_东侧宽瀑布",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\W_水体与效果\\W05_东侧宽瀑布",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "遵守原要求，暂不制作可见瀑布效果"
+    },
+    {
+      "id": "W06",
+      "asset": "W06_海岸泡沫",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\W_水体与效果\\W06_海岸泡沫",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "环境资源方案已编制，待实施安排"
+    },
+    {
+      "id": "W07",
+      "asset": "W07_山间薄雾",
+      "reference_folder": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\W_水体与效果\\W07_山间薄雾",
+      "assigned_agent": "terra_environment_plan",
+      "triangle_limit": null,
+      "budget_confirmed": false,
+      "status": "环境资源方案已编制，待实施安排"
+    }
+  ],
+  "latest_quality_decision": "用户否定粗模外观；R03/T05/V01退回。任何技术检查通过不能替代视觉验收。禁止把当前粗模装入岛或视作成品。"
+}

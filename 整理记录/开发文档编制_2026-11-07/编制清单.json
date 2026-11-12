@@ -1,0 +1,380 @@
+[
+  {
+    "file": "D:\\浪费GPT额度\\小温的游戏\\需求\\开发过程文档\\深渊岛_完整开发过程.docx",
+    "source": "完整开发过程.md",
+    "chars": 24470,
+    "figures": 40,
+    "tables": 14,
+    "figure_list": [
+      {
+        "number": 1,
+        "source": "P19",
+        "caption": "早期需求文档的形成记录 图中展示需求交付与文件入口 属于规划阶段"
+      },
+      {
+        "number": 2,
+        "source": "P22",
+        "caption": "环形海岛的理想视觉目标 这是目标参考图 不是当前Godot实时画面"
+      },
+      {
+        "number": 3,
+        "source": "flow_overall",
+        "caption": "开发流程与反馈循环"
+      },
+      {
+        "number": 4,
+        "source": "P11",
+        "caption": "将单个资产拆成独立提示词的对话记录 原文属于资源准备阶段"
+      },
+      {
+        "number": 5,
+        "source": "P03",
+        "caption": "木码头参考视图示例 这些图用于理解结构和材质 并非拓扑或尺度测量图"
+      },
+      {
+        "number": 6,
+        "source": "P07",
+        "caption": "用户提出参考分析与Blender建模要求的对话截图"
+      },
+      {
+        "number": 7,
+        "source": "P01",
+        "caption": "早期木屋在Blender中的外观预览 墙面爬山虎是后续被取消的细节"
+      },
+      {
+        "number": 8,
+        "source": "P10",
+        "caption": "单个建筑在当时工作目录中的BLEND FBX GLB及预览文件 体现源工程与导出物的区别"
+      },
+      {
+        "number": 9,
+        "source": "P16",
+        "caption": "在混元3D中重新生成棕榈树的过程截图 体现不满意资源的替换路径"
+      },
+      {
+        "number": 10,
+        "source": "P21",
+        "caption": "混元3D阶段生成资源的展示 其中早期石块和鸟类后续又被替换"
+      },
+      {
+        "number": 11,
+        "source": "P08",
+        "caption": "通过Godot AI MCP进行整岛资源接入与节点布置的编辑器画面"
+      },
+      {
+        "number": 12,
+        "source": "P14",
+        "caption": "早期整岛摆放结果 此时主要确认空间关系 植被和地面尚未完成后期分区"
+      },
+      {
+        "number": 13,
+        "source": "P04",
+        "caption": "重新制作的L形码头与下部支撑结构 属于Blender制作阶段"
+      },
+      {
+        "number": 14,
+        "source": "P05",
+        "caption": "码头与浅海浪花的阶段效果 包括L形码头 透明浅水和海底亮纹"
+      },
+      {
+        "number": 15,
+        "source": "flow_water",
+        "caption": "海浪从输入到画面的处理"
+      },
+      {
+        "number": 16,
+        "source": "P23",
+        "caption": "草地铺设的Godot编辑器画面 地面底色与立体草叶共同构成草场"
+      },
+      {
+        "number": 17,
+        "source": "P17",
+        "caption": "用户在整岛图上标出的三层渐变范围 红线是规划标注 不是游戏里的实际边界"
+      },
+      {
+        "number": 18,
+        "source": "P18",
+        "caption": "后续红叶树的实际限制区域标注 与早期整片红叶边框方案有所不同"
+      },
+      {
+        "number": 19,
+        "source": "P09",
+        "caption": "使用Tripo从角色参考生成模型的画面 展示T形姿态和网格预览"
+      },
+      {
+        "number": 20,
+        "source": "P02",
+        "caption": "Blender中女渔夫T形骨架与模型的对应关系"
+      },
+      {
+        "number": 21,
+        "source": "P24",
+        "caption": "Blender中鱼竿的绑定操作画面 杆与卷线器需要服务后续钓鱼动作"
+      },
+      {
+        "number": 22,
+        "source": "P12",
+        "caption": "在Mixamo中挑选动作的过程截图"
+      },
+      {
+        "number": 23,
+        "source": "P06",
+        "caption": "绑定后的女渔夫跑步预览 静态截图只记录一个姿势 动作来自连续关键帧"
+      },
+      {
+        "number": 24,
+        "source": "P13",
+        "caption": "寻找可用免费游戏资源的过程截图 下载可用性与许可保留需要单独管理"
+      },
+      {
+        "number": 25,
+        "source": "P20",
+        "caption": "天气与生物进入游戏后的阶段实机画面 可见雨天岸线与水域"
+      },
+      {
+        "number": 26,
+        "source": "flow_ecology",
+        "caption": "生物更新与交互关系"
+      },
+      {
+        "number": 27,
+        "source": "A10",
+        "caption": "加长船桨后的实机画面 近景可观察桨与船体及手部比例"
+      },
+      {
+        "number": 28,
+        "source": "A09",
+        "caption": "第三人称划船的阶段实机效果 展示船 人物 桨与浅海的空间关系"
+      },
+      {
+        "number": 29,
+        "source": "A04",
+        "caption": "镜头安全修复后的仓库附近斜俯视画面 这是阶段检查图 不是全图所有角度无问题的保证"
+      },
+      {
+        "number": 30,
+        "source": "A11",
+        "caption": "人物在码头持竿走动的阶段实机图"
+      },
+      {
+        "number": 31,
+        "source": "A08",
+        "caption": "钓获鱼被甩到脚边后的阶段画面 鱼在画面中的尺寸较小 行为由脚边渔获逻辑驱动"
+      },
+      {
+        "number": 32,
+        "source": "A01",
+        "caption": "实时模型背包的阶段界面 图中的鱼数量属于截图当时存档 不作为初始配发数量"
+      },
+      {
+        "number": 33,
+        "source": "flow_states",
+        "caption": "人物在陆地水面与钓鱼之间转换"
+      },
+      {
+        "number": 34,
+        "source": "flow_gameplay",
+        "caption": "当前原型的生活循环"
+      },
+      {
+        "number": 35,
+        "source": "A02",
+        "caption": "商人首次交谈的早期界面 后续对话框样式和退出方式又做过修复"
+      },
+      {
+        "number": 36,
+        "source": "A03",
+        "caption": "引擎内序章漂流画面 采用现有船只 人物与水域完成镜头"
+      },
+      {
+        "number": 37,
+        "source": "A07",
+        "caption": "入口与室内修复后的画面 人物位于室内 屋顶打开 可接近信件和鱼竿"
+      },
+      {
+        "number": 38,
+        "source": "A06",
+        "caption": "修复后的闻舟对话框 位于画面下方 并提供可见退出入口"
+      },
+      {
+        "number": 39,
+        "source": "A05",
+        "caption": "藏宝卷轴风格的设置界面 展开纸面承载时间流速 创造模式与其他设置"
+      },
+      {
+        "number": 40,
+        "source": "P15",
+        "caption": "后期玩法逐步汇合的实机截图 画面记录船只与钓鱼相关交互阶段"
+      }
+    ]
+  },
+  {
+    "file": "D:\\浪费GPT额度\\小温的游戏\\需求\\开发过程文档\\深渊岛_三人分工开发文档.docx",
+    "source": "三人分工开发记录.md",
+    "chars": 16963,
+    "figures": 32,
+    "tables": 9,
+    "figure_list": [
+      {
+        "number": 1,
+        "source": "P22",
+        "caption": "项目视觉方向参考 这是概念目标 不是三名组员已完成的实时成果"
+      },
+      {
+        "number": 2,
+        "source": "flow_team",
+        "caption": "三人责任与交接"
+      },
+      {
+        "number": 3,
+        "source": "P03",
+        "caption": "码头参考视图用于分析木板 支撑柱与横梁 不以图片直接测定真实尺寸"
+      },
+      {
+        "number": 4,
+        "source": "P11",
+        "caption": "独立资产提示词的准备记录"
+      },
+      {
+        "number": 5,
+        "source": "P07",
+        "caption": "通过Blender MCP执行建模任务的早期需求记录"
+      },
+      {
+        "number": 6,
+        "source": "P01",
+        "caption": "早期带爬山虎木屋的Blender预览 该外观后来退出当前方案"
+      },
+      {
+        "number": 7,
+        "source": "P04",
+        "caption": "L形码头重建阶段的结构画面"
+      },
+      {
+        "number": 8,
+        "source": "P16",
+        "caption": "棕榈树通过生成工具重新准备的过程"
+      },
+      {
+        "number": 9,
+        "source": "P21",
+        "caption": "外部生成模型的阶段资源展示 其中部分资产后来继续换版"
+      },
+      {
+        "number": 10,
+        "source": "P09",
+        "caption": "人物从参考生成三维模型的阶段画面"
+      },
+      {
+        "number": 11,
+        "source": "P02",
+        "caption": "Blender中人物骨架的可视化检查"
+      },
+      {
+        "number": 12,
+        "source": "P12",
+        "caption": "Mixamo动作检索与选择的过程"
+      },
+      {
+        "number": 13,
+        "source": "P24",
+        "caption": "鱼竿骨骼制作与对象检查"
+      },
+      {
+        "number": 14,
+        "source": "P19",
+        "caption": "游戏需求文档的早期交付记录"
+      },
+      {
+        "number": 15,
+        "source": "P17",
+        "caption": "深绿生态区三层过渡的标注图"
+      },
+      {
+        "number": 16,
+        "source": "P18",
+        "caption": "红叶树最新限制区域 以该标注替代早期宽泛范围"
+      },
+      {
+        "number": 17,
+        "source": "flow_fishing",
+        "caption": "钓鱼流程和退出条件"
+      },
+      {
+        "number": 18,
+        "source": "A01",
+        "caption": "模型背包阶段画面 每格鱼有独立预览 不是静态统一图标"
+      },
+      {
+        "number": 19,
+        "source": "A03",
+        "caption": "小爱漂流序章的阶段实机图"
+      },
+      {
+        "number": 20,
+        "source": "A05",
+        "caption": "藏宝卷轴设置样式 属于后期UI统一结果"
+      },
+      {
+        "number": 21,
+        "source": "P08",
+        "caption": "Godot内场景布置与工具操作的阶段画面"
+      },
+      {
+        "number": 22,
+        "source": "P14",
+        "caption": "整岛早期搭建的编辑器画面"
+      },
+      {
+        "number": 23,
+        "source": "P05",
+        "caption": "登陆区浅海阶段效果"
+      },
+      {
+        "number": 24,
+        "source": "P23",
+        "caption": "草地实例和地表材质进入Godot后的画面"
+      },
+      {
+        "number": 25,
+        "source": "P20",
+        "caption": "天气和生物的运行阶段画面"
+      },
+      {
+        "number": 26,
+        "source": "P06",
+        "caption": "女渔夫跑步动作的阶段预览"
+      },
+      {
+        "number": 27,
+        "source": "A09",
+        "caption": "第三人称划船与角色握桨的运行结果"
+      },
+      {
+        "number": 28,
+        "source": "A04",
+        "caption": "仓库附近镜头穿模修复的阶段记录"
+      },
+      {
+        "number": 29,
+        "source": "flow_states",
+        "caption": "人物在陆地水面与钓鱼之间转换"
+      },
+      {
+        "number": 30,
+        "source": "A08",
+        "caption": "脚边鱼实体的阶段画面"
+      },
+      {
+        "number": 31,
+        "source": "A06",
+        "caption": "闻舟对话框修复后的样式与退出入口"
+      },
+      {
+        "number": 32,
+        "source": "A07",
+        "caption": "小屋入口与室内交互修复后画面"
+      }
+    ]
+  }
+]

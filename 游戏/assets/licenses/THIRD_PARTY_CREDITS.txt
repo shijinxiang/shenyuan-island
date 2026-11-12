@@ -1,0 +1,7 @@
+Low Poly Skies - heyheythere - CC BY 4.0. Integrated panoramas and cloud/lightning models.
+https://creativecommons.org/licenses/by/4.0/
+NIMBLUX FX Lite - Gennai - MIT. Project-specific terrain-aware rain adaptations live in shaders/weather_rain_*.
+Weather Atmosphere Toolkit 1.0.1 - included license applies.
+American Robin - Soltorch Games, Look To The Birds free sample.
+Marine models are supplied by the project owner. Original source assets remain under the resource library.
+Rain and thunder sounds were synthesized for this project.

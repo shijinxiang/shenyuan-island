@@ -1,0 +1,16 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "basis": "视频制作方法与项目应用.txt; frame_055s.jpg: depth and transparency; frame_075s.jpg: soft shoreline; frame_090s.jpg: fragmented foam. Original concept images as edit targets.",
+  "images": [
+    {
+      "file": "码头浅水坡_设计效果_v2.png",
+      "prompt": "Edit the first image, preserving its composition, warm refined stylized 3D appearance, weathered wooden pier and beach. Use the other reference frames only for clear depth-dependent water, a softly appearing thin-water shoreline, fine caustics and restrained fragmented foam, not their sandcastle or rectangular slab. Keep a nearly horizontal structurally stable deck, shore at right and deeper water at left. Posts are short by shore and progressively longer seaward as the continuous sandy seabed slopes gently downward. Show every visible post foot planted into the sand clearly with no gaps. Most posts remain near vertical; a few individual posts lean visibly but subtly in different directions, about 3–6 degrees, while staying attached to the deck. Make seabed visually gentler than original, no cliff. Remove most coral and underwater plants to expose sand and post bottoms. Blend dry sand to slightly darker wet sand to clear thin water, pale turquoise and deep blue naturally; gentle waterline, fine caustics and small ripples, sparse broken foam away from post feet. No opaque wall, technical labels, numbers, people, mountains, waterfall, pixel art or floating elements. Concept art, not a completed model.",
+      "actual_size": "1774x887"
+    },
+    {
+      "file": "整岛浅水带_设计效果_v2.png",
+      "prompt": "Edit the first image while preserving its full island composition, irregular ring landmass and large central lagoon, warm detailed stylized 3D style, existing red warehouse, small hut, landing dock, and lighthouse at end of stone breakwater in the same positions. Use the other reference frames only for depth-dependent transparency, softly emerging thin water at shore, subtle caustics and sparse broken foam, NOT the rectangular slab, cut edges or sandcastle. Refine all inner and outer shorelines into continuous smooth gently descending underwater sandy slopes. Eliminate regular concentric stripes, equidistant bright halos and repeated brushstroke bands: shallows naturally vary in width with the existing shoreline and topography and fade gradually into deep blue. Reveal sand through transparent near-shore water with subtle fine caustics. Inner lagoon is calm with a gradual deep center; outer sea has slightly more ripples. Soft dry sand to darker wet sand to transparent thin water at waterline, sparse intermittent foam. No cliffs, shore gaps, offshore circular platforms, new mountains, waterfalls, people, pixel art, text, technical values or code. This is concept art, not a completed model.",
+      "actual_size": "1672x941"
+    }
+  ]
+}

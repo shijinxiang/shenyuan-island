@@ -1,0 +1,14 @@
+Pixel Dreamer Studio - Asset License
+Copyright (c) 2026 Pixel Dreamer Studio - https://pixeldreamerstudio.itch.io
+
+You may:
+- use these files in unlimited personal and commercial projects (games, apps, videos, streams)
+- modify them, recolor them, combine them with your own work
+
+You may not:
+- resell, share or redistribute the files themselves, on their own or inside another
+  asset pack, template, library or marketplace listing (modified or not)
+- claim the files as your own work
+- use the files to train AI models
+
+Credit is appreciated but not required. Questions: message us on itch.io.

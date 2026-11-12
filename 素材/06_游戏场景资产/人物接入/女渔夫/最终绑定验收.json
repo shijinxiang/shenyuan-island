@@ -1,0 +1,57 @@
+{
+  "code": "C01",
+  "name": "女渔夫",
+  "bones": 53,
+  "triangles": 40764,
+  "weighted_vertices": 20563,
+  "max_influences": 4,
+  "rest_bounds": [
+    [
+      -0.856033205986023,
+      -0.4884709417819977,
+      0.0
+    ],
+    [
+      0.856033205986023,
+      0.4884709417819977,
+      1.8000000715255737
+    ]
+  ],
+  "textures": [
+    {
+      "name": "tripo_image_72ed5180_0",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    }
+  ],
+  "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\人物接入\\女渔夫\\C01_女渔夫_已绑骨.blend",
+  "glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\人物接入\\女渔夫\\C01_女渔夫_已绑骨.glb",
+  "fbx": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\人物接入\\女渔夫\\C01_女渔夫_已绑骨.fbx",
+  "game_glb": "D:\\浪费GPT额度\\小温的游戏\\游戏\\assets\\characters\\C01_rigged.glb",
+  "animations_exported": false,
+  "glb_roundtrip": {
+    "bones": 53,
+    "bound_error_m": 1.2479519558707906e-07,
+    "textures": [
+      [
+        2048,
+        2048
+      ]
+    ],
+    "weighted": true
+  },
+  "fbx_roundtrip": {
+    "bones": 53,
+    "bound_error_m": 3.2912019566596233e-07,
+    "textures": [
+      [
+        2048,
+        2048
+      ]
+    ],
+    "weighted": true
+  }
+}

@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" load_steps=3 format=3]
+
+[ext_resource type="Texture2D" path="res://assets/farming/soil_wet_albedo.png" id="1"]
+[ext_resource type="Texture2D" path="res://assets/farming/soil_wet_roughness.png" id="2"]
+
+[resource]
+resource_name = "Cultivated soil wet"
+albedo_texture = ExtResource("1")
+roughness = 0.53
+roughness_texture = ExtResource("2")
+roughness_texture_channel = 0

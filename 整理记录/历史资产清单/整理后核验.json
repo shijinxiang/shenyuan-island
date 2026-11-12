@@ -1,0 +1,17 @@
+{
+  "new_glbs_hash_identical": 15,
+  "retained_independent_assets": 9,
+  "formal_asset_count": 24,
+  "old_replaced_models_remaining_in_engineering": [],
+  "old_model_root_removed": true,
+  "top_level": [
+    "00_从这里开始.txt",
+    "01_正式模型",
+    "02_整岛场景",
+    "03_参考图与资料",
+    "04_共享材质与贴图",
+    "90_制作工程与原有版本",
+    "99_资产清单与整理记录",
+    "模型清单.csv"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+ "skies": [
+  {
+   "name": "day_fair",
+   "title": "Fair weather",
+   "kind": "day",
+   "light": {
+    "az": 120,
+    "el": 45,
+    "to": [
+     0.6124,
+     0.7071,
+     0.3536
+    ],
+    "color": "fff4dc",
+    "energy": 1.0,
+    "moon": false
+   },
+   "ambient": "83add9",
+   "fog": "c0d8ea"
+  },
+  {
+   "name": "sunset_orange",
+   "title": "Orange sunset",
+   "kind": "dusk",
+   "light": {
+    "az": 260,
+    "el": 3,
+    "to": [
+     -0.9835,
+     0.0523,
+     0.1734
+    ],
+    "color": "ffa060",
+    "energy": 0.75,
+    "moon": false
+   },
+   "ambient": "8e6562",
+   "fog": "f08c4c"
+  },
+  {
+   "name": "night_full_moon",
+   "title": "Full moon",
+   "kind": "night",
+   "light": {
+    "az": 160,
+    "el": 34,
+    "to": [
+     0.2835,
+     0.5592,
+     0.779
+    ],
+    "color": "b8c8f0",
+    "energy": 0.219,
+    "moon": true
+   },
+   "ambient": "212c52",
+   "fog": "33416c"
+  },
+  {
+   "name": "overcast_grey",
+   "title": "Grey day",
+   "kind": "overcast",
+   "light": {
+    "az": 150,
+    "el": 40,
+    "to": [
+     0.383,
+     0.6428,
+     0.6634
+    ],
+    "color": "e0e2e4",
+    "energy": 0.688,
+    "moon": false
+   },
+   "ambient": "929aa5",
+   "fog": "a9afb8"
+  }
+ ]
+}

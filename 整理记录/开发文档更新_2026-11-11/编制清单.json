@@ -1,0 +1,935 @@
+[
+  {
+    "file": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\成稿\\深渊岛_完整开发过程.docx",
+    "source": "完整开发过程.md",
+    "chars": 35145,
+    "figures": 110,
+    "tables": 15,
+    "figure_list": [
+      {
+        "number": 1,
+        "source": "P19",
+        "caption": "早期需求文档的形成记录 图中展示需求交付与文件入口 属于规划阶段"
+      },
+      {
+        "number": 2,
+        "source": "P22",
+        "caption": "环形海岛的理想视觉目标 这是目标参考图 不是当前Godot实时画面"
+      },
+      {
+        "number": 3,
+        "source": "flow_overall",
+        "caption": "开发流程与反馈循环"
+      },
+      {
+        "number": 4,
+        "source": "P11",
+        "caption": "将单个资产拆成独立提示词的对话记录 原文属于资源准备阶段"
+      },
+      {
+        "number": 5,
+        "source": "P03",
+        "caption": "木码头参考视图示例 这些图用于理解结构和材质 网格和尺寸另由源模型核对"
+      },
+      {
+        "number": 6,
+        "source": "P07",
+        "caption": "用户提出参考分析与Blender建模要求的对话截图"
+      },
+      {
+        "number": 7,
+        "source": "P01",
+        "caption": "早期木屋在Blender中的外观预览 墙面爬山虎是后续被取消的细节"
+      },
+      {
+        "number": 8,
+        "source": "P10",
+        "caption": "单个建筑在当时工作目录中的BLEND FBX GLB及预览文件 体现源工程与导出物的区别"
+      },
+      {
+        "number": 9,
+        "source": "P16",
+        "caption": "在混元3D中重新生成棕榈树的过程截图 体现不满意资源的替换路径"
+      },
+      {
+        "number": 10,
+        "source": "P21",
+        "caption": "混元3D阶段生成资源的展示 其中早期石块和鸟类后续又被替换"
+      },
+      {
+        "number": 11,
+        "source": "P08",
+        "caption": "通过Godot AI MCP进行整岛资源接入与节点布置的编辑器画面"
+      },
+      {
+        "number": 12,
+        "source": "P14",
+        "caption": "早期整岛摆放结果 此时主要确认空间关系 植被和地面尚未完成后期分区"
+      },
+      {
+        "number": 13,
+        "source": "P04",
+        "caption": "重新制作的L形码头与下部支撑结构 属于Blender制作阶段"
+      },
+      {
+        "number": 14,
+        "source": "P05",
+        "caption": "码头与浅海浪花的阶段效果 包括L形码头 透明浅水和海底亮纹"
+      },
+      {
+        "number": 15,
+        "source": "flow_water",
+        "caption": "海浪从输入到画面的处理"
+      },
+      {
+        "number": 16,
+        "source": "P23",
+        "caption": "草地铺设的Godot编辑器画面 地面底色与立体草叶共同构成草场"
+      },
+      {
+        "number": 17,
+        "source": "P17",
+        "caption": "用户在整岛图上标出的三层渐变范围 红线是规划标注 不是游戏里的实际边界"
+      },
+      {
+        "number": 18,
+        "source": "P18",
+        "caption": "后续红叶树的实际限制区域标注 与早期整片红叶边框方案有所不同"
+      },
+      {
+        "number": 19,
+        "source": "P09",
+        "caption": "使用Tripo从角色参考生成模型的画面 展示T形姿态和网格预览"
+      },
+      {
+        "number": 20,
+        "source": "P02",
+        "caption": "Blender中女渔夫T形骨架与模型的对应关系"
+      },
+      {
+        "number": 21,
+        "source": "P24",
+        "caption": "Blender中鱼竿的绑定操作画面 杆与卷线器需要服务后续钓鱼动作"
+      },
+      {
+        "number": 22,
+        "source": "P12",
+        "caption": "在Mixamo中挑选动作的过程截图"
+      },
+      {
+        "number": 23,
+        "source": "P06",
+        "caption": "绑定后的女渔夫跑步预览 静态截图只记录一个姿势 动作来自连续关键帧"
+      },
+      {
+        "number": 24,
+        "source": "P13",
+        "caption": "寻找可用免费游戏资源的过程截图 下载可用性与许可保留需要单独管理"
+      },
+      {
+        "number": 25,
+        "source": "P20",
+        "caption": "天气与生物进入游戏后的阶段实机画面 可见雨天岸线与水域"
+      },
+      {
+        "number": 26,
+        "source": "flow_ecology",
+        "caption": "生物更新与交互关系"
+      },
+      {
+        "number": 27,
+        "source": "A10",
+        "caption": "加长船桨后的实机画面 近景可观察桨与船体及手部比例"
+      },
+      {
+        "number": 28,
+        "source": "A09",
+        "caption": "第三人称划船的阶段实机效果 展示船 人物 桨与浅海的空间关系"
+      },
+      {
+        "number": 29,
+        "source": "A04",
+        "caption": "镜头安全修复后的仓库附近斜俯视画面 这是阶段检查图 不是全图所有角度无问题的保证"
+      },
+      {
+        "number": 30,
+        "source": "A11",
+        "caption": "人物在码头持竿走动的阶段实机图"
+      },
+      {
+        "number": 31,
+        "source": "A08",
+        "caption": "钓获鱼被甩到脚边后的阶段画面 鱼在画面中的尺寸较小 行为由脚边渔获逻辑驱动"
+      },
+      {
+        "number": 32,
+        "source": "A01",
+        "caption": "实时模型背包的阶段界面 图中的鱼数量属于截图当时存档 不作为初始配发数量"
+      },
+      {
+        "number": 33,
+        "source": "flow_states",
+        "caption": "人物在陆地水面与钓鱼之间转换"
+      },
+      {
+        "number": 34,
+        "source": "flow_gameplay",
+        "caption": "当前原型的生活循环"
+      },
+      {
+        "number": 35,
+        "source": "A02",
+        "caption": "商人首次交谈的早期界面 后续对话框样式和退出方式又做过修复"
+      },
+      {
+        "number": 36,
+        "source": "A03",
+        "caption": "引擎内序章漂流画面 采用现有船只 人物与水域完成镜头"
+      },
+      {
+        "number": 37,
+        "source": "A07",
+        "caption": "入口与室内修复后的画面 人物位于室内 屋顶打开 可接近信件和鱼竿"
+      },
+      {
+        "number": 38,
+        "source": "A06",
+        "caption": "修复后的闻舟对话框 位于画面下方 并提供可见退出入口"
+      },
+      {
+        "number": 39,
+        "source": "A05",
+        "caption": "藏宝卷轴风格的设置界面 展开纸面承载时间流速 创造模式与其他设置"
+      },
+      {
+        "number": 40,
+        "source": "P15",
+        "caption": "后期玩法逐步汇合的实机截图 画面记录船只与钓鱼相关交互阶段"
+      },
+      {
+        "number": 41,
+        "source": "H01",
+        "caption": "11月9日踩水与中段持叉的阶段实机"
+      },
+      {
+        "number": 42,
+        "source": "H02",
+        "caption": "同轮测试中游泳移动时收起鱼叉"
+      },
+      {
+        "number": 43,
+        "source": "H03",
+        "caption": "斧头挥击树木的阶段实机"
+      },
+      {
+        "number": 44,
+        "source": "H04",
+        "caption": "树倒下后留下树桩和多段可拾取木头"
+      },
+      {
+        "number": 45,
+        "source": "H05",
+        "caption": "同一场景对照湿地干地和成熟作物"
+      },
+      {
+        "number": 46,
+        "source": "H06",
+        "caption": "缺水幼苗与干裂土壤的阶段画面"
+      },
+      {
+        "number": 47,
+        "source": "N05",
+        "caption": "最新发布包人物页中的六项技艺与效果"
+      },
+      {
+        "number": 48,
+        "source": "H10",
+        "caption": "人物面板内的背包分页"
+      },
+      {
+        "number": 49,
+        "source": "N13",
+        "caption": "最新发布包中的西岸鳄鱼爬行姿态"
+      },
+      {
+        "number": 50,
+        "source": "N14",
+        "caption": "攻击动作的张嘴帧"
+      },
+      {
+        "number": 51,
+        "source": "N15",
+        "caption": "游泳姿态与水中尾部动作"
+      },
+      {
+        "number": 52,
+        "source": "H11",
+        "caption": "生活补给与升级商品的阶段界面"
+      },
+      {
+        "number": 53,
+        "source": "N02",
+        "caption": "最新狩猎分类中的木弓箭弹和剥皮小刀"
+      },
+      {
+        "number": 54,
+        "source": "N06",
+        "caption": "夜间床头灯点亮"
+      },
+      {
+        "number": 55,
+        "source": "N07",
+        "caption": "同一位置关闭灯光"
+      },
+      {
+        "number": 56,
+        "source": "N08",
+        "caption": "满足条件后的睡眠确认"
+      },
+      {
+        "number": 57,
+        "source": "N09",
+        "caption": "执行睡眠后到次日七点"
+      },
+      {
+        "number": 58,
+        "source": "N10",
+        "caption": "箱盖关闭的实机近景"
+      },
+      {
+        "number": 59,
+        "source": "N11",
+        "caption": "箱盖打开的实机近景"
+      },
+      {
+        "number": 60,
+        "source": "N12",
+        "caption": "背包与箱子的并排存取界面"
+      },
+      {
+        "number": 61,
+        "source": "H14",
+        "caption": "拖放后的两侧物品状态"
+      },
+      {
+        "number": 62,
+        "source": "H15",
+        "caption": "小地图完整显示的阶段复核"
+      },
+      {
+        "number": 63,
+        "source": "H16",
+        "caption": "离岛远航后的海域覆盖"
+      },
+      {
+        "number": 64,
+        "source": "H18",
+        "caption": "小地图滚轮放大"
+      },
+      {
+        "number": 65,
+        "source": "H19",
+        "caption": "左键平移后的地图位置"
+      },
+      {
+        "number": 66,
+        "source": "H20",
+        "caption": "缩小后查看整个海域"
+      },
+      {
+        "number": 67,
+        "source": "N21",
+        "caption": "商人说明东海沉船委托"
+      },
+      {
+        "number": 68,
+        "source": "N22",
+        "caption": "发布包中实际生成的沉船宝藏和鲨群"
+      },
+      {
+        "number": 69,
+        "source": "N26",
+        "caption": "任务进度与宝藏状态"
+      },
+      {
+        "number": 70,
+        "source": "H12",
+        "caption": "获得车辆后的驾驶实机"
+      },
+      {
+        "number": 71,
+        "source": "H12",
+        "caption": "修复轮次的驾驶状态"
+      },
+      {
+        "number": 72,
+        "source": "H29",
+        "caption": "树林路段驾车与固定镜距复核"
+      },
+      {
+        "number": 73,
+        "source": "H03",
+        "caption": "砍树挥击段"
+      },
+      {
+        "number": 74,
+        "source": "H08",
+        "caption": "单手采摘式收获"
+      },
+      {
+        "number": 75,
+        "source": "H07",
+        "caption": "Watering浇水与水壶方向"
+      },
+      {
+        "number": 76,
+        "source": "N23",
+        "caption": "同一只鲨鱼的游动第一帧"
+      },
+      {
+        "number": 77,
+        "source": "N24",
+        "caption": "游动第二帧中的尾部变化"
+      },
+      {
+        "number": 78,
+        "source": "N25",
+        "caption": "受击后显示吃痛退避反馈"
+      },
+      {
+        "number": 79,
+        "source": "H17",
+        "caption": "遮挡后的模糊人物轮廓"
+      },
+      {
+        "number": 80,
+        "source": "H28",
+        "caption": "遮挡时保留镜距的复核场景"
+      },
+      {
+        "number": 81,
+        "source": "H31",
+        "caption": "主场景内修正后的斧头持握"
+      },
+      {
+        "number": 82,
+        "source": "H32",
+        "caption": "钢斧采用同一握持方向"
+      },
+      {
+        "number": 83,
+        "source": "N31",
+        "caption": "最新发布包的掌心与柄部近景"
+      },
+      {
+        "number": 84,
+        "source": "N30",
+        "caption": "在画面中央展开的完整信纸"
+      },
+      {
+        "number": 85,
+        "source": "N04",
+        "caption": "猎枪第一阶段委托要求"
+      },
+      {
+        "number": 86,
+        "source": "N19",
+        "caption": "实际运行中的单发装填倒计时"
+      },
+      {
+        "number": 87,
+        "source": "H21",
+        "caption": "船上持弓的阶段实机"
+      },
+      {
+        "number": 88,
+        "source": "N28",
+        "caption": "小屋门口的大锅"
+      },
+      {
+        "number": 89,
+        "source": "N29",
+        "caption": "七种食谱的实际烹饪界面"
+      },
+      {
+        "number": 90,
+        "source": "H22",
+        "caption": "彩色美味前缀与食物背包"
+      },
+      {
+        "number": 91,
+        "source": "N27",
+        "caption": "最新发布包的头顶金星饥饿条与暗角"
+      },
+      {
+        "number": 92,
+        "source": "H33",
+        "caption": "恢复源动作后的左右手与弓弦"
+      },
+      {
+        "number": 93,
+        "source": "N20",
+        "caption": "最新发布包中的拉弦姿态和缩窄帽檐"
+      },
+      {
+        "number": 94,
+        "source": "H26",
+        "caption": "从背包拖入五格工具栏"
+      },
+      {
+        "number": 95,
+        "source": "H27",
+        "caption": "开箱时仍能从人物背包拖入"
+      },
+      {
+        "number": 96,
+        "source": "H23",
+        "caption": "鼠标悬停树木的细白边"
+      },
+      {
+        "number": 97,
+        "source": "H24",
+        "caption": "树与耕地分别处于选中和悬停状态"
+      },
+      {
+        "number": 98,
+        "source": "H25",
+        "caption": "船和鱼在同一区域内分别选择"
+      },
+      {
+        "number": 99,
+        "source": "N01",
+        "caption": "数字5对应斧头格位高亮并实际持械"
+      },
+      {
+        "number": 100,
+        "source": "N35",
+        "caption": "再次按数字5后工具收起且高亮清除"
+      },
+      {
+        "number": 101,
+        "source": "H30",
+        "caption": "真实坡地上的仰视镜头保持在地面上方"
+      },
+      {
+        "number": 102,
+        "source": "H29",
+        "caption": "树林驾车时的镜距稳定复核"
+      },
+      {
+        "number": 103,
+        "source": "N20",
+        "caption": "木弓的实际装备状态"
+      },
+      {
+        "number": 104,
+        "source": "N25",
+        "caption": "大型猎物受伤后的退避画面"
+      },
+      {
+        "number": 105,
+        "source": "N03",
+        "caption": "剥皮小刀的实际兑换界面"
+      },
+      {
+        "number": 106,
+        "source": "D01",
+        "caption": "发布复核发现材质丢失时的原始实机截图"
+      },
+      {
+        "number": 107,
+        "source": "N16",
+        "caption": "修正后保留带材质的完整鳄鱼尸体"
+      },
+      {
+        "number": 108,
+        "source": "N17",
+        "caption": "处理进度与切割动作"
+      },
+      {
+        "number": 109,
+        "source": "N18",
+        "caption": "处理后肉类进入背包"
+      },
+      {
+        "number": 110,
+        "source": "N01",
+        "caption": "最新发布PCK实际运行的主场景与工具栏"
+      }
+    ]
+  },
+  {
+    "file": "D:\\浪费GPT额度\\小温的游戏\\整理记录\\开发文档更新_2026-11-11\\成稿\\深渊岛_三人分工开发文档.docx",
+    "source": "三人分工开发记录.md",
+    "chars": 27038,
+    "figures": 73,
+    "tables": 10,
+    "figure_list": [
+      {
+        "number": 1,
+        "source": "P22",
+        "caption": "项目视觉方向参考 这是概念目标 属于概念参考阶段"
+      },
+      {
+        "number": 2,
+        "source": "flow_team",
+        "caption": "三人责任与交接"
+      },
+      {
+        "number": 3,
+        "source": "P03",
+        "caption": "码头参考视图用于分析木板 支撑柱与横梁 不以图片直接测定真实尺寸"
+      },
+      {
+        "number": 4,
+        "source": "P11",
+        "caption": "独立资产提示词的准备记录"
+      },
+      {
+        "number": 5,
+        "source": "P07",
+        "caption": "通过Blender MCP执行建模任务的早期需求记录"
+      },
+      {
+        "number": 6,
+        "source": "P01",
+        "caption": "早期带爬山虎木屋的Blender预览 该外观后来退出当前方案"
+      },
+      {
+        "number": 7,
+        "source": "P04",
+        "caption": "L形码头重建阶段的结构画面"
+      },
+      {
+        "number": 8,
+        "source": "P16",
+        "caption": "棕榈树通过生成工具重新准备的过程"
+      },
+      {
+        "number": 9,
+        "source": "P21",
+        "caption": "外部生成模型的阶段资源展示 其中部分资产后来继续换版"
+      },
+      {
+        "number": 10,
+        "source": "P09",
+        "caption": "人物从参考生成三维模型的阶段画面"
+      },
+      {
+        "number": 11,
+        "source": "P02",
+        "caption": "Blender中人物骨架的可视化检查"
+      },
+      {
+        "number": 12,
+        "source": "P12",
+        "caption": "Mixamo动作检索与选择的过程"
+      },
+      {
+        "number": 13,
+        "source": "P24",
+        "caption": "鱼竿骨骼制作与对象检查"
+      },
+      {
+        "number": 14,
+        "source": "H01",
+        "caption": "11月9日踩水与中段持叉的阶段实机"
+      },
+      {
+        "number": 15,
+        "source": "H03",
+        "caption": "斧头挥击树木的阶段实机"
+      },
+      {
+        "number": 16,
+        "source": "H05",
+        "caption": "同一场景对照湿地干地和成熟作物"
+      },
+      {
+        "number": 17,
+        "source": "N13",
+        "caption": "最新发布包中的西岸鳄鱼爬行姿态"
+      },
+      {
+        "number": 18,
+        "source": "N22",
+        "caption": "发布包中实际生成的沉船宝藏和鲨群"
+      },
+      {
+        "number": 19,
+        "source": "H12",
+        "caption": "获得车辆后的驾驶实机"
+      },
+      {
+        "number": 20,
+        "source": "H03",
+        "caption": "砍树挥击段"
+      },
+      {
+        "number": 21,
+        "source": "N23",
+        "caption": "同一只鲨鱼的游动第一帧"
+      },
+      {
+        "number": 22,
+        "source": "N24",
+        "caption": "游动第二帧中的尾部变化"
+      },
+      {
+        "number": 23,
+        "source": "N31",
+        "caption": "最新发布包的掌心与柄部近景"
+      },
+      {
+        "number": 24,
+        "source": "H33",
+        "caption": "恢复源动作后的左右手与弓弦"
+      },
+      {
+        "number": 25,
+        "source": "N03",
+        "caption": "剥皮小刀的实际兑换界面"
+      },
+      {
+        "number": 26,
+        "source": "N17",
+        "caption": "处理进度与切割动作"
+      },
+      {
+        "number": 27,
+        "source": "P19",
+        "caption": "游戏需求文档的早期交付记录"
+      },
+      {
+        "number": 28,
+        "source": "P17",
+        "caption": "深绿生态区三层过渡的标注图"
+      },
+      {
+        "number": 29,
+        "source": "P18",
+        "caption": "红叶树最新限制区域 以该标注替代早期宽泛范围"
+      },
+      {
+        "number": 30,
+        "source": "flow_fishing",
+        "caption": "钓鱼流程和退出条件"
+      },
+      {
+        "number": 31,
+        "source": "A01",
+        "caption": "模型背包阶段画面 每格鱼有独立预览 预览由物品模型实时渲染"
+      },
+      {
+        "number": 32,
+        "source": "A03",
+        "caption": "小爱漂流序章的阶段实机图"
+      },
+      {
+        "number": 33,
+        "source": "A05",
+        "caption": "藏宝卷轴设置样式 属于后期UI统一结果"
+      },
+      {
+        "number": 34,
+        "source": "N05",
+        "caption": "最新发布包人物页中的六项技艺与效果"
+      },
+      {
+        "number": 35,
+        "source": "H11",
+        "caption": "生活补给与升级商品的阶段界面"
+      },
+      {
+        "number": 36,
+        "source": "N06",
+        "caption": "夜间床头灯点亮"
+      },
+      {
+        "number": 37,
+        "source": "N09",
+        "caption": "执行睡眠后到次日七点"
+      },
+      {
+        "number": 38,
+        "source": "H16",
+        "caption": "离岛远航后的海域覆盖"
+      },
+      {
+        "number": 39,
+        "source": "H18",
+        "caption": "小地图滚轮放大"
+      },
+      {
+        "number": 40,
+        "source": "H19",
+        "caption": "左键平移后的地图位置"
+      },
+      {
+        "number": 41,
+        "source": "H20",
+        "caption": "缩小后查看整个海域"
+      },
+      {
+        "number": 42,
+        "source": "N04",
+        "caption": "猎枪第一阶段委托要求"
+      },
+      {
+        "number": 43,
+        "source": "N29",
+        "caption": "七种食谱的实际烹饪界面"
+      },
+      {
+        "number": 44,
+        "source": "H22",
+        "caption": "彩色美味前缀与食物背包"
+      },
+      {
+        "number": 45,
+        "source": "N20",
+        "caption": "木弓的实际装备状态"
+      },
+      {
+        "number": 46,
+        "source": "P08",
+        "caption": "Godot内场景布置与工具操作的阶段画面"
+      },
+      {
+        "number": 47,
+        "source": "P14",
+        "caption": "整岛早期搭建的编辑器画面"
+      },
+      {
+        "number": 48,
+        "source": "P05",
+        "caption": "登陆区浅海阶段效果"
+      },
+      {
+        "number": 49,
+        "source": "P23",
+        "caption": "草地实例和地表材质进入Godot后的画面"
+      },
+      {
+        "number": 50,
+        "source": "P20",
+        "caption": "天气和生物的运行阶段画面"
+      },
+      {
+        "number": 51,
+        "source": "P06",
+        "caption": "女渔夫跑步动作的阶段预览"
+      },
+      {
+        "number": 52,
+        "source": "A09",
+        "caption": "第三人称划船与角色握桨的运行结果"
+      },
+      {
+        "number": 53,
+        "source": "A04",
+        "caption": "仓库附近镜头穿模修复的阶段记录"
+      },
+      {
+        "number": 54,
+        "source": "flow_states",
+        "caption": "人物在陆地水面与钓鱼之间转换"
+      },
+      {
+        "number": 55,
+        "source": "A08",
+        "caption": "脚边鱼实体的阶段画面"
+      },
+      {
+        "number": 56,
+        "source": "A06",
+        "caption": "闻舟对话框修复后的样式与退出入口"
+      },
+      {
+        "number": 57,
+        "source": "A07",
+        "caption": "小屋入口与室内交互修复后画面"
+      },
+      {
+        "number": 58,
+        "source": "N10",
+        "caption": "箱盖关闭的实机近景"
+      },
+      {
+        "number": 59,
+        "source": "N11",
+        "caption": "箱盖打开的实机近景"
+      },
+      {
+        "number": 60,
+        "source": "N12",
+        "caption": "背包与箱子的并排存取界面"
+      },
+      {
+        "number": 61,
+        "source": "H12",
+        "caption": "修复轮次的驾驶状态"
+      },
+      {
+        "number": 62,
+        "source": "H17",
+        "caption": "遮挡后的模糊人物轮廓"
+      },
+      {
+        "number": 63,
+        "source": "N30",
+        "caption": "在画面中央展开的完整信纸"
+      },
+      {
+        "number": 64,
+        "source": "N27",
+        "caption": "最新发布包的头顶金星饥饿条与暗角"
+      },
+      {
+        "number": 65,
+        "source": "H26",
+        "caption": "从背包拖入五格工具栏"
+      },
+      {
+        "number": 66,
+        "source": "H24",
+        "caption": "树与耕地分别处于选中和悬停状态"
+      },
+      {
+        "number": 67,
+        "source": "H25",
+        "caption": "船和鱼在同一区域内分别选择"
+      },
+      {
+        "number": 68,
+        "source": "N01",
+        "caption": "数字5对应斧头格位高亮并实际持械"
+      },
+      {
+        "number": 69,
+        "source": "N35",
+        "caption": "再次按数字5后工具收起且高亮清除"
+      },
+      {
+        "number": 70,
+        "source": "H30",
+        "caption": "真实坡地上的仰视镜头保持在地面上方"
+      },
+      {
+        "number": 71,
+        "source": "N01",
+        "caption": "最新发布PCK实际运行的主场景与工具栏"
+      },
+      {
+        "number": 72,
+        "source": "N16",
+        "caption": "最新发布包中带材质的完整尸体"
+      },
+      {
+        "number": 73,
+        "source": "N18",
+        "caption": "用小刀处理后的肉类进入背包"
+      }
+    ]
+  }
+]

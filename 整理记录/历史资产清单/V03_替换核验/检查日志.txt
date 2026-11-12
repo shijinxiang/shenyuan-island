@@ -1,0 +1,11 @@
+16:13:34 | INFO: Data are loaded, start creating Blender stuff
+16:13:34 | INFO: Blender create Mesh node node_0
+16:13:36 | INFO: glTF import finished in 2.26s
+D:\浪费GPT额度\小温的游戏\素材\99_资产清单与整理记录\V03_替换核验\导入检查.py:15: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  sc=bpy.context.scene;sc.world=bpy.data.worlds.new('Review');sc.world.use_nodes=True;sc.world.node_tree.nodes['Background'].inputs[0].default_value=(.18,.15,.20,1);sc.world.node_tree.nodes['Background'].inputs[1].default_value=.5
+00:03.796  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:08.406  render           | Saved: 'D:\浪费GPT额度\小温的游戏\素材\99_资产清单与整理记录\V03_替换核验\新模型预览.png'
+V03_VERIFIED {'triangles': 1499986, 'meshes': 1, 'all_have_uv': True, 'images': [{'name': 'texture_pbr_20250901', 'size': [4096, 4096], 'loaded': True, 'packed': True}, {'name': 'texture_pbr_20250901_metallic-texture_pbr_20250901_roughness', 'size': [4096, 4096], 'loaded': True, 'packed': True}, {'name': 'texture_pbr_20250901_normal', 'size': [4096, 4096], 'loaded': True, 'packed': True}], 'geometry_and_materials_modified': False, 'dimensions': [0.7625179886817932, 0.7570882439613342, 1.0943821668624878]}
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

@@ -1,0 +1,436 @@
+{
+  "axe": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.0750000029802322,
+          0.0,
+          -0.0470000021159649
+        ],
+        "aabb_size": [
+          0.429999947547913,
+          1.0,
+          0.0940000042319298
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "axe_mesh",
+        "surfaces": 4,
+        "transform_identity": true,
+        "triangles": 166,
+        "vertices": 290
+      }
+    ]
+  },
+  "failures": [],
+  "hoe": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.0410000011324883,
+          0.0,
+          -0.159999996423721
+        ],
+        "aabb_size": [
+          0.270999997854233,
+          1.09500002861023,
+          0.319999992847443
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "hoe_mesh",
+        "surfaces": 4,
+        "transform_identity": true,
+        "triangles": 158,
+        "vertices": 280
+      }
+    ]
+  },
+  "log": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.172000005841255,
+          0.0,
+          -0.412000000476837
+        ],
+        "aabb_size": [
+          0.386456429958344,
+          0.347544252872467,
+          0.824000000953674
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "log_mesh",
+        "surfaces": 4,
+        "transform_identity": true,
+        "triangles": 1088,
+        "vertices": 1992
+      }
+    ]
+  },
+  "passed": true,
+  "pumpkin_stage_0": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.150000005960464,
+          0.0,
+          -0.0731326192617416
+        ],
+        "aabb_size": [
+          0.300000011920929,
+          0.189999997615814,
+          0.146265238523483
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "pumpkin_stage_0_mesh",
+        "surfaces": 4,
+        "transform_identity": true,
+        "triangles": 52,
+        "vertices": 132
+      }
+    ]
+  },
+  "pumpkin_stage_1": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.368934690952301,
+          0.0,
+          -0.303198903799057
+        ],
+        "aabb_size": [
+          0.752979934215546,
+          0.262950509786606,
+          0.675679564476013
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "pumpkin_stage_1_mesh",
+        "surfaces": 4,
+        "transform_identity": true,
+        "triangles": 488,
+        "vertices": 1038
+      }
+    ]
+  },
+  "pumpkin_stage_2": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.468934684991837,
+          0.0,
+          -0.428158551454544
+        ],
+        "aabb_size": [
+          0.938960194587708,
+          0.294999986886978,
+          0.884030342102051
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "pumpkin_stage_2_mesh",
+        "surfaces": 7,
+        "transform_identity": true,
+        "triangles": 1584,
+        "vertices": 3372
+      }
+    ]
+  },
+  "pumpkin_stage_3": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.5289346575737,
+          0.0,
+          -0.478472054004669
+        ],
+        "aabb_size": [
+          1.05861926078796,
+          0.488471001386642,
+          0.984378635883331
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "pumpkin_stage_3_mesh",
+        "surfaces": 8,
+        "transform_identity": true,
+        "triangles": 1648,
+        "vertices": 3528
+      }
+    ]
+  },
+  "soil_plot": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.708965480327606,
+          0.0,
+          -0.708999216556549
+        ],
+        "aabb_size": [
+          1.41795563697815,
+          0.122552782297134,
+          1.41799914836884
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "soil_plot_mesh",
+        "surfaces": 1,
+        "transform_identity": true,
+        "triangles": 1904,
+        "vertices": 5259
+      }
+    ]
+  },
+  "stump": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.40614926815033,
+          0.0,
+          -0.376506388187408
+        ],
+        "aabb_size": [
+          0.812298536300659,
+          0.372500002384186,
+          0.753012776374817
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "stump_mesh",
+        "surfaces": 4,
+        "transform_identity": true,
+        "triangles": 682,
+        "vertices": 1328
+      }
+    ]
+  },
+  "tomato_stage_0": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.129999995231628,
+          0.0,
+          -0.0375000014901161
+        ],
+        "aabb_size": [
+          0.259999990463257,
+          0.174078956246376,
+          0.0750000029802322
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "tomato_stage_0_mesh",
+        "surfaces": 4,
+        "transform_identity": true,
+        "triangles": 84,
+        "vertices": 188
+      }
+    ]
+  },
+  "tomato_stage_1": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.27097874879837,
+          0.0,
+          -0.217755794525146
+        ],
+        "aabb_size": [
+          0.545978724956512,
+          0.40185073018074,
+          0.491748631000519
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "tomato_stage_1_mesh",
+        "surfaces": 4,
+        "transform_identity": true,
+        "triangles": 424,
+        "vertices": 1014
+      }
+    ]
+  },
+  "tomato_stage_2": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.305466949939728,
+          0.0,
+          -0.29983177781105
+        ],
+        "aabb_size": [
+          0.615466952323914,
+          0.641168355941772,
+          0.608696460723877
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "tomato_stage_2_mesh",
+        "surfaces": 7,
+        "transform_identity": true,
+        "triangles": 1376,
+        "vertices": 3616
+      }
+    ]
+  },
+  "tomato_stage_3": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.339955151081085,
+          0.0,
+          -0.333683758974075
+        ],
+        "aabb_size": [
+          0.68495512008667,
+          0.820914268493652,
+          0.677420258522034
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "tomato_stage_3_mesh",
+        "surfaces": 7,
+        "transform_identity": true,
+        "triangles": 1648,
+        "vertices": 4332
+      }
+    ]
+  },
+  "turnip_stage_0": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.104999996721745,
+          0.0,
+          -0.0436162054538727
+        ],
+        "aabb_size": [
+          0.209999993443489,
+          0.159999996423721,
+          0.0872324109077454
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "turnip_stage_0_mesh",
+        "surfaces": 4,
+        "transform_identity": true,
+        "triangles": 60,
+        "vertices": 140
+      }
+    ]
+  },
+  "turnip_stage_1": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.160363420844078,
+          0.0,
+          -0.17838542163372
+        ],
+        "aabb_size": [
+          0.338323324918747,
+          0.280000001192093,
+          0.324896365404129
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "turnip_stage_1_mesh",
+        "surfaces": 6,
+        "transform_identity": true,
+        "triangles": 280,
+        "vertices": 596
+      }
+    ]
+  },
+  "turnip_stage_2": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.213244155049324,
+          0.0,
+          -0.182593747973442
+        ],
+        "aabb_size": [
+          0.423148423433304,
+          0.360000014305115,
+          0.361698985099792
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "turnip_stage_2_mesh",
+        "surfaces": 6,
+        "transform_identity": true,
+        "triangles": 372,
+        "vertices": 812
+      }
+    ]
+  },
+  "turnip_stage_3": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.273803651332855,
+          0.0,
+          -0.268174052238464
+        ],
+        "aabb_size": [
+          0.557178556919098,
+          0.444999992847443,
+          0.5843585729599
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "turnip_stage_3_mesh",
+        "surfaces": 6,
+        "transform_identity": true,
+        "triangles": 500,
+        "vertices": 1110
+      }
+    ]
+  },
+  "watering_can": {
+    "mesh_count": 1,
+    "meshes": [
+      {
+        "aabb_min": [
+          -0.493689864873886,
+          0.0,
+          -0.204999998211861
+        ],
+        "aabb_size": [
+          0.854751706123352,
+          0.571742475032806,
+          0.411805123090744
+        ],
+        "has_materials": true,
+        "has_uv": true,
+        "name": "watering_can_mesh",
+        "surfaces": 5,
+        "transform_identity": true,
+        "triangles": 692,
+        "vertices": 1388
+      }
+    ]
+  }
+}

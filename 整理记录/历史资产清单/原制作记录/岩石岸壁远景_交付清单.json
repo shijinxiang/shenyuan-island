@@ -1,0 +1,1252 @@
+{
+  "scope": "岩石、岸壁及远景九项独立候选，未装入整岛",
+  "technical_scope": "源和焊接后的 GLB/FBX 导入副本逐对象检查三角数、流形、零面积、BVH 非相邻面相交、UV；游戏版仅含网格。",
+  "visual_status": "所有项待 root 视觉复验，技术通过不等于造型通过。",
+  "assets": [
+    {
+      "id": "R01",
+      "asset": "R01_圆钝灰色巨石",
+      "budget": 600,
+      "triangles": 474,
+      "paths": {
+        "directory": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3",
+        "editable_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3\\R01_圆钝灰色巨石.blend",
+        "game_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3\\R01_圆钝灰色巨石_游戏版.blend",
+        "glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3\\R01_圆钝灰色巨石.glb",
+        "fbx": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3\\R01_圆钝灰色巨石.fbx",
+        "preview_oblique": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3\\斜前.png",
+        "preview_back": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3\\背面.png",
+        "preview_side": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3\\侧面.png",
+        "preview_top": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3\\顶部.png",
+        "audit": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3\\审计报告.json",
+        "source_script": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3\\基准重建脚本.py"
+      },
+      "all_listed_files_exist": true,
+      "game_contains_only_mesh": true,
+      "export_triangles_match": true,
+      "technical_checks_passed": true,
+      "visual_status": "待 root 对照参考复验",
+      "limitations": "BVH 不保证检出共面接触；顶面/遮挡细节依据现有参考推定。",
+      "verification": {
+        "game_blend": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R01_圆钝灰色巨石",
+              "triangles": 474,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 474
+        },
+        "glb": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R01_圆钝灰色巨石",
+              "triangles": 474,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.001",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 474
+        },
+        "fbx": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R01_圆钝灰色巨石",
+              "triangles": 474,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.002",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R01_圆钝灰色巨石\\精修样板_v3\\R01_圆钝灰色巨石.fbm\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 474
+        }
+      }
+    },
+    {
+      "id": "R02",
+      "asset": "R02_扁平岸石",
+      "budget": 500,
+      "triangles": 164,
+      "paths": {
+        "directory": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6",
+        "editable_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6\\R02_扁平岸石.blend",
+        "game_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6\\R02_扁平岸石_游戏版.blend",
+        "glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6\\R02_扁平岸石.glb",
+        "fbx": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6\\R02_扁平岸石.fbx",
+        "preview_oblique": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6\\斜前.png",
+        "preview_back": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6\\背面.png",
+        "preview_side": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6\\侧面.png",
+        "preview_top": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6\\顶部.png",
+        "audit": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6\\审计报告.json",
+        "source_script": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6\\基准重建脚本.py"
+      },
+      "all_listed_files_exist": true,
+      "game_contains_only_mesh": true,
+      "export_triangles_match": true,
+      "technical_checks_passed": true,
+      "visual_status": "待 root 对照参考复验",
+      "limitations": "BVH 不保证检出共面接触；顶面/遮挡细节依据现有参考推定。",
+      "verification": {
+        "game_blend": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R02_扁平岸石",
+              "triangles": 164,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 164
+        },
+        "glb": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R02_扁平岸石",
+              "triangles": 164,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.001",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 164
+        },
+        "fbx": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R02_扁平岸石",
+              "triangles": 164,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.002",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R02_扁平岸石\\精修样板_v6\\R02_扁平岸石.fbm\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 164
+        }
+      }
+    },
+    {
+      "id": "R03",
+      "asset": "R03_尖棱立石",
+      "budget": 700,
+      "triangles": 670,
+      "paths": {
+        "directory": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4",
+        "editable_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4\\R03_尖棱立石.blend",
+        "game_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4\\R03_尖棱立石_游戏版.blend",
+        "glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4\\R03_尖棱立石.glb",
+        "fbx": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4\\R03_尖棱立石.fbx",
+        "preview_oblique": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4\\斜前.png",
+        "preview_back": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4\\背面.png",
+        "preview_side": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4\\侧面.png",
+        "preview_top": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4\\顶部.png",
+        "audit": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4\\审计报告.json",
+        "source_script": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4\\基准重建脚本.py"
+      },
+      "all_listed_files_exist": true,
+      "game_contains_only_mesh": true,
+      "export_triangles_match": true,
+      "technical_checks_passed": true,
+      "visual_status": "待 root 对照参考复验",
+      "limitations": "BVH 不保证检出共面接触；顶面/遮挡细节依据现有参考推定。",
+      "verification": {
+        "game_blend": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R03_尖棱立石",
+              "triangles": 670,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 670
+        },
+        "glb": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R03_尖棱立石",
+              "triangles": 670,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.001",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 670
+        },
+        "fbx": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R03_尖棱立石",
+              "triangles": 670,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.002",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R03_尖棱立石\\精修样板_v4\\R03_尖棱立石.fbm\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 670
+        }
+      }
+    },
+    {
+      "id": "R04",
+      "asset": "R04_低矮礁石组合",
+      "budget": 1400,
+      "triangles": 670,
+      "paths": {
+        "directory": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3",
+        "editable_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3\\R04_低矮礁石组合.blend",
+        "game_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3\\R04_低矮礁石组合_游戏版.blend",
+        "glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3\\R04_低矮礁石组合.glb",
+        "fbx": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3\\R04_低矮礁石组合.fbx",
+        "preview_oblique": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3\\斜前.png",
+        "preview_back": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3\\背面.png",
+        "preview_side": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3\\侧面.png",
+        "preview_top": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3\\顶部.png",
+        "audit": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3\\审计报告.json",
+        "source_script": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3\\基准重建脚本.py"
+      },
+      "all_listed_files_exist": true,
+      "game_contains_only_mesh": true,
+      "export_triangles_match": true,
+      "technical_checks_passed": true,
+      "visual_status": "待 root 对照参考复验",
+      "limitations": "BVH 不保证检出共面接触；顶面/遮挡细节依据现有参考推定。",
+      "verification": {
+        "game_blend": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R04_低矮礁石组合",
+              "triangles": 670,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.002",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 670
+        },
+        "glb": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R04_低矮礁石组合",
+              "triangles": 670,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.003",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 670
+        },
+        "fbx": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "R04_低矮礁石组合",
+              "triangles": 670,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.004",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\R04_低矮礁石组合\\精修样板_v3\\R04_低矮礁石组合.fbm\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 670
+        }
+      }
+    },
+    {
+      "id": "T05",
+      "asset": "T05_西岸岩壁模块",
+      "budget": 1800,
+      "triangles": 990,
+      "paths": {
+        "directory": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4",
+        "editable_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\T05_西岸岩壁模块.blend",
+        "game_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\T05_西岸岩壁模块_游戏版.blend",
+        "glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\T05_西岸岩壁模块.glb",
+        "fbx": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\T05_西岸岩壁模块.fbx",
+        "preview_oblique": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\斜前.png",
+        "preview_back": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\背面.png",
+        "preview_side": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\侧面.png",
+        "preview_top": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\顶部.png",
+        "audit": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\审计报告.json",
+        "source_script": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\基准重建脚本.py"
+      },
+      "all_listed_files_exist": true,
+      "game_contains_only_mesh": true,
+      "export_triangles_match": true,
+      "technical_checks_passed": true,
+      "visual_status": "待 root 对照参考复验",
+      "limitations": "BVH 不保证检出共面接触；顶面/遮挡细节依据现有参考推定。",
+      "verification": {
+        "game_blend": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "T05_西岸岩壁模块",
+              "triangles": 990,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.002",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿.001",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\T05_grass_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 990
+        },
+        "glb": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "T05_西岸岩壁模块",
+              "triangles": 990,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.003",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿.002",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 990
+        },
+        "fbx": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "T05_西岸岩壁模块",
+              "triangles": 990,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.004",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\T05_西岸岩壁模块.fbm\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿.003",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T05_西岸岩壁模块\\精修样板_v4\\T05_西岸岩壁模块.fbm\\T05_grass_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 990
+        }
+      }
+    },
+    {
+      "id": "T06",
+      "asset": "T06_东岸岩壁模块",
+      "budget": 2500,
+      "triangles": 990,
+      "paths": {
+        "directory": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2",
+        "editable_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\T06_东岸岩壁模块.blend",
+        "game_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\T06_东岸岩壁模块_游戏版.blend",
+        "glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\T06_东岸岩壁模块.glb",
+        "fbx": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\T06_东岸岩壁模块.fbx",
+        "preview_oblique": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\斜前.png",
+        "preview_back": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\背面.png",
+        "preview_side": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\侧面.png",
+        "preview_top": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\顶部.png",
+        "audit": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\审计报告.json",
+        "source_script": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\基准重建脚本.py"
+      },
+      "all_listed_files_exist": true,
+      "game_contains_only_mesh": true,
+      "export_triangles_match": true,
+      "technical_checks_passed": true,
+      "visual_status": "待 root 对照参考复验",
+      "limitations": "BVH 不保证检出共面接触；顶面/遮挡细节依据现有参考推定。",
+      "verification": {
+        "game_blend": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "T06_东岸岩壁模块",
+              "triangles": 990,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.006",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿.003",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\T05_grass_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 990
+        },
+        "glb": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "T06_东岸岩壁模块",
+              "triangles": 990,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.007",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.003",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿.004",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 990
+        },
+        "fbx": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "T06_东岸岩壁模块",
+              "triangles": 990,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.008",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\T06_东岸岩壁模块.fbm\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿.005",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T06_东岸岩壁模块\\精修样板_v2\\T06_东岸岩壁模块.fbm\\T05_grass_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 990
+        }
+      }
+    },
+    {
+      "id": "T07",
+      "asset": "T07_南岸低崖草坡",
+      "budget": 1500,
+      "triangles": 990,
+      "paths": {
+        "directory": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2",
+        "editable_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\T07_南岸低崖草坡.blend",
+        "game_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\T07_南岸低崖草坡_游戏版.blend",
+        "glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\T07_南岸低崖草坡.glb",
+        "fbx": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\T07_南岸低崖草坡.fbx",
+        "preview_oblique": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\斜前.png",
+        "preview_back": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\背面.png",
+        "preview_side": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\侧面.png",
+        "preview_top": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\顶部.png",
+        "audit": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\审计报告.json",
+        "source_script": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\基准重建脚本.py"
+      },
+      "all_listed_files_exist": true,
+      "game_contains_only_mesh": true,
+      "export_triangles_match": true,
+      "technical_checks_passed": true,
+      "visual_status": "待 root 对照参考复验",
+      "limitations": "BVH 不保证检出共面接触；顶面/遮挡细节依据现有参考推定。",
+      "verification": {
+        "game_blend": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "T07_南岸低崖草坡",
+              "triangles": 990,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.008",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿.005",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\T05_grass_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 990
+        },
+        "glb": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "T07_南岸低崖草坡",
+              "triangles": 990,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.009",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.004",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿.006",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 990
+        },
+        "fbx": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "T07_南岸低崖草坡",
+              "triangles": 990,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.010",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\T07_南岸低崖草坡.fbm\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿.007",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\T07_南岸低崖草坡\\精修样板_v2\\T07_南岸低崖草坡.fbm\\T05_grass_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 990
+        }
+      }
+    },
+    {
+      "id": "F01",
+      "asset": "F01_近远岛尖礁",
+      "budget": 3000,
+      "triangles": 1550,
+      "paths": {
+        "directory": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4",
+        "editable_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\F01_近远岛尖礁.blend",
+        "game_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\F01_近远岛尖礁_游戏版.blend",
+        "glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\F01_近远岛尖礁.glb",
+        "fbx": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\F01_近远岛尖礁.fbx",
+        "preview_oblique": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\斜前.png",
+        "preview_back": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\背面.png",
+        "preview_side": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\侧面.png",
+        "preview_top": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\顶部.png",
+        "audit": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\审计报告.json",
+        "source_script": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\基准重建脚本.py"
+      },
+      "all_listed_files_exist": true,
+      "game_contains_only_mesh": true,
+      "export_triangles_match": true,
+      "technical_checks_passed": true,
+      "visual_status": "待 root 对照参考复验",
+      "limitations": "BVH 不保证检出共面接触；顶面/遮挡细节依据现有参考推定。",
+      "verification": {
+        "game_blend": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "F01_近远岛尖礁",
+              "triangles": 1550,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor.png",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "//..\\..\\共享材质_剩余资产\\textures\\T05_grass_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 1550
+        },
+        "glb": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "F01_近远岛尖礁",
+              "triangles": 1550,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.001",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿.001",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 1550
+        },
+        "fbx": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "F01_近远岛尖礁",
+              "triangles": 1550,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.002",
+                  "images": [
+                    {
+                      "name": "Rock_strata_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\F01_近远岛尖礁.fbm\\Rock_strata_BaseColor.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "草顶_黄绿.002",
+                  "images": [
+                    {
+                      "name": "T05_grass_BaseColor.png.001",
+                      "size": [
+                        1254,
+                        1254
+                      ],
+                      "packed": true,
+                      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F01_近远岛尖礁\\精修样板_v4\\F01_近远岛尖礁.fbm\\T05_grass_BaseColor.png"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "triangles": 1550
+        }
+      }
+    },
+    {
+      "id": "F02",
+      "asset": "F02_最远天际山影",
+      "budget": 800,
+      "triangles": 620,
+      "paths": {
+        "directory": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F02_最远天际山影\\精修样板_v4",
+        "editable_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F02_最远天际山影\\精修样板_v4\\F02_最远天际山影.blend",
+        "game_blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F02_最远天际山影\\精修样板_v4\\F02_最远天际山影_游戏版.blend",
+        "glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F02_最远天际山影\\精修样板_v4\\F02_最远天际山影.glb",
+        "fbx": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F02_最远天际山影\\精修样板_v4\\F02_最远天际山影.fbx",
+        "preview_oblique": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F02_最远天际山影\\精修样板_v4\\斜前.png",
+        "preview_back": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F02_最远天际山影\\精修样板_v4\\背面.png",
+        "preview_side": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F02_最远天际山影\\精修样板_v4\\侧面.png",
+        "preview_top": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F02_最远天际山影\\精修样板_v4\\顶部.png",
+        "audit": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F02_最远天际山影\\精修样板_v4\\审计报告.json",
+        "source_script": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\F02_最远天际山影\\精修样板_v4\\基准重建脚本.py"
+      },
+      "all_listed_files_exist": true,
+      "game_contains_only_mesh": true,
+      "export_triangles_match": true,
+      "technical_checks_passed": true,
+      "visual_status": "待 root 对照参考复验",
+      "limitations": "BVH 不保证检出共面接触；顶面/遮挡细节依据现有参考推定。",
+      "verification": {
+        "game_blend": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "F02_最远天际山影",
+              "triangles": 620,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.002",
+                  "images": []
+                }
+              ]
+            }
+          ],
+          "triangles": 620
+        },
+        "glb": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "F02_最远天际山影",
+              "triangles": 620,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.003",
+                  "images": []
+                }
+              ]
+            }
+          ],
+          "triangles": 620
+        },
+        "fbx": {
+          "object_types": [
+            "MESH"
+          ],
+          "meshes": [
+            {
+              "object": "F02_最远天际山影",
+              "triangles": 620,
+              "uv_layers": 1,
+              "nonmanifold": 0,
+              "zero_area": 0,
+              "nonadjacent_overlap_pairs": 0,
+              "used_materials": [
+                {
+                  "name": "岩石_分层贴图.004",
+                  "images": []
+                }
+              ]
+            }
+          ],
+          "triangles": 620
+        }
+      }
+    }
+  ]
+}

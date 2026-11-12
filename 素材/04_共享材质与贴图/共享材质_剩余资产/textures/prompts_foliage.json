@@ -1,0 +1,28 @@
+{
+  "generator": "built-in image_gen",
+  "requested_size": "1024x1024 per image",
+  "assets": [
+    {
+      "prompt": "Use case: stylized-concept. Asset type: seamless-style 2D cutout foliage texture for layered 3D game tree canopy cards. Input images: Image 1 is a foliage color/style reference only; Image 2 is a terrain-top color reference, not relevant to foliage shape. Primary request: a single dense leafy branch cluster, no trunk. Subject: dozens of small rounded oval broad leaves, each roughly 1.5 times longer than wide, softly rounded with a subtly pointed tip; dense center and naturally extending outer leaves, a few small transparent gaps. Style/medium: refined hand-painted game texture with subtle pixel-like painted color blocks, matching the lush stylized foliage colors of Image 1. Composition/framing: isolated centered cluster filling most of the square canvas, fully contained with margin; no leaf cut off at edges. Lighting/mood: flat orthographic material view, no cast shadows, no environment, no directional lighting. Color palette: light yellow-green leaf tips, grass-green middle layers, deep green lower/shaded leaves. Constraints: true transparent background and preserved alpha; designed as an opaque-leaf PNG cutout for 3D tree canopy cards. Avoid: spherical or ball-shaped mass, whole tree, trunk, branches prominent, diamond-shaped leaves, chaotic triangles, sharp spiky foliage, background, ground, shadow, text, watermark.",
+      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\共享材质_剩余资产\\textures\\V01_leaf_cluster_RGBA.png",
+      "alpha_zero_pixel_count": 678284,
+      "actual_height": 1241,
+      "reference": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\V_植物\\V01_高圆冠阔叶树\\V01_01_source.png",
+      "alpha_opaque_pixel_count": 622,
+      "actual_width": 1268,
+      "transparent_background_requested": true,
+      "filename": "V01_leaf_cluster_RGBA.png",
+      "format": "PNG RGBA"
+    },
+    {
+      "transparent_background_requested": false,
+      "format": "PNG RGB",
+      "reference": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\T_地形\\T05_西岸岩壁模块\\T05_01_source.png",
+      "filename": "T05_grass_BaseColor.png",
+      "actual_height": 1254,
+      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\共享材质_剩余资产\\textures\\T05_grass_BaseColor.png",
+      "actual_width": 1254,
+      "prompt": "Use case: stylized-concept. Asset type: seamless tiling BaseColor texture for the top surface of a stylized game terrain module. Input images: Image 1 is a foliage reference, ignore its shapes; Image 2 is the reference for the yellow-green grassy top color only. Primary request: a square, perfectly seamless tileable top-down grassland color texture. Subject: low-contrast natural grassy color patches, fine hand-painted pixel-like paint blocks and subtle mottling, predominantly grass green and light yellow green with restrained olive variation, matching the grassy top of Image 2. Style/medium: refined stylized hand-painted game texture, flat albedo/BaseColor map. Composition/framing: texture only, evenly distributed detail that continues seamlessly across all four edges, no focal center. Lighting/mood: no perspective, no directional illumination, no shadows, no highlights, no baked lighting; neutral flat color data. Constraints: opaque image, tile seamlessly horizontally and vertically, suitable as a terrain top BaseColor. Avoid: individual drawn grass blades or line strokes, rocks, objects, flowers, soil/cliff, horizon, perspective, lighting gradients, shadows, text, watermark."
+    }
+  ]
+}

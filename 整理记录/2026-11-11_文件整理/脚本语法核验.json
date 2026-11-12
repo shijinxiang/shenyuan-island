@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "files": [
+    "build_updated_documents.py",
+    "compose_sources.py",
+    "finalize_documents.py",
+    "package_latest.py",
+    "prepare_update_evidence.py",
+    "render_updated_documents.py",
+    "update_content.py",
+    "verify_latest.py"
+  ]
+}

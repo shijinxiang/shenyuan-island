@@ -1,0 +1,1269 @@
+[
+  {
+    "path": "石头合集\\LowPolyRockPack.blend",
+    "meshes": [
+      {
+        "name": "Rock Type1 01 mesh",
+        "vertices": 121,
+        "faces": 129,
+        "triangles": 222,
+        "materials": [
+          "color1"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type1 02 mesh",
+        "vertices": 200,
+        "faces": 198,
+        "triangles": 368,
+        "materials": [
+          "color2"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type1 03 mesh",
+        "vertices": 65,
+        "faces": 55,
+        "triangles": 118,
+        "materials": [
+          "color3"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type1 04 mesh",
+        "vertices": 17,
+        "faces": 14,
+        "triangles": 30,
+        "materials": [
+          "color4"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type2 01 mesh",
+        "vertices": 84,
+        "faces": 48,
+        "triangles": 156,
+        "materials": [
+          "color4"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type2 02 mesh",
+        "vertices": 120,
+        "faces": 66,
+        "triangles": 228,
+        "materials": [
+          "color1"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type2 03 mesh",
+        "vertices": 46,
+        "faces": 25,
+        "triangles": 88,
+        "materials": [
+          "color2"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type2 04 mesh",
+        "vertices": 28,
+        "faces": 16,
+        "triangles": 52,
+        "materials": [
+          "color3"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type3 01 mesh",
+        "vertices": 90,
+        "faces": 78,
+        "triangles": 156,
+        "materials": [
+          "color2"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type3 02 mesh",
+        "vertices": 125,
+        "faces": 107,
+        "triangles": 214,
+        "materials": [
+          "color3"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type3 03 mesh",
+        "vertices": 33,
+        "faces": 29,
+        "triangles": 58,
+        "materials": [
+          "color4"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type3 04 mesh",
+        "vertices": 96,
+        "faces": 80,
+        "triangles": 160,
+        "materials": [
+          "color1"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type4 01 mesh",
+        "vertices": 65,
+        "faces": 72,
+        "triangles": 126,
+        "materials": [
+          "color1"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type4 02 mesh",
+        "vertices": 78,
+        "faces": 85,
+        "triangles": 152,
+        "materials": [
+          "color2"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type4 03 mesh",
+        "vertices": 49,
+        "faces": 56,
+        "triangles": 94,
+        "materials": [
+          "color3"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type4 04 mesh",
+        "vertices": 20,
+        "faces": 24,
+        "triangles": 36,
+        "materials": [
+          "color4"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type5 01 mesh",
+        "vertices": 60,
+        "faces": 50,
+        "triangles": 100,
+        "materials": [
+          "color2"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type5 02 mesh",
+        "vertices": 84,
+        "faces": 70,
+        "triangles": 140,
+        "materials": [
+          "color3"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type5 03 mesh",
+        "vertices": 48,
+        "faces": 40,
+        "triangles": 80,
+        "materials": [
+          "color4"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type5 04 mesh",
+        "vertices": 24,
+        "faces": 20,
+        "triangles": 40,
+        "materials": [
+          "color1"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type6 01 mesh",
+        "vertices": 120,
+        "faces": 104,
+        "triangles": 212,
+        "materials": [
+          "color3"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type6 02 mesh",
+        "vertices": 108,
+        "faces": 93,
+        "triangles": 188,
+        "materials": [
+          "color4"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type6 03 mesh",
+        "vertices": 54,
+        "faces": 48,
+        "triangles": 96,
+        "materials": [
+          "color1"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Rock Type6 04 mesh",
+        "vertices": 18,
+        "faces": 15,
+        "triangles": 32,
+        "materials": [
+          "color2"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [
+      {
+        "name": "Colorsheet Rock green.png",
+        "path": "//Colorsheet Rock green.png",
+        "packed": true
+      },
+      {
+        "name": "Colorsheet Rock grey.png",
+        "path": "//Colorsheet Rock grey.png",
+        "packed": true
+      },
+      {
+        "name": "Colorsheet Rock orange.png",
+        "path": "//Colorsheet Rock orange.png",
+        "packed": true
+      },
+      {
+        "name": "Colorsheet Rock sand.png",
+        "path": "//Colorsheet Rock sand.png",
+        "packed": true
+      }
+    ],
+    "objects": 48,
+    "current_path": "05_待选资源库\\石头合集\\LowPolyRockPack.blend"
+  },
+  {
+    "path": "树合集\\LowPolyTreePack.blend",
+    "meshes": [
+      {
+        "name": "Tree Type0 01 Model",
+        "vertices": 485,
+        "faces": 547,
+        "triangles": 924,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type0 02 Model",
+        "vertices": 456,
+        "faces": 461,
+        "triangles": 893,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type0 03 Model",
+        "vertices": 1230,
+        "faces": 786,
+        "triangles": 1550,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type0 04 Model",
+        "vertices": 1811,
+        "faces": 2298,
+        "triangles": 3498,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type0 05 Model",
+        "vertices": 192,
+        "faces": 295,
+        "triangles": 352,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type0 06 Model",
+        "vertices": 387,
+        "faces": 607,
+        "triangles": 678,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type1 01 Model",
+        "vertices": 31,
+        "faces": 31,
+        "triangles": 58,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type1 02 Model",
+        "vertices": 31,
+        "faces": 31,
+        "triangles": 58,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type1 03 Model",
+        "vertices": 43,
+        "faces": 43,
+        "triangles": 82,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type1 04 Model",
+        "vertices": 73,
+        "faces": 73,
+        "triangles": 142,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type1 05 Model",
+        "vertices": 109,
+        "faces": 109,
+        "triangles": 214,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type2 01 Model",
+        "vertices": 99,
+        "faces": 98,
+        "triangles": 165,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type2 02 Model",
+        "vertices": 99,
+        "faces": 98,
+        "triangles": 165,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type2 03 Model",
+        "vertices": 144,
+        "faces": 143,
+        "triangles": 237,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type2 04 Model",
+        "vertices": 189,
+        "faces": 188,
+        "triangles": 309,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type2 05 Model",
+        "vertices": 234,
+        "faces": 233,
+        "triangles": 381,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type3 01 Model",
+        "vertices": 74,
+        "faces": 119,
+        "triangles": 131,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type3 02 Model",
+        "vertices": 150,
+        "faces": 255,
+        "triangles": 279,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type3 03 Model",
+        "vertices": 196,
+        "faces": 309,
+        "triangles": 372,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type3 04 Model",
+        "vertices": 238,
+        "faces": 389,
+        "triangles": 452,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type3 05 Model",
+        "vertices": 238,
+        "faces": 389,
+        "triangles": 452,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type4 01 Model",
+        "vertices": 102,
+        "faces": 164,
+        "triangles": 184,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type4 02 Model",
+        "vertices": 150,
+        "faces": 255,
+        "triangles": 279,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type4 03 Model",
+        "vertices": 178,
+        "faces": 247,
+        "triangles": 328,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type4 04 Model",
+        "vertices": 330,
+        "faces": 556,
+        "triangles": 624,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type4 05 Model",
+        "vertices": 512,
+        "faces": 890,
+        "triangles": 972,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type5 01 Model",
+        "vertices": 90,
+        "faces": 134,
+        "triangles": 160,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type5 02 Model",
+        "vertices": 166,
+        "faces": 245,
+        "triangles": 304,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type5 03 Model",
+        "vertices": 246,
+        "faces": 373,
+        "triangles": 452,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type5 04 Model",
+        "vertices": 360,
+        "faces": 504,
+        "triangles": 656,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type6 01 Model",
+        "vertices": 124,
+        "faces": 107,
+        "triangles": 224,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type6 02 Model",
+        "vertices": 522,
+        "faces": 468,
+        "triangles": 964,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type6 03 Model",
+        "vertices": 660,
+        "faces": 599,
+        "triangles": 1236,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type6 04 Model",
+        "vertices": 1275,
+        "faces": 1161,
+        "triangles": 2393,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type7 01 Model",
+        "vertices": 184,
+        "faces": 180,
+        "triangles": 324,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type7 02 Model",
+        "vertices": 220,
+        "faces": 218,
+        "triangles": 388,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type7 03 Model",
+        "vertices": 190,
+        "faces": 185,
+        "triangles": 332,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      },
+      {
+        "name": "Tree Type7 04 Model",
+        "vertices": 348,
+        "faces": 346,
+        "triangles": 612,
+        "materials": [
+          "_trees_normal"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [
+      {
+        "name": "Colorsheet Tree cold.png",
+        "path": "//Colorsheet Tree cold.png",
+        "packed": true
+      },
+      {
+        "name": "Colorsheet Tree dry.png",
+        "path": "//Colorsheet Tree dry.png",
+        "packed": true
+      },
+      {
+        "name": "Colorsheet Tree fall.png",
+        "path": "//Colorsheet Tree fall.png",
+        "packed": true
+      },
+      {
+        "name": "Colorsheet Tree normal.png",
+        "path": "//Colorsheet Tree normal.png",
+        "packed": true
+      }
+    ],
+    "objects": 76,
+    "current_path": "05_待选资源库\\树合集\\LowPolyTreePack.blend"
+  },
+  {
+    "path": "鱼\\fish01.fbx",
+    "meshes": [
+      {
+        "name": "fish01",
+        "vertices": 444,
+        "faces": 479,
+        "triangles": 876,
+        "materials": [
+          "mat01",
+          "mat02",
+          "mat03",
+          "eyes01"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [],
+    "objects": 1,
+    "current_path": "05_待选资源库\\鱼\\fish01.fbx"
+  },
+  {
+    "path": "鱼\\fish01_shade.fbx",
+    "meshes": [
+      {
+        "name": "fish01",
+        "vertices": 444,
+        "faces": 479,
+        "triangles": 876,
+        "materials": [
+          "mat01",
+          "mat02",
+          "mat03",
+          "eyes01"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [],
+    "objects": 1,
+    "current_path": "05_待选资源库\\鱼\\fish01_shade.fbx"
+  },
+  {
+    "path": "鱼\\fish02.fbx",
+    "meshes": [
+      {
+        "name": "fish02",
+        "vertices": 488,
+        "faces": 541,
+        "triangles": 964,
+        "materials": [
+          "mat04",
+          "mat05",
+          "mat06",
+          "eyes02"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [],
+    "objects": 1,
+    "current_path": "05_待选资源库\\鱼\\fish02.fbx"
+  },
+  {
+    "path": "鱼\\fish02_shade.fbx",
+    "meshes": [
+      {
+        "name": "fish02",
+        "vertices": 488,
+        "faces": 541,
+        "triangles": 964,
+        "materials": [
+          "mat04",
+          "mat05",
+          "mat06",
+          "eyes02"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [],
+    "objects": 1,
+    "current_path": "05_待选资源库\\鱼\\fish02_shade.fbx"
+  },
+  {
+    "path": "鱼\\fish03.fbx",
+    "meshes": [
+      {
+        "name": "fish03",
+        "vertices": 306,
+        "faces": 328,
+        "triangles": 600,
+        "materials": [
+          "mat07",
+          "mat08",
+          "mat09",
+          "eyes03"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [],
+    "objects": 1,
+    "current_path": "05_待选资源库\\鱼\\fish03.fbx"
+  },
+  {
+    "path": "鱼\\fish03_shade.fbx",
+    "meshes": [
+      {
+        "name": "fish03",
+        "vertices": 306,
+        "faces": 328,
+        "triangles": 600,
+        "materials": [
+          "mat07",
+          "mat08",
+          "mat09",
+          "eyes03"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [],
+    "objects": 1,
+    "current_path": "05_待选资源库\\鱼\\fish03_shade.fbx"
+  },
+  {
+    "path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\stylizedGrassMeshes.zip\\grass.glb",
+    "meshes": [
+      {
+        "name": "Plane.001",
+        "vertices": 150,
+        "faces": 130,
+        "triangles": 130,
+        "materials": [
+          "Material.001"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [],
+    "objects": 1,
+    "current_path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\stylizedGrassMeshes.zip\\grass.glb"
+  },
+  {
+    "path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\stylizedGrassMeshes.zip\\grass2.glb",
+    "meshes": [
+      {
+        "name": "Plane",
+        "vertices": 102,
+        "faces": 72,
+        "triangles": 72,
+        "materials": [],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [],
+    "objects": 1,
+    "current_path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\stylizedGrassMeshes.zip\\grass2.glb"
+  },
+  {
+    "path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FishBundleLowPoly.rar\\Piranha\\piranhahigh.gltf",
+    "meshes": [
+      {
+        "name": "Piranha",
+        "vertices": 218,
+        "faces": 110,
+        "triangles": 110,
+        "materials": [
+          "PIXELFISH"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [
+      {
+        "name": "piranhahigh",
+        "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FishBundleLowPoly.rar\\Piranha\\piranhahigh.png",
+        "packed": true
+      }
+    ],
+    "objects": 2,
+    "current_path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FishBundleLowPoly.rar\\Piranha\\piranhahigh.gltf"
+  },
+  {
+    "path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FishBundleLowPoly.rar\\Shark\\shork.gltf",
+    "meshes": [
+      {
+        "name": "Cube",
+        "vertices": 382,
+        "faces": 194,
+        "triangles": 194,
+        "materials": [
+          "Material"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [
+      {
+        "name": "shork",
+        "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FishBundleLowPoly.rar\\Shark\\shork.png",
+        "packed": true
+      }
+    ],
+    "objects": 2,
+    "current_path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FishBundleLowPoly.rar\\Shark\\shork.gltf"
+  },
+  {
+    "path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\BrownFish.fbx",
+    "meshes": [
+      {
+        "name": "BrownFish",
+        "vertices": 380,
+        "faces": 407,
+        "triangles": 814,
+        "materials": [
+          "BrownFish",
+          "RedPart"
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      }
+    ],
+    "actions": [
+      {
+        "name": "BrownFishArmature|BrownFishArmature|BrownFish",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "BrownFishArmature|BrownFishArmature|BrownFishArmature.001|BrownFishArmatu_466b3d7",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "BrownFishArmature|BrownFishArmature|BrownFishArmature.001|BrownFishArmatu_5379bf9",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "BrownFishArmature|BrownFishArmature|BrownFishArmature.001|BrownFishArmatu_a9be3fe",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "BrownFishArmature|BrownFishArmature|BrownFishArmature.001|BrownFishArmatu_b5a9f52",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "BrownFishArmature|BrownFishArmature|ClownFish",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "BrownFishArmature|BrownFishArmature|DorySwim",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "BrownFishArmature|BrownFishArmature|TunaSwim",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      }
+    ],
+    "images": [],
+    "objects": 2,
+    "current_path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\BrownFish.fbx"
+  },
+  {
+    "path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\ClownFish.fbx",
+    "meshes": [
+      {
+        "name": "ClownFish",
+        "vertices": 416,
+        "faces": 462,
+        "triangles": 890,
+        "materials": [
+          "ClownFishOrange",
+          "ClownFishWhite",
+          "ClownFishBlack"
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      }
+    ],
+    "actions": [
+      {
+        "name": "ClownFishArmature|ClownFishArmature|ClownFish",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      }
+    ],
+    "images": [],
+    "objects": 2,
+    "current_path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\ClownFish.fbx"
+  },
+  {
+    "path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\DoryFish.fbx",
+    "meshes": [
+      {
+        "name": "Plane",
+        "vertices": 330,
+        "faces": 386,
+        "triangles": 702,
+        "materials": [
+          "DoryBlue",
+          "DoryYellow",
+          "DoryBlack"
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      }
+    ],
+    "actions": [
+      {
+        "name": "DoryArmature|DoryArmature|BrownFish",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "DoryArmature|DoryArmature|BrownFishArmature.001|BrownFishArmature|Br_a3b0788",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "DoryArmature|DoryArmature|BrownFishArmature.001|BrownFishArmature|Cl_b8dabb0",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "DoryArmature|DoryArmature|BrownFishArmature.001|BrownFishArmature|Do_6fce922",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "DoryArmature|DoryArmature|BrownFishArmature.001|BrownFishArmature|Tu_c88aba3",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "DoryArmature|DoryArmature|ClownFish",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "DoryArmature|DoryArmature|DorySwim",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      },
+      {
+        "name": "DoryArmature|DoryArmature|TunaSwim",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      }
+    ],
+    "images": [],
+    "objects": 2,
+    "current_path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\DoryFish.fbx"
+  },
+  {
+    "path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\Rock.fbx",
+    "meshes": [
+      {
+        "name": "Cube",
+        "vertices": 24,
+        "faces": 29,
+        "triangles": 44,
+        "materials": [
+          "Rock"
+        ],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [],
+    "objects": 1,
+    "current_path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\Rock.fbx"
+  },
+  {
+    "path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\SeaWeed.fbx",
+    "meshes": [
+      {
+        "name": "Plane",
+        "vertices": 90,
+        "faces": 126,
+        "triangles": 176,
+        "materials": [
+          "Seaweed"
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Plane.001",
+        "vertices": 164,
+        "faces": 162,
+        "triangles": 324,
+        "materials": [
+          "Seaweed"
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      },
+      {
+        "name": "Plane.004",
+        "vertices": 184,
+        "faces": 182,
+        "triangles": 364,
+        "materials": [
+          "Seaweed"
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      }
+    ],
+    "actions": [
+      {
+        "name": "Camera|Seaweed.001|Armature.001Action",
+        "frames": [
+          1.0,
+          241.0
+        ]
+      },
+      {
+        "name": "Camera|Seaweed.002|Armature.001Action",
+        "frames": [
+          1.0,
+          241.0
+        ]
+      },
+      {
+        "name": "Camera|Seaweed.002|Armature.002Action",
+        "frames": [
+          1.0,
+          241.0
+        ]
+      },
+      {
+        "name": "Camera|Seaweed.002|ArmatureAction",
+        "frames": [
+          1.0,
+          180.0
+        ]
+      },
+      {
+        "name": "Camera|Seaweed|Armature.001Action",
+        "frames": [
+          1.0,
+          241.0
+        ]
+      },
+      {
+        "name": "Camera|Seaweed|Armature.002Action",
+        "frames": [
+          1.0,
+          241.0
+        ]
+      },
+      {
+        "name": "Seaweed.001|Seaweed.001|Armature.001Action",
+        "frames": [
+          1.0,
+          241.0
+        ]
+      },
+      {
+        "name": "Seaweed.002|Seaweed.002|Armature.001Action",
+        "frames": [
+          1.0,
+          241.0
+        ]
+      },
+      {
+        "name": "Seaweed.002|Seaweed.002|Armature.002Action",
+        "frames": [
+          1.0,
+          241.0
+        ]
+      },
+      {
+        "name": "Seaweed.002|Seaweed.002|ArmatureAction",
+        "frames": [
+          1.0,
+          180.0
+        ]
+      },
+      {
+        "name": "Seaweed|Seaweed|Armature.001Action",
+        "frames": [
+          1.0,
+          241.0
+        ]
+      },
+      {
+        "name": "Seaweed|Seaweed|Armature.002Action",
+        "frames": [
+          1.0,
+          241.0
+        ]
+      }
+    ],
+    "images": [],
+    "objects": 8,
+    "current_path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\SeaWeed.fbx"
+  },
+  {
+    "path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\TunaFish.fbx",
+    "meshes": [
+      {
+        "name": "Tuna",
+        "vertices": 344,
+        "faces": 400,
+        "triangles": 753,
+        "materials": [
+          "Fish",
+          "FishUnderside"
+        ],
+        "modifiers": [
+          "ARMATURE"
+        ]
+      }
+    ],
+    "actions": [
+      {
+        "name": "TunaArmature|TunaArmature|TunaSwim",
+        "frames": [
+          1.0,
+          41.0
+        ]
+      }
+    ],
+    "images": [],
+    "objects": 2,
+    "current_path": "99_资产清单与整理记录\\新增资源盘点_2026-11-05\\检查用解包\\FolderToUpload.zip\\FolderToUpload\\fbx\\TunaFish.fbx"
+  }
+]

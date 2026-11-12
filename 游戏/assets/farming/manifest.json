@@ -1,0 +1,563 @@
+{
+  "format_version": 1,
+  "units": "metres",
+  "coordinate_system": "Godot Y-up; local floor Y=0; front -Z",
+  "authoring": "Blender 5.2; original low-poly meshes derived from supplied composite concept",
+  "reference_image": "D:\\浪费GPT额度\\小温的游戏\\素材\\03_参考图与资料\\农耕与伐木\\农耕伐木_复合参考.png",
+  "soil": {
+    "size_xz": [
+      1.418,
+      1.418
+    ],
+    "top_height_range": [
+      0.071,
+      0.123
+    ],
+    "bottom_y": 0,
+    "terrain_fit": "Add sampled terrain height to each local vertex Y, including sides and bottom. Root has identity transform. Recompute normals after deformation.",
+    "dry_material": "res://assets/farming/soil_dry.tres",
+    "wet_material": "res://assets/farming/soil_wet.tres",
+    "textures": [
+      "soil_dry_albedo.png",
+      "soil_wet_albedo.png",
+      "soil_dry_roughness.png",
+      "soil_wet_roughness.png"
+    ]
+  },
+  "stage_meanings": [
+    "sprout",
+    "vegetative",
+    "immature fruit/flower",
+    "harvest-ready"
+  ],
+  "suggested_growth_days": {
+    "turnip": 3,
+    "tomato": 4,
+    "pumpkin": 5
+  },
+  "assets": {
+    "axe": {
+      "path": "res://assets/farming/axe.glb",
+      "vertices": 98,
+      "triangles": 166,
+      "mesh_node": "axe_mesh",
+      "materials": [
+        "Honey ash handle",
+        "Pale cut wood",
+        "Forged blue steel",
+        "Honed steel edge"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.07500000298023224,
+          0.0,
+          -0.04700000211596489
+        ],
+        "max": [
+          0.35499995946884155,
+          1.0,
+          0.04700000211596489
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1,
+      "grip_local_godot": [
+        0,
+        0.32,
+        0
+      ]
+    },
+    "hoe": {
+      "path": "res://assets/farming/hoe.glb",
+      "vertices": 94,
+      "triangles": 158,
+      "mesh_node": "hoe_mesh",
+      "materials": [
+        "Honey ash handle",
+        "Pale cut wood",
+        "Forged blue steel",
+        "Honed steel edge"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.04100000113248825,
+          0.0,
+          -0.1599999964237213
+        ],
+        "max": [
+          0.23000000417232513,
+          1.0950000286102295,
+          0.1599999964237213
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1,
+      "grip_local_godot": [
+        0,
+        0.38,
+        0
+      ]
+    },
+    "watering_can": {
+      "path": "res://assets/farming/watering_can.glb",
+      "vertices": 386,
+      "triangles": 692,
+      "mesh_node": "watering_can_mesh",
+      "materials": [
+        "Watering can sage enamel",
+        "Watering can rim and interior",
+        "Pale cut wood",
+        "Turnip ivory flesh",
+        "Squash and tomato blossoms"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.4936898648738861,
+          0.0,
+          -0.20499999821186066
+        ],
+        "max": [
+          0.36106187105178833,
+          0.5717424750328064,
+          0.20680512487888336
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1,
+      "grip_local_godot": [
+        0,
+        0.55,
+        0
+      ]
+    },
+    "log": {
+      "path": "res://assets/farming/log.glb",
+      "vertices": 580,
+      "triangles": 1088,
+      "mesh_node": "log_mesh",
+      "materials": [
+        "Palm bark umber",
+        "Palm bark facets",
+        "Pale cut wood",
+        "Endgrain rings"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.1720000058412552,
+          0.0,
+          -0.41200000047683716
+        ],
+        "max": [
+          0.21445642411708832,
+          0.34754425287246704,
+          0.41200003027915955
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "stump": {
+      "path": "res://assets/farming/stump.glb",
+      "vertices": 370,
+      "triangles": 682,
+      "mesh_node": "stump_mesh",
+      "materials": [
+        "Palm bark umber",
+        "Palm bark facets",
+        "Pale cut wood",
+        "Endgrain rings"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.4061492681503296,
+          0.0,
+          -0.37650638818740845
+        ],
+        "max": [
+          0.4061492681503296,
+          0.3725000023841858,
+          0.37650638818740845
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "soil_plot": {
+      "path": "res://assets/farming/soil_plot.glb",
+      "vertices": 954,
+      "triangles": 1904,
+      "mesh_node": "soil_plot_mesh",
+      "materials": [
+        "Cultivated earth dry textured"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.7089654803276062,
+          0.0,
+          -0.7089992165565491
+        ],
+        "max": [
+          0.7089900970458984,
+          0.1225527822971344,
+          0.7089999318122864
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "turnip_stage_0": {
+      "path": "res://assets/farming/turnip_stage_0.glb",
+      "vertices": 36,
+      "triangles": 60,
+      "mesh_node": "turnip_stage_0_mesh",
+      "materials": [
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.10499999672174454,
+          0.0,
+          -0.04361620545387268
+        ],
+        "max": [
+          0.10499999672174454,
+          0.1599999964237213,
+          0.04361620545387268
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "turnip_stage_1": {
+      "path": "res://assets/farming/turnip_stage_1.glb",
+      "vertices": 160,
+      "triangles": 280,
+      "mesh_node": "turnip_stage_1_mesh",
+      "materials": [
+        "Turnip ivory flesh",
+        "Turnip rose shoulder",
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.16036342084407806,
+          0.0,
+          -0.1783854216337204
+        ],
+        "max": [
+          0.17795990407466888,
+          0.2800000011920929,
+          0.14651094377040863
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "turnip_stage_2": {
+      "path": "res://assets/farming/turnip_stage_2.glb",
+      "vertices": 216,
+      "triangles": 372,
+      "mesh_node": "turnip_stage_2_mesh",
+      "materials": [
+        "Turnip ivory flesh",
+        "Turnip rose shoulder",
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.21324415504932404,
+          0.0,
+          -0.18259374797344208
+        ],
+        "max": [
+          0.2099042683839798,
+          0.36000001430511475,
+          0.1791052520275116
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "turnip_stage_3": {
+      "path": "res://assets/farming/turnip_stage_3.glb",
+      "vertices": 294,
+      "triangles": 500,
+      "mesh_node": "turnip_stage_3_mesh",
+      "materials": [
+        "Turnip ivory flesh",
+        "Turnip rose shoulder",
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.2738036513328552,
+          0.0,
+          -0.26817405223846436
+        ],
+        "max": [
+          0.2833749055862427,
+          0.4449999928474426,
+          0.31618452072143555
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "tomato_stage_0": {
+      "path": "res://assets/farming/tomato_stage_0.glb",
+      "vertices": 48,
+      "triangles": 84,
+      "mesh_node": "tomato_stage_0_mesh",
+      "materials": [
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.12999999523162842,
+          0.0,
+          -0.03750000149011612
+        ],
+        "max": [
+          0.12999999523162842,
+          0.17407895624637604,
+          0.03750000149011612
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "tomato_stage_1": {
+      "path": "res://assets/farming/tomato_stage_1.glb",
+      "vertices": 254,
+      "triangles": 424,
+      "mesh_node": "tomato_stage_1_mesh",
+      "materials": [
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.27097874879837036,
+          0.0,
+          -0.21775579452514648
+        ],
+        "max": [
+          0.2749999761581421,
+          0.40185073018074036,
+          0.2739928364753723
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "tomato_stage_2": {
+      "path": "res://assets/farming/tomato_stage_2.glb",
+      "vertices": 816,
+      "triangles": 1376,
+      "mesh_node": "tomato_stage_2_mesh",
+      "materials": [
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green",
+        "Unripe fruit",
+        "Squash and tomato blossoms",
+        "Pumpkin burnt orange"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.3054669499397278,
+          0.0,
+          -0.2998317778110504
+        ],
+        "max": [
+          0.3100000023841858,
+          0.6411683559417725,
+          0.30886465311050415
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "tomato_stage_3": {
+      "path": "res://assets/farming/tomato_stage_3.glb",
+      "vertices": 974,
+      "triangles": 1648,
+      "mesh_node": "tomato_stage_3_mesh",
+      "materials": [
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green",
+        "Tomato ripe red",
+        "Squash and tomato blossoms",
+        "Pumpkin burnt orange"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.3399551510810852,
+          0.0,
+          -0.3336837589740753
+        ],
+        "max": [
+          0.3449999690055847,
+          0.8209142684936523,
+          0.343736469745636
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "pumpkin_stage_0": {
+      "path": "res://assets/farming/pumpkin_stage_0.glb",
+      "vertices": 32,
+      "triangles": 52,
+      "mesh_node": "pumpkin_stage_0_mesh",
+      "materials": [
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.15000000596046448,
+          0.0,
+          -0.07313261926174164
+        ],
+        "max": [
+          0.15000000596046448,
+          0.1899999976158142,
+          0.07313261926174164
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "pumpkin_stage_1": {
+      "path": "res://assets/farming/pumpkin_stage_1.glb",
+      "vertices": 270,
+      "triangles": 488,
+      "mesh_node": "pumpkin_stage_1_mesh",
+      "materials": [
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.368934690952301,
+          0.0,
+          -0.303198903799057
+        ],
+        "max": [
+          0.384045273065567,
+          0.26295050978660583,
+          0.3724806606769562
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "pumpkin_stage_2": {
+      "path": "res://assets/farming/pumpkin_stage_2.glb",
+      "vertices": 890,
+      "triangles": 1584,
+      "mesh_node": "pumpkin_stage_2_mesh",
+      "materials": [
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green",
+        "Unripe fruit",
+        "Squash and tomato blossoms",
+        "Pumpkin burnt orange"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.46893468499183655,
+          0.0,
+          -0.42815855145454407
+        ],
+        "max": [
+          0.47002553939819336,
+          0.29499998688697815,
+          0.4558718204498291
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    },
+    "pumpkin_stage_3": {
+      "path": "res://assets/farming/pumpkin_stage_3.glb",
+      "vertices": 930,
+      "triangles": 1648,
+      "mesh_node": "pumpkin_stage_3_mesh",
+      "materials": [
+        "Plant stems",
+        "Leaf olive green",
+        "Leaf sunlit green",
+        "Leaf shaded green",
+        "Pumpkin burnt orange",
+        "Pumpkin golden facets",
+        "Pumpkin rib shadows",
+        "Squash and tomato blossoms"
+      ],
+      "bounds_godot": {
+        "min": [
+          -0.5289346575737,
+          0.0,
+          -0.4784720540046692
+        ],
+        "max": [
+          0.5296846032142639,
+          0.48847100138664246,
+          0.5059065818786621
+        ]
+      },
+      "mesh_node_transform": "identity",
+      "uv_layers": 1
+    }
+  },
+  "tools": {
+    "axe": {
+      "grip": [
+        0,
+        0.32,
+        0
+      ]
+    },
+    "hoe": {
+      "grip": [
+        0,
+        0.38,
+        0
+      ]
+    },
+    "watering_can": {
+      "grip": [
+        0,
+        0.55,
+        0
+      ]
+    }
+  }
+}

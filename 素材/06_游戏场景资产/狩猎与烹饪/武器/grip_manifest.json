@@ -1,0 +1,9 @@
+{
+  "axes": "+Y up, +Z forward, metres",
+  "rifle": {"model":"res://assets/hunting/hunting_rifle.glb","GripRight":[0,-0.005,0],"GripLeft":[0,0.008,0.23],"Muzzle":[0,0.067,0.756],"Butt":[0,-0.075,-0.305]},
+  "bow": {"model":"res://assets/hunting/bow.glb","GripLeft":[0,0,0],"ArrowRest":[0.035,0.0385,0.015],"StringTop":[0,0.448,-0.08],"StringBottom":[0,-0.448,-0.08]},
+  "animation": {"GunAim":"C01_gun_aim.res, 0.1 s loop","GunFire":"C01_gun_fire.res, 0.333 s","GunReload":"C01_gun_reload.res, 1.4 s","Gunplay":"C01_gunplay.res, complete source 2.5667 s","Bow":"C01_bow.res, complete source 5 s; modifier samples upper body 2.15 to 2.5 s"},
+  "integration":"Attach weapon_grip.gd under C01 Skeleton3D, set hunting before add_child. Modifier connects skeleton_updated itself. Models must use default scale. It creates and updates NockedArrow and LiveUpper/LiveLower inside bow. Parent controls visibility and gameplay. No required explicit sync call.",
+  "source_limit":"Gunplay is a continuous handling/raising gesture. GunAim/Fire/Reload are selected segments; two-hand IK and procedural loading hand adapt these to a single-shot hunting gun rather than claiming the source contains a dedicated break-action reload.",
+  "qa":"Independent Godot Vulkan closeups rendered gun aim/reload, bow draw/release; no runtime or parse errors. QA outputs D:/Temp/weapon_*.png. Source FBX retargeted to exact C01 bone names with fixed root and horizontal hips. Extreme aiming pitch and in-game locomotion require parent integration QA."
+}

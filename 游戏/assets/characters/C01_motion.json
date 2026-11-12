@@ -1,0 +1,145 @@
+{
+  "clips": {
+    "Idle": {
+      "source": "Idle.fbx",
+      "frames": 251,
+      "fps": 30.0,
+      "duration_s": 8.333333333333334,
+      "speed_mps": 3.6674591586823923e-09,
+      "source_translation_m": [
+        3.3527612686157227e-08,
+        -9.313225746154785e-09,
+        2.384185791015625e-07
+      ],
+      "leg_scale": 0.8782965987131472,
+      "ground_correction_range_m": [
+        0.00028455354829570685,
+        0.0009432268469933984
+      ],
+      "flight_height_range_m": [
+        0.0,
+        1.8371006663922214e-06
+      ],
+      "root_motion_mode": "in_place",
+      "loop_closed": true
+    },
+    "Walk": {
+      "source": "Walking.fbx",
+      "frames": 30,
+      "fps": 30.0,
+      "duration_s": 0.9666666666666667,
+      "speed_mps": 1.4721983445344304,
+      "source_translation_m": [
+        2.3283064365386963e-08,
+        -1.6203240156173706,
+        2.384185791015625e-07
+      ],
+      "leg_scale": 0.8782965987131472,
+      "ground_correction_range_m": [
+        -0.004618158978983614,
+        0.042529441226188305
+      ],
+      "flight_height_range_m": [
+        0.0,
+        0.006983529586259487
+      ],
+      "root_motion_mode": "in_place",
+      "loop_closed": true
+    },
+    "Run": {
+      "source": "Fast Run.fbx",
+      "frames": 17,
+      "fps": 30.0,
+      "duration_s": 0.5333333333333333,
+      "speed_mps": 4.969052546988407,
+      "source_translation_m": [
+        -3.329478204250336e-08,
+        -3.017387628555298,
+        2.980232238769531e-07
+      ],
+      "leg_scale": 0.8782965987131472,
+      "ground_correction_range_m": [
+        0.00698175421565965,
+        0.067034261025365
+      ],
+      "flight_height_range_m": [
+        0.0,
+        0.07759592516556914
+      ],
+      "root_motion_mode": "in_place",
+      "loop_closed": true
+    },
+    "Swim": {
+      "source": "Swimming.fbx",
+      "source_frames": [
+        1,
+        137
+      ],
+      "frames": 137,
+      "duration_s": 4.533333333333333,
+      "root_motion_mode": "in_place",
+      "waterline_hips_m": -0.07,
+      "loop_closed": true
+    },
+    "SwimIdle": {
+      "source": "Swimming To Edge.fbx",
+      "source_frames": [
+        101,
+        151
+      ],
+      "frames": 51,
+      "duration_s": 1.6666666666666667,
+      "root_motion_mode": "in_place",
+      "waterline_hips_m": -0.22,
+      "loop_closed": true
+    },
+    "Paddle": {
+      "source": "Paddling.fbx",
+      "source_frames": [
+        1,
+        218
+      ],
+      "frames": 218,
+      "duration_s": 7.233333333333333,
+      "root_motion_mode": "in_place",
+      "waterline_hips_m": 0.0,
+      "loop_closed": true
+    },
+    "PaddleIdle": {
+      "source": "Paddling.fbx",
+      "source_frames": [
+        1,
+        61
+      ],
+      "frames": 61,
+      "duration_s": 2.0,
+      "root_motion_mode": "in_place",
+      "waterline_hips_m": 0.0,
+      "loop_closed": true
+    },
+    "FishCast": {
+      "source": "Fishing Cast.fbx",
+      "source_frames": [
+        1,
+        264
+      ],
+      "frames": 264,
+      "duration_s": 8.766666666666667,
+      "root_motion_mode": "in_place",
+      "waterline_hips_m": 0.0,
+      "loop_closed": true
+    },
+    "FishIdle": {
+      "source": "Fishing Idle.fbx",
+      "source_frames": [
+        1,
+        107
+      ],
+      "frames": 107,
+      "duration_s": 3.533333333333333,
+      "root_motion_mode": "in_place",
+      "waterline_hips_m": 0.0,
+      "loop_closed": true
+    }
+  }
+}

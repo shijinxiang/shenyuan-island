@@ -1,0 +1,58 @@
+[
+  {
+    "format": "glb",
+    "triangles": 11774,
+    "welded_nonmanifold_edges": 0,
+    "zero_area_faces": 0,
+    "duplicate_triangles": 0,
+    "missing_uv": [],
+    "images": [
+      {
+        "name": "岩石_BaseColor",
+        "packed": true,
+        "loaded": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "路面_BaseColor",
+        "packed": true,
+        "loaded": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ]
+  },
+  {
+    "format": "fbx",
+    "triangles": 11774,
+    "welded_nonmanifold_edges": 0,
+    "zero_area_faces": 0,
+    "duplicate_triangles": 0,
+    "missing_uv": [],
+    "images": [
+      {
+        "name": "岩石_BaseColor.png",
+        "packed": true,
+        "loaded": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "路面_BaseColor.png",
+        "packed": true,
+        "loaded": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ]
+  }
+]

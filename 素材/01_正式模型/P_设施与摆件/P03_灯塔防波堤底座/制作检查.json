@@ -1,0 +1,13 @@
+{
+  "triangles": 11774,
+  "budget": 12000,
+  "mesh_groups": 5,
+  "solid_mesh_issues": [],
+  "source": "6.1 Terra ImageGen concept, root Blender modelling",
+  "platform_center_blender": [
+    0,
+    24,
+    3.005
+  ],
+  "known_structural_contacts": "Armour stones intentionally nest into solid core; no coplanar duplicate road surfaces."
+}

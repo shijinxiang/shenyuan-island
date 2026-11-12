@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Environment" path="res://addons/low_poly_skies/skies/night_full_moon.tres" id="1"]
+
+[node name="SkyNightFullMoon" type="Node3D"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = ExtResource("1")
+
+[node name="Moon" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.93971, -0.19124, 0.28350, 0.00000, 0.82898, 0.55920, -0.34199, -0.52548, 0.77900, 0, 0, 0)
+light_color = Color(0.7216, 0.7843, 0.9412, 1)
+light_energy = 0.219
+shadow_enabled = true

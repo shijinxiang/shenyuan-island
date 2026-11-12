@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "binary_sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562",
+  "binary_matches_delivery": true,
+  "runtime_copy": "D:\\浪费GPT额度\\交付核验_2026-11-11\\隔离存档运行",
+  "isolated_user_data": "C:\\Users\\SHIJINXIANG\\AppData\\Roaming\\CodexAbyssStandalone20261111",
+  "started": "2026-11-11T18:35:44.7716735+09:00",
+  "exit_code": 0,
+  "markers": {
+    "ISLAND_ADVENTURE_READY": true,
+    "COASTAL_PRESENTATION_READY": true,
+    "SHALLOW_WATER_READY": true
+  },
+  "errors": [],
+  "settings_difference": "isolated save directory and diagnostic logging"
+}

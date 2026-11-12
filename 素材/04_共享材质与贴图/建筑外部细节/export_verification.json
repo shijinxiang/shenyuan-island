@@ -1,0 +1,78 @@
+[
+  {
+    "asset": "B01_破旧木屋",
+    "format": "glb",
+    "triangles": 11780,
+    "expected": 11780,
+    "zero_area_triangles": 0,
+    "duplicate_triangles": 0,
+    "missing_images": [],
+    "alpha_materials": [
+      "Ivy | mature climbing leaves",
+      "Crack | upward weathering"
+    ]
+  },
+  {
+    "asset": "B01_破旧木屋",
+    "format": "fbx",
+    "triangles": 11780,
+    "expected": 11780,
+    "zero_area_triangles": 0,
+    "duplicate_triangles": 0,
+    "missing_images": [],
+    "alpha_materials": [
+      "Ivy | mature climbing leaves",
+      "Crack | upward weathering"
+    ]
+  },
+  {
+    "asset": "B02_大型红色仓库",
+    "format": "glb",
+    "triangles": 11990,
+    "expected": 11990,
+    "zero_area_triangles": 0,
+    "duplicate_triangles": 0,
+    "missing_images": [],
+    "alpha_materials": [
+      "Ivy | mature climbing leaves",
+      "Crack | upward weathering"
+    ]
+  },
+  {
+    "asset": "B02_大型红色仓库",
+    "format": "fbx",
+    "triangles": 11990,
+    "expected": 11990,
+    "zero_area_triangles": 0,
+    "duplicate_triangles": 0,
+    "missing_images": [],
+    "alpha_materials": [
+      "Ivy | mature climbing leaves",
+      "Crack | upward weathering"
+    ]
+  },
+  {
+    "asset": "B03_白色灯塔",
+    "format": "glb",
+    "triangles": 10936,
+    "expected": 10936,
+    "zero_area_triangles": 0,
+    "duplicate_triangles": 0,
+    "missing_images": [],
+    "alpha_materials": [
+      "Crack | upward weathering"
+    ]
+  },
+  {
+    "asset": "B03_白色灯塔",
+    "format": "fbx",
+    "triangles": 10936,
+    "expected": 10936,
+    "zero_area_triangles": 0,
+    "duplicate_triangles": 0,
+    "missing_images": [],
+    "alpha_materials": [
+      "Crack | upward weathering"
+    ]
+  }
+]

@@ -1,0 +1,2185 @@
+{
+  "archive": "归档/01_停用游戏资源与旧场景.zip",
+  "sha256": "2ee7c73260340e5595ae385a4d266292a32957c0080d5515d467a278f12a2e6f",
+  "verified": true,
+  "original_bytes": 1913037058,
+  "archive_bytes": 1588556023,
+  "files": [
+    {
+      "path": "游戏/assets/characters/C01_rigged.glb",
+      "size": 3341488,
+      "sha256": "6c148de50e1cd0b7306d148acc291803c0e3b96c74f00a0db34e244932565b08"
+    },
+    {
+      "path": "游戏/assets/characters/C01_rigged.glb.import",
+      "size": 1163,
+      "sha256": "13a101b7155fd0378b8f774972abd6789e91247c65b08c52c576ab4b97e1e953"
+    },
+    {
+      "path": "游戏/assets/characters/C01_rigged_tripo_image_72ed5180-d0cd-4602-8fc9-1fa72f6a8119_0_0.jpg",
+      "size": 1121158,
+      "sha256": "c352aceec654715d4cfccbf571c3e47c3f62fc0b785495ecc9a78e2264ac084d"
+    },
+    {
+      "path": "游戏/assets/characters/C01_rigged_tripo_image_72ed5180-d0cd-4602-8fc9-1fa72f6a8119_0_0.jpg.import",
+      "size": 1225,
+      "sha256": "1b2abf70c92cdd815843c3864acf7687a62ad2a0b445aee5d55f0d3245acdddc"
+    },
+    {
+      "path": "游戏/assets/characters/C03_rigged.glb",
+      "size": 3250164,
+      "sha256": "fe428fe2c501a16c7ba586a57196e814a13456292625834c6eed8aaa9dc491cb"
+    },
+    {
+      "path": "游戏/assets/characters/C03_rigged.glb.import",
+      "size": 1163,
+      "sha256": "e1e3aa59aae847d163dc4348bef074cdc1bd1638fd498abd1beafbeeffa94496"
+    },
+    {
+      "path": "游戏/assets/characters/C03_rigged_tripo_image_c3b0d688-1d8e-4b91-91bb-b6dfab78e124_0_0.jpg",
+      "size": 963716,
+      "sha256": "10cc9cfc89c1555aead4349f5d981b1c01ada3b61540c6feee2dd6fdfcf10c2a"
+    },
+    {
+      "path": "游戏/assets/characters/C03_rigged_tripo_image_c3b0d688-1d8e-4b91-91bb-b6dfab78e124_0_0.jpg.import",
+      "size": 1225,
+      "sha256": "cd6406ea8acceddd5dd6f2b602516a2f37b6bbc663080046e08c7dceef267db0"
+    },
+    {
+      "path": "游戏/assets/library/custom_corals/NC01.glb",
+      "size": 28776,
+      "sha256": "ab6e83a0dfe88683b949f81d5a2c3b21c8701bb8fd99a6cfc707c1cf19e270b1"
+    },
+    {
+      "path": "游戏/assets/library/custom_corals/NC01.glb.import",
+      "size": 1156,
+      "sha256": "936a8688217d1167eebfcffea3b67d496212d04c5287ab85183824160331d5d7"
+    },
+    {
+      "path": "游戏/assets/library/custom_corals/NC02.glb",
+      "size": 23908,
+      "sha256": "7347e0549dafd19e219d49ef64f18ed4d24323d25a2b36040032256395797eff"
+    },
+    {
+      "path": "游戏/assets/library/custom_corals/NC02.glb.import",
+      "size": 1156,
+      "sha256": "3db1bc2b56a21e605326b2f4b48d332dcffebdcc135330769b763291a17c7eef"
+    },
+    {
+      "path": "游戏/assets/library/custom_corals/NC03.glb",
+      "size": 20636,
+      "sha256": "b403bf8e5704c9fc4a0f18ae6d3e35a4f57d38456544b5ba69282a54b85086ac"
+    },
+    {
+      "path": "游戏/assets/library/custom_corals/NC03.glb.import",
+      "size": 1155,
+      "sha256": "fe793c98051384e531d36a1c4d9be4a4f584ad5193eb4713e702798acf1f49af"
+    },
+    {
+      "path": "游戏/assets/library/custom_corals/NW01.glb",
+      "size": 19552,
+      "sha256": "633d347ae8dd8998565c380b9ec10dbdc3970333ffe1cc92a0fc10f0cf730e3d"
+    },
+    {
+      "path": "游戏/assets/library/custom_corals/NW01.glb.import",
+      "size": 1155,
+      "sha256": "8954eba8c89adc68fb22235a313116984568e58b5fd23d6d760e9d5839035bdd"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_Clumps_large.glb",
+      "size": 26336,
+      "sha256": "81c4e2ebb8b702a580e1187243c797968f204ee090b3de6bc969f1d94b418aaf"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_Clumps_large.glb.import",
+      "size": 1204,
+      "sha256": "ba591e603695109f1ce8492142290c52884aeb6724d1241c25e7e10d5c5e8ba8"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_Clumps_medium.glb",
+      "size": 12152,
+      "sha256": "020f92d94efad5071e54c6c19d1d082263a361f03b82326dd4a998e62475ed6e"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_Clumps_medium.glb.import",
+      "size": 1207,
+      "sha256": "a077df1ebdfa81061bc8231015a21f0fcbbd2e45fb01ce2a76be1923e42ad6e3"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_Clumps_small.glb",
+      "size": 18384,
+      "sha256": "9550455ae921de8c9576ab987cd0ae5d824c353ebdd64054a50e9859aaf97fac"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_Clumps_small.glb.import",
+      "size": 1203,
+      "sha256": "a3d11ede5d258b5f939396b3b3e87fc3f7f66ae41fc80bda50b807a1069c3354"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_large.glb",
+      "size": 9596,
+      "sha256": "95bc1d8a60cb2e87057ec2c8633cd15ac07507d854f1db451db8f3e0d2d70615"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_large.glb.import",
+      "size": 1183,
+      "sha256": "7e3520ac5dbd62b8f8c7c5ece194cc4c95f9e5b923867688a6b5f47db95e0138"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_medium.glb",
+      "size": 6944,
+      "sha256": "c83598cadd1b944f97f8b52a9213db6140fa40acb9f40dd7f09674b5b132dba9"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_medium.glb.import",
+      "size": 1185,
+      "sha256": "3bdaa736bf886c8856919e4217001b5d795b53d0b88020482f3e83177e86a368"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_small.glb",
+      "size": 5520,
+      "sha256": "dc916dd6575480afc2d561d60b387e618cf673274bc51bef22948913960ce0fa"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_small.glb.import",
+      "size": 1182,
+      "sha256": "b22104f4fa80e72928a7cc404fb5e8dae4a24cbc187ef3198171446191850fb8"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_with_Flowers.glb",
+      "size": 52752,
+      "sha256": "7459a4f69bc7da1ac1dce08ef77b8cc624eec12796735737125469c6cac45ac6"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Bush_with_Flowers.glb.import",
+      "size": 1204,
+      "sha256": "cace18481bf195aad6d55c5dfbf2dc4e9a03fdef63d1e1a38ab4e520f3e461aa"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Fallen_Log.glb",
+      "size": 44124,
+      "sha256": "ee108d87eb94b457507ff3a96894e937a37be5b6d69fe3fa6541b202c493f8e5"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Fallen_Log.glb.import",
+      "size": 1182,
+      "sha256": "9ffac25c5e481c9f8f4fadae708b3b774f184857a11d7801d4a3bec872bff0c8"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Flowers_red.glb",
+      "size": 105028,
+      "sha256": "3e98662d42176328d14fc30c77b038ba9bf59075a6fd3d30acdc7703420fb7d6"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Flowers_red.glb.import",
+      "size": 1186,
+      "sha256": "bf4ce68f9af56045d5c513d874bfa4692b0952ca0d9d2426e86b39a1eff49795"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Mushroom_Brown_large.glb",
+      "size": 13920,
+      "sha256": "af81903d3331deb9a98c0e8d2bd6d942a576c2695e6bddd0faf44709a023c146"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Mushroom_Brown_large.glb.import",
+      "size": 1213,
+      "sha256": "8f62e8a51b9d129d41973670f7f10eee070305e0c4e42b5dc68ac278b43b80e1"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Mushroom_Brown_medium.glb",
+      "size": 13928,
+      "sha256": "4f8dfb80c3fb3a8e133813ad7550de85ed0a589953180a5fb78ae2ade5bae50e"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Mushroom_Brown_medium.glb.import",
+      "size": 1216,
+      "sha256": "5ab6ff7d5430db1631e7f80d9f0fa10ec202ad1120ba797767f9be403b006d45"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Mushroom_Brown_small.glb",
+      "size": 11668,
+      "sha256": "c24da0849544fa5814e1dfd67a0b56f9c09b8713737d38a744a556922a1632cd"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Mushroom_Brown_small.glb.import",
+      "size": 1212,
+      "sha256": "d28ccee5402ed0bcb764a15de321baf912e867234aef44fbacb11aec823de774"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Mushroom_Red_large.glb",
+      "size": 96288,
+      "sha256": "081867a1233e3f5e4ec3ddce085f1285b36dced83b81824f0ab48d8ed5d2c447"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Mushroom_Red_large.glb.import",
+      "size": 1207,
+      "sha256": "7840a7f9e50ecc8a0d809169906306bb0c703483751ad89355c11501d49bfc8e"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Mushroom_Red_small.glb",
+      "size": 82484,
+      "sha256": "46f53191027a115132a86abe31d3360bf659897c8b72da277cdd4605efbadeb8"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Mushroom_Red_small.glb.import",
+      "size": 1207,
+      "sha256": "824a8143f4e2f00eab06de16d4f5f6686fa93ff3abe42159f6e1b4ca1adbfef8"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Birch_hero_green.glb",
+      "size": 239372,
+      "sha256": "b430670fd3894fe815ca33b44e1488e589991bf80c805682a91077ab5fc71676"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Birch_hero_green.glb.import",
+      "size": 1216,
+      "sha256": "5da32637ccba45934e2e91b79a2c1049d889eed333912c7904f682ea88b6d9ae"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Birch_large_green.glb",
+      "size": 44040,
+      "sha256": "70bc9fff2f8d5d2479eeab496ec13ecb47b0191084aaca3469008163dd71ddc6"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Birch_large_green.glb.import",
+      "size": 1219,
+      "sha256": "5da0f0e22f3769368a59f9a2f19d772a6097c594402658d6738c90eed099727f"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Birch_medium_green.glb",
+      "size": 41684,
+      "sha256": "ce358ff528a46c2f16414a04445c1d09ff1a3ff30046da90fc411a886c297f9b"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Birch_medium_green.glb.import",
+      "size": 1221,
+      "sha256": "56e64f229029180544e36ae51dbdd09dafd3d94bb50465d82be83258b94f21b3"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Birch_small_green.glb",
+      "size": 25920,
+      "sha256": "9b3f7520a56613319fc6af8e4041bc3799197d8855fe615602db4a35cbab717d"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Birch_small_green.glb.import",
+      "size": 1219,
+      "sha256": "5c2d46f9c1aa7495b8a16649692a9509918d16a3bb6e328c9ad3ede802bfd6f3"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Cypress_large.glb",
+      "size": 16176,
+      "sha256": "fbd31728d60500b4042cf50d043e2cad61a803b09e82aaf2134bc171df611596"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Cypress_large.glb.import",
+      "size": 1207,
+      "sha256": "9ddc0a0ee919c4bf47d5e8b436e5afcedb56325894a57eb55c8be35bafad6cd1"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Cypress_medium.glb",
+      "size": 16180,
+      "sha256": "6a3519a58f9f9a6f06ee00400457adac187a8da1cc349237a7e8b978d8d791d7"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Cypress_medium.glb.import",
+      "size": 1210,
+      "sha256": "6123c84859a016a649eb3ce4cc7681e5b6a1afaaf7a2fa72c602acae7d574dd6"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Cypress_small.glb",
+      "size": 10104,
+      "sha256": "2c6b07db77b64fb8a3e0bde91968168e5230918aedfdba7f08f47b1617960978"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Cypress_small.glb.import",
+      "size": 1207,
+      "sha256": "2018cbbffb402861f5f160592539085124b15dda3d5f3d22b5f12d8e3c13db9a"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Elm_green.glb",
+      "size": 40312,
+      "sha256": "4d51106ae8343f4df3347f3656bbc8826f970e67a82cb98ecb5fe77a52566018"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Elm_green.glb.import",
+      "size": 1195,
+      "sha256": "e851e0b2332b77903574d1926e977cbf7853edbf930fe1a5717ffac78f9be548"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Maple_red.glb",
+      "size": 25588,
+      "sha256": "e80aceb7525a9d0344271a883bda5a2e081e71317bc821dca1b848d6214fe54e"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Maple_red.glb.import",
+      "size": 1195,
+      "sha256": "4526df2457aa51faabab6a719cee1beb4faeb960b551ae8365b6a164238324dc"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Oak_hero_green.glb",
+      "size": 156728,
+      "sha256": "2ee5a760c1c169362d2791979140796ab8a0529dbb5e54004dac3146b01ec024"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Oak_hero_green.glb.import",
+      "size": 1210,
+      "sha256": "027a594b8f836214fa456baa920ce814901a5abede050386df7da2cecca51dbb"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Oak_large_green.glb",
+      "size": 35864,
+      "sha256": "df306f7bfd17ec5b5821b58fb57da50b02b8b1f82abb51f538f5f249c1d5b377"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Oak_large_green.glb.import",
+      "size": 1212,
+      "sha256": "c30294ec2a725713ca88d3070747e4a7f6875838d9ff9a293ce069e00f38e10d"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Oak_medium_green.glb",
+      "size": 27320,
+      "sha256": "b58c6536d6a7a0326f13b3e3207e61335a1ec04de88f3a4e2e54e6d503b0bb92"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Oak_medium_green.glb.import",
+      "size": 1216,
+      "sha256": "109b2e40130594f2e8daa6f12979e1d003342803d237990dde013da07b27f764"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Oak_small_green.glb",
+      "size": 12888,
+      "sha256": "da43dcef669226a5cd2f230db1d593726fd94167d7e5e3d81b495244a64d3b27"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Oak_small_green.glb.import",
+      "size": 1213,
+      "sha256": "5c6075140ca44a6436e8091fa3fbcbf60b1ce95dd41153ff589b6f7e22e1c25e"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Park_large_green.glb",
+      "size": 22592,
+      "sha256": "284e136afe8ccf140e1334833cbe10726b4eed6d7dbc81c7689ddb2f713a9c5f"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Park_large_green.glb.import",
+      "size": 1216,
+      "sha256": "1b1a428efd1501a474b08b8a8af6f026bb9a3620a6f62008a52ef8fc6f2fbcc8"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Park_medium_green.glb",
+      "size": 22652,
+      "sha256": "7326227fee7106e5f1b6c5019e357f1a03fd63919398f558c5273e31d07ee07a"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Park_medium_green.glb.import",
+      "size": 1219,
+      "sha256": "935223ee35428962a7b240d3254717958785b33313373a5c8c2df797a24981c8"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Park_small_green.glb",
+      "size": 22652,
+      "sha256": "fd4cb420c821fa7cc38b28e57a050181027aa888a6e40a2988fd2abf504d83cd"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Park_small_green.glb.import",
+      "size": 1215,
+      "sha256": "69b4e1f148e53b9e5ecc29cb9c07dab3984c56a35e933d579e19d8ca6b2fa649"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Pine_hero.glb",
+      "size": 106748,
+      "sha256": "5d356c0a1df863735e3c9710f65839a490aca48a84af82a55410b840a8dc7461"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Pine_hero.glb.import",
+      "size": 1195,
+      "sha256": "172d82ddb6b7311f2b82f7ce402626f6e8303cf3897df88e9a6b38a5f7e21694"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Pine_large.glb",
+      "size": 83956,
+      "sha256": "0a34c64b2d4709a19efb53d8e9df6f23bfc96dc59926faf93ab487f04c8e3241"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Pine_large.glb.import",
+      "size": 1198,
+      "sha256": "10f0ef8dc5cb6c2deef2402ba7e42c9a316ba154ba1a391006182bf933f6dca2"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Pine_medium.glb",
+      "size": 100884,
+      "sha256": "cd0ebbed7ad691aceb2442209ec7833f0c2c80fa172c8399ae2a91d6a6575ca7"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Pine_medium.glb.import",
+      "size": 1201,
+      "sha256": "283f6af29ad590569e60f6fefe21d491f4fb5e6a031ae8b10bfe31eab4faad8d"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Pine_small.glb",
+      "size": 101012,
+      "sha256": "028567087d985281a180077709be2b534e2134c4878e97fa587259a5d6775cf2"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Pine_small.glb.import",
+      "size": 1197,
+      "sha256": "28a5bc20740de972426242b511a9ffda16bedc0d57cd1a4fdac5dd1a97c163d4"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Simple_large.glb",
+      "size": 91348,
+      "sha256": "02d01f2f7c9f2f115bab917b7b04be949d4ed1a1565acceefe6781842620eb19"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Simple_large.glb.import",
+      "size": 1203,
+      "sha256": "86ad6c5f44fc5fe403c4da9403ac5d0c7e1f0536259818307eb8a2c7c7afb139"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Simple_medium.glb",
+      "size": 39912,
+      "sha256": "054a7e0d7b5159e728366e3930163f54a3a3c8b3935f1a3a2f54eed2e150262b"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Simple_medium.glb.import",
+      "size": 1206,
+      "sha256": "806f6758b451f4e3a2be32cd253429a5d3b010a44b910adef6eaff946ff6a89d"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Simple_small.glb",
+      "size": 22144,
+      "sha256": "b0c738d728e681fcaa34b578a2e62b69fc38c5770780dbe4c1fc6039c96a63bb"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Simple_small.glb.import",
+      "size": 1204,
+      "sha256": "d6c41d1cb01ddaa5ce6c812da564a8540ffac271e0b8fdee9ce713bbb7d9d341"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Spruce_large.glb",
+      "size": 33072,
+      "sha256": "90051a845fdbbcd7b881de1d58070b267b74e67f018368204d06f8fc6ff3678e"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Spruce_large.glb.import",
+      "size": 1204,
+      "sha256": "48dc6a453785e735aa601d92394cc5d9f9945ed9577442adfc4e4c5ae1c69e70"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Spruce_medium.glb",
+      "size": 26344,
+      "sha256": "14149e678610d19a31b9483f84bf8c809fde5a56a811684bc997bf9db7bd52a5"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Spruce_medium.glb.import",
+      "size": 1206,
+      "sha256": "10c0a3bead29b307f817cc6e5741bb5f49fd902978eb4cd89d94a1cd620806e0"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Spruce_small.glb",
+      "size": 26580,
+      "sha256": "f5977003f5ad380bcf3e500dae0cd47fc70e52d9e1877424a02895a6a5e1484b"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Spruce_small.glb.import",
+      "size": 1203,
+      "sha256": "48a0cefc9cd1e4440c5c720f270a1e75b6eb8f935c3da04242ebe6a872457426"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Stump.glb",
+      "size": 29660,
+      "sha256": "63daaab0995de05310ed62fd6fe4b945e6f30b1f26e5d212c62999a5a6ae600b"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Stump.glb.import",
+      "size": 1183,
+      "sha256": "a949f1ece61bd993d76e29efeb215ad176c79cdc7b14c4fe1cdbc688e74526a2"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Windswept_dark_green.glb",
+      "size": 65752,
+      "sha256": "4e969c039f4410b913e60fe4342aeb8da25723cc1e4634e2fc4611690cf957e8"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_Windswept_dark_green.glb.import",
+      "size": 1228,
+      "sha256": "e11f4c3a3176d53e42ad62da5a3591714c737dea6a38efe97b8b7fe723c29cfb"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_with_Mistletoe.glb",
+      "size": 100588,
+      "sha256": "f97d6441bc785eec2e7cec886ce923a2b4ded56561c012257f3ca7535e0c579a"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/NF_Tree_with_Mistletoe.glb.import",
+      "size": 1210,
+      "sha256": "0fa7a1f03d3616d270042969d2828c5581dd28808f540cdf859e73afc7327e2a"
+    },
+    {
+      "path": "游戏/assets/library/forest_nature/README.txt",
+      "size": 600,
+      "sha256": "18eedd09511017f51ad0dcf4e507f7f3c820c4f874e959c7708ebb6fe51050a9"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V03.glb",
+      "size": 82383404,
+      "sha256": "2827513fd74c78964e9979199cf21236f3b0349a3e08ca20cd4b2086f59292eb"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V03.glb.import",
+      "size": 1154,
+      "sha256": "04ff5021483701ae286fe2aa6573c0181c12741eafe54926887f70c2985d709e"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V03_texture_pbr_20250901.png",
+      "size": 18138594,
+      "sha256": "03fca4727913c2b47d538eb173d978dda1bf9fb3272935f86de8daadaba07825"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V03_texture_pbr_20250901.png.import",
+      "size": 1121,
+      "sha256": "ebcf9d7980214d7b1ed6f242ca2c4b45e913cae225b54a7efb86304541a15504"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 10072331,
+      "sha256": "622973d7a2d3c9a891912442771045982d6af2d8a422b571a80f42b9eed8c658"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1241,
+      "sha256": "aa164e38d89ef7a89ec5bfe304c2fd664413eab64d7b10697f2da888b0c3d022"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V03_texture_pbr_20250901_normal.png",
+      "size": 6715208,
+      "sha256": "4b68ad3d11e71951cd50b585ed9d19e31ce521f3f9b9686623c56116014c4890"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V03_texture_pbr_20250901_normal.png.import",
+      "size": 1213,
+      "sha256": "eb29faaa526607f3b4565ec6dec1b54d3466b54355f4c156342b3e2c3ebb335e"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V04.glb",
+      "size": 85990064,
+      "sha256": "049f88d5ff2d9451d11676f8f697711239a07d28a749c15a91ca1d47bfe4bbde"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V04.glb.import",
+      "size": 1153,
+      "sha256": "82400b66f309c6b7d6cc40d1fac2bde6e6d0896575586071fd63163219451d1b"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V04_texture_pbr_20250901.png",
+      "size": 19259082,
+      "sha256": "771e18b608a9fe1561a78289b9da7034d3a808671b8c06af09a045b11df989cb"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V04_texture_pbr_20250901.png.import",
+      "size": 1120,
+      "sha256": "910e8cd9fc9365e6818552551d525f4f75719c0552fe0c04814a437948479037"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 10295455,
+      "sha256": "ac19b747ee45d7ba174a6e24d886a935a1ecd1671cb589eb5b763e160f1e5070"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1241,
+      "sha256": "271a9c2ee3a66d6ffd419a00cf82cf401ec78275f126e02619b6a7cb6ae1ff41"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V04_texture_pbr_20250901_normal.png",
+      "size": 6846530,
+      "sha256": "a20bbc4d532408a555496a133e39644453c28e260cd9d881eed9954625654ef9"
+    },
+    {
+      "path": "游戏/assets/library/original_palms/V04_texture_pbr_20250901_normal.png.import",
+      "size": 1213,
+      "sha256": "9744a81ebd0e2b76e84d70194d8a80e123ac20f7bc88fa124035f2b0431510f6"
+    },
+    {
+      "path": "游戏/assets/library/rebuilt_palms/V03.glb",
+      "size": 377652,
+      "sha256": "c8dd94e240beff2eb2d38f7e7178a3127c50816e9fc5cace929d4b5ba57d0afa"
+    },
+    {
+      "path": "游戏/assets/library/rebuilt_palms/V03.glb.import",
+      "size": 1153,
+      "sha256": "eca62a9e2be922f1c621e44608bcb4b1b016da32e05a7291d3052985e73bc403"
+    },
+    {
+      "path": "游戏/assets/library/rebuilt_palms/V04.glb",
+      "size": 378260,
+      "sha256": "7fb9c366b8fef9b63635e6b5e9fe93f0180e51ee032cff3083e9cbf8b5877124"
+    },
+    {
+      "path": "游戏/assets/library/rebuilt_palms/V04.glb.import",
+      "size": 1153,
+      "sha256": "19475b3fdcd5546cb6326c35156be94a5ac9dacea51fcfb79e7bbaa0e26a7cbe"
+    },
+    {
+      "path": "游戏/assets/library/shells/LICENSE.txt",
+      "size": 386,
+      "sha256": "f9e2cbc7130a5d353c3c9566a1df3ec33babf0a348ecba72fc335a4317f8cd00"
+    },
+    {
+      "path": "游戏/assets/library/shells/README.txt",
+      "size": 1998,
+      "sha256": "f099f3d8743d16cbcf97eeee2ae304381fb91cf6ed3a7d8e2a0e5ca125461cff"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP01.glb",
+      "size": 71776,
+      "sha256": "a6a87c2dc5ce5c32a2cefc16593191b8f5b6a40f6005336428ff2bdb635f500c"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP01.glb.import",
+      "size": 1148,
+      "sha256": "f4d86fdc01619ee33f056b69cd0dc5ac384c2c15503c8e9e37985a341229d0a4"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP02.glb",
+      "size": 65100,
+      "sha256": "19dcdbbd0803489ead01deac1bfa3b1d2dc767d54497fa9b61dda17711162680"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP02.glb.import",
+      "size": 1148,
+      "sha256": "c2fcfa5f7a21979618e6c3837f27e018ddf951ca352846df34eeaf921da51483"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP03.glb",
+      "size": 95696,
+      "sha256": "3e60b239e64fc3270fef242dd82796b6c150e28a8892edd536a11eee4a05a2f7"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP03.glb.import",
+      "size": 1148,
+      "sha256": "fa73959e01a7730c915be943e80c4de15a98503df3ec8762089473a6b87cec38"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP04.glb",
+      "size": 281676,
+      "sha256": "e1f2e7c55c2441cdb860aa675dabbdafd32aedca1dde30b19a01a961b5ae1fb1"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP04.glb.import",
+      "size": 1148,
+      "sha256": "36cca03b55f5301679d5be81a7abaa49f98688a8f8b0d55904736287fc404ec2"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP05.glb",
+      "size": 33928,
+      "sha256": "8e6e6e7970f0739b3f2097885a6cfd0ecce861c7ebe2562f5ae65d37e0939af4"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP05.glb.import",
+      "size": 1148,
+      "sha256": "bdd94f13f19e93da2eabee5e46e81a577e038a0e8c97ec7962b84c25b2c83eb8"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP06.glb",
+      "size": 66264,
+      "sha256": "642d1f5666b41491f117880a011d20d284474365d2d1a3ff0fa749020d3a6bd8"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP06.glb.import",
+      "size": 1148,
+      "sha256": "33559fea5bf63505f7e395d607d5c084a139c6dfdd7190e0693f16bef8a3b14d"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP07.glb",
+      "size": 5832,
+      "sha256": "61cad0d8c8699584075e8b96bfc9ad27c27ceb487924acd95fe02c740a4dcede"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP07.glb.import",
+      "size": 1148,
+      "sha256": "c8c865057de87b3669e7f0af4d062d4264b8d4247fec25a8a8acce9139697a0b"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP08.glb",
+      "size": 5836,
+      "sha256": "9d0aeac5d78e51340fd888f4376b760274f2c537a57130debd807780ad063c07"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP08.glb.import",
+      "size": 1148,
+      "sha256": "b52951de697ba0108c9deeba3b8a5d0092af1ea1d857218b501f5d4836c6e6cc"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP09.glb",
+      "size": 7528,
+      "sha256": "03db30695fe845ddd70da9b65043346ef589fab7824db5515d557e893e6e5611"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP09.glb.import",
+      "size": 1148,
+      "sha256": "3a3b56bdd8656b15b305b3657282a7e101d4985c9c3389750dd54768bb3432a6"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP10.glb",
+      "size": 11716,
+      "sha256": "44b05068ddfcc0702f4cee9254f9a48d18f01685ab5fa256d9e7dc13120af807"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP10.glb.import",
+      "size": 1148,
+      "sha256": "82cc4dd6741921347c819288dd8a8834e29ac27e6b0d492cc21d9e3fb6a818b5"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP11.glb",
+      "size": 16760,
+      "sha256": "760fbe20bcbd080465ba0ca5aac647196021da39062d1f2bd802304afb986552"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP11.glb.import",
+      "size": 1147,
+      "sha256": "b65941a165f3a34726a7e4ccfc9f2ae8683b0c65ae389ced0d05515870e475c6"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP12.glb",
+      "size": 14208,
+      "sha256": "305aa7bed06d1525daa615f8ff2ce8395f22f47482823fe3efca252403b0b9f6"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP12.glb.import",
+      "size": 1147,
+      "sha256": "38b63b1fc377cf45af95b3daf5e9478f1e2af089e8ac669bd5f68e6504225a07"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP13.glb",
+      "size": 14192,
+      "sha256": "14c7a391c51ab84515c4ace898f4e36c89c021f44d587c9309dd1f758c04583f"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP13.glb.import",
+      "size": 1148,
+      "sha256": "a2f9f7491aa00f5541c9650a101062c2f5b0dd06e47fb119a5ce8a5aaaa4a3f2"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP14.glb",
+      "size": 19808,
+      "sha256": "ebba15fdd2e4999e264528dc9112ae699383e436a317f5a90dae29b7ebe4fdd8"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP14.glb.import",
+      "size": 1148,
+      "sha256": "a3833f5947d05f1c5870a2cf13ef88648538f90d510aac90999f4083996282a0"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP15.glb",
+      "size": 25428,
+      "sha256": "123aee36ba9ccdc8495abd001359bd9b964d6335718552e744c51f8467ffcb81"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP15.glb.import",
+      "size": 1147,
+      "sha256": "112f6161579506fe577913a5159be9787d97f209ac7349cbffb60a6d57faef2e"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP16.glb",
+      "size": 31044,
+      "sha256": "04d9730c97bd2c380af1d993b702358dde563f52db4a0130e006f9cb2a5e087a"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP16.glb.import",
+      "size": 1148,
+      "sha256": "d6b3acc6d233c7163a96580e8e86fc6863fbce2966dcb8efdbee3ec913d3c9b7"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP17.glb",
+      "size": 14180,
+      "sha256": "be21fd09fd137a0c3ba77bde9aa7514cb4ca2bfe2f0e4799ab0826d3b347b2da"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP17.glb.import",
+      "size": 1148,
+      "sha256": "4e84a0954e120d5d061806a14388c631276f3c5cdc444ba18fde38b99570491c"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP18.glb",
+      "size": 28572,
+      "sha256": "d5b85273c0ee42a767a75681438f72887bd1952344064729a4fed2e65cd0d1ec"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP18.glb.import",
+      "size": 1148,
+      "sha256": "08a5438b214e2cc78210d32ccca5622c147bbb107ac0e2558766af145b5d2a60"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP19.glb",
+      "size": 35304,
+      "sha256": "06041dc50aa1af7542e6296f4b7ae1670333455d4b0be217436b995974106196"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP19.glb.import",
+      "size": 1148,
+      "sha256": "28505a5933a73ec8d7847518708baec79e398b258ae1ccc35d4a27c4915636cf"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP20.glb",
+      "size": 43492,
+      "sha256": "f97ea750b4d3e1a45e42a4005fe8b96e3b902ad1f69bdd431f4a158beffbced8"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP20.glb.import",
+      "size": 1148,
+      "sha256": "d312f41d535d800f0b8908b7f0937484f59d1c1e815e002f360cf5c9f8351b07"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP21.glb",
+      "size": 43476,
+      "sha256": "788a5b1c67c4144cf552e1abdddf99922afbeedd3d3779c736ff9272e87351da"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP21.glb.import",
+      "size": 1148,
+      "sha256": "be0900ce20cb9957e0cd844d4b46a7b1d95c8f0e6b03c8cb7f2dd7b2a6467c7b"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP22.glb",
+      "size": 19012,
+      "sha256": "71e953d5326e9d281be32228e37a7128b44a8410f1a182a8a20d96b21aa1c459"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP22.glb.import",
+      "size": 1148,
+      "sha256": "a07ce56cb4918eab9f88f6c50d03afb02363331ba9f6688f5fc35e4fcceb1a98"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP23.glb",
+      "size": 28576,
+      "sha256": "0b7fc3a7beaa0adf0bf956818487c5c34c9b93d5ad83b5184402cdf48c0d8ab8"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP23.glb.import",
+      "size": 1148,
+      "sha256": "670ab45ede2143b903df64fc00a32ea3d684e8004c0c9f3ee47c99dea06f46f5"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP24.glb",
+      "size": 29604,
+      "sha256": "7fd28986507499f324d2a47fc78d0e79f24b4eb57aaf3c5ced88969db519f91b"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP24.glb.import",
+      "size": 1147,
+      "sha256": "580b057342d59fc90c0d89035d14fdee8d9a7fe0fd86ec9d4c776a92d8a74315"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP25.glb",
+      "size": 60124,
+      "sha256": "fb70a6020c33e48490bf3eda0bf93b161752a7a75282b1e6626741bde5a2ab47"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP25.glb.import",
+      "size": 1148,
+      "sha256": "37560bb1c8901f34fed8f65102d0ae6b542dbcf73ccf19bf1270503bbf6402fe"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP26.glb",
+      "size": 95444,
+      "sha256": "650b30213a93ddf3b1e6fcb45a880910df8b941f055a19a87709707ddce4a110"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP26.glb.import",
+      "size": 1147,
+      "sha256": "efb9bf3595a7e67d9a7a652d5cd891a68cf4f4c8c09309ca5ca24c38b1d498a6"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP27.glb",
+      "size": 16176,
+      "sha256": "ae0a405990f55deeb3f9ae7966274fcfc8f90bf9e7a29370d74a662927caa99b"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP27.glb.import",
+      "size": 1148,
+      "sha256": "267a7c58f2eefc5635e56a255d93dfbebe3a6aa4f54b3ca97df18af0a5a02434"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP28.glb",
+      "size": 28880,
+      "sha256": "e37bf4dc6b9a2161d44cd09bdfe83b650f946ad6a8d300f31effa3dd70d73013"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP28.glb.import",
+      "size": 1148,
+      "sha256": "5a36e1d770a36aeaeb796bd00d67086363e97c73d5db8020462130ab0545ada1"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP29.glb",
+      "size": 42704,
+      "sha256": "0d10be576ce58222caacfb293135c5de931d6e4d8f07f9b57a3e1f9a009e5532"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP29.glb.import",
+      "size": 1148,
+      "sha256": "3de1908dd7a0a3dc7c00be4f54327c58f273f48bd5c0fb3ff456c3900e1fc810"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP30.glb",
+      "size": 58604,
+      "sha256": "a9d00b96d63bfa662dc9a523c3030b7fcd0fc25262116db8e8cf2472c29ad14b"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP30.glb.import",
+      "size": 1148,
+      "sha256": "ca8df71a21277a8fcaaf4839ad91fe470f6a26d1e1ad5769ec4356ae1145dad8"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP31.glb",
+      "size": 16900,
+      "sha256": "2ace69b1e2e8a4fd603cd13d2a76d7ed5687d9ec880b6e4c1696919306c04b56"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP31.glb.import",
+      "size": 1148,
+      "sha256": "e306ead4ed23adfc7a2fa0fd35f2f0f7c512ae1e74f471d139cb5daa4efb15c3"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP32.glb",
+      "size": 68240,
+      "sha256": "54076ea21e87a4f659a377c255cabf7a2840817c901b8518f6c59068c0537297"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP32.glb.import",
+      "size": 1147,
+      "sha256": "cae37fd0af338f200453d6728ecbecee2c0cbef0aef6edf963e3eccd212c34ef"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP33.glb",
+      "size": 86964,
+      "sha256": "3013d23e4a710c53a45c0e62fda250700ef6cc6b5a6c09c36d02aadc0ccd3e24"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP33.glb.import",
+      "size": 1148,
+      "sha256": "6714fa7bde98a7ad907d5a3009bd40dd07c6dba6444d1b0bde4d03776155b085"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP34.glb",
+      "size": 166900,
+      "sha256": "5fa860707423b864457fa759824747f4b83c314e74a349beaeae52c943f16c57"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP34.glb.import",
+      "size": 1147,
+      "sha256": "4401812bd4496106b4f1c92bd23c7ef008e782bb096adb41efe417fe703ef713"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP35.glb",
+      "size": 25048,
+      "sha256": "c6cbd2e6359f6105b869297202e4f2845e72636a8d0127afedffae5e27cb5629"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP35.glb.import",
+      "size": 1148,
+      "sha256": "bfb4645a0f4a98932d3ec564652199db814c72c575630a48d0498895ff5fb00a"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP36.glb",
+      "size": 29964,
+      "sha256": "7fae9337bff3c20f8c38c0fccd7daa707e5eb109d352b9961c176eef2c144747"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP36.glb.import",
+      "size": 1148,
+      "sha256": "18cd42a243d169dbb4126f18b84f4c6bf44de19657601d5bf7e475234218c7e7"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP37.glb",
+      "size": 25688,
+      "sha256": "ede2576bc50297a080d9b0aa6a6d2ae6cfaf1670a4ca44d39b9bc6814d677b3e"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP37.glb.import",
+      "size": 1148,
+      "sha256": "719ea4b910216935e2c215db858dfd51936e627b1b99f45a2643d7056101f2fb"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP38.glb",
+      "size": 46384,
+      "sha256": "e2dcc4215c8b33056365701e6cbf82c1c83fde2116c5117c1de2addc68d41f59"
+    },
+    {
+      "path": "游戏/assets/library/trees/TP38.glb.import",
+      "size": 1147,
+      "sha256": "118b07140fdecfee61fcd485bdfd1e5a1ea14fa9401f623619bb60f3d41b7c6e"
+    },
+    {
+      "path": "游戏/assets/models/C02.glb",
+      "size": 70706232,
+      "sha256": "4ffe81d2305747c298b7c4a8931596d7818acf901dd5eb14593d6a95d1702b9b"
+    },
+    {
+      "path": "游戏/assets/models/C02.glb.import",
+      "size": 1140,
+      "sha256": "fd06e0f241d60f699f7cc429170108212a44b5484eb92d0a3ea9d6c708b645fc"
+    },
+    {
+      "path": "游戏/assets/models/C02_texture_pbr_20250901.png",
+      "size": 12757477,
+      "sha256": "7b7d08691720c6200e48f69bca7cdde89bc0eb207785e09e051fb001e33f4c7e"
+    },
+    {
+      "path": "游戏/assets/models/C02_texture_pbr_20250901.png.import",
+      "size": 1105,
+      "sha256": "1a139b6609936902e92f8b959a1567d57f8eaf4139d7461d45413cf03dd9edad"
+    },
+    {
+      "path": "游戏/assets/models/C02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 9055604,
+      "sha256": "b51d32516d483435cfb30b531b82dd5ffcea239adaea03363722a677b1e86bae"
+    },
+    {
+      "path": "游戏/assets/models/C02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1225,
+      "sha256": "55b8c9c642a4fa49d5ff4580cfe0fbc618ea7d96182cc8db21439e5e739a412a"
+    },
+    {
+      "path": "游戏/assets/models/C02_texture_pbr_20250901_normal.png",
+      "size": 3796570,
+      "sha256": "525358522c0a57585612b90a7c7f462df480a151e26a651166820704b3df54ba"
+    },
+    {
+      "path": "游戏/assets/models/C02_texture_pbr_20250901_normal.png.import",
+      "size": 1181,
+      "sha256": "5103bd9726a65a52aa50dfbbe2cf34a64847c1ea940d8734ef716fdd2dc028f7"
+    },
+    {
+      "path": "游戏/assets/models/F01.glb",
+      "size": 3633164,
+      "sha256": "cfa576762da39737d6340dbb4ecf905cce7e7bba92a58ed06b8fc5012c1539df"
+    },
+    {
+      "path": "游戏/assets/models/F01.glb.import",
+      "size": 1140,
+      "sha256": "e1cf2aa06694a20b96c22bbc7501a217bcdb800761924dbd72bcfaeb6a3e45ea"
+    },
+    {
+      "path": "游戏/assets/models/F01_Rock_strata_BaseColor.png",
+      "size": 1743558,
+      "sha256": "e56eda3ad44df92258cebed1e2125fd3b91681c1e2a39891195b4d9bffc5cda1"
+    },
+    {
+      "path": "游戏/assets/models/F01_Rock_strata_BaseColor.png.import",
+      "size": 1108,
+      "sha256": "c0d28e86d2e0e719e12911eb04adc50d5d887797fb1a37b6407bd2eb70063ea9"
+    },
+    {
+      "path": "游戏/assets/models/F01_T05_grass_BaseColor.png",
+      "size": 1753665,
+      "sha256": "0e5e77818c3b70775ec860da3719842559441d0989ddf1340171c44e3a50c626"
+    },
+    {
+      "path": "游戏/assets/models/F01_T05_grass_BaseColor.png.import",
+      "size": 1102,
+      "sha256": "b31ba74dc368e6db1d7b3d41b01740eb20933d3a305c9ab64dfea97d3cd12bc9"
+    },
+    {
+      "path": "游戏/assets/models/F02.glb",
+      "size": 54676,
+      "sha256": "68a4573e6188ee87ad4415e923326f3c55104ceeb18c54d694eef1afef03a30c"
+    },
+    {
+      "path": "游戏/assets/models/F02.glb.import",
+      "size": 1140,
+      "sha256": "2fd690981bfbcc603bbf7d85fe6cdc64e7b45b4e76cab0b1972fbecc260cd764"
+    },
+    {
+      "path": "游戏/assets/models/P01_L.glb",
+      "size": 2003524,
+      "sha256": "00bc4bae1194045148c9f0c3025f50f69cfc07054971b2afd421710dd1826357"
+    },
+    {
+      "path": "游戏/assets/models/P01_L.glb.import",
+      "size": 1145,
+      "sha256": "880a13f509aaa50fc2924db82a7241a2761ae454e9ac274bffdd09177140e700"
+    },
+    {
+      "path": "游戏/assets/models/P01_L_木纹_BaseColor.png",
+      "size": 781767,
+      "sha256": "2798f6f9cd1cd01cf7e8a9911a4dedf044ae07dbc6723bb737b05691553f7162"
+    },
+    {
+      "path": "游戏/assets/models/P01_L_木纹_BaseColor.png.import",
+      "size": 1099,
+      "sha256": "13878d485d1b4cb3d0e0521d811ef1ddb4ffa0ddccc7ce1e148daae400430c01"
+    },
+    {
+      "path": "游戏/assets/models/P03.glb",
+      "size": 4673368,
+      "sha256": "65d9e4a3504baa87ae33c1ca5fdbb30ad70ae03f5f74422458231addfc803520"
+    },
+    {
+      "path": "游戏/assets/models/P03.glb.import",
+      "size": 1138,
+      "sha256": "7ce1056b2861f54d291de3c8978419557a353ba3eb6354debc5ac3e4304941f1"
+    },
+    {
+      "path": "游戏/assets/models/P03_岩石_BaseColor.png",
+      "size": 1559083,
+      "sha256": "a51e2d567a19f6902a7cf0d155c894353d9d381966f77cb93c432f5ba6f4c4f0"
+    },
+    {
+      "path": "游戏/assets/models/P03_岩石_BaseColor.png.import",
+      "size": 1092,
+      "sha256": "44627d5f2eb869f6de3def679fe3ed4c65777b1dfb9c3af9e6365d2e9326077e"
+    },
+    {
+      "path": "游戏/assets/models/P03_路面_BaseColor.png",
+      "size": 2046096,
+      "sha256": "7ada4bffee1a26d942ab3e948301060c0df889e063af71242314313614553fa4"
+    },
+    {
+      "path": "游戏/assets/models/P03_路面_BaseColor.png.import",
+      "size": 1092,
+      "sha256": "471b3da7cab4856b59d5f34690da5917de98b2040aab563f80f13deb4811e953"
+    },
+    {
+      "path": "游戏/assets/models/R01.glb",
+      "size": 55648932,
+      "sha256": "d5e98f6c4daa3551fd51b8cd66307ee03a8914e8d018283b3c4c69b4597816c3"
+    },
+    {
+      "path": "游戏/assets/models/R01.glb.import",
+      "size": 1140,
+      "sha256": "ee7628038a2c35e6831952f40dc7fb70dd9debccd9db94c06513f6436f5ee6f9"
+    },
+    {
+      "path": "游戏/assets/models/R01_texture_pbr_20250901.png",
+      "size": 11038026,
+      "sha256": "7c64eac5e0111d2bd6ec86de563034f1ff42976038340dc465f0b14471af2c59"
+    },
+    {
+      "path": "游戏/assets/models/R01_texture_pbr_20250901.png.import",
+      "size": 1104,
+      "sha256": "e46f3c5f65fbf1de9a653deee9e9d0d61a12481060ddd5eaf240385cdec43df3"
+    },
+    {
+      "path": "游戏/assets/models/R01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 8669977,
+      "sha256": "3935e31ee8233627df9fcc1b1f3429f3b125a830fa78ae71136379d9074c39e2"
+    },
+    {
+      "path": "游戏/assets/models/R01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1225,
+      "sha256": "85e51478584f114062e0929a7a0c080cf3a2bfc426dc1c2cefaed946227ee715"
+    },
+    {
+      "path": "游戏/assets/models/R01_texture_pbr_20250901_normal.png",
+      "size": 5984318,
+      "sha256": "924f1909960b071685e9951820ca0da5b59dd57dd7504dec8981eb5280ab3da9"
+    },
+    {
+      "path": "游戏/assets/models/R01_texture_pbr_20250901_normal.png.import",
+      "size": 1180,
+      "sha256": "100deea7c5133c20a648ff3feb6c62b2ef39aaae5e4c73fbc423670e28266334"
+    },
+    {
+      "path": "游戏/assets/models/R02.glb",
+      "size": 59214868,
+      "sha256": "af7082f30134d4b81bd107a104bd52e5831db780593bd163d87ec346f70de641"
+    },
+    {
+      "path": "游戏/assets/models/R02.glb.import",
+      "size": 1139,
+      "sha256": "4b732eec19b4c7c8543c91f35903ace79c32ecd9c2b1aebeeca37dd88abe46b9"
+    },
+    {
+      "path": "游戏/assets/models/R02_texture_pbr_20250901.png",
+      "size": 12139865,
+      "sha256": "9454ce660c4bc0cda41eb130fb17cd0c04d2e2f6106e220fe42d15e3154944b5"
+    },
+    {
+      "path": "游戏/assets/models/R02_texture_pbr_20250901.png.import",
+      "size": 1105,
+      "sha256": "4ccee2d3ec4a736075e8cc6b1b78849b7c11ebac6a67cd622685336352a5c766"
+    },
+    {
+      "path": "游戏/assets/models/R02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 10001724,
+      "sha256": "93fe1725d2c913127683c823a951e66ff2bf4e96bd9191f3e9d46011f493d818"
+    },
+    {
+      "path": "游戏/assets/models/R02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1224,
+      "sha256": "4f1c2d1c328743a0e3f7fb6c89b425de33f525e09a5cc2cb36805d2c58db5e84"
+    },
+    {
+      "path": "游戏/assets/models/R02_texture_pbr_20250901_normal.png",
+      "size": 6865949,
+      "sha256": "5f48b846e2afde5bc8c711413cd2c2c5ad427c71be8062a12ca6e8186f4c324c"
+    },
+    {
+      "path": "游戏/assets/models/R02_texture_pbr_20250901_normal.png.import",
+      "size": 1181,
+      "sha256": "88d08544dbdce7c6ca9fa2c5e68b593206e34af7eb219727474de051a8fec50c"
+    },
+    {
+      "path": "游戏/assets/models/R03.glb",
+      "size": 56869476,
+      "sha256": "3686149b04aa9f317fa54f13bf013ee573e0e827b9bcf58860d4dfe40f83b574"
+    },
+    {
+      "path": "游戏/assets/models/R03.glb.import",
+      "size": 1140,
+      "sha256": "ee5069a8dd8d90b00a253468bd72728f4a7d6a1555076ca9fd7514b5a93fd998"
+    },
+    {
+      "path": "游戏/assets/models/R03_texture_pbr_20250901.png",
+      "size": 11540522,
+      "sha256": "d669a68ea67151b790943d1bc42a3f5df27597097042b66a55312ff4c9ad86d0"
+    },
+    {
+      "path": "游戏/assets/models/R03_texture_pbr_20250901.png.import",
+      "size": 1105,
+      "sha256": "21e2b6b2c4fb3460a412881fc5423736d76c21ecc5ec2ce6a84a5f41882d5627"
+    },
+    {
+      "path": "游戏/assets/models/R03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 8548864,
+      "sha256": "7eb5f3c1713716583e5ad12ca21d6cca7af0c838aaa3511ab3b8863eb3664998"
+    },
+    {
+      "path": "游戏/assets/models/R03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1225,
+      "sha256": "08a146d1b6e6d20017bccdce59046b27dfe739c18776c61e3ec9fa62d8bc2251"
+    },
+    {
+      "path": "游戏/assets/models/R03_texture_pbr_20250901_normal.png",
+      "size": 5969274,
+      "sha256": "20294550783c7845517151d04889b7db89e735ab241522a546cce19ccd29d2fc"
+    },
+    {
+      "path": "游戏/assets/models/R03_texture_pbr_20250901_normal.png.import",
+      "size": 1181,
+      "sha256": "4f6f39dda06ce5d86a22bfff162af977559163dd77318d10b521260893d6de6f"
+    },
+    {
+      "path": "游戏/assets/models/R04.glb",
+      "size": 65633200,
+      "sha256": "ba2ec5ab9ba57b6a649f9443185fd52c1dec8c627c2f3fd2a65b2cae866ecd58"
+    },
+    {
+      "path": "游戏/assets/models/R04.glb.import",
+      "size": 1140,
+      "sha256": "75f0157f7aa2d63b658c9321529a03c2c92f13b97204015b078e87fce3ef04d3"
+    },
+    {
+      "path": "游戏/assets/models/R04_texture_pbr_20250901.png",
+      "size": 16318148,
+      "sha256": "2a937f3adfcc5dd4c0d157db449d56d057cc9dff9e5f70d70ecb72441d758465"
+    },
+    {
+      "path": "游戏/assets/models/R04_texture_pbr_20250901.png.import",
+      "size": 1105,
+      "sha256": "9ea8a7724b897f8c7e07695cacf201ba362fecefa9a3c3eed16cd48f74052f1a"
+    },
+    {
+      "path": "游戏/assets/models/R04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 9592800,
+      "sha256": "d8138f181638e4f63a8e965b7cf2e89ffbc4b9a675d09dc48064dde6cb476f0b"
+    },
+    {
+      "path": "游戏/assets/models/R04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1225,
+      "sha256": "4e3ae630c3e793e5ca2d4f1362877e655907c9ad158fe182826ae5e48e104303"
+    },
+    {
+      "path": "游戏/assets/models/R04_texture_pbr_20250901_normal.png",
+      "size": 8816913,
+      "sha256": "06ff81b3a27c1b19f6e6ecbf7b659d1dc924337e2a39b201c408af67b480d954"
+    },
+    {
+      "path": "游戏/assets/models/R04_texture_pbr_20250901_normal.png.import",
+      "size": 1180,
+      "sha256": "5687b5eb4eed9775c57e990817f44bae553ac030bce6c10ca0100c43a9f74271"
+    },
+    {
+      "path": "游戏/assets/models/V01.glb",
+      "size": 80021664,
+      "sha256": "92e690abb0174a82e3f3fdf65b78709d8faa1a155bbbbfb5100a84af88075bb2"
+    },
+    {
+      "path": "游戏/assets/models/V01.glb.import",
+      "size": 1140,
+      "sha256": "bb48b62005e2597c3affc1ae80f729ed10181c1a03b3cd1b3ec54799cb5f49c4"
+    },
+    {
+      "path": "游戏/assets/models/V01_texture_pbr_20250901.png",
+      "size": 19747763,
+      "sha256": "d61ad97fc36df62e2907cdebcaa4cdd16507fb887f9286049c8b04b939ed3758"
+    },
+    {
+      "path": "游戏/assets/models/V01_texture_pbr_20250901.png.import",
+      "size": 1105,
+      "sha256": "52de6b9115ed8e4447d701b70b4c79f7e5c4bf91e15d708a9be1adb8f4fed038"
+    },
+    {
+      "path": "游戏/assets/models/V01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 7836190,
+      "sha256": "6514c1fee493d83805fb7827aee9bf9412e9e18cade15b8d892f0a728c5058e0"
+    },
+    {
+      "path": "游戏/assets/models/V01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1224,
+      "sha256": "0ee8188bb723273a303525971611538fbccb28ccc0571549cc7b49ecdae0315c"
+    },
+    {
+      "path": "游戏/assets/models/V01_texture_pbr_20250901_normal.png",
+      "size": 3303046,
+      "sha256": "f9bb87d4afec42b7e8ad675492c5cc004694300d91a0d9ac4c4c60d1e945369a"
+    },
+    {
+      "path": "游戏/assets/models/V01_texture_pbr_20250901_normal.png.import",
+      "size": 1181,
+      "sha256": "90772e34bfcbd196f7537db4b174707cc695be1a28d8f84913684fbd96d828fc"
+    },
+    {
+      "path": "游戏/assets/models/V02.glb",
+      "size": 77437696,
+      "sha256": "fbebef55b235788235792627cab445e84e5d59134a52f309126b7f030a41afde"
+    },
+    {
+      "path": "游戏/assets/models/V02.glb.import",
+      "size": 1140,
+      "sha256": "61f5c8f88cff0f105cee9b8fe40c2724d54fca7bb78bd8cee524c34dd5cfcf5b"
+    },
+    {
+      "path": "游戏/assets/models/V02_texture_pbr_20250901.png",
+      "size": 18450058,
+      "sha256": "ed6662c8d1794d75251d6714dbee76558647447dbc8cd6cc28989d1c0604aa3b"
+    },
+    {
+      "path": "游戏/assets/models/V02_texture_pbr_20250901.png.import",
+      "size": 1105,
+      "sha256": "6ab7d79a2e3a7b9ba9bcb0eb613a98f7a879fb8b38ac2422e6ec310851e6e435"
+    },
+    {
+      "path": "游戏/assets/models/V02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 7462828,
+      "sha256": "c4877463a2a6c7914fea60ad93254ca96eefbe45f5f561ff8312631cb3c2dc96"
+    },
+    {
+      "path": "游戏/assets/models/V02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1225,
+      "sha256": "c2b60c8f27479f8edb523549b04882ae87795bb8227f8643f951301f8b7653e9"
+    },
+    {
+      "path": "游戏/assets/models/V02_texture_pbr_20250901_normal.png",
+      "size": 2934387,
+      "sha256": "b11d95f797100d6f9f8e7b5576f12715c6ce74f20ea731c7f4f5914737194104"
+    },
+    {
+      "path": "游戏/assets/models/V02_texture_pbr_20250901_normal.png.import",
+      "size": 1181,
+      "sha256": "b6709350cb97c9c002355c6015ae1432e00edbe5a2bcf6a7d66dadfe3f545a35"
+    },
+    {
+      "path": "游戏/assets/models/V03.glb",
+      "size": 82383404,
+      "sha256": "2827513fd74c78964e9979199cf21236f3b0349a3e08ca20cd4b2086f59292eb"
+    },
+    {
+      "path": "游戏/assets/models/V03.glb.import",
+      "size": 1140,
+      "sha256": "cae69ac4ff69e33bc50a6cad80bebedd7ffc8f5ea077242bed87c6d597c7392f"
+    },
+    {
+      "path": "游戏/assets/models/V03_texture_pbr_20250901.png",
+      "size": 18138594,
+      "sha256": "03fca4727913c2b47d538eb173d978dda1bf9fb3272935f86de8daadaba07825"
+    },
+    {
+      "path": "游戏/assets/models/V03_texture_pbr_20250901.png.import",
+      "size": 1104,
+      "sha256": "61778c64356cffe7d356aa4ea5b92ff6072987eb7d1913ad33191aba19945403"
+    },
+    {
+      "path": "游戏/assets/models/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 10072331,
+      "sha256": "622973d7a2d3c9a891912442771045982d6af2d8a422b571a80f42b9eed8c658"
+    },
+    {
+      "path": "游戏/assets/models/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1225,
+      "sha256": "79a6f338750e0208cf18b98b856632a573a8c1c1e71fe8d375eeb739db8bdef2"
+    },
+    {
+      "path": "游戏/assets/models/V03_texture_pbr_20250901_normal.png",
+      "size": 6715208,
+      "sha256": "4b68ad3d11e71951cd50b585ed9d19e31ce521f3f9b9686623c56116014c4890"
+    },
+    {
+      "path": "游戏/assets/models/V03_texture_pbr_20250901_normal.png.import",
+      "size": 1181,
+      "sha256": "ed8d6647d814ffdf9739240139aa4d72aac8ca73cd8748ab0868da9146576231"
+    },
+    {
+      "path": "游戏/assets/models/V04.glb",
+      "size": 85990064,
+      "sha256": "049f88d5ff2d9451d11676f8f697711239a07d28a749c15a91ca1d47bfe4bbde"
+    },
+    {
+      "path": "游戏/assets/models/V04.glb.import",
+      "size": 1140,
+      "sha256": "44b146b851567b6cbb715813ec4c8d67b34126f29fa9eb4c4edf32f04df82b7e"
+    },
+    {
+      "path": "游戏/assets/models/V04_texture_pbr_20250901.png",
+      "size": 19259082,
+      "sha256": "771e18b608a9fe1561a78289b9da7034d3a808671b8c06af09a045b11df989cb"
+    },
+    {
+      "path": "游戏/assets/models/V04_texture_pbr_20250901.png.import",
+      "size": 1105,
+      "sha256": "aa66af3d6d5b3519faf2b72137fac78e9c2184b264cf1fadaef7abe5379b5425"
+    },
+    {
+      "path": "游戏/assets/models/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 10295455,
+      "sha256": "ac19b747ee45d7ba174a6e24d886a935a1ecd1671cb589eb5b763e160f1e5070"
+    },
+    {
+      "path": "游戏/assets/models/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1225,
+      "sha256": "d42073ff30e0bc9abf77f4db786225cee916abdd03d8e3df9e2d7187b55011da"
+    },
+    {
+      "path": "游戏/assets/models/V04_texture_pbr_20250901_normal.png",
+      "size": 6846530,
+      "sha256": "a20bbc4d532408a555496a133e39644453c28e260cd9d881eed9954625654ef9"
+    },
+    {
+      "path": "游戏/assets/models/V04_texture_pbr_20250901_normal.png.import",
+      "size": 1181,
+      "sha256": "65083eac53094523e681486748c4cdc6bd5ece27b3e003d285eb442124e22f3b"
+    },
+    {
+      "path": "游戏/assets/models/V05.glb",
+      "size": 74559140,
+      "sha256": "7aac4acc7e872fbf8e91082caf1ba3dfb6bc7ad1cab3b858b9298d75b66b3ad2"
+    },
+    {
+      "path": "游戏/assets/models/V05.glb.import",
+      "size": 1139,
+      "sha256": "ac87956055b0970314bc93004fa6801ffd3cc95ec35799fd4a09114a19da8d68"
+    },
+    {
+      "path": "游戏/assets/models/V05_texture_pbr_20250901.png",
+      "size": 17948738,
+      "sha256": "2107fa7ab1ccb58307510e04d153d03b3a1519c0d36cd7a4f37ebeb38213f3a2"
+    },
+    {
+      "path": "游戏/assets/models/V05_texture_pbr_20250901.png.import",
+      "size": 1105,
+      "sha256": "d799ced30a0ae539d05a28ab41e5f838a6e7dffc6d7695605ffdf26c84b31dc8"
+    },
+    {
+      "path": "游戏/assets/models/V05_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 6529564,
+      "sha256": "7a2e0c3222d1700a68d3ea460d0d50ceb26d30f26a584d9e0966848226a4b557"
+    },
+    {
+      "path": "游戏/assets/models/V05_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1225,
+      "sha256": "59e53bccab0344567f3f85e621f42937e553ebc7f8d97275d4cd0b9b16718e51"
+    },
+    {
+      "path": "游戏/assets/models/V05_texture_pbr_20250901_normal.png",
+      "size": 2027101,
+      "sha256": "e7413a16763ccb7aa24181efe36429429a4ed97ce61af73d5b4d578daf71c3e8"
+    },
+    {
+      "path": "游戏/assets/models/V05_texture_pbr_20250901_normal.png.import",
+      "size": 1181,
+      "sha256": "9e272d5cfef9fd533ddbb593776b988c94e04aa53bd1cc5f7c7695bd3c8ab029"
+    },
+    {
+      "path": "游戏/assets/models/V06.glb",
+      "size": 82746712,
+      "sha256": "a97b7d14b10af3aacef122f59cdeb328edfcfa9a939745a87e30932c705c4a30"
+    },
+    {
+      "path": "游戏/assets/models/V06.glb.import",
+      "size": 1140,
+      "sha256": "d69b9ca9cb3fd272890dbcc523a5e58044613ae465ba1065ddf4d152133e0fb2"
+    },
+    {
+      "path": "游戏/assets/models/V06_texture_pbr_20250901.png",
+      "size": 21472890,
+      "sha256": "ab54bad4a92ece964773cc1cbe9b0cc89caecfbc646932656e7d92f51b097c35"
+    },
+    {
+      "path": "游戏/assets/models/V06_texture_pbr_20250901.png.import",
+      "size": 1105,
+      "sha256": "f0b778fcf28f5b73547d8711a3d72ff1150cde4b7187ded1236268a1c013c6c6"
+    },
+    {
+      "path": "游戏/assets/models/V06_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 8206320,
+      "sha256": "bf6ca50d7019dae92f3b652f0c6ae44257e7c3d19cb8f098fc3c3df1c6241708"
+    },
+    {
+      "path": "游戏/assets/models/V06_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1224,
+      "sha256": "48a91c6f3421b32f068a9f26cabd0d66bf39202193d0707c7a7e0a0588c0669e"
+    },
+    {
+      "path": "游戏/assets/models/V06_texture_pbr_20250901_normal.png",
+      "size": 1321684,
+      "sha256": "266cd25dc58187f3dbcce0ee525d81333eb402119175fa3def13464f01579070"
+    },
+    {
+      "path": "游戏/assets/models/V06_texture_pbr_20250901_normal.png.import",
+      "size": 1181,
+      "sha256": "9d121d0e76f1752db517d31b631fd9508ce20b9ca01dc3b803015e899429863c"
+    },
+    {
+      "path": "游戏/assets/models/V07.glb",
+      "size": 59343652,
+      "sha256": "4e9043eea758e3b14849f6db433b9c63efeea7c54e9e9dc8f2e8f0c5b5a807c1"
+    },
+    {
+      "path": "游戏/assets/models/V07.glb.import",
+      "size": 1140,
+      "sha256": "d1d1b4b03c2f7a389250303208e5765a841eedee63521b86cb7554a8f8e8fe42"
+    },
+    {
+      "path": "游戏/assets/models/V07_texture_pbr_20250901.png",
+      "size": 16321455,
+      "sha256": "a8c6510fd59df41bc85fdac193cf6432dd102bfc64553436da686ce424f210da"
+    },
+    {
+      "path": "游戏/assets/models/V07_texture_pbr_20250901.png.import",
+      "size": 1105,
+      "sha256": "a17a50d9e1a2a7856d9b817cd5421585b8e0c6424327727f6f4c7a94daabebd4"
+    },
+    {
+      "path": "游戏/assets/models/V07_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 8022661,
+      "sha256": "b49f5761d34ce52301944f2e825d0803b91769311659c3cee6e7a908e7111f08"
+    },
+    {
+      "path": "游戏/assets/models/V07_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1225,
+      "sha256": "a4a0617b27fc489d5c050968c023e6f177e15658da1e12d2d5502bfe270f8306"
+    },
+    {
+      "path": "游戏/assets/models/V07_texture_pbr_20250901_normal.png",
+      "size": 3033278,
+      "sha256": "8b154e886d9755b82c571e6e8680450dfe8b51e0519d2aca5206876987946401"
+    },
+    {
+      "path": "游戏/assets/models/V07_texture_pbr_20250901_normal.png.import",
+      "size": 1181,
+      "sha256": "bf12a947dad6ae196abd7a204181281bdf673a660857878b823ec4242dc46add"
+    },
+    {
+      "path": "游戏/assets/models/V08.glb",
+      "size": 71817720,
+      "sha256": "2a3251755b4dd7d92de401bf6b41008e8248995bb3ab1e6e0b2cff8de2ab80b7"
+    },
+    {
+      "path": "游戏/assets/models/V08.glb.import",
+      "size": 1140,
+      "sha256": "980f089592a77af10af220449485efb9f599889f31494827ba34104050af598e"
+    },
+    {
+      "path": "游戏/assets/models/V08_texture_pbr_20250901.png",
+      "size": 14205099,
+      "sha256": "95c958d92084de565a69306c4fdacb28eb9d39d674e90971646f9a9b373b41a7"
+    },
+    {
+      "path": "游戏/assets/models/V08_texture_pbr_20250901.png.import",
+      "size": 1104,
+      "sha256": "50f01271b0cb7000ac88d17148ae40ee533f618b9939ba6050e0ff54b11a0526"
+    },
+    {
+      "path": "游戏/assets/models/V08_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 7984837,
+      "sha256": "1eabbf5f7ff67156e2ad4997a53d584d780b9766d9c689d7160d3d6883975624"
+    },
+    {
+      "path": "游戏/assets/models/V08_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1225,
+      "sha256": "ac63933d28d0b7f8bfeda320cd96ad94886a7b65555681a1d02719753098ab6a"
+    },
+    {
+      "path": "游戏/assets/models/V08_texture_pbr_20250901_normal.png",
+      "size": 3007016,
+      "sha256": "e6c6cc81512ac20e61163b07ea302cad84a2044491d1ff7636004640323a1ead"
+    },
+    {
+      "path": "游戏/assets/models/V08_texture_pbr_20250901_normal.png.import",
+      "size": 1181,
+      "sha256": "760d7b82da80bab2997c83188cedea5adef623c40587c5051f108ed299588e21"
+    },
+    {
+      "path": "游戏/assets/models/world.glb",
+      "size": 178907308,
+      "sha256": "9918b9181062eb78de81de20b883f7ce4d2ea865c7ecc8ba3296b659f6f2295e"
+    },
+    {
+      "path": "游戏/assets/models/world.glb.import",
+      "size": 1145,
+      "sha256": "f9a70b4d16cf908bdb37a137459147b1dcac882d673000b7267bdd438a4fd726"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_damp_sill_BaseColor.png",
+      "size": 1077603,
+      "sha256": "e727d31201e550abfaa1beeea07b47795b65ce4af00b59a4e397a965c648e2bf"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_damp_sill_BaseColor.png.import",
+      "size": 1120,
+      "sha256": "d6f153c75c6f36ecf4a8cedd6a551bf1f46a08bf98c1d91b318ef2498f35675f"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_exposed_warm_fibres_BaseColor.png",
+      "size": 1047345,
+      "sha256": "6433ca2772fbe6e3658a41148f9a5e423364dac3f21c2fe2af1d7ec7d5a23270"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_exposed_warm_fibres_BaseColor.png.import",
+      "size": 1150,
+      "sha256": "391efe2aa227acb6776bc9993a0fab4d0d2433daa24ea80eb368f6a358255b2f"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_interior_lining_BaseColor.png",
+      "size": 1019925,
+      "sha256": "7c5b5211db3aa128fca27436a5bd1b421051b258106396a274859026470dfe18"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_interior_lining_BaseColor.png.import",
+      "size": 1138,
+      "sha256": "7ce388b41dba205bf350968f7b8cd7561a2bcff7884fbf6bacb7a96e8dd296e8"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_pale_chipped_trim_BaseColor.png",
+      "size": 1208864,
+      "sha256": "b1731d51329529b0020b8329687bd405dedd3a93a87d8648fdddd92ee721d98f"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_pale_chipped_trim_BaseColor.png.import",
+      "size": 1143,
+      "sha256": "673e3513df5f170b45bfc20e186e6dd53544a0a6199e49a8b41d2f2186572d82"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_silver_grey_roof_BaseColor.png",
+      "size": 1077254,
+      "sha256": "b877a8c6b4f66c9215f466d0f9c1991311e9937b37b5efe6753874cea79dc248"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_silver_grey_roof_BaseColor.png.import",
+      "size": 1140,
+      "sha256": "fd19fa282beeac92601dd7936e4b2eca51931020ae8d7d669ee4d01d5869c266"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_warm_weathered_siding_BaseColor.png",
+      "size": 1114423,
+      "sha256": "7334ce393bf3e673075b7ec694eee8f68e05c419168117ba1516313457c7b8c5"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_warm_weathered_siding_BaseColor.png.import",
+      "size": 1156,
+      "sha256": "4a852d84b20b1c0b0878445844341226c19018230dcd192a85da24550dcc5d54"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_weathered_wood_normal.png",
+      "size": 1417721,
+      "sha256": "011f39c8bb886810e9291b82cf5546290700d0c377d231aa1371e1fed739ea52"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_weathered_wood_normal.png.import",
+      "size": 1181,
+      "sha256": "c5a45346c09977b47eb9dc7946afab7435d6a1115c101e2eb8f5b5a4d480f106"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_worn_floor_BaseColor.png",
+      "size": 1041650,
+      "sha256": "6d94894012cdc4643452179f6804064f747706efcd584597d1fedb51f533b1f8"
+    },
+    {
+      "path": "游戏/assets/models/world_B01_worn_floor_BaseColor.png.import",
+      "size": 1123,
+      "sha256": "1cf1a8efc93109a362c2f418a944faff3ce076b4999bb52b40bf63d5a67079e5"
+    },
+    {
+      "path": "游戏/assets/models/world_B02_red_paint.png",
+      "size": 1544768,
+      "sha256": "709733cc424dd5b361d44e47febba3d0961d799cf50926df05fd625bc129b8b4"
+    },
+    {
+      "path": "游戏/assets/models/world_B02_red_paint.png.import",
+      "size": 1089,
+      "sha256": "38650cd51c5a54adf38330bb0a25c950d674987cc5401491de7004f94d737f1a"
+    },
+    {
+      "path": "游戏/assets/models/world_B02_roof_metal.png",
+      "size": 1476502,
+      "sha256": "20d119b6f8d462409c87824bb8878a4d9ab95d2a4945b6c7d44bbccf86a3bf89"
+    },
+    {
+      "path": "游戏/assets/models/world_B02_roof_metal.png.import",
+      "size": 1093,
+      "sha256": "0d16dfc70ffa42cb9e00954bd497ebe698913075a81fbc05048eb00ccac2a135"
+    },
+    {
+      "path": "游戏/assets/models/world_B02_wood_normal.png",
+      "size": 1417721,
+      "sha256": "011f39c8bb886810e9291b82cf5546290700d0c377d231aa1371e1fed739ea52"
+    },
+    {
+      "path": "游戏/assets/models/world_B02_wood_normal.png.import",
+      "size": 1140,
+      "sha256": "c48fd6da1dbe3776e9664bd0f200a16f6b55d0de660dc9d9a7827c5fe07b523f"
+    },
+    {
+      "path": "游戏/assets/models/world_B03_plaster.png",
+      "size": 2030861,
+      "sha256": "7401a6463610f99e507cdb7b6813b554fa153a24e9ced1e80eb96f6b030295b7"
+    },
+    {
+      "path": "游戏/assets/models/world_B03_plaster.png.import",
+      "size": 1084,
+      "sha256": "40a87507ab91db0715e160f2c92122bb4431db63261e62bc6be842bdbdfb962c"
+    },
+    {
+      "path": "游戏/assets/models/world_B03_roof.png",
+      "size": 1415592,
+      "sha256": "97ec5097b12cbd3f0dad9a901f7e529f0d0297228fc46a38c5bbbc5c844c4805"
+    },
+    {
+      "path": "游戏/assets/models/world_B03_roof.png.import",
+      "size": 1075,
+      "sha256": "f907046316345610c9bdd25dc7bc0d7799a1bb97307d9199ce1bf47559b3f534"
+    },
+    {
+      "path": "游戏/assets/models/world_crack_decal.png",
+      "size": 163733,
+      "sha256": "f5aeb70c37465ee14a0b8d57664863d471d0096fca1686a7312411fd7f282189"
+    },
+    {
+      "path": "游戏/assets/models/world_crack_decal.png.import",
+      "size": 1084,
+      "sha256": "09d38050298fd5a2150223939bb2580297886e20558db20a6e904fc2c0326566"
+    },
+    {
+      "path": "游戏/assets/models/world_ivy_wall.png",
+      "size": 1209473,
+      "sha256": "08c5ce07785a69a0ef939f9694889f5af2f7cad9fbd775e2dee47f6b0480532b"
+    },
+    {
+      "path": "游戏/assets/models/world_ivy_wall.png.import",
+      "size": 1075,
+      "sha256": "80a5e091b9281c9d93ac703defb68c714931cb9874d689c50f856a7cc5452795"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901.png",
+      "size": 19186437,
+      "sha256": "f6b7143668bac2bee0b29aff13e1a85db23f331c63a5a3d5b4d110cf68967493"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901.png.import",
+      "size": 1111,
+      "sha256": "580381d17fb06b16d02a90e68ba06e664075ee5f43ee5c563ced224864da7791"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_19.png",
+      "size": 19529920,
+      "sha256": "d42f2cb3033915b0458dabce1da0d6b599d85e1d0d718c5b24a45df0f44533ca"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_19.png.import",
+      "size": 1120,
+      "sha256": "44baa9188dc5d3b710e9885f8003e54f2b2664906b14f0a3300db328a9921f08"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_22.png",
+      "size": 25089821,
+      "sha256": "c23e1309f237baaf3ebede624158ecd81e423d8f683d1b29afaabfd04495233c"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_22.png.import",
+      "size": 1120,
+      "sha256": "2e467af8ac17cedd2b298523afeb75a35869dfc1358039a64a26af36c78693d8"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+      "size": 10234395,
+      "sha256": "f431ac1b53e701f40f114e428818742514b4b708a7ebd5589b4532ec7d6a6ff8"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png.import",
+      "size": 1231,
+      "sha256": "5954745d33056a4ad9adb1d27b86f6ab94dc7b89c4feaa7cb61178bf7d2be505"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness_20.png",
+      "size": 8989225,
+      "sha256": "6915bb5a5f61aa6a9a239f62b0a42d897650723604a3da8c81fdbe46941b7db6"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness_20.png.import",
+      "size": 1240,
+      "sha256": "01a4759519104e38779f7916a2322ba1ba5bc30320cfd0b52e8e199c5ec57c57"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness_23.png",
+      "size": 10861789,
+      "sha256": "e848f789f5572395074308cedea0d3702be07bfb6c34a5b6783606910e4cafdf"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness_23.png.import",
+      "size": 1240,
+      "sha256": "a45ec52cb95a211cde48290c8376907e44f8c195b53b1225c5743ec2c57ae142"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_normal.png",
+      "size": 9169945,
+      "sha256": "5cb93761750ef9de3bcb945be41872a2a5464b361248ca6c3e0dc9feb26ea77d"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_normal.png.import",
+      "size": 1188,
+      "sha256": "bc0036d6c82bf7aa97f5c90dc1bb888bd48e0cc57ae0aeaf9df3bdcece10bd76"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_normal_18.png",
+      "size": 9964052,
+      "sha256": "3596ee8179005aaa6653c60318b0907800a89000ce76d4c7e31cf1f0f3ea7d54"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_normal_18.png.import",
+      "size": 1200,
+      "sha256": "af94d34d576cbc338bc2c84f867d3cf410d2e8dbd223acd79643321e267e3003"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_normal_21.png",
+      "size": 14421761,
+      "sha256": "1d7c353833c6755074d040f3296b58e18e4ad7fad738ea67f78a555b58a3e048"
+    },
+    {
+      "path": "游戏/assets/models/world_texture_pbr_20250901_normal_21.png.import",
+      "size": 1201,
+      "sha256": "f6a53a6c7110bddf2653ccf77e332fb9ddd34245289706a3bc72e88b1f4c6968"
+    },
+    {
+      "path": "游戏/assets/vegetation/stylized_grass/grass.glb",
+      "size": 6804,
+      "sha256": "9d160b59e0e96a1df04aedac4984f84266586db79840f3ab7416ff0949332f8d"
+    },
+    {
+      "path": "游戏/assets/vegetation/stylized_grass/grass.glb.import",
+      "size": 1163,
+      "sha256": "e06f26b0db105ef3b545e82c91cc6b99b35cff2c664f45f2063e1a90d9df4d79"
+    },
+    {
+      "path": "游戏/assets/vegetation/stylized_grass/grass2.glb",
+      "size": 4924,
+      "sha256": "bd393d0bedd7d79cb5278dd95038c14b41955891407583801da3150c19c30110"
+    },
+    {
+      "path": "游戏/assets/vegetation/stylized_grass/grass2.glb.import",
+      "size": 1165,
+      "sha256": "4f35091a5c995e010d82d67a90e0d2f90fbfb43b9d77dbbe2e0ab8d340f4cab4"
+    },
+    {
+      "path": "游戏/assets/vegetation/stylized_grass/grass_original.gdshader",
+      "size": 479,
+      "sha256": "9cc3d712d305248150431a6242b916b5a33fbcd80cd2ec07b4ba06c9807b9573"
+    },
+    {
+      "path": "游戏/assets/vegetation/stylized_grass/grass_original.gdshader.uid",
+      "size": 20,
+      "sha256": "28afa3d2dbb22dff19ad390ccc9f5ce3af66c4cd04d43e445cfcebcb2c006576"
+    },
+    {
+      "path": "游戏/assets/vegetation/stylized_grass/license.txt",
+      "size": 1089,
+      "sha256": "bfd7213754799408a097116331b93e25ddc9ac7754d436224a81e8d041541e65"
+    },
+    {
+      "path": "游戏/scenes/coastal_showcase.tscn",
+      "size": 6069293,
+      "sha256": "ca2d525f529fe2e76111b08ec6a04258b4cb0e1d58c999475e2a1c51a73e5279"
+    },
+    {
+      "path": "游戏/scenes/island.tscn",
+      "size": 6069308,
+      "sha256": "1299a2cfe89ef598c5296e326ab0a958db5f206b5519e5964d5e9583556120ee"
+    },
+    {
+      "path": "游戏/scripts/audit_l_dock.gd",
+      "size": 3151,
+      "sha256": "776fe041a6d4d9f13332c588de54a6f0acd0486946b1269e11647288b30d0bb0"
+    },
+    {
+      "path": "游戏/scripts/audit_l_dock.gd.uid",
+      "size": 19,
+      "sha256": "46718b22113ef118cb8bc99e2d769ae985a2bceb82143d9b4034e8bc867fbab9"
+    },
+    {
+      "path": "游戏/scripts/audit_shore_bed.gd",
+      "size": 3297,
+      "sha256": "0ef1045562df67030233814c4b587ed2d880a00c0088162318206c362a532e3d"
+    },
+    {
+      "path": "游戏/scripts/audit_shore_bed.gd.uid",
+      "size": 20,
+      "sha256": "8718755e4101252e7617fe3d24d40091df6390ecf9a74518208cecf1a1614515"
+    },
+    {
+      "path": "游戏/scripts/bake_fisherwoman_player.gd",
+      "size": 1555,
+      "sha256": "0e6f0354778599fd24d8b5f367c149b7afd9309ace1b88795c703582ad6966e1"
+    },
+    {
+      "path": "游戏/scripts/bake_fisherwoman_player.gd.uid",
+      "size": 20,
+      "sha256": "a2c8873a315d00c1a8c34c1748c50032b896511a286c904a12da60c5de1dcf0f"
+    },
+    {
+      "path": "游戏/scripts/bake_grass_into_scene.gd",
+      "size": 639,
+      "sha256": "d637c74faf7ada8587587b786ddafaae7cd358f48877e49b2e28fd9d4dcd31c3"
+    },
+    {
+      "path": "游戏/scripts/bake_grass_into_scene.gd.uid",
+      "size": 20,
+      "sha256": "e651a27447c51edb85f9a5e97d0cfedbb6310a6081c8e422f51c392195aca81d"
+    },
+    {
+      "path": "游戏/scripts/bake_island_grass.gd",
+      "size": 4298,
+      "sha256": "f290141391750176221d8e3ba189ccb415c88dda9aab91af2657ad0f8d1e938e"
+    },
+    {
+      "path": "游戏/scripts/bake_island_grass.gd.uid",
+      "size": 19,
+      "sha256": "0bcd63ddd754678fff44ef80b2acc8e8141ce51aa96debe2514c125e8aa99feb"
+    },
+    {
+      "path": "游戏/scripts/bake_pebble_paths.gd",
+      "size": 2283,
+      "sha256": "14cc53cf0d8f699cb928a9ce9240729d3d367fc700fe5f4416d74800436bd3b5"
+    },
+    {
+      "path": "游戏/scripts/bake_pebble_paths.gd.uid",
+      "size": 20,
+      "sha256": "0cf6dc6ece1c5a00301eff04c4981ee567ed02f4ab23c716ef6a581fb8cf9a2f"
+    },
+    {
+      "path": "游戏/scripts/bake_static_island.gd",
+      "size": 6708,
+      "sha256": "75911182a1417bc15fa40adfd49abbc8f4144b5ef72a2fe6e8894e03db397204"
+    },
+    {
+      "path": "游戏/scripts/bake_static_island.gd.uid",
+      "size": 20,
+      "sha256": "3ec1f85918ea86f10151947b625c5f2ace699980d5647ed1649e4477a9f7ea54"
+    },
+    {
+      "path": "游戏/scripts/bake_water_scene.gd",
+      "size": 1087,
+      "sha256": "45bc9b042fd5a2697db83090733881964671528372802a0bdf5172fd6e10bf12"
+    },
+    {
+      "path": "游戏/scripts/bake_water_scene.gd.uid",
+      "size": 20,
+      "sha256": "928a304d81c10e92e5628ff4a4b212ce2cbcbedb16cb68000d57d69a9b8a5333"
+    },
+    {
+      "path": "游戏/scripts/check_character_rigs.gd",
+      "size": 2519,
+      "sha256": "4159f2cab67b2b939789da7da2d5001698e1d5c31d4ecbb135da95ce8e856b63"
+    },
+    {
+      "path": "游戏/scripts/check_character_rigs.gd.uid",
+      "size": 20,
+      "sha256": "92a680fbc769d953a55ba24747fec2aabd4d978fe8e4b123579a4922c3da30b8"
+    },
+    {
+      "path": "游戏/scripts/check_fishing_rig.gd",
+      "size": 1875,
+      "sha256": "553c4d6155c14e94cbf86a67a1948452bcb394441347f4aeb7da05311d2ec9eb"
+    },
+    {
+      "path": "游戏/scripts/check_fishing_rig.gd.uid",
+      "size": 20,
+      "sha256": "694be8f6b2eb5c2ea0a3f63e90496efcc54b4d4272a02ac344e8a7fad8d6be0d"
+    },
+    {
+      "path": "游戏/scripts/coastal_showcase.gd",
+      "size": 8345,
+      "sha256": "28add03403e7bda4a10731dffa234586428c638cdbeab035976d5f3a88e38263"
+    },
+    {
+      "path": "游戏/scripts/coastal_showcase.gd.uid",
+      "size": 20,
+      "sha256": "561a6267a59697014a20a6105e07557fb10877be458f25986e7378b116067ac8"
+    },
+    {
+      "path": "游戏/scripts/export_asset_footprints.gd",
+      "size": 1907,
+      "sha256": "742049acd23e58a02a4dc380a4be82db5b7de30020836da68052dc204ecb4b00"
+    },
+    {
+      "path": "游戏/scripts/export_asset_footprints.gd.uid",
+      "size": 20,
+      "sha256": "8354ad17ca659512481e7b0811f357cbe4b8cf16d8d9e9864ee1e1363429623c"
+    },
+    {
+      "path": "游戏/scripts/export_dock_site.gd",
+      "size": 2257,
+      "sha256": "a0bb8dadb7f2e936c248e12fc361334b4eafb39c6b2eaff780014f7333803c67"
+    },
+    {
+      "path": "游戏/scripts/export_dock_site.gd.uid",
+      "size": 20,
+      "sha256": "211c97e484b562d4f1ec89e77104e295380835b099bd0945bbce84a49b25b048"
+    },
+    {
+      "path": "游戏/scripts/export_static_fluid_geometry.gd",
+      "size": 2203,
+      "sha256": "49dd6c5639113d80971b3c0b6ce362a5c59dea97bb284c7a96dfe345669e1b0c"
+    },
+    {
+      "path": "游戏/scripts/export_static_fluid_geometry.gd.uid",
+      "size": 20,
+      "sha256": "6891bf015b96c88d5c33b689191c80626d8a344e48c794cd4d7bc3c1a4a3d22e"
+    },
+    {
+      "path": "游戏/scripts/grade_fishing_cabin_site.gd",
+      "size": 2697,
+      "sha256": "db36a4cfc65da023e9025232241c98b82513992774333130e19d627c740d3223"
+    },
+    {
+      "path": "游戏/scripts/grade_fishing_cabin_site.gd.uid",
+      "size": 20,
+      "sha256": "48723a7a348ebd4cf35d162b7be06ae31323798678e18f6deb7fa7f932e445d6"
+    },
+    {
+      "path": "游戏/scripts/inspect_asset_bounds.gd",
+      "size": 1342,
+      "sha256": "f02e2edfbfe44e863b9b907f2fb3ab8b97c907f99c6f7d9893e8e838ef8d75d7"
+    },
+    {
+      "path": "游戏/scripts/inspect_asset_bounds.gd.uid",
+      "size": 19,
+      "sha256": "6cfd87905c3edd2853670fc44426be042f265ff9b97578a193015ed8b4cf053d"
+    },
+    {
+      "path": "游戏/scripts/inspect_forest_pack.gd",
+      "size": 2158,
+      "sha256": "cf5acd2ae2af502ca6578ce02082847821b0f12b78f99f48c38d0a0d30ef49dc"
+    },
+    {
+      "path": "游戏/scripts/inspect_forest_pack.gd.uid",
+      "size": 19,
+      "sha256": "00e8e1aec1ae48521d553125732387e31f30a26f4364cf3b3432559926f33c1f"
+    },
+    {
+      "path": "游戏/scripts/inspect_static_scene.gd",
+      "size": 866,
+      "sha256": "65ea02110cfd5d7680acb1f63e0143116e13bcc29a2760c842f3a5c069877f5d"
+    },
+    {
+      "path": "游戏/scripts/inspect_static_scene.gd.uid",
+      "size": 19,
+      "sha256": "757810d664781f4594ecf316b1011a38721ddc7de262f49984e0981e389e023e"
+    },
+    {
+      "path": "游戏/scripts/island_builder.gd",
+      "size": 9435,
+      "sha256": "bf33f6f36d1e36b9efc01f5dca4dad643edaf676c67d529135d9617043799197"
+    },
+    {
+      "path": "游戏/scripts/island_builder.gd.uid",
+      "size": 19,
+      "sha256": "c937e59f6b3fa049499034e51f4e5a757a8a31286bc03227b782a9822cfc3e1e"
+    },
+    {
+      "path": "游戏/scripts/l_dock_setup.gd",
+      "size": 1779,
+      "sha256": "bb92f3aea43a1336f7fd17731975c54da3a6fc1734596a5c3ed45752726d893f"
+    },
+    {
+      "path": "游戏/scripts/l_dock_setup.gd.uid",
+      "size": 19,
+      "sha256": "29ac09a06ffb8cc9ec7135a7135de25e96f8533d64c0850a5da2511f60eaddf2"
+    },
+    {
+      "path": "游戏/scripts/lagoon_gap_fix.gd",
+      "size": 2539,
+      "sha256": "d0cb68f3a8d2838b69b45415ff1b3178072a512cc115f0a74c02313b20433651"
+    },
+    {
+      "path": "游戏/scripts/lagoon_gap_fix.gd.uid",
+      "size": 20,
+      "sha256": "f3c481a5e59e88c6aa0b701b6cf3d12cf38713c24a81455f5ef0676b71f21b87"
+    },
+    {
+      "path": "游戏/scripts/lighthouse_base_setup.gd",
+      "size": 2025,
+      "sha256": "775482f0010fad393ef7d09bc0a77f4a8a18e49c26d1cccf7a5e4f9e19e73030"
+    },
+    {
+      "path": "游戏/scripts/lighthouse_base_setup.gd.uid",
+      "size": 19,
+      "sha256": "046193e22eb8c43af91dc92fdf46b0d8d2346bbb064c5f320d439e6dd11a27af"
+    },
+    {
+      "path": "游戏/scripts/shore_slice.gd",
+      "size": 12174,
+      "sha256": "27afe451d686e6def0292cf27eca7913bf146226d272586c6c6fc52d53707299"
+    },
+    {
+      "path": "游戏/scripts/shore_slice.gd.uid",
+      "size": 20,
+      "sha256": "0275e1d5db6358127e12b3baa98b89237de635c962700a9839b264d094f4c33a"
+    },
+    {
+      "path": "游戏/shaders/shore_water.gdshader",
+      "size": 3102,
+      "sha256": "3ba96fdd0077c42bdae4d0dd857e0471d5300e30ccb58f643ba1ec6efe31c97f"
+    },
+    {
+      "path": "游戏/shaders/shore_water.gdshader.uid",
+      "size": 20,
+      "sha256": "261c743db0b394e4731c9d49a2cdc7288c3fea29611d1e1c881465e7e483bc56"
+    },
+    {
+      "path": "游戏/shaders/water.gdshader",
+      "size": 808,
+      "sha256": "7f5705676b4e8e59308dd9952344603f3b23f289e7a3daffd927aca4e1a6d776"
+    },
+    {
+      "path": "游戏/shaders/water.gdshader.uid",
+      "size": 20,
+      "sha256": "41da9994cb289cd47d5062e734f8f6fe7e6dc6680b99cc05d8a68f4a59f16a29"
+    },
+    {
+      "path": "游戏/shaders/water_realistic.gdshader",
+      "size": 3045,
+      "sha256": "84f614c1b54928ee7590d270ba367fbe5b3b47441a7437e829eea7dfa956294e"
+    },
+    {
+      "path": "游戏/shaders/water_realistic.gdshader.uid",
+      "size": 19,
+      "sha256": "6c35b4102f2ce8f3de3076c0341138850aa0010423b847c02fdca1bdd0226ca3"
+    },
+    {
+      "path": "游戏/工具/码头重建/shore_samples.json",
+      "size": 11436,
+      "sha256": "42fe0de11e3ddee1ae70126af578bfac73b30839720a261f93b2fba1ba5c83a8"
+    }
+  ],
+  "remove_originals": true
+}

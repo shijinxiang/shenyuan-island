@@ -1,0 +1,93 @@
+{
+  "units": "meters",
+  "axis": "Godot +Y up, +Z front; origin bottom center",
+  "assets": {
+    "cooking_pot": {
+      "size_xyz": [
+        0.907,
+        1.15,
+        0.9445
+      ],
+      "nodes": [
+        "cooking_pot_Base",
+        "Soup",
+        "Flame"
+      ],
+      "path": "res://assets/cooking/cooking_pot.glb"
+    },
+    "berry_bush": {
+      "size_xyz": [
+        1.0743,
+        0.8,
+        1.0743
+      ],
+      "nodes": [
+        "berry_bush_Base",
+        "Berries"
+      ],
+      "path": "res://assets/cooking/berry_bush.glb"
+    },
+    "mushrooms": {
+      "size_xyz": [
+        0.3971,
+        0.3,
+        0.3623
+      ],
+      "nodes": [
+        "mushrooms_Base",
+        "Harvest"
+      ],
+      "path": "res://assets/cooking/mushrooms.glb"
+    },
+    "meal_bowl": {
+      "size_xyz": [
+        0.25,
+        0.098,
+        0.25
+      ],
+      "nodes": [
+        "meal_bowl_Base"
+      ],
+      "path": "res://assets/cooking/meal_bowl.glb"
+    },
+    "berry": {
+      "size_xyz": [
+        0.078,
+        0.1,
+        0.08
+      ],
+      "nodes": [
+        "berry_Base"
+      ],
+      "path": "res://assets/cooking/berry.glb"
+    },
+    "mushroom": {
+      "size_xyz": [
+        0.1358,
+        0.1854,
+        0.1379
+      ],
+      "nodes": [
+        "mushroom_Base"
+      ],
+      "path": "res://assets/cooking/mushroom.glb"
+    },
+    "meat": {
+      "size_xyz": [
+        0.2283,
+        0.085,
+        0.15
+      ],
+      "nodes": [
+        "meat_Base"
+      ],
+      "path": "res://assets/cooking/meat.glb"
+    }
+  },
+  "interfaces": {
+    "cooking_pot": "Flame mesh visibility; Soup material override for recipe color",
+    "berry_bush": "Berries mesh visibility OR berry_bush_empty.glb; identical foliage",
+    "mushrooms": "Harvest mesh visibility OR mushrooms_empty.glb; identical foliage",
+    "collision": "No collisions embedded; controller owns them"
+  }
+}

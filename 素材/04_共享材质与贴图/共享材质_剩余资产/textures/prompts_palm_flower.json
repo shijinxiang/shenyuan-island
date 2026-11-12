@@ -1,0 +1,53 @@
+{
+  "generator": "built-in image_gen",
+  "model_selection": "The built-in tool does not expose a model-selection field.",
+  "requested_size": "1024 px requested; the built-in tool returned the actual dimensions listed below without resizing.",
+  "assets": [
+    {
+      "filename": "Palm_frond_RGBA.png",
+      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\共享材质_剩余资产\\textures\\Palm_frond_RGBA.png",
+      "format": "PNG RGBA",
+      "actual_width": 763,
+      "actual_height": 2060,
+      "bytes": 1592630,
+      "alpha_zero_pixel_count": 738535,
+      "alpha_opaque_pixel_count": 2185,
+      "transparent_background_requested": true,
+      "reference": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\V_植物\\V03_直干棕榈树\\V03_01_source.png",
+      "prompt": "Use case: stylized-concept\nAsset type: 2D game foliage cutout.\nReference: palm leaf color and hand-painted pixel-block shading only.\nScene: truly empty transparent backdrop.\nSubject: one whole vertical pinnate palm frond, orthographic top view; continuous pale-green central rachis, roughly 12 pairs of broad-to-narrow oblong lanceolate leaflets attached on both sides, each naturally rounded and tapered, arranged upward with tips pointing toward top. Base bottom center, top tip at top, length:width about 2.7:1.\nStyle: crisp matte hand-painted 2D game sprite, detailed green/yellow-green shading and subtle veins. The outer contour is clean and well-defined.\nConstraints: all non-leaf pixels transparent alpha zero; only one complete frond, no external glow or shadow, no colored fringe, generous transparent padding; do not crop any leaflet.\nAvoid: whole tree, trunk, extra fronds, triangular shard shapes, aura, bloom, rim light, haze, cast shadow, background, checkerboard, text, watermark.",
+      "prompt_history": []
+    },
+    {
+      "filename": "Yellow_flower_RGBA.png",
+      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\共享材质_剩余资产\\textures\\Yellow_flower_RGBA.png",
+      "format": "PNG RGBA",
+      "actual_width": 1254,
+      "actual_height": 1254,
+      "bytes": 922191,
+      "alpha_zero_pixel_count": 897716,
+      "alpha_opaque_pixel_count": 462,
+      "transparent_background_requested": true,
+      "reference": "D:\\浪费GPT额度\\小温的游戏\\素材\\元素提取PNG\\V_植物\\V08_黄色花灌丛\\V08_01_source.png",
+      "prompt": "Clean up this flower cutout for a game texture. Preserve the single five-petal yellow flower and orange center exactly in appearance and framing. Make the region outside the flower perfectly clean, fully transparent (alpha 0), including all transparent margins; remove every stray colored speck, halo, checker pattern, shadow, and background artifact. Keep the flower complete with smooth natural edges and opaque painted pixels. True transparent PNG.",
+      "prompt_history": [
+        "Use case: stylized-concept\nAsset type: single flower cutout texture for a stylized 3D game asset\nInput image: reference image for the bright yellow flowers and hand-painted pixel-like rendering style only.\nScene/backdrop: transparent.\nSubject: exactly one five-petaled yellow wildflower facing directly toward camera. Five gently rounded oval petals with slight natural asymmetry, arranged evenly around a warm orange center.\nStyle: polished hand-painted stylized game texture, fine pixel-like color blocks, soft tonal variation matching reference's bright yellow and orange flowers.\nComposition: one complete flower centered, front-on, petals fully visible, generous transparent margin on all sides.\nLighting: soft even illumination with highlights and shading contained within petals; no cast shadow.\nConstraints: genuine transparent background with alpha; no stem or foliage.\nAvoid: extra petals, multiple flowers, side view, stem, leaves, shadow, scenery, text, border, watermark.",
+        "Edit the provided flower image into a true transparent PNG cutout. Preserve the single centered five-petaled yellow flower, its exact shape, warm orange center, hand-painted pixel-block shading, and framing. Remove the visible gray-and-white checkerboard completely and make all pixels outside the flower genuinely transparent (alpha 0); retain clean natural antialiased flower edges and full opacity on the flower. Do not add or remove any flower details. No checkerboard, no background, no shadow, no text, no watermark."
+      ]
+    },
+    {
+      "filename": "Shrub_leaf_RGBA.png",
+      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\Blender模型\\共享材质_剩余资产\\textures\\Shrub_leaf_RGBA.png",
+      "format": "PNG RGBA",
+      "actual_width": 962,
+      "actual_height": 1634,
+      "bytes": 1120248,
+      "alpha_zero_pixel_count": 822003,
+      "alpha_opaque_pixel_count": 1311,
+      "transparent_background_requested": true,
+      "reference": null,
+      "prompt": "Use case: stylized-concept\nAsset type: isolated 2D game foliage texture with alpha transparency.\nScene/backdrop: genuinely empty transparent background.\nSubject: one single oval shrub leaf, medium green with yellow-green hand-painted pixel-like shading; short narrow petiole at bottom, softly tapered rounded tip at top, smooth rounded edges, length-to-width ratio 1.7:1, subtle low-contrast midrib.\nComposition: centered portrait cutout, leaf fully visible, generous empty transparent margin on all sides.\nStyle: simple clean hand-painted 2D game sprite, matte pigment, fine pixel-like color blocks and natural value changes contained strictly inside the leaf silhouette.\nConstraints: outside the exact leaf silhouette must be fully transparent; crisp well-defined perimeter with only minimal edge antialiasing. No colored pixels or translucent color beyond the contour.\nAvoid: glow, aura, bloom, outer rim light, halo, drop shadow, cast shadow, background color, checkerboard, gradient backdrop, extra veins, branches, other leaves, flowers, text, watermark.",
+      "prompt_history": [],
+      "reference_note": "No image input was attached to the final generation call."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen / ImageGen skill; no API fallback",
+  "reference": "User-provided photo viewed at C:\\Users\\SHIJIN~1\\AppData\\Local\\Temp\\codex-clipboard-813547bc-bbce-423d-99fd-bb34ad5739ea.png; generated source is authoritative for derived views.",
+  "files": [
+    {
+      "name": "B02_01_source.png",
+      "prompt": "Generate isolated stylized game asset: large long low agricultural/industrial warehouse, approximately 18m long x 8m deep, 4m eaves, 5.5m ridge; dark muted red-brown vertical siding, intact pale white-grey standing-seam gabled metal roof, one wide central sliding cargo door on the long visible side, four small high windows (two each side), one service door and minimal openings on short gable end. Full building in 3/4 view on plain purple-grey studio background, no photo scenery. No cottage, no blue, no roof holes.",
+      "check": "Viewed; long low proportions and red-brown/white-grey palette, broad cargo slider, high windows and service door visible."
+    },
+    {
+      "name": "B02_02_front.png",
+      "prompt": "Using source as exact authority, generate orthographic straight-on long-side facade. Preserve red-brown vertical siding, intact pale grey-white gable roof visible as shallow band, central wide sliding cargo door and rail with 3 hangers, exactly four high windows (two left, two right), plinth and trim. Neutral purple-grey background; no perspective or extra openings.",
+      "check": "Viewed; full long facade, slider, four windows, roof band present."
+    },
+    {
+      "name": "B02_03_right.png",
+      "prompt": "Generate exact orthographic short-end gable elevation (the visible short end from source). Red-brown vertical board siding across rectangular wall AND triangular gable infill; pale grey-white metal only as narrow sloping roof edge trim and horizontal eave trim. One grey service door on left half and small grey rectangular wall light centered above it. Keep intact roof silhouette, plinth, purple-grey background; no windows.",
+      "check": "Edited and viewed; gable infill now red-brown siding, pale trim on slopes/eaves, service door retained, wall light added."
+    },
+    {
+      "name": "B02_04_top.png",
+      "prompt": "Edited existing top view: remove visible grey service door and all other wall doors/windows. Strict 90-degree top-down roof projection only, showing long rectangular double-slope white-grey metal roof, central ridge along long axis, subtle roof seams, minimal thin red-brown perimeter. Preserve roof geometry and proportions. No wall openings or added structures.",
+      "check": "Re-edited and viewed; service door and visible wall openings removed. Only double roof planes, central longitudinal ridge and narrow perimeter remain. Conceptual reference, not CAD exact."
+    }
+  ],
+  "limitations": "ImageGen-derived views are visual references, not dimensionally exact CAD orthographics. Consistency has been visually checked; exact window registration and geometry should be verified against the 3D model."
+}

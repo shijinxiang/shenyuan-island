@@ -1,0 +1,490 @@
+{
+  "archive": "归档/00_整理前代码与主场景.zip",
+  "sha256": "b164ecea07042f6affeadf04e43398d10aaa5852421e291e05e2d804070e6009",
+  "verified": true,
+  "original_bytes": 31326661,
+  "archive_bytes": 28650477,
+  "files": [
+    {
+      "path": "游戏/project.godot",
+      "size": 640,
+      "sha256": "5875303958ee383f877c389814fe4323d6e4d83de9839e1a0cb1f78eee6d7092"
+    },
+    {
+      "path": "游戏/scenes/coastal_beauty.scn",
+      "size": 31070649,
+      "sha256": "3d622b0d7a0ff30fc2ba1918123d83ef51b4497ea81dec191270c14419385f47"
+    },
+    {
+      "path": "游戏/scripts/boat_wake.gd",
+      "size": 2953,
+      "sha256": "8d42d4e81c5ed1bf82a19b56716448ac6c5031a90fc93b42e292b2c093a21418"
+    },
+    {
+      "path": "游戏/scripts/boat_wake.gd.uid",
+      "size": 20,
+      "sha256": "fa208789f53765e84b004b64824d53df82e2e8b6a0974fbff23d576ef64f87c1"
+    },
+    {
+      "path": "游戏/scripts/building_doors.gd",
+      "size": 1935,
+      "sha256": "2b26f6467917344de4bc049a3506a0275096a0d6c743fa840f5961e9bceea84d"
+    },
+    {
+      "path": "游戏/scripts/building_doors.gd.uid",
+      "size": 19,
+      "sha256": "fccbf138234f8dfcd797c70c0ba2ba5e400419c5020720f3287b934471fb9892"
+    },
+    {
+      "path": "游戏/scripts/building_revision.gd",
+      "size": 5145,
+      "sha256": "a7a0691fd0bece911a4e2e4fdfc110379aa3105535792985cd236fbc3f4d4d91"
+    },
+    {
+      "path": "游戏/scripts/building_revision.gd.uid",
+      "size": 20,
+      "sha256": "c84d9f99e5cbe8c81e936e3b135c837180f107acd2633e9a71d475bec5c9b9dc"
+    },
+    {
+      "path": "游戏/scripts/cabin_access.gd",
+      "size": 591,
+      "sha256": "66749055d7cd7d4b3bad9f03e1e8e25b8b925f799fe08ec66ee8c2ee360d57b7"
+    },
+    {
+      "path": "游戏/scripts/cabin_access.gd.uid",
+      "size": 20,
+      "sha256": "b876e0494825b3ea1748b00164ea4b322fa65b3b4f1c30af1f9ab26f4063d68a"
+    },
+    {
+      "path": "游戏/scripts/caught_fish.gd",
+      "size": 5574,
+      "sha256": "efe8c50fb469800e0f212f898f3cd9f7f5444fd4f29b3eeed8af851b7582df6a"
+    },
+    {
+      "path": "游戏/scripts/caught_fish.gd.uid",
+      "size": 20,
+      "sha256": "77d2687d810a4812eb0d155908ca6f2978bf9c94439419c6a7b6a1bafcf9fd87"
+    },
+    {
+      "path": "游戏/scripts/coastal_palm_setup.gd",
+      "size": 2683,
+      "sha256": "c66f334ce14b1600a37b916719423dbbe18e57da846e39728da2c6833788f4c6"
+    },
+    {
+      "path": "游戏/scripts/coastal_palm_setup.gd.uid",
+      "size": 19,
+      "sha256": "75671fcc3757223b50d214e0a5c1d303bdf20fe361b261733454e10a23339809"
+    },
+    {
+      "path": "游戏/scripts/coastal_presentation.gd",
+      "size": 2892,
+      "sha256": "c1ac20da89cf560b69dcb82fb0e2e09df0da86d65203126e1965296de8a34eda"
+    },
+    {
+      "path": "游戏/scripts/coastal_presentation.gd.uid",
+      "size": 19,
+      "sha256": "0284ecdcf24c4c8ac85d98d1f934655ff9a6dab8c3e75b9d2d599681c38aa852"
+    },
+    {
+      "path": "游戏/scripts/explorer.gd",
+      "size": 14030,
+      "sha256": "4d053c0ad5b1dcdf0475880df8394345311f0ed5ef4296f53b970d31b83adf1f"
+    },
+    {
+      "path": "游戏/scripts/explorer.gd.uid",
+      "size": 20,
+      "sha256": "3b1bc59676b43f1ca23ac00d4eb9e9eae959433b888b54bba2af4be106f1cf69"
+    },
+    {
+      "path": "游戏/scripts/fish_schools.gd",
+      "size": 7934,
+      "sha256": "1b3c7c5019ea5a7e37d13cf79827c80869427906f66de5a66475c6ca65d06da2"
+    },
+    {
+      "path": "游戏/scripts/fish_schools.gd.uid",
+      "size": 20,
+      "sha256": "b4a96bffe246c725e3d3c61545d02efd51aafad16e5ebb647220169ae29f3d24"
+    },
+    {
+      "path": "游戏/scripts/fisherwoman_setup.gd",
+      "size": 2728,
+      "sha256": "2d236bbd1c5b50824b24de3a2e92b1f42d5676c03788641d7d6b0bd44896c621"
+    },
+    {
+      "path": "游戏/scripts/fisherwoman_setup.gd.uid",
+      "size": 20,
+      "sha256": "0d624d73b7728df1666728bdf7ba8c1e70555f9a6a6a0b00e3f901135186eb80"
+    },
+    {
+      "path": "游戏/scripts/fishing_controller.gd",
+      "size": 20883,
+      "sha256": "d1d94a22b37f7efb4b06f6084f9c2ab66a9765f4b2db62e1fa927f6f7e0907ad"
+    },
+    {
+      "path": "游戏/scripts/fishing_controller.gd.uid",
+      "size": 20,
+      "sha256": "3a66efda3f22f3049db58027d4f4a62b95ea27536ad0ea8202ef6f43fe82ba0c"
+    },
+    {
+      "path": "游戏/scripts/fishing_locomotion.gd",
+      "size": 2280,
+      "sha256": "c5906c2fc637fe77b30d88484c8593f1091b7abdd565dbb8ab9a5e0b46e50a75"
+    },
+    {
+      "path": "游戏/scripts/fishing_locomotion.gd.uid",
+      "size": 20,
+      "sha256": "b97c8f72615220ba9e42f276541ccf1f43f00872493a2b3edce5507a969c92e3"
+    },
+    {
+      "path": "游戏/scripts/follow_camera_safety.gd",
+      "size": 5304,
+      "sha256": "fc76d72e7a2c2d1c2684a33d18a0ae998d4938ba0920c2c81334ba6e301f0495"
+    },
+    {
+      "path": "游戏/scripts/follow_camera_safety.gd.uid",
+      "size": 20,
+      "sha256": "cfd240aeb1412819ea3d7992413f11d248e90f912504ea61cdd435cf8a199a10"
+    },
+    {
+      "path": "游戏/scripts/forest_biome_setup.gd",
+      "size": 1045,
+      "sha256": "b6d492258b60dc99ebc76d15d07241dfd84f59d9c4dc4f17b19942a58e2d2827"
+    },
+    {
+      "path": "游戏/scripts/forest_biome_setup.gd.uid",
+      "size": 20,
+      "sha256": "448085769d57c30c88926258bf7ff80fe4e7192820965a503659a0d3e5026e5e"
+    },
+    {
+      "path": "游戏/scripts/ground_sampler.gd",
+      "size": 1322,
+      "sha256": "00a2cb473e4c935aa69c8f095f3f81ea5d4460935f4e5d70604cdec774a1d456"
+    },
+    {
+      "path": "游戏/scripts/ground_sampler.gd.uid",
+      "size": 20,
+      "sha256": "708a202098184f9810a7e80d9e57276dcde1b7c07874e4baeb400de7305cc134"
+    },
+    {
+      "path": "游戏/scripts/island_adventure.gd",
+      "size": 24736,
+      "sha256": "16914944eb9418cab7c35497be4a1b7a9dad37fd3581e2ee3b198e07769f529b"
+    },
+    {
+      "path": "游戏/scripts/island_adventure.gd.uid",
+      "size": 20,
+      "sha256": "8f468b5b24aef7068cde72d96f0f926b4b7a32b858b5f6a714147558af652ec2"
+    },
+    {
+      "path": "游戏/scripts/island_game_ui.gd",
+      "size": 20683,
+      "sha256": "db6c9fc9374f752b6290396080a436670a1fedb30acfda122daf07c74d99ea6f"
+    },
+    {
+      "path": "游戏/scripts/island_game_ui.gd.uid",
+      "size": 20,
+      "sha256": "6b571326859be295da61cc352b5a38657986cccdc455dcffab354820bdf93f34"
+    },
+    {
+      "path": "游戏/scripts/island_grass_setup.gd",
+      "size": 837,
+      "sha256": "07e7755adece6140befb00e7b8b22325e6244035ee4cfe50aa2bb228e654093b"
+    },
+    {
+      "path": "游戏/scripts/island_grass_setup.gd.uid",
+      "size": 19,
+      "sha256": "09cdc09224a653505ddf33d03d498e98f6894cc6c0701066b79bca56b4f0dfdd"
+    },
+    {
+      "path": "游戏/scripts/island_opening.gd",
+      "size": 6513,
+      "sha256": "b1908125efaff47c66590221a9fa204ccd13affbd1db2ef5e11ad4654b587c92"
+    },
+    {
+      "path": "游戏/scripts/island_opening.gd.uid",
+      "size": 19,
+      "sha256": "c47463c17d144af39e54804b5277def2ee35aec806cb212c72f773965151628e"
+    },
+    {
+      "path": "游戏/scripts/island_rain.gd",
+      "size": 1457,
+      "sha256": "3d5ab8ded959fc1ea380c94cf2d178c1b9b04a12e66a5e6b658294893620b9c1"
+    },
+    {
+      "path": "游戏/scripts/island_rain.gd.uid",
+      "size": 20,
+      "sha256": "aae5e607196f48d5df601ed88759101f2a5b67ce684b21e64886ec69541c7a23"
+    },
+    {
+      "path": "游戏/scripts/island_static_setup.gd",
+      "size": 8782,
+      "sha256": "d90d62f89feb54873e6841a8d6e01453009c93c1a6e912883791e272611414f7"
+    },
+    {
+      "path": "游戏/scripts/island_static_setup.gd.uid",
+      "size": 20,
+      "sha256": "64c62517e68ca15bf2387d305bd4e24cb03c6b6e5ba48b2085191e608dd3f038"
+    },
+    {
+      "path": "游戏/scripts/island_weather.gd",
+      "size": 16406,
+      "sha256": "1671c81365e3acf3c999617a2a4690d871ba862a1cc91d48411aa4ab4d74787d"
+    },
+    {
+      "path": "游戏/scripts/island_weather.gd.uid",
+      "size": 20,
+      "sha256": "2fc1d4bb1c4752601a0f6eb61d553b5fcf6d6879498538655ce43fe6c3534760"
+    },
+    {
+      "path": "游戏/scripts/island_wildlife.gd",
+      "size": 10324,
+      "sha256": "be8b69018b6d881d18ac6976f3f9c24487aa47ec9a15a80a631eac87edeb37fb"
+    },
+    {
+      "path": "游戏/scripts/island_wildlife.gd.uid",
+      "size": 20,
+      "sha256": "96d14293b0e9f5ebbc2e5c891561f0857e9b923640b78104f655177782ad8bd6"
+    },
+    {
+      "path": "游戏/scripts/live_item_preview.gd",
+      "size": 2513,
+      "sha256": "598de0c9237f9950c860f087011a15c17484b304a8e75bd6bed6694388beffb0"
+    },
+    {
+      "path": "游戏/scripts/live_item_preview.gd.uid",
+      "size": 20,
+      "sha256": "137a5c1b8c376e1c70a108af7fe987f54b48900802f70676b8f36db3d906467b"
+    },
+    {
+      "path": "游戏/scripts/nautical_button.gd",
+      "size": 846,
+      "sha256": "f9987f5300ef0e7412c5adf935ddd5ef62b86a93e5004740d6e22789f10fe534"
+    },
+    {
+      "path": "游戏/scripts/nautical_button.gd.uid",
+      "size": 20,
+      "sha256": "bfff83320868f84987f9e2edaaf1248116724d22cd507251145a216a5f8272a2"
+    },
+    {
+      "path": "游戏/scripts/nautical_panel.gd",
+      "size": 670,
+      "sha256": "41e8cb97f8ee53753131ffca1bac315dc31b615a296a9e04d7478f9128e9f0e9"
+    },
+    {
+      "path": "游戏/scripts/nautical_panel.gd.uid",
+      "size": 20,
+      "sha256": "73ab1efc1e4ce772e1cc48346af4c19a998d70f6a4fd9cca17e374ded4616a81"
+    },
+    {
+      "path": "游戏/scripts/nearshore_enrichment.gd",
+      "size": 2608,
+      "sha256": "67fbac836be6d28326ea2e0e85d1f8aacc90196c7b10bdddd55082c89173c471"
+    },
+    {
+      "path": "游戏/scripts/nearshore_enrichment.gd.uid",
+      "size": 20,
+      "sha256": "1de8ed96048597f7698af87780a864eb3e85b2533c5a47f9c2f78ddce498db3a"
+    },
+    {
+      "path": "游戏/scripts/player_movement_vfx.gd",
+      "size": 4150,
+      "sha256": "a05b2928bbba117a1ad8e0336c520663a8eebc437c1321078bd360199e148d70"
+    },
+    {
+      "path": "游戏/scripts/player_movement_vfx.gd.uid",
+      "size": 19,
+      "sha256": "f250c4d60f7021fc9993afea986bf6932a684285ebceb631333bfc5cecec2a4f"
+    },
+    {
+      "path": "游戏/scripts/rowboat_controller.gd",
+      "size": 10787,
+      "sha256": "5241c313d604dc2eb8d48284ebc4c77f4d70607b84ac32590daa598a14bcee26"
+    },
+    {
+      "path": "游戏/scripts/rowboat_controller.gd.uid",
+      "size": 20,
+      "sha256": "1786b793b1ea415e99e513e8defb7df3112d6b9abd134c9f7380243be12eba86"
+    },
+    {
+      "path": "游戏/scripts/shallow_water_simulation.gd",
+      "size": 13373,
+      "sha256": "79c2c532795f2f0b6e3941dc5397aced2f68b817d7c421c83f7bbe5adebb2c5a"
+    },
+    {
+      "path": "游戏/scripts/shallow_water_simulation.gd.uid",
+      "size": 20,
+      "sha256": "3d409f1561787c0d6c51061fe88b67d0bc81fbcbba57fa203f6f8d9d1c906fd1"
+    },
+    {
+      "path": "游戏/scripts/shore_waves_setup.gd",
+      "size": 2231,
+      "sha256": "cd38befa2e3a9156388c9fb73e692317b1608c7812ec5ca95a8aac523a641651"
+    },
+    {
+      "path": "游戏/scripts/shore_waves_setup.gd.uid",
+      "size": 19,
+      "sha256": "758a97bacb9b1a5a3e8d9288ea56a274a843bc7a322dc3a1e24c2a14618e0347"
+    },
+    {
+      "path": "游戏/scripts/world_life_setup.gd",
+      "size": 1773,
+      "sha256": "6a15d6e4b2a07a5d20cf3da1ba13e3db11bfae81e497cb350589a13570c15ec5"
+    },
+    {
+      "path": "游戏/scripts/world_life_setup.gd.uid",
+      "size": 20,
+      "sha256": "846e5701f8fa6b310ae30f107476c04147eef4706a7524c15eeed17919aadc8d"
+    },
+    {
+      "path": "游戏/shaders/boat_foam.gdshader",
+      "size": 1134,
+      "sha256": "fd58f7591b52fdeb3132a4c53c98fbc6c4fe75a4ed39f245661a3245fc46a96a"
+    },
+    {
+      "path": "游戏/shaders/boat_foam.gdshader.uid",
+      "size": 20,
+      "sha256": "f0cc950ae1bf2959abb96e3067b6896b5df92c955870626823def467a8dd2260"
+    },
+    {
+      "path": "游戏/shaders/coastal_volume_fog.gdshader",
+      "size": 912,
+      "sha256": "0d627cc37268f198ef5b03c16d5362a18b8d3ef7d2bd78ea6932b708f83c845a"
+    },
+    {
+      "path": "游戏/shaders/coastal_volume_fog.gdshader.uid",
+      "size": 20,
+      "sha256": "3395094e299396e855c2b5fb585d9ca2d10967a8f2ffb4386c23c264c28397f5"
+    },
+    {
+      "path": "游戏/shaders/island_biome.gdshaderinc",
+      "size": 692,
+      "sha256": "109b7cf592b8a75e13fad2569c0a5eecf7d80b9ed4b64354dc280ec88c9cf99d"
+    },
+    {
+      "path": "游戏/shaders/island_biome.gdshaderinc.uid",
+      "size": 20,
+      "sha256": "8a199f0762d35750257faadd14847078bc1a9b9a95b8dc42ec592d0aa95ecb22"
+    },
+    {
+      "path": "游戏/shaders/island_grass.gdshader",
+      "size": 2560,
+      "sha256": "4240afdf540e754e3b600fdd0a9046dad3b5c51a88641f52781aa81e7ac42b09"
+    },
+    {
+      "path": "游戏/shaders/island_grass.gdshader.uid",
+      "size": 20,
+      "sha256": "7b42056a67fa28c48bf762f1a091d69961e14705d637bce7b6790aabdc457b3f"
+    },
+    {
+      "path": "游戏/shaders/island_trail.gdshader",
+      "size": 1765,
+      "sha256": "b7f74790157a5803f71ec62969e37f5d1579fcbe8e547c2691d244b172f889a7"
+    },
+    {
+      "path": "游戏/shaders/island_trail.gdshader.uid",
+      "size": 20,
+      "sha256": "7a6df1f304ebb277ae1f43443e236e42860efbadd9d739ea4bb89ebecb2ea9e7"
+    },
+    {
+      "path": "游戏/shaders/island_weather_sky.gdshader",
+      "size": 680,
+      "sha256": "56cc212558fea8f113f4d831422cfcb3f2ad1e848e0a17c3679c065d8e4428d3"
+    },
+    {
+      "path": "游戏/shaders/island_weather_sky.gdshader.uid",
+      "size": 20,
+      "sha256": "bf16bf75ec4eb9f775af4861bc0081e0b3524fcbf5d9b031a38a2436577ec39e"
+    },
+    {
+      "path": "游戏/shaders/path_pebbles.gdshader",
+      "size": 227,
+      "sha256": "db5b7b78c1cd5d24b8bfdd2f0eb7465d0acd2fe1e118732f5d3a789e94bd8cd9"
+    },
+    {
+      "path": "游戏/shaders/path_pebbles.gdshader.uid",
+      "size": 20,
+      "sha256": "61c2c8e4b959fa273e5adc27156e0c7e3c64eccaadfcd921e18d822fd6aebd7e"
+    },
+    {
+      "path": "游戏/shaders/physical_water.gdshader",
+      "size": 8756,
+      "sha256": "a4c49524d714c55807e35cdb6109ac5f97cbc9bbec8f3b6fd827591aa8e19fde"
+    },
+    {
+      "path": "游戏/shaders/physical_water.gdshader.uid",
+      "size": 20,
+      "sha256": "6594b31ae0136a52ac4159b890c0a3fcbcef5d31aadd640613aff720ab18f1a5"
+    },
+    {
+      "path": "游戏/shaders/rain_surface_height.gdshaderinc",
+      "size": 1002,
+      "sha256": "fafa0ccaf12d4c03f9dcbdf75f0c359d501fea4cfd369dbb6509d3dd43ce876d"
+    },
+    {
+      "path": "游戏/shaders/rain_surface_height.gdshaderinc.uid",
+      "size": 19,
+      "sha256": "1ab01b6100e2be15e480f0f1ac8c8a25ca5e791bafe653472fdd422b675f8e0a"
+    },
+    {
+      "path": "游戏/shaders/shallow_water_solver.glsl",
+      "size": 9005,
+      "sha256": "c9936b5a392797607c3c78db0decb8bdb0185a560c8603c7bda3c959169c8965"
+    },
+    {
+      "path": "游戏/shaders/shallow_water_solver.glsl.import",
+      "size": 337,
+      "sha256": "5028124520d1327ba7ab8da8e0b8820edd34c421bfd8c14ea759e782abdeeea2"
+    },
+    {
+      "path": "游戏/shaders/shore_sand.gdshader",
+      "size": 3634,
+      "sha256": "637a8f3d2fbadc2bac9344c308a38d9b0fa970c1ef51abc4541deae2e7edb67c"
+    },
+    {
+      "path": "游戏/shaders/shore_sand.gdshader.uid",
+      "size": 19,
+      "sha256": "7d1cc926902ad1d46e036ac93ecb9606b2710e65a6aa5dc4cd23500bf5a827b7"
+    },
+    {
+      "path": "游戏/shaders/shore_waves.gdshader",
+      "size": 5922,
+      "sha256": "30b129b399ff29f1b94ad93df1891173e570fc344063a633b351186e202e460c"
+    },
+    {
+      "path": "游戏/shaders/shore_waves.gdshader.uid",
+      "size": 20,
+      "sha256": "e9f0a97a356524bac6bffab07170a334d46c5b38d5621721fb269518f6e07140"
+    },
+    {
+      "path": "游戏/shaders/weather_rain_precip.gdshader",
+      "size": 3269,
+      "sha256": "6c81aabca45e9d699ee2ee8218da7faadd08fb2f2162c723f20c2c14f02fd638"
+    },
+    {
+      "path": "游戏/shaders/weather_rain_precip.gdshader.uid",
+      "size": 19,
+      "sha256": "006d71095461c4662a77f67d06f6e1671be0e2465f412b65e16b19d0b1f1a6b9"
+    },
+    {
+      "path": "游戏/shaders/weather_rain_splash.gdshader",
+      "size": 3659,
+      "sha256": "60d44bc757dcff2b22bd7bec19e0b699e8127fcafbd50db747d515450d137670"
+    },
+    {
+      "path": "游戏/shaders/weather_rain_splash.gdshader.uid",
+      "size": 19,
+      "sha256": "93065e576ef912219f3c37cabe01665f11284fcb6c767b789068b5cda6ffac68"
+    },
+    {
+      "path": "游戏/运行说明.txt",
+      "size": 1598,
+      "sha256": "69079157f25e2dc7ba87354b740c0113af1dc92735284aba86dfac129686a6aa"
+    },
+    {
+      "path": "素材/00_从这里开始.txt",
+      "size": 3343,
+      "sha256": "329fda69c77f092cc6a77dae3b741003505ab3d5399a91bdd86835733d6055de"
+    }
+  ],
+  "remove_originals": false
+}

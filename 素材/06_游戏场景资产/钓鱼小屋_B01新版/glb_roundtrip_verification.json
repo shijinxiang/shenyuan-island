@@ -1,0 +1,100 @@
+{
+  "mesh_objects": 8,
+  "triangles": 28640,
+  "zero_area_triangles": 0,
+  "missing_uv_objects": [],
+  "objects": {
+    "B01_FishingDetails": {
+      "triangles": 1780,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "B01_Porch": {
+      "triangles": 1540,
+      "origin": [
+        -3.25,
+        -3.950000047683716,
+        0.41999998688697815
+      ]
+    },
+    "B01_Roof_HideForInterior": {
+      "triangles": 12600,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "B01_Stonework": {
+      "triangles": 3608,
+      "origin": [
+        -3.0999999046325684,
+        -2.9600000381469727,
+        0.15000000596046448
+      ]
+    },
+    "B01_Structure": {
+      "triangles": 3476,
+      "origin": [
+        0.0,
+        0.0,
+        0.5099999904632568
+      ]
+    },
+    "B01_TimberCladding": {
+      "triangles": 3432,
+      "origin": [
+        -2.3499999046325684,
+        -2.9679999351501465,
+        0.7818182110786438
+      ]
+    },
+    "B01_Windows": {
+      "triangles": 1408,
+      "origin": [
+        0.6050000190734863,
+        -3.0,
+        2.2699999809265137
+      ]
+    },
+    "Door_Hinged_105deg": {
+      "triangles": 796,
+      "origin": [
+        -1.4500000476837158,
+        -2.990000009536743,
+        0.6499999761581421
+      ]
+    }
+  },
+  "entry_corridor_0_8m_wide_1_85m_high_clear": true,
+  "entry_corridor_sample_count": 9,
+  "interior_clear_width_6_5m": true,
+  "interior_clear_depth_5_5m": true,
+  "window_openings_clear": {
+    "front": true,
+    "back": true,
+    "left": true,
+    "right": true
+  },
+  "furniture_zones_clear": {
+    "bed": true,
+    "table": true,
+    "chest": true
+  },
+  "door_hinge_correct": true,
+  "door_independent_mesh": true,
+  "roof_independent_mesh": true,
+  "material_count": 26,
+  "embedded_images": 11,
+  "all_images_embedded": true,
+  "all_buffers_embedded": true,
+  "no_studio_exported": true,
+  "sha256": "ac3bd2fd8960725d558ac4eb74c088def2334d51f0f66b41f27026265740f0da",
+  "game_asset_sha256": "ac3bd2fd8960725d558ac4eb74c088def2334d51f0f66b41f27026265740f0da",
+  "matches_source_triangle_count": true,
+  "front_direction_blender": "-Y",
+  "front_direction_gltf": "+Z"
+}

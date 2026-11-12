@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "source_zip": "深渊岛_全部资源与可编辑工程.zip",
+  "bytes": 8563449992,
+  "sha256": "7762c6ef189431bdb2256eee382245598964954b110cd3f6f9c7fd96630efec4",
+  "manifest_files_verified": 2622,
+  "crc_verified": true,
+  "runtime_files_matching_before_cleanup": 1499,
+  "excluded_updater_cache": [
+    "游戏/addons/.godot_ai_update/.gdignore",
+    "游戏/addons/.godot_ai_update/.gitignore"
+  ],
+  "portable_settings_verified": true,
+  "formal_documents_matching": true,
+  "temporary_directories_excluded": true
+}

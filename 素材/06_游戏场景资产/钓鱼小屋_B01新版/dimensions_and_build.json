@@ -1,0 +1,69 @@
+{
+  "front_direction_blender": "-Y",
+  "front_direction_gltf": "+Z",
+  "units": "meters",
+  "interior_clear_m": [
+    6.5,
+    5.5
+  ],
+  "interior_floor_z_m": 0.65,
+  "eaves_clear_height_above_floor_m": 2.73,
+  "door_opening_m": [
+    1.4,
+    2.4
+  ],
+  "wall_core_thickness_m": 0.2,
+  "roof_object": "B01_Roof_HideForInterior",
+  "door_object": "Door_Hinged_105deg",
+  "door_hinge_blender": [
+    -1.4500000476837158,
+    -2.990000009536743,
+    0.6499999761581421
+  ],
+  "door_open_angle_deg": -105,
+  "furniture_clear_zones_blender": {
+    "bed": [
+      -3.05,
+      0.6,
+      -1.75,
+      2.55
+    ],
+    "table": [
+      0.75,
+      -0.65,
+      2.65,
+      0.65
+    ],
+    "chest": [
+      -0.6,
+      1.95,
+      0.8,
+      2.55
+    ],
+    "painting_back_wall": {
+      "center": [
+        1.7,
+        2.74,
+        2.15
+      ],
+      "width": 1.5,
+      "height": 0.8
+    }
+  },
+  "objects_triangles": {
+    "B01_Structure": 3476,
+    "B01_TimberCladding": 3432,
+    "B01_Stonework": 3608,
+    "B01_Porch": 1540,
+    "B01_Windows": 1408,
+    "Door_Hinged_105deg": 796,
+    "B01_Roof_HideForInterior": 12600,
+    "B01_FishingDetails": 1780
+  },
+  "total_triangles": 28640,
+  "notes": [
+    "Windows have real open apertures and mullions without opaque fake panes.",
+    "Roof, ceiling decking, gables and trusses hide together.",
+    "No furniture, characters, ivy, terrain or dock exported."
+  ]
+}

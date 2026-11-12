@@ -1,0 +1,332 @@
+[
+  {
+    "caption": "0.2.0版本小屋与五格工具栏",
+    "day": 1.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N01_latest_island",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N01_latest_island.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "再次按数字5后斧头收起并清除格位高亮",
+    "day": 1.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N35_repeat_key_stows",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N35_repeat_key_stows.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "实机场景中的斧柄握点与向内掌心近景",
+    "day": 1.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N31_inward_palm",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N31_inward_palm.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "商人狩猎装备分类含剥皮小刀与弓箭弹药",
+    "day": 1.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N02_hunting_shop",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N02_hunting_shop.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "剥皮小刀的鱼获或农产品兑换条件",
+    "day": 1.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N03_knife_cost",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N03_knife_cost.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "单发猎枪第一阶段商人委托",
+    "day": 1.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N04_rifle_quest",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N04_rifle_quest.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "夜间床和床头灯的实机布局",
+    "day": 1.0,
+    "game_version": "0.2.0",
+    "hour": 22.0,
+    "id": "N06_bedside_lamp_on",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N06_bedside_lamp_on.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "关闭床头灯后的小屋照明",
+    "day": 1.0,
+    "game_version": "0.2.0",
+    "hour": 22.0,
+    "id": "N07_bedside_lamp_off",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N07_bedside_lamp_off.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "夜间关灯后显示睡到早上七点的交互",
+    "day": 1.0,
+    "game_version": "0.2.0",
+    "hour": 22.0,
+    "id": "N08_sleep_prompt",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N08_sleep_prompt.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "实际睡眠跳过夜晚并推进到次日七点",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 7.0,
+    "id": "N09_morning_after_sleep",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N09_morning_after_sleep.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "储物箱关闭状态",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N10_chest_closed",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N10_chest_closed.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "储物箱盖打开状态",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N11_chest_open",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N11_chest_open.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "箱子与背包并排显示的存取界面",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N12_storage_side_by_side",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N12_storage_side_by_side.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "西岸咸水鳄鱼与爬行动作",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N13_crocodile_crawl",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N13_crocodile_crawl.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "咸水鳄鱼张嘴攻击动作",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N14_crocodile_attack",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N14_crocodile_attack.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "咸水鳄鱼水中划动与摆尾动作",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N15_crocodile_swim",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N15_crocodile_swim.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "猎物死亡留下完整鳄鱼尸体",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N16_whole_carcass",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N16_whole_carcass.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "小刀贴近尸体表面的蹲姿切割动作",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N17_skinning_action",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N17_skinning_action.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "切割刀刃与尸体表面接触的实机近景",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N32_knife_surface",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N32_knife_surface.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "处理尸体后获得用于烹饪的鳄鱼肉",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N18_processed_meat",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N18_processed_meat.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "猎枪装备后自动瞄准并进行单发装填",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N19_rifle_reload",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N19_rifle_reload.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "左手持弓右手拉弦与缩窄帽檐",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N20_source_bow",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N20_source_bow.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "商人东海沉船与十六只鲨鱼委托",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N21_eastern_quest",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N21_eastern_quest.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "东部海域沉船宝藏与鲨群的运行场景",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N22_eastern_wreck",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N22_eastern_wreck.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "鲨鱼骨骼游动动作第一帧",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N23_shark_swim_a",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N23_shark_swim_a.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "同一鲨鱼骨骼游动动作第二帧",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N24_shark_swim_b",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N24_shark_swim_b.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "鲨鱼受伤后进入十二秒退避状态",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N25_shark_injury",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N25_shark_injury.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "东海任务记录已清理数量与宝藏状态",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N26_quest_progress",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N26_quest_progress.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "严重饥饿时人物头顶金星和画面边缘暗角",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N27_head_stars",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N27_head_stars.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "小屋门口的可交互大锅",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N28_cooking_pot",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N28_cooking_pot.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "鱼蔬菌果肉七种食谱的统一烹饪界面",
+    "day": 2.0,
+    "game_version": "0.2.0",
+    "hour": 11.0,
+    "id": "N29_cooking_recipes",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N29_cooking_recipes.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "最新发布包人物页中的六项技艺与效果",
+    "day": 1,
+    "game_version": "0.2.0",
+    "hour": 11.0355555555554,
+    "id": "N05_character_skills",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N05_character_skills.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  },
+  {
+    "caption": "阅读时在画面中央展开完整信件",
+    "day": 1,
+    "game_version": "0.2.0",
+    "hour": 11.0355555555554,
+    "id": "N30_open_letter",
+    "main_scene": "res://scenes/coastal_beauty.scn",
+    "path": "D:/浪费GPT额度/小温的游戏/整理记录/开发文档更新_2026-11-11/实机证据/N30_open_letter.png",
+    "source": "Windows release PCK runtime with isolated fixture save"
+  }
+]

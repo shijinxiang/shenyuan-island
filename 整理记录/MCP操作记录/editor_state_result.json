@@ -1,0 +1,41 @@
+{
+  "_meta": null,
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"current_scene\":\"res://scenes/coastal_beauty.scn\",\"game_capture_ready\":false,\"game_status\":{\"active\":false,\"editor_log_cursor\":0,\"elapsed_msec\":0,\"elapsed_s\":0.0,\"helper_expected\":true,\"helper_live\":false,\"input_sample_age_s\":null,\"last_input_age_s\":null,\"ready\":false,\"ready_wait_msec\":20000,\"run_started_msec\":0,\"run_token\":0,\"session_active\":false,\"started_at\":null,\"started_by\":null,\"status\":\"stopped\"},\"godot_version\":\"4.7.2-stable (official)\",\"helper_live\":false,\"is_playing\":false,\"project_name\":\"深渊岛\",\"readiness\":\"ready\",\"session_active\":false}",
+      "annotations": null,
+      "_meta": null
+    }
+  ],
+  "structuredContent": {
+    "current_scene": "res://scenes/coastal_beauty.scn",
+    "game_capture_ready": false,
+    "game_status": {
+      "active": false,
+      "editor_log_cursor": 0,
+      "elapsed_msec": 0,
+      "elapsed_s": 0.0,
+      "helper_expected": true,
+      "helper_live": false,
+      "input_sample_age_s": null,
+      "last_input_age_s": null,
+      "ready": false,
+      "ready_wait_msec": 20000,
+      "run_started_msec": 0,
+      "run_token": 0,
+      "session_active": false,
+      "started_at": null,
+      "started_by": null,
+      "status": "stopped"
+    },
+    "godot_version": "4.7.2-stable (official)",
+    "helper_live": false,
+    "is_playing": false,
+    "project_name": "深渊岛",
+    "readiness": "ready",
+    "session_active": false
+  },
+  "isError": false,
+  "resultType": "complete"
+}

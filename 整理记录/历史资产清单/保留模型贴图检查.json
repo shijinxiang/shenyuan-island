@@ -1,0 +1,750 @@
+[
+  {
+    "asset": "B01",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\B_建筑\\B01_破旧木屋\\B01_破旧木屋_外部细节.blend",
+    "images": [
+      {
+        "name": "B01_damp_sill_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_exposed_warm_fibres_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_interior_lining_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_pale_chipped_trim_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_silver_grey_roof_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_warm_weathered_siding_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_weathered_wood_normal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "B01_worn_floor_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "crack_decal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "ivy_wall.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "B01",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\B_建筑\\B01_破旧木屋\\B01_破旧木屋_游戏网格.blend",
+    "images": [
+      {
+        "name": "B01_damp_sill_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_exposed_warm_fibres_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_interior_lining_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_pale_chipped_trim_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_silver_grey_roof_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_warm_weathered_siding_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "B01_weathered_wood_normal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "B01_worn_floor_BaseColor",
+        "packed": true,
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "crack_decal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "ivy_wall.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "B02",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\B_建筑\\B02_大型红色仓库\\B02_大型红色仓库_外部细节.blend",
+    "images": [
+      {
+        "name": "B02_red_paint.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "B02_roof_metal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "B02_wood_normal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "crack_decal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "ivy_wall.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "B02",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\B_建筑\\B02_大型红色仓库\\B02_大型红色仓库_游戏网格.blend",
+    "images": [
+      {
+        "name": "B02_red_paint.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "B02_roof_metal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "B02_wood_normal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "crack_decal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "ivy_wall.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "B03",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\B_建筑\\B03_白色灯塔\\B03_白色灯塔_外部细节.blend",
+    "images": [
+      {
+        "name": "B03_plaster.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "B03_roof.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "crack_decal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "B03",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\B_建筑\\B03_白色灯塔\\B03_白色灯塔_游戏网格.blend",
+    "images": [
+      {
+        "name": "B03_plaster.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "B03_roof.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "crack_decal.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "V03",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\V_植物\\V03_直干棕榈树\\V03_直干棕榈树_可编辑.blend",
+    "images": [],
+    "missing_images": []
+  },
+  {
+    "asset": "V03",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\V_植物\\V03_直干棕榈树\\V03_直干棕榈树_游戏.blend",
+    "images": [],
+    "missing_images": []
+  },
+  {
+    "asset": "T05",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\T_地形与主山体\\T05_西岸岩壁模块\\T05_西岸岩壁模块.blend",
+    "images": [
+      {
+        "name": "Rock_strata_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "T05",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\T_地形与主山体\\T05_西岸岩壁模块\\T05_西岸岩壁模块_游戏版.blend",
+    "images": [
+      {
+        "name": "Rock_strata_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "T06",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\T_地形与主山体\\T06_东岸岩壁模块\\T06_东岸岩壁模块.blend",
+    "images": [
+      {
+        "name": "Rock_strata_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.001",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.002",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "T06",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\T_地形与主山体\\T06_东岸岩壁模块\\T06_东岸岩壁模块_游戏版.blend",
+    "images": [
+      {
+        "name": "Rock_strata_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.001",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.002",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "T07",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\T_地形与主山体\\T07_南岸低崖草坡\\T07_南岸低崖草坡.blend",
+    "images": [
+      {
+        "name": "Rock_strata_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.001",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.002",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.003",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "T07",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\T_地形与主山体\\T07_南岸低崖草坡\\T07_南岸低崖草坡_游戏版.blend",
+    "images": [
+      {
+        "name": "Rock_strata_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.001",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.002",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.003",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "F01",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\F_远景\\F01_近远岛尖礁\\F01_近远岛尖礁.blend",
+    "images": [
+      {
+        "name": "Rock_strata_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "F01",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\F_远景\\F01_近远岛尖礁\\F01_近远岛尖礁_游戏版.blend",
+    "images": [
+      {
+        "name": "Rock_strata_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "F02",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\F_远景\\F02_最远天际山影\\F02_最远天际山影.blend",
+    "images": [
+      {
+        "name": "Rock_strata_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  },
+  {
+    "asset": "F02",
+    "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\01_正式模型\\F_远景\\F02_最远天际山影\\F02_最远天际山影_游戏版.blend",
+    "images": [
+      {
+        "name": "Rock_strata_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "Rock_strata_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      },
+      {
+        "name": "T05_grass_BaseColor.png",
+        "packed": true,
+        "size": [
+          1254,
+          1254
+        ]
+      }
+    ],
+    "missing_images": []
+  }
+]

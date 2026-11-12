@@ -1,0 +1,770 @@
+{
+  "archive": "归档/04_待选资源原件.zip",
+  "sha256": "b21d8021c0eef8f1685bf93cd8c78357ac510276d0efe93ca2de88326eb19428",
+  "verified": true,
+  "original_bytes": 72558606,
+  "archive_bytes": 24394999,
+  "files": [
+    {
+      "path": "mixamo/Dwarf Idle.fbx",
+      "size": 1951776,
+      "sha256": "33c50771fcddd67c115a25bbe188adeb37d59b38a01a5eb0faf2f2ff1ef0384f"
+    },
+    {
+      "path": "mixamo/Medium Run.fbx",
+      "size": 1798208,
+      "sha256": "6e4c62c53243114ba382f9058b3d3f4ca92121229ef04136b24f7c957b9522c5"
+    },
+    {
+      "path": "mixamo/Sitting Idle.fbx",
+      "size": 2199120,
+      "sha256": "5afc5b8af70e8959ffba4fb67b5e582a55821d9a2f9aead725cb5f5b684560f7"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Bushes/Flat_Bush_Clumps_large.glb",
+      "size": 26336,
+      "sha256": "81c4e2ebb8b702a580e1187243c797968f204ee090b3de6bc969f1d94b418aaf"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Bushes/Flat_Bush_Clumps_medium.glb",
+      "size": 12152,
+      "sha256": "020f92d94efad5071e54c6c19d1d082263a361f03b82326dd4a998e62475ed6e"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Bushes/Flat_Bush_Clumps_small.glb",
+      "size": 18384,
+      "sha256": "9550455ae921de8c9576ab987cd0ae5d824c353ebdd64054a50e9859aaf97fac"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Bushes/Flat_Bush_large.glb",
+      "size": 9596,
+      "sha256": "95bc1d8a60cb2e87057ec2c8633cd15ac07507d854f1db451db8f3e0d2d70615"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Bushes/Flat_Bush_medium.glb",
+      "size": 6944,
+      "sha256": "c83598cadd1b944f97f8b52a9213db6140fa40acb9f40dd7f09674b5b132dba9"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Bushes/Flat_Bush_small.glb",
+      "size": 5520,
+      "sha256": "dc916dd6575480afc2d561d60b387e618cf673274bc51bef22948913960ce0fa"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Bushes/Flat_Bush_with_Flowers.glb",
+      "size": 52752,
+      "sha256": "7459a4f69bc7da1ac1dce08ef77b8cc624eec12796735737125469c6cac45ac6"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Extras/Flat_Fallen_Log.glb",
+      "size": 44124,
+      "sha256": "ee108d87eb94b457507ff3a96894e937a37be5b6d69fe3fa6541b202c493f8e5"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Extras/Flat_Flowers_red.glb",
+      "size": 105028,
+      "sha256": "3e98662d42176328d14fc30c77b038ba9bf59075a6fd3d30acdc7703420fb7d6"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Extras/Flat_Forest_Ground.glb",
+      "size": 505016,
+      "sha256": "e499577db4d207fdbeb051a50f255d5956e1eaea9d7d7420b10ad9e585c343c0"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Extras/Flat_Tree_Stump.glb",
+      "size": 29660,
+      "sha256": "63daaab0995de05310ed62fd6fe4b945e6f30b1f26e5d212c62999a5a6ae600b"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Grass/Flat_Grass_large.glb",
+      "size": 23804,
+      "sha256": "8649b678d7b364cce1ce45b48148870ab2dc416b4220adda15bc797dfabb9d82"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Grass/Flat_Grass_medium.glb",
+      "size": 11572,
+      "sha256": "3baff46ff9117c9a80b4d731189573201e73f9a5264753c87cad51d489e29fb2"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Grass/Flat_Grass_small.glb",
+      "size": 8712,
+      "sha256": "b4a70f639fa56a44df38c69af23fdcafcc0ec60a288ce35cd0ed77952404ac89"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Mushrooms/Flat_Mushroom_Brown_large.glb",
+      "size": 13920,
+      "sha256": "af81903d3331deb9a98c0e8d2bd6d942a576c2695e6bddd0faf44709a023c146"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Mushrooms/Flat_Mushroom_Brown_medium.glb",
+      "size": 13928,
+      "sha256": "4f8dfb80c3fb3a8e133813ad7550de85ed0a589953180a5fb78ae2ade5bae50e"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Mushrooms/Flat_Mushroom_Brown_small.glb",
+      "size": 11668,
+      "sha256": "c24da0849544fa5814e1dfd67a0b56f9c09b8713737d38a744a556922a1632cd"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Mushrooms/Flat_Mushroom_Red_large.glb",
+      "size": 96288,
+      "sha256": "081867a1233e3f5e4ec3ddce085f1285b36dced83b81824f0ab48d8ed5d2c447"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Mushrooms/Flat_Mushroom_Red_small.glb",
+      "size": 82484,
+      "sha256": "46f53191027a115132a86abe31d3360bf659897c8b72da277cdd4605efbadeb8"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/README.txt",
+      "size": 600,
+      "sha256": "18eedd09511017f51ad0dcf4e507f7f3c820c4f874e959c7708ebb6fe51050a9"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Boulder_01.glb",
+      "size": 5752,
+      "sha256": "d48e2b63480f7712d016fa867693798ab26c70babf467d58dd17d9e80efbebbc"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Boulder_02.glb",
+      "size": 5756,
+      "sha256": "a08faf6a537fa92340ec59ae9545957f2fd7c238c9228f8e383fa931e84994a2"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Boulder_03.glb",
+      "size": 7068,
+      "sha256": "6959da4c806ea80a4e5372f1dd434b4140142c42d39feb78b9f93d4069395eef"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Rock_01.glb",
+      "size": 3264,
+      "sha256": "9cfddd4d601d4d0ac939799877f9d64f613a90fb36303a5b67c6a6f0d9347d74"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Rock_02.glb",
+      "size": 3260,
+      "sha256": "768073e5717de65e9da655151246c0fd2441cce7fdb0346401e039b4cb79bf21"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Rock_03.glb",
+      "size": 3260,
+      "sha256": "3969bf0fcf52b979e444a0c3a13d623e04d7a9a24f7c929b6872fbfba737cdcf"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Rock_04.glb",
+      "size": 3260,
+      "sha256": "d1d2c6aabe1232bb5060762b3f6f188145a2d35719a1c24e67120aa43436768b"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Rock_05.glb",
+      "size": 5304,
+      "sha256": "3b6c368ecd19bc2e7f6e432614f66a1b465404f6312fdf3573c0edac12c8b8b6"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Rock_06.glb",
+      "size": 13252,
+      "sha256": "64aa31122587a66ba55751a8e1b48c1cd7874e009628905873dd874fe33dfcee"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Rock_07.glb",
+      "size": 5388,
+      "sha256": "1d7edcb8acdd0e9628386b85473a7dc2b70c68b657d99ec9bcfe2dee1e873ab6"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Rock_08.glb",
+      "size": 3268,
+      "sha256": "ddceb645ae81ba115da02835bc1ffb886d490ba5f3db88d41343c9e10a3cb4b8"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Rock_09.glb",
+      "size": 3272,
+      "sha256": "d062d70a0bc85c4aeef0a49a6a3c29a02633f2aceb49d8847fc1f2ca187b60fb"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Rocks/Flat_Rock_10.glb",
+      "size": 3264,
+      "sha256": "479279e53f00c5020ae0164e4ba81f87aa46b7f3cec08ac7e05eaf5ef13d6766"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Birch/Flat_Tree_Birch_hero_green.glb",
+      "size": 239372,
+      "sha256": "b430670fd3894fe815ca33b44e1488e589991bf80c805682a91077ab5fc71676"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Birch/Flat_Tree_Birch_large_green.glb",
+      "size": 44040,
+      "sha256": "70bc9fff2f8d5d2479eeab496ec13ecb47b0191084aaca3469008163dd71ddc6"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Birch/Flat_Tree_Birch_medium_green.glb",
+      "size": 41684,
+      "sha256": "ce358ff528a46c2f16414a04445c1d09ff1a3ff30046da90fc411a886c297f9b"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Birch/Flat_Tree_Birch_small_green.glb",
+      "size": 25920,
+      "sha256": "9b3f7520a56613319fc6af8e4041bc3799197d8855fe615602db4a35cbab717d"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Cypress/Flat_Tree_Cypress_large.glb",
+      "size": 16176,
+      "sha256": "fbd31728d60500b4042cf50d043e2cad61a803b09e82aaf2134bc171df611596"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Cypress/Flat_Tree_Cypress_medium.glb",
+      "size": 16180,
+      "sha256": "6a3519a58f9f9a6f06ee00400457adac187a8da1cc349237a7e8b978d8d791d7"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Cypress/Flat_Tree_Cypress_small.glb",
+      "size": 10104,
+      "sha256": "2c6b07db77b64fb8a3e0bde91968168e5230918aedfdba7f08f47b1617960978"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Oak/Flat_Tree_Oak_hero_green.glb",
+      "size": 156728,
+      "sha256": "2ee5a760c1c169362d2791979140796ab8a0529dbb5e54004dac3146b01ec024"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Oak/Flat_Tree_Oak_large_green.glb",
+      "size": 35864,
+      "sha256": "df306f7bfd17ec5b5821b58fb57da50b02b8b1f82abb51f538f5f249c1d5b377"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Oak/Flat_Tree_Oak_medium_green.glb",
+      "size": 27320,
+      "sha256": "b58c6536d6a7a0326f13b3e3207e61335a1ec04de88f3a4e2e54e6d503b0bb92"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Oak/Flat_Tree_Oak_small_green.glb",
+      "size": 12888,
+      "sha256": "da43dcef669226a5cd2f230db1d593726fd94167d7e5e3d81b495244a64d3b27"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Other/Flat_Tree_Elm_green.glb",
+      "size": 40312,
+      "sha256": "4d51106ae8343f4df3347f3656bbc8826f970e67a82cb98ecb5fe77a52566018"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Other/Flat_Tree_Maple_red.glb",
+      "size": 25588,
+      "sha256": "e80aceb7525a9d0344271a883bda5a2e081e71317bc821dca1b848d6214fe54e"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Other/Flat_Tree_Windswept_dark_green.glb",
+      "size": 65752,
+      "sha256": "4e969c039f4410b913e60fe4342aeb8da25723cc1e4634e2fc4611690cf957e8"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Other/Flat_Tree_with_Mistletoe.glb",
+      "size": 100588,
+      "sha256": "f97d6441bc785eec2e7cec886ce923a2b4ded56561c012257f3ca7535e0c579a"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Park Trees/Flat_Tree_Park_large_green.glb",
+      "size": 22592,
+      "sha256": "284e136afe8ccf140e1334833cbe10726b4eed6d7dbc81c7689ddb2f713a9c5f"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Park Trees/Flat_Tree_Park_medium_green.glb",
+      "size": 22652,
+      "sha256": "7326227fee7106e5f1b6c5019e357f1a03fd63919398f558c5273e31d07ee07a"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Park Trees/Flat_Tree_Park_small_green.glb",
+      "size": 22652,
+      "sha256": "fd4cb420c821fa7cc38b28e57a050181027aa888a6e40a2988fd2abf504d83cd"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Pine/Flat_Tree_Pine_hero.glb",
+      "size": 106748,
+      "sha256": "5d356c0a1df863735e3c9710f65839a490aca48a84af82a55410b840a8dc7461"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Pine/Flat_Tree_Pine_large.glb",
+      "size": 83956,
+      "sha256": "0a34c64b2d4709a19efb53d8e9df6f23bfc96dc59926faf93ab487f04c8e3241"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Pine/Flat_Tree_Pine_medium.glb",
+      "size": 100884,
+      "sha256": "cd0ebbed7ad691aceb2442209ec7833f0c2c80fa172c8399ae2a91d6a6575ca7"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Pine/Flat_Tree_Pine_small.glb",
+      "size": 101012,
+      "sha256": "028567087d985281a180077709be2b534e2134c4878e97fa587259a5d6775cf2"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Simple Trees/Flat_Tree_Simple_large.glb",
+      "size": 91348,
+      "sha256": "02d01f2f7c9f2f115bab917b7b04be949d4ed1a1565acceefe6781842620eb19"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Simple Trees/Flat_Tree_Simple_medium.glb",
+      "size": 39912,
+      "sha256": "054a7e0d7b5159e728366e3930163f54a3a3c8b3935f1a3a2f54eed2e150262b"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Simple Trees/Flat_Tree_Simple_small.glb",
+      "size": 22144,
+      "sha256": "b0c738d728e681fcaa34b578a2e62b69fc38c5770780dbe4c1fc6039c96a63bb"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Spruce/Flat_Tree_Spruce_large.glb",
+      "size": 33072,
+      "sha256": "90051a845fdbbcd7b881de1d58070b267b74e67f018368204d06f8fc6ff3678e"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Spruce/Flat_Tree_Spruce_medium.glb",
+      "size": 26344,
+      "sha256": "14149e678610d19a31b9483f84bf8c809fde5a56a811684bc997bf9db7bd52a5"
+    },
+    {
+      "path": "素材/05_待选资源库/Free Forest Nature Pack Updated/Trees/Spruce/Flat_Tree_Spruce_small.glb",
+      "size": 26580,
+      "sha256": "f5977003f5ad380bcf3e500dae0cd47fc70e52d9e1877424a02895a6a5e1484b"
+    },
+    {
+      "path": "素材/05_待选资源库/树合集/LowPolyTreePack.blend",
+      "size": 2741460,
+      "sha256": "83b28ffdaa9156dd91642e35e91a0a64e54b23039aaf874c42d6450ff3208136"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Birds/Blender/American_Robin_Mesh.blend",
+      "size": 6560190,
+      "sha256": "7b9cbb1403813b0b3bc4fb3943e642eb0c476329a614e435bf16cd6a81741c29"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Birds/FBX/American_Robin_Mesh.fbx",
+      "size": 11106364,
+      "sha256": "767b310d17416f59cba4c446621c075500d558eb8f38876ef5bb5af9b5d4a4cc"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Birds/GLB/American_Robin_Mesh.glb",
+      "size": 1093224,
+      "sha256": "19d4b67cced27f539b332ddd9b9f517b19c804c5f1cf8b1c46f2045a14a2ac00"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Birds/LICENSE.txt",
+      "size": 2627,
+      "sha256": "6a6396bac653fdcd0eb8ca80f272e5b525757e00ce327c022bb5d857fa453758"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Birds/README.txt",
+      "size": 1469,
+      "sha256": "271d8f2c2196fb3d5a293028d0e49ee6a20f34014b1d0ea91fb5949e1fb5e07b"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Birds/Textures/American_Robin_Tex.png",
+      "size": 45028,
+      "sha256": "467bc26f3c52cfeaadd116d1712e968700894101a5f03bcb754fb838a456c62a"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/FishBundle/Piranha/piranhahigh.bin",
+      "size": 9380,
+      "sha256": "b065120147817c55b9180cfdc570cd057d13ee2eda5f5c6273d7da1ea1ecdb66"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/FishBundle/Piranha/piranhahigh.blend",
+      "size": 922992,
+      "sha256": "9089eb9d1c232cef4ed64a20af4a1797d48b45ee8592c65019080d118a485b7a"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/FishBundle/Piranha/piranhahigh.gltf",
+      "size": 4077,
+      "sha256": "cd649aa040c2c0047b541f1d01a72e9e69c46e822d759c3f23d05647e2461d77"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/FishBundle/Piranha/piranhahigh.mtl",
+      "size": 254,
+      "sha256": "c7f4b8c4bd6d7992b87dd849e5d767faffd3338bc66b4f7f84847f2195f1877d"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/FishBundle/Piranha/piranhahigh.png",
+      "size": 2419,
+      "sha256": "2b62c913ea42e87999e2eeb82871496084f006f36a2eae9f363b8e39bee515a3"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/FishBundle/Shark/shork.bin",
+      "size": 13388,
+      "sha256": "63077dbf79514ed3a2b18bbf83dd4923ca5c0f4b38577d02cb64b2e8e6df8ebf"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/FishBundle/Shark/shork.blend",
+      "size": 959356,
+      "sha256": "d3ea079c700b357c3c6f58fa574b2dff4adbb619ff49cace8eb67aa1004f073c"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/FishBundle/Shark/shork.gltf",
+      "size": 3792,
+      "sha256": "792b9257383d3906c3bbb72fd0bdd2faa083b04aa39794ff90832dcd647bb195"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/FishBundle/Shark/shork.mtl",
+      "size": 252,
+      "sha256": "e9bf22a33b3ed306fb853a01e5d8c3c92c6c94a0d44edffaf4cac56bfff1b041"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/FishBundle/Shark/shork.png",
+      "size": 15507,
+      "sha256": "5c498d5484b79f74ac3f2b22e37548923f60428d3d7fb7316d64df79e6e690a0"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Coral.blend",
+      "size": 1081252,
+      "sha256": "020e7c7a39563299e21a3656801e85315f50c22dfe0f6d33e002b1b7d817f3df"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Crab.blend",
+      "size": 1269036,
+      "sha256": "9a83894e20fae0ed00512511ccc3d0ec19508b0331bfa07ea1e96cb67516b0f5"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Dolphin.blend",
+      "size": 858364,
+      "sha256": "13271b00230a21af1de0f9d84df74ea70f5d2f02e475268908f9c8cc362af32b"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Eel.blend",
+      "size": 772704,
+      "sha256": "f907c6d9646331413278455aeefab829a1aed7cde18a27458ad151897b635c83"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Fish.blend",
+      "size": 2554924,
+      "sha256": "c790f8f18ee0b350b4ebc172ebec3e11f791dc2e991223632c214a062558cb3d"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Hammerhead.blend",
+      "size": 717404,
+      "sha256": "1e1629fb9e03b5fb20b30a912fb80b6ea8ec7ce3bcdcc0ded6fffeade27a3b48"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Lobster.blend",
+      "size": 1316112,
+      "sha256": "970e53d1dec47ca02712144368667ed1a3e008122fcfddc82aff63864a80b2b0"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Octopus.blend",
+      "size": 3400764,
+      "sha256": "64879ae11cd9d54a5951252036b2c0c5b2beb7296655fabbd671d75cc0d87c2b"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Penguin.blend",
+      "size": 786000,
+      "sha256": "11228014a182532e3d9b36d328a06c7465ce47399da2e115d8ff5766a1f6f85a"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Rocks.blend",
+      "size": 798684,
+      "sha256": "a80bf517f0510ad26abeb247252ccdff80013d29f87587364fee659be020ff9d"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/SeaWeed.blend",
+      "size": 1225228,
+      "sha256": "41e4375f3473a6e9ae2a48ebcc739a717d3c98e6f08552102059ac5c8a5b5e3d"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Seal.blend",
+      "size": 791768,
+      "sha256": "b03845fe0d28d91cfeb6b33dc464445375114409ac9c347aeef5e227e7df7c4c"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Shark.blend",
+      "size": 950152,
+      "sha256": "cc3e97141ca5bc0411feb6f4ee478896e4c52523c4b6a9c6fe810412269890a8"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Shells.blend",
+      "size": 791608,
+      "sha256": "e49241f483e3047e950f0c69235641e3fcd00bb1e8e1b32f8b0e332629688b4c"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Squid.blend",
+      "size": 865168,
+      "sha256": "38f029576b77d48c1e586c9e3541e63b18535712e435d04a9b1bb52ffd882d3a"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/StarFish.blend",
+      "size": 671428,
+      "sha256": "bdb77819091c47a34d2731743742217556dd398fe26bd3e8cd3ce3f6247cdc5f"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/StingRay.blend",
+      "size": 677692,
+      "sha256": "d80bf7b7c0de3f2ff6dbd5ee871a3c9d83ae41bd50868a17241f4746b9b322cb"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Turtle.blend",
+      "size": 818212,
+      "sha256": "241e8383a47ef4a02742ba7a72692f43558831a9d4d4325cddd53c1061b187f8"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/blend/Whale.blend",
+      "size": 753388,
+      "sha256": "436ec030db94df356f468fd98989a9b62d3b3d34a1d73e7c49bf1a6a946c11b4"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/BrownFish.fbx",
+      "size": 648204,
+      "sha256": "799f3eede7a04cc2b25c46db4a12278c1824f20bcbcf1662bcb65e613ae94c14"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/ClownFish.fbx",
+      "size": 114908,
+      "sha256": "7d2f6fc518a98be9a79974cf90484dedbcbe98b04e5c3c7d853b1084e7244fa8"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Coral.fbx",
+      "size": 25020,
+      "sha256": "85fe0973243afe6950ce192e0307ec0fcac87dc2dc64b1226f7b5c51b4a2a784"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Coral1.fbx",
+      "size": 55228,
+      "sha256": "bc1b318adf2f239c1d0ce9d6e7735e3da2941401d96e6b77f62fddb66fa751fb"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Coral2.fbx",
+      "size": 39596,
+      "sha256": "4d718abc4ee6c178027613673630566c111791b7e5027e639becdf4a13993d76"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Coral3.fbx",
+      "size": 60508,
+      "sha256": "ed8b184530a81d250a798fc7e4cf246328a9e6147fc397a77284ce0b14f54241"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Coral4.fbx",
+      "size": 37676,
+      "sha256": "1d104773be2840d50f163bff70c1027d1fd8d2c4d3450bd6c0e3d2171a43363d"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Coral5.fbx",
+      "size": 39708,
+      "sha256": "e0aed57bc2ace424261ad9f50643b6562dddd1eab54d75d9504835af0f09ae37"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Coral6.fbx",
+      "size": 32060,
+      "sha256": "c342f95944e3306261f24fc1fd7e64182664e27a4d84c7e7100abcefd5e0cfc8"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Crab.fbx",
+      "size": 1486892,
+      "sha256": "304803674c2d9faf37da9285c3c09427a2bdf87208147725216050296c835445"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/DoryFish.fbx",
+      "size": 646604,
+      "sha256": "3e7905f4c1e610b9b6cd1332519199ebc5d17b8fcd1adc675e1ac837539f3a5b"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Eel.fbx",
+      "size": 130508,
+      "sha256": "820b6b545f49b5d95999609ede2ea0a4eca8e7402f16d65f4e8e17ea9e62bf16"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Hammerhead.fbx",
+      "size": 174204,
+      "sha256": "b966d15ab8b57216461e20895940fc8d124764d18117a80afdd0d31a6f96e82a"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Lobster.fbx",
+      "size": 1516012,
+      "sha256": "94abd8fee6e24e20feae05c94dbbd3dd02eeaf97bea09f39cd85d799a08663a8"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Octopus.fbx",
+      "size": 429884,
+      "sha256": "db3cc0f497d81a6dc030afa2fec8b8d345c53f0951a7a4aae54f2070eeb2df26"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Penguin.fbx",
+      "size": 122012,
+      "sha256": "049af8443892c62a07089c97099ebef364d524eadf1dd573b2df24d599a2a2ee"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Rock.fbx",
+      "size": 16236,
+      "sha256": "f48e3019d11a8c003aeb730574c5fe939eddfa8ebea4c6b2464bb43cc98d4f3c"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Rock1.fbx",
+      "size": 18620,
+      "sha256": "2f0ec157c09e63b1f6120b163788257ac4028f8949eec7d54078c8cf923af0ed"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Rock10.fbx",
+      "size": 15580,
+      "sha256": "76cceb60bafb04401a404c0be8e5c2775b8d2134679edf0dbdcdd681e5aa7700"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Rock2.fbx",
+      "size": 18364,
+      "sha256": "b68006eb02c5b41213b3b5e4e749a10ec295558d99ea106fae6bb041042b6521"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Rock3.fbx",
+      "size": 21692,
+      "sha256": "e2466648501786ba5bd77744659754f6a8a4a31b5039522d6ec40caec99b7002"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Rock4.fbx",
+      "size": 15628,
+      "sha256": "3f538ad3a1c15b9a51ba54b0fa722ea49d33330021cfbbc9eb9d34f80b000da1"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Rock5.fbx",
+      "size": 15612,
+      "sha256": "85abc16a87d6096a9d9c18f4e37b159a9b4585c988f9e1fbf5f545874a82c84e"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Rock6.fbx",
+      "size": 16700,
+      "sha256": "2d9dedf4f3c752fe3260523bf31b762e0d007d01a71e3cb8dd44ff94ec7172d8"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Rock7.fbx",
+      "size": 16332,
+      "sha256": "da7e7b6e8af7969d2ad5c1efe3547ad1450c3cc146bab0300d4bab631dfd0634"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Rock8.fbx",
+      "size": 15788,
+      "sha256": "dfb51774229556b3accaf247cac6b71301318b8ca1a9882f95a0c99bddbcf0a4"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Rock9.fbx",
+      "size": 15244,
+      "sha256": "127bea943f4bdda1af5269fb0ecf498180d13526c19997f391a9f50cf9035a9e"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/SeaWeed.fbx",
+      "size": 1980684,
+      "sha256": "7290738750a8e92977cd0df756b8bcbcec380ad9c0ebaf398a9fe14ba7a06124"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/SeaWeed1.fbx",
+      "size": 271036,
+      "sha256": "922534e5df8412faab75af2a6eeeda7a45cf3866691c07f5e5459925d158bcfa"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/SeaWeed2.fbx",
+      "size": 1237244,
+      "sha256": "feecb45ce0ccd4348145d2458ab5722a8e2b5c84f43ad0abf44c7d9132a457d9"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Seal.fbx",
+      "size": 315276,
+      "sha256": "e0ac4d0a42211aefcf2a0f5508e38bcaa3fa289560b81620b85d436520b98261"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Shells.fbx",
+      "size": 52236,
+      "sha256": "71e827798bb36f0c2442f2dcd1d635f4ea17359a14b6fca2264ea8ac64dce7d3"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Shells1.fbx",
+      "size": 17164,
+      "sha256": "56ec614d07a1b6e4f2deb2e43b706d817a869592e3e9b512473e514255228dd6"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Shells2.fbx",
+      "size": 17132,
+      "sha256": "5348d5a0965ba3b8e453ec84442107fcffed08b50c40744a5e0585312125a684"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Shells3.fbx",
+      "size": 27564,
+      "sha256": "b1c4feb1e9bae146d5ae359b7f918900a8c76ec4f6d3933fb0ec63b224c41c56"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Squid.fbx",
+      "size": 315500,
+      "sha256": "8232e8987f96eb37a9c4b73b234b846c5d21a0c745dee8962148776fb27aaf5b"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/StarFish.fbx",
+      "size": 79436,
+      "sha256": "ca666156fbbbbd07b331ef99055edf516c47ce2ce1bd79735da632b4c3c34b4e"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/StingRay.fbx",
+      "size": 109292,
+      "sha256": "181d7e0001578f16ea2907c04c8d22e31f84afc802654090474406efa06664f5"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/TunaFish.fbx",
+      "size": 109388,
+      "sha256": "9f71e54fb8757ccc8e23e51ff0a4290b8894277b7149cd03cad8f517959a5724"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Turtle.fbx",
+      "size": 197964,
+      "sha256": "a73f8fd8bbac5b89a8861a28f999f04359b54ab802f800ddb0a920d196a939ea"
+    },
+    {
+      "path": "素材/05_待选资源库/生物解包/Marine/fbx/Whale.fbx",
+      "size": 178380,
+      "sha256": "a691d3f9de69e242bfd5d58db095e184754ca430d92a7c9e4393fb051d66d88a"
+    },
+    {
+      "path": "素材/05_待选资源库/石头合集/LowPolyRockPack.blend",
+      "size": 919816,
+      "sha256": "05333cf7ca07da5bfb28f882fa7966ef6d906c66552472343dcb59e75d3779a0"
+    },
+    {
+      "path": "素材/05_待选资源库/草地/shaderSTYLIZEDGRASS.zip",
+      "size": 1228,
+      "sha256": "f961a17a0e8a030d11dfcd330ceb5297b6630c8d8383b3d5953ec4435237ccf7"
+    },
+    {
+      "path": "素材/05_待选资源库/草地/stylizedGrassMeshes.zip",
+      "size": 17220,
+      "sha256": "5c549a7630dc8bc94f6fda1e73d5aea7e71539e1899bb89d96cb2308fe743ac9"
+    },
+    {
+      "path": "素材/05_待选资源库/鱼/FishBundleLowPoly.rar",
+      "size": 224129,
+      "sha256": "4b806a4013ac5e92e2e4ac188bb0b4cef00578f507f536b2e7bfb005da40e9d8"
+    },
+    {
+      "path": "素材/05_待选资源库/鱼/FolderToUpload.zip",
+      "size": 7242818,
+      "sha256": "df55e667c1d85717258ef1e57881e460cca87e2c683814300243c71b41a5035a"
+    },
+    {
+      "path": "素材/05_待选资源库/鱼/fish01.fbx",
+      "size": 46668,
+      "sha256": "b85140ec18cc85af5f5ed82e7dc6b496777d3ba3e03036fb5af8813012307e61"
+    },
+    {
+      "path": "素材/05_待选资源库/鱼/fish01_shade.fbx",
+      "size": 46780,
+      "sha256": "fe4a1f4b52e5100155fcd1c3b4112606557b5c8aa7d721828fde695863fcb4ee"
+    },
+    {
+      "path": "素材/05_待选资源库/鱼/fish02.fbx",
+      "size": 49932,
+      "sha256": "6e4c51ae1a57edfef7a8b1a62e34580b40daca433df98fa19cd7de89882aaea9"
+    },
+    {
+      "path": "素材/05_待选资源库/鱼/fish02_shade.fbx",
+      "size": 50204,
+      "sha256": "23ea233936f5d5e0115b39d54ee7d08f025d32a8efcf61de10e80c2355dfc4ff"
+    },
+    {
+      "path": "素材/05_待选资源库/鱼/fish03.fbx",
+      "size": 36172,
+      "sha256": "358d50774b99327ff7a5c639c703dfa2ed981289937a9ce21c9fc20c7e2765dc"
+    },
+    {
+      "path": "素材/05_待选资源库/鱼/fish03_shade.fbx",
+      "size": 37484,
+      "sha256": "9561a057b49796934a5d6c57dfe8ef7a7dde266e9c6ec409f648ca4e4c257dfb"
+    }
+  ],
+  "remove_originals": true
+}

@@ -1,0 +1,4937 @@
+[
+  {
+    "path": "游戏/.godot/imported/atlas.png-bdaff94e489ef3905c164cafe8acbbd8.ctex",
+    "size": 128196,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/atlas.png-bdaff94e489ef3905c164cafe8acbbd8.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/atlas_glow.png-658ce3a324dbd4e3b9e1b0ba5e8f6ac7.ctex",
+    "size": 25864,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/atlas_glow.png-658ce3a324dbd4e3b9e1b0ba5e8f6ac7.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_damp_sill_BaseColor.png-71e93bd522f30bd6fa2acac5a2fb95a6.ctex",
+    "size": 983210,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_damp_sill_BaseColor.png-71e93bd522f30bd6fa2acac5a2fb95a6.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_exposed_warm_fibres_BaseColor.png-2dfb5c3ca59d07afed0e2634691a1019.ctex",
+    "size": 960010,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_exposed_warm_fibres_BaseColor.png-2dfb5c3ca59d07afed0e2634691a1019.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_interior_lining_BaseColor.png-fab55ec3e79cdb07a45b187eee90e5ff.ctex",
+    "size": 934218,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_interior_lining_BaseColor.png-fab55ec3e79cdb07a45b187eee90e5ff.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_pale_chipped_trim_BaseColor.png-b9bec8918caa99119f1065a24c676708.ctex",
+    "size": 1066246,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_pale_chipped_trim_BaseColor.png-b9bec8918caa99119f1065a24c676708.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_silver_grey_roof_BaseColor.png-e6a0186317229a3b57000bb153a3d7b2.ctex",
+    "size": 949716,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_silver_grey_roof_BaseColor.png-e6a0186317229a3b57000bb153a3d7b2.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_warm_weathered_siding_BaseColor.png-3cba7a5af75a4f679e403a5c8091bf08.ctex",
+    "size": 1023016,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_warm_weathered_siding_BaseColor.png-3cba7a5af75a4f679e403a5c8091bf08.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_weathered_wood_normal.png-e82356ecc4c5b1e4e93e8f2a365bc25e.ctex",
+    "size": 2476878,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_weathered_wood_normal.png-e82356ecc4c5b1e4e93e8f2a365bc25e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_worn_floor_BaseColor.png-ecfc4dc5845dab6d3f4acd1f979ab58b.ctex",
+    "size": 960066,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_B01_worn_floor_BaseColor.png-ecfc4dc5845dab6d3f4acd1f979ab58b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_crack_decal.png-2b97b06a7644323e967baf6f7e7c071c.ctex",
+    "size": 132548,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_crack_decal.png-2b97b06a7644323e967baf6f7e7c071c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Golden cut timber_Texture.png-2588cb1ce26cbee45f5487420cd39e30.ctex",
+    "size": 231116,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Golden cut timber_Texture.png-2588cb1ce26cbee45f5487420cd39e30.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Honey siding 0_Texture.png-80e3bea69962e848e6d049c610fd363c.ctex",
+    "size": 215630,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Honey siding 0_Texture.png-80e3bea69962e848e6d049c610fd363c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Honey siding 1_Texture.png-4ed96fbb993b8c2e9558c7205c21e551.ctex",
+    "size": 219158,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Honey siding 1_Texture.png-4ed96fbb993b8c2e9558c7205c21e551.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Honey siding 2_Texture.png-20de70aed6d855d52ee7b99950c87f8d.ctex",
+    "size": 218302,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Honey siding 2_Texture.png-20de70aed6d855d52ee7b99950c87f8d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Honey siding 3_Texture.png-7884d92e4d447658d0e4b0bc984d1b77.ctex",
+    "size": 222820,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Honey siding 3_Texture.png-7884d92e4d447658d0e4b0bc984d1b77.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Honey siding 4_Texture.png-2b248ff0e5c0568d7fe454fd1b6cfe7d.ctex",
+    "size": 226380,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Honey siding 4_Texture.png-2b248ff0e5c0568d7fe454fd1b6cfe7d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Interior oak 0_Texture.png-5b2fecbd7072971c9505d115bf2f99b8.ctex",
+    "size": 220236,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Interior oak 0_Texture.png-5b2fecbd7072971c9505d115bf2f99b8.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Interior oak 1_Texture.png-e1cce65386fb6bedcd112c3b43263509.ctex",
+    "size": 221456,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Interior oak 1_Texture.png-e1cce65386fb6bedcd112c3b43263509.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Interior oak 2_Texture.png-7eaf19e5d2650689565d091e0cd16718.ctex",
+    "size": 225586,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Interior oak 2_Texture.png-7eaf19e5d2650689565d091e0cd16718.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Warm heartwood beams_Texture.png-1036139089b8de92238ecd6bf5c8d6e4.ctex",
+    "size": 199890,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Warm heartwood beams_Texture.png-1036139089b8de92238ecd6bf5c8d6e4.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Warm inner timber_Texture.png-4c7d3c39c7939bb961bf799c1f605b7c.ctex",
+    "size": 231596,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_fishing_Warm inner timber_Texture.png-4c7d3c39c7939bb961bf799c1f605b7c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_ivy_wall.png-7d1ffae8e06c9414bb1fabd0be90b1f0.ctex",
+    "size": 1398580,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B01_ivy_wall.png-7d1ffae8e06c9414bb1fabd0be90b1f0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_B02_red_paint.png-35962a6b9b0f6619fa4ec6b5eeb4082c.ctex",
+    "size": 1388458,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_B02_red_paint.png-35962a6b9b0f6619fa4ec6b5eeb4082c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_B02_roof_metal.png-189abba973793dbb0077cd7eb49cf6ab.ctex",
+    "size": 1234748,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_B02_roof_metal.png-189abba973793dbb0077cd7eb49cf6ab.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_B02_wood_normal.png-ba85c635ec6205aa39cd46eecd6cf03b.ctex",
+    "size": 2476878,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_B02_wood_normal.png-ba85c635ec6205aa39cd46eecd6cf03b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_crack_decal.png-37a943ded8b7edb36018ce390d3ea0b6.ctex",
+    "size": 132548,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_crack_decal.png-37a943ded8b7edb36018ce390d3ea0b6.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_interactive_B02_red_paint.png-c0f0ae99d0174905235d99bae483967f.ctex",
+    "size": 1388458,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_interactive_B02_red_paint.png-c0f0ae99d0174905235d99bae483967f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_interactive_B02_roof_metal.png-547274748105ba464957a0a3f2163a20.ctex",
+    "size": 1234748,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_interactive_B02_roof_metal.png-547274748105ba464957a0a3f2163a20.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_interactive_B02_wood_normal.png-17ad75b0515765dc0b815ce34c9d5c5f.ctex",
+    "size": 2476878,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_interactive_B02_wood_normal.png-17ad75b0515765dc0b815ce34c9d5c5f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_interactive_crack_decal.png-74f09e68a59ee6752806e017104e05b7.ctex",
+    "size": 132548,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_interactive_crack_decal.png-74f09e68a59ee6752806e017104e05b7.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_ivy_wall.png-c84bf6940a1858a5d1122a25897aac3d.ctex",
+    "size": 1398580,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B02_ivy_wall.png-c84bf6940a1858a5d1122a25897aac3d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B03_B03_plaster.png-15c1af515df400e8dd6fe970e28ca4d1.ctex",
+    "size": 1944326,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B03_B03_plaster.png-15c1af515df400e8dd6fe970e28ca4d1.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B03_B03_roof.png-24360e4c50102ad29874d9e28f75ae7f.ctex",
+    "size": 1304720,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B03_B03_roof.png-24360e4c50102ad29874d9e28f75ae7f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B03_crack_decal.png-99e23fc138c677aeeba23fe205b12f75.ctex",
+    "size": 132548,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/B03_crack_decal.png-99e23fc138c677aeeba23fe205b12f75.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C01_locomotion_tripo_image_72ed5180-d0cd-4602-8fc9-1fa72f6a8119_0_0.jpg-233bbb59b01278f0e6cf0a0bf61c38b9.ctex",
+    "size": 4838240,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C01_locomotion_tripo_image_72ed5180-d0cd-4602-8fc9-1fa72f6a8119_0_0.jpg-233bbb59b01278f0e6cf0a0bf61c38b9.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C01_rigged.glb-118d0c7b00dfc2919d9fea47e142a7a5.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C01_rigged.glb-118d0c7b00dfc2919d9fea47e142a7a5.scn",
+    "size": 1214678,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C01_rigged_tripo_image_72ed5180-d0cd-4602-8fc9-1fa72f6a8119_0_0.jpg-40a13d65377f1becdbbfa92ff151ff18.ctex",
+    "size": 4838240,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C01_rigged_tripo_image_72ed5180-d0cd-4602-8fc9-1fa72f6a8119_0_0.jpg-40a13d65377f1becdbbfa92ff151ff18.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C01_rigged_tripo_image_72ed5180-d0cd-4602-8fc9-1fa72f6a8119_0_0.jpg-40a13d65377f1becdbbfa92ff151ff18.s3tc.ctex",
+    "size": 2796268,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02.glb-dfbe01a7f5a8aa803fedaa7f67886224.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02.glb-dfbe01a7f5a8aa803fedaa7f67886224.scn",
+    "size": 17772805,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901.png-4fe94526c7a44da973ea24e73efc9786.ctex",
+    "size": 12264440,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901.png-4fe94526c7a44da973ea24e73efc9786.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901.png-61f0611742942448bd888c529545a9f4.ctex",
+    "size": 12264440,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901.png-61f0611742942448bd888c529545a9f4.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901.png-61f0611742942448bd888c529545a9f4.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-2e516cfc6e5fea248e36ff9e397de9df.ctex",
+    "size": 7147226,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-2e516cfc6e5fea248e36ff9e397de9df.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-2e516cfc6e5fea248e36ff9e397de9df.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-8b9d50264cdac4b812c00deccd5c4848.ctex",
+    "size": 7147226,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-8b9d50264cdac4b812c00deccd5c4848.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901_normal.png-91d0d5e672de3244d3af37cc79f506ee.ctex",
+    "size": 4159002,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901_normal.png-91d0d5e672de3244d3af37cc79f506ee.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901_normal.png-91d0d5e672de3244d3af37cc79f506ee.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901_normal.png-b41aa0a5df1b2510718c7d615d59c04d.ctex",
+    "size": 4159002,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C02_texture_pbr_20250901_normal.png-b41aa0a5df1b2510718c7d615d59c04d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C03_rigged.glb-5a84348d32962939cdc0db768cd940a4.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C03_rigged.glb-5a84348d32962939cdc0db768cd940a4.scn",
+    "size": 1188863,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C03_rigged_tripo_image_c3b0d688-1d8e-4b91-91bb-b6dfab78e124_0_0.jpg-71adc40367dff1b7bb20cd9b3c5e3ead.ctex",
+    "size": 4152108,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C03_rigged_tripo_image_c3b0d688-1d8e-4b91-91bb-b6dfab78e124_0_0.jpg-71adc40367dff1b7bb20cd9b3c5e3ead.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/C03_rigged_tripo_image_c3b0d688-1d8e-4b91-91bb-b6dfab78e124_0_0.jpg-71adc40367dff1b7bb20cd9b3c5e3ead.s3tc.ctex",
+    "size": 2796268,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01.glb-ee020330fcbc55cd7964e0dd8d9ef8f3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01.glb-ee020330fcbc55cd7964e0dd8d9ef8f3.scn",
+    "size": 41229,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01_Rock_strata_BaseColor.png-418a6854dd870e5a92841dc1f19e217c.ctex",
+    "size": 1681822,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01_Rock_strata_BaseColor.png-418a6854dd870e5a92841dc1f19e217c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01_Rock_strata_BaseColor.png-418a6854dd870e5a92841dc1f19e217c.s3tc.ctex",
+    "size": 1053036,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01_Rock_strata_BaseColor.png-b80ca4bd2bfcae6f0de89b3d2c8cf43d.ctex",
+    "size": 1681822,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01_Rock_strata_BaseColor.png-b80ca4bd2bfcae6f0de89b3d2c8cf43d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01_T05_grass_BaseColor.png-6ade9250785c88f25479aeea00672485.ctex",
+    "size": 1802928,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01_T05_grass_BaseColor.png-6ade9250785c88f25479aeea00672485.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01_T05_grass_BaseColor.png-85c525ffefe32edf2f8c107c334ecd04.ctex",
+    "size": 1802928,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01_T05_grass_BaseColor.png-85c525ffefe32edf2f8c107c334ecd04.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F01_T05_grass_BaseColor.png-85c525ffefe32edf2f8c107c334ecd04.s3tc.ctex",
+    "size": 1053036,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F02.glb-9a6e6490aefa6083048f1b4a55791eb1.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/F02.glb-9a6e6490aefa6083048f1b4a55791eb1.scn",
+    "size": 17217,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/fishing_hook_tripo_image_038b5da5-966b-4e7f-b85f-59e4ff4877ae_0_0.jpg-cc3432e60795da74910fb8aaaf0c08ae.ctex",
+    "size": 4285842,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/fishing_hook_tripo_image_038b5da5-966b-4e7f-b85f-59e4ff4877ae_0_0.jpg-cc3432e60795da74910fb8aaaf0c08ae.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/fishing_rod_rigged_tripo_image_038b5da5-966b-4e7f-b85f-59e4ff4877ae_0_0.jpg-4efa644415471567facaa48508dfdea4.ctex",
+    "size": 4285842,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/fishing_rod_rigged_tripo_image_038b5da5-966b-4e7f-b85f-59e4ff4877ae_0_0.jpg-4efa644415471567facaa48508dfdea4.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/grass.glb-f801fa4386008cfa9e61d119557fcd7a.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/grass.glb-f801fa4386008cfa9e61d119557fcd7a.scn",
+    "size": 5440,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/grass2.glb-7b954fad8a3a693ba1d4cb582de2c8f3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/grass2.glb-7b954fad8a3a693ba1d4cb582de2c8f3.scn",
+    "size": 4489,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NC01.glb-0bb2514d9ca5dfa10662f926f8ab6b03.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NC01.glb-0bb2514d9ca5dfa10662f926f8ab6b03.scn",
+    "size": 25480,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NC02.glb-4034dd6aca462bbefe3becdc856df0db.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NC02.glb-4034dd6aca462bbefe3becdc856df0db.scn",
+    "size": 21036,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NC03.glb-8622130d93165649ced81f5e3cbf13b0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NC03.glb-8622130d93165649ced81f5e3cbf13b0.scn",
+    "size": 17067,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_Clumps_large.glb-de9371ae3504a8a2c230bd51489a7c88.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_Clumps_large.glb-de9371ae3504a8a2c230bd51489a7c88.scn",
+    "size": 11185,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_Clumps_medium.glb-2116aef1b4d7eaf49ff9689ea75fa8f3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_Clumps_medium.glb-2116aef1b4d7eaf49ff9689ea75fa8f3.scn",
+    "size": 5970,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_Clumps_small.glb-d473fe72dffeb8a8da3f621f842281ec.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_Clumps_small.glb-d473fe72dffeb8a8da3f621f842281ec.scn",
+    "size": 7927,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_large.glb-4feb9c697b6e081612303f879d185591.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_large.glb-4feb9c697b6e081612303f879d185591.scn",
+    "size": 5088,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_medium.glb-e9da61bf45393bd48e83cecf6f8ee37a.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_medium.glb-e9da61bf45393bd48e83cecf6f8ee37a.scn",
+    "size": 4056,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_small.glb-e44e1759414d6859f8626c6965e48a43.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_small.glb-e44e1759414d6859f8626c6965e48a43.scn",
+    "size": 3514,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_with_Flowers.glb-bff4013efd14f3d69c663cea58c91265.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Bush_with_Flowers.glb-bff4013efd14f3d69c663cea58c91265.scn",
+    "size": 15932,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Fallen_Log.glb-01acc5094a19674923059c9cbdd52808.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Fallen_Log.glb-01acc5094a19674923059c9cbdd52808.scn",
+    "size": 23364,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Flowers_red.glb-71789dc225ee2e93aa621cbe2481ce0f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Flowers_red.glb-71789dc225ee2e93aa621cbe2481ce0f.scn",
+    "size": 46480,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Mushroom_Brown_large.glb-aeb4c10cd68e3a1cf8f207426ac82409.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Mushroom_Brown_large.glb-aeb4c10cd68e3a1cf8f207426ac82409.scn",
+    "size": 7309,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Mushroom_Brown_medium.glb-db820ba16e2842e7fa571e6cae059129.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Mushroom_Brown_medium.glb-db820ba16e2842e7fa571e6cae059129.scn",
+    "size": 7307,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Mushroom_Brown_small.glb-bbd7df664d9b0385d5e6ab994611eeb9.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Mushroom_Brown_small.glb-bbd7df664d9b0385d5e6ab994611eeb9.scn",
+    "size": 6523,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Mushroom_Red_large.glb-3ae03215fc97ebe5fb8ca72af5ee2bdc.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Mushroom_Red_large.glb-3ae03215fc97ebe5fb8ca72af5ee2bdc.scn",
+    "size": 31141,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Mushroom_Red_small.glb-102e58422b3724280fd7e63c9a6da498.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Mushroom_Red_small.glb-102e58422b3724280fd7e63c9a6da498.scn",
+    "size": 31061,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Birch_hero_green.glb-5f68f69e0ab1d9377639173f72febe46.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Birch_hero_green.glb-5f68f69e0ab1d9377639173f72febe46.scn",
+    "size": 185754,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Birch_large_green.glb-51a8065c59142cc02eb6edba1d795bc0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Birch_large_green.glb-51a8065c59142cc02eb6edba1d795bc0.scn",
+    "size": 23504,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Birch_medium_green.glb-1bdd3d39cb52754065e772ada4bfd977.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Birch_medium_green.glb-1bdd3d39cb52754065e772ada4bfd977.scn",
+    "size": 22564,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Birch_small_green.glb-426ddcacf7577f7b3d56daeed127a64b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Birch_small_green.glb-426ddcacf7577f7b3d56daeed127a64b.scn",
+    "size": 13627,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Cypress_large.glb-d7406209e147b1e719954a11e6c93964.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Cypress_large.glb-d7406209e147b1e719954a11e6c93964.scn",
+    "size": 6187,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Cypress_medium.glb-d494e17a6e3e25991fdecfe8ddbfbe3e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Cypress_medium.glb-d494e17a6e3e25991fdecfe8ddbfbe3e.scn",
+    "size": 6219,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Cypress_small.glb-3365c85f4702cf49469189da9e5f4d2b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Cypress_small.glb-3365c85f4702cf49469189da9e5f4d2b.scn",
+    "size": 4416,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Elm_green.glb-1175258bd2d22ad638904b37dd2e3c4a.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Elm_green.glb-1175258bd2d22ad638904b37dd2e3c4a.scn",
+    "size": 19252,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Maple_red.glb-073bb2a80b5d6bd8f96e170ef08e453f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Maple_red.glb-073bb2a80b5d6bd8f96e170ef08e453f.scn",
+    "size": 11289,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Oak_hero_green.glb-b86c4d4d4ad9dfead03d94eca3932a4e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Oak_hero_green.glb-b86c4d4d4ad9dfead03d94eca3932a4e.scn",
+    "size": 67873,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Oak_large_green.glb-7794d12421af74d020717904f2c1548f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Oak_large_green.glb-7794d12421af74d020717904f2c1548f.scn",
+    "size": 14896,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Oak_medium_green.glb-ff6ac39f8408b8491a5d18380b03ff29.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Oak_medium_green.glb-ff6ac39f8408b8491a5d18380b03ff29.scn",
+    "size": 12841,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Oak_small_green.glb-a2122bed94eca935af7383275820efde.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Oak_small_green.glb-a2122bed94eca935af7383275820efde.scn",
+    "size": 6254,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Park_large_green.glb-18bf41b4276fb05be499bb3e6a02e7ca.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Park_large_green.glb-18bf41b4276fb05be499bb3e6a02e7ca.scn",
+    "size": 10105,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Park_medium_green.glb-990d11d22e6414cc190bd864c6baa7f5.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Park_medium_green.glb-990d11d22e6414cc190bd864c6baa7f5.scn",
+    "size": 9983,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Park_small_green.glb-d9a62530b44e716b90d334ee6ac6c9f9.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Park_small_green.glb-d9a62530b44e716b90d334ee6ac6c9f9.scn",
+    "size": 9978,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Pine_hero.glb-fbda0aac826c234999c68eaea7757b77.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Pine_hero.glb-fbda0aac826c234999c68eaea7757b77.scn",
+    "size": 40890,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Pine_large.glb-26be767442e9356e1587dcdd799910ee.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Pine_large.glb-26be767442e9356e1587dcdd799910ee.scn",
+    "size": 44366,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Pine_medium.glb-0e62fd494a2e4398c649b08d7c69c5c5.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Pine_medium.glb-0e62fd494a2e4398c649b08d7c69c5c5.scn",
+    "size": 52780,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Pine_small.glb-86d3240d977b4bbf6aba585ae8ee0859.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Pine_small.glb-86d3240d977b4bbf6aba585ae8ee0859.scn",
+    "size": 52759,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Simple_large.glb-3bc1ecc4250fe4e49e22ada526fecb97.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Simple_large.glb-3bc1ecc4250fe4e49e22ada526fecb97.scn",
+    "size": 29737,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Simple_medium.glb-5f84f59475231c0566aa07d2aae1fae6.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Simple_medium.glb-5f84f59475231c0566aa07d2aae1fae6.scn",
+    "size": 13472,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Simple_small.glb-4f4c1af80b611d3d97ec37bcb97b2239.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Simple_small.glb-4f4c1af80b611d3d97ec37bcb97b2239.scn",
+    "size": 8717,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Spruce_large.glb-ef9e0da536c0504b173f17f2cf74bbdf.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Spruce_large.glb-ef9e0da536c0504b173f17f2cf74bbdf.scn",
+    "size": 20882,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Spruce_medium.glb-def58c29444cae69c917a26beef71e83.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Spruce_medium.glb-def58c29444cae69c917a26beef71e83.scn",
+    "size": 16639,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Spruce_small.glb-06b2769e30f149fade0a2b3bc9c9e1d6.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Spruce_small.glb-06b2769e30f149fade0a2b3bc9c9e1d6.scn",
+    "size": 15570,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Stump.glb-68ed42f3dccfac86b6abc1741a63ea0a.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Stump.glb-68ed42f3dccfac86b6abc1741a63ea0a.scn",
+    "size": 15297,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Windswept_dark_green.glb-79c899fd7a3d7ec9443a5c8222500d25.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_Windswept_dark_green.glb-79c899fd7a3d7ec9443a5c8222500d25.scn",
+    "size": 30902,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_with_Mistletoe.glb-5e8a42d36ba55472413074ed12d3ead5.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NF_Tree_with_Mistletoe.glb-5e8a42d36ba55472413074ed12d3ead5.scn",
+    "size": 48491,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NW01.glb-20abd6afc120a552809aae49adac0ad5.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/NW01.glb-20abd6afc120a552809aae49adac0ad5.scn",
+    "size": 15061,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P01_L.glb-a3a80e2545b9edc47f6a9c5712f420fc.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P01_L.glb-a3a80e2545b9edc47f6a9c5712f420fc.scn",
+    "size": 294950,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P01_L_木纹_BaseColor.png-37a9971bd03f954560f2cc178c421841.ctex",
+    "size": 570868,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P01_L_木纹_BaseColor.png-37a9971bd03f954560f2cc178c421841.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P01_L_木纹_BaseColor.png-37a9971bd03f954560f2cc178c421841.s3tc.ctex",
+    "size": 699116,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P01_木纹_BaseColor.png-45d2a18b60001916198fdcc51c6c4b56.ctex",
+    "size": 570868,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P01_木纹_BaseColor.png-45d2a18b60001916198fdcc51c6c4b56.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P02_texture_pbr_20250901.png-823d75d06b96a2f51a1b6d43a3562339.ctex",
+    "size": 17264864,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P02_texture_pbr_20250901.png-823d75d06b96a2f51a1b6d43a3562339.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-c52d6eabf8efcd49c0252b09b32c8527.ctex",
+    "size": 6714552,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-c52d6eabf8efcd49c0252b09b32c8527.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P02_texture_pbr_20250901_normal.png-3ac9944bd54b238385dc4bea6c2199de.ctex",
+    "size": 9934908,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P02_texture_pbr_20250901_normal.png-3ac9944bd54b238385dc4bea6c2199de.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03.glb-e8ef332af5bf5351e9fcb159a0dd386b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03.glb-e8ef332af5bf5351e9fcb159a0dd386b.scn",
+    "size": 427195,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03_岩石_BaseColor.png-3e283d855865f86c54e8a5b59b2deb14.ctex",
+    "size": 1390128,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03_岩石_BaseColor.png-3e283d855865f86c54e8a5b59b2deb14.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03_岩石_BaseColor.png-7133a1a730cf50d39a3aca3383ae3a0c.ctex",
+    "size": 1390128,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03_岩石_BaseColor.png-7133a1a730cf50d39a3aca3383ae3a0c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03_岩石_BaseColor.png-7133a1a730cf50d39a3aca3383ae3a0c.s3tc.ctex",
+    "size": 1053036,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03_路面_BaseColor.png-105a32f20a0a72c3bf22c23c1defcdd3.ctex",
+    "size": 1791082,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03_路面_BaseColor.png-105a32f20a0a72c3bf22c23c1defcdd3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03_路面_BaseColor.png-aa7629ca7e69baa72aa933e1e3caa8b0.ctex",
+    "size": 1791082,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03_路面_BaseColor.png-aa7629ca7e69baa72aa933e1e3caa8b0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/P03_路面_BaseColor.png-aa7629ca7e69baa72aa933e1e3caa8b0.s3tc.ctex",
+    "size": 1053036,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/Piranha_piranhahigh.png-93974e981fe11cec27522c7d3672bd94.ctex",
+    "size": 3462,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/Piranha_piranhahigh.png-93974e981fe11cec27522c7d3672bd94.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01.glb-81ce7ad053f7142a93b52883b50fbab3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01.glb-81ce7ad053f7142a93b52883b50fbab3.scn",
+    "size": 17642763,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901.png-108ff2ced3f999cbe1fa6efdce5027dd.ctex",
+    "size": 11717474,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901.png-108ff2ced3f999cbe1fa6efdce5027dd.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901.png-c87cff119845a3e0f62fd7fec8724f28.ctex",
+    "size": 11717474,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901.png-c87cff119845a3e0f62fd7fec8724f28.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901.png-c87cff119845a3e0f62fd7fec8724f28.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-a2d05283e22a045c381f39ebdf39c56c.ctex",
+    "size": 6108414,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-a2d05283e22a045c381f39ebdf39c56c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-a4fa8858bf8a0d33e5e8f2e018ce70cc.ctex",
+    "size": 6108414,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-a4fa8858bf8a0d33e5e8f2e018ce70cc.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-a4fa8858bf8a0d33e5e8f2e018ce70cc.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901_normal.png-e7abf4d63d6386266e4764d7637f4299.ctex",
+    "size": 6152924,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901_normal.png-e7abf4d63d6386266e4764d7637f4299.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901_normal.png-e7abf4d63d6386266e4764d7637f4299.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901_normal.png-fa6a58a474f89016a7cd55560ef31029.ctex",
+    "size": 6152924,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R01_texture_pbr_20250901_normal.png-fa6a58a474f89016a7cd55560ef31029.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02.glb-39d9173c79aade725ab5e33400dd2391.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02.glb-39d9173c79aade725ab5e33400dd2391.scn",
+    "size": 11752136,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901.png-a9c1da8b3e82e042a10ce6d0f8442a54.ctex",
+    "size": 12817590,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901.png-a9c1da8b3e82e042a10ce6d0f8442a54.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901.png-f2b73b5582267da13ab3c0c066d150d1.ctex",
+    "size": 12817590,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901.png-f2b73b5582267da13ab3c0c066d150d1.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901.png-f2b73b5582267da13ab3c0c066d150d1.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-31f9d80a7ce2595bd8eded110b32d96d.ctex",
+    "size": 7491626,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-31f9d80a7ce2595bd8eded110b32d96d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-31f9d80a7ce2595bd8eded110b32d96d.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-8e0b44e85b91d311021a0f93771c3954.ctex",
+    "size": 7491626,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-8e0b44e85b91d311021a0f93771c3954.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901_normal.png-5c52d5962a711d72ac8e438482fb9f31.ctex",
+    "size": 7202758,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901_normal.png-5c52d5962a711d72ac8e438482fb9f31.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901_normal.png-5c52d5962a711d72ac8e438482fb9f31.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901_normal.png-c4591af20120a295b763e19c332ea7d4.ctex",
+    "size": 7202758,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R02_texture_pbr_20250901_normal.png-c4591af20120a295b763e19c332ea7d4.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03.glb-d712eb6e2f87abbaee548122951cb944.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03.glb-d712eb6e2f87abbaee548122951cb944.scn",
+    "size": 12464880,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901.png-557af8c85247d8096611fc8d3d1d9918.ctex",
+    "size": 12161068,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901.png-557af8c85247d8096611fc8d3d1d9918.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901.png-d79799f98df33873e1dee4787de46e84.ctex",
+    "size": 12161068,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901.png-d79799f98df33873e1dee4787de46e84.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901.png-d79799f98df33873e1dee4787de46e84.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-08ea75263444326d8cf472429051713c.ctex",
+    "size": 6129134,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-08ea75263444326d8cf472429051713c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-99dfc570c0e1c1e84cb846372aebddc7.ctex",
+    "size": 6129134,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-99dfc570c0e1c1e84cb846372aebddc7.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-99dfc570c0e1c1e84cb846372aebddc7.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901_normal.png-6d862b934e053fadb633784bcb880827.ctex",
+    "size": 6391876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901_normal.png-6d862b934e053fadb633784bcb880827.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901_normal.png-6d862b934e053fadb633784bcb880827.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901_normal.png-b0def117dd80b1711ec5dc3c1cd5c7ba.ctex",
+    "size": 6391876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R03_texture_pbr_20250901_normal.png-b0def117dd80b1711ec5dc3c1cd5c7ba.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04.glb-3a392c316a49623c273354c4996b4e5b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04.glb-3a392c316a49623c273354c4996b4e5b.scn",
+    "size": 12530071,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901.png-ba8ccb4239d346ad76f381efe61e963d.ctex",
+    "size": 15730724,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901.png-ba8ccb4239d346ad76f381efe61e963d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901.png-ba8ccb4239d346ad76f381efe61e963d.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901.png-c80f5c417527990093aece7245e42bb6.ctex",
+    "size": 15730724,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901.png-c80f5c417527990093aece7245e42bb6.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-0151e495194e8d7f5f058fb3ce63b9df.ctex",
+    "size": 7190780,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-0151e495194e8d7f5f058fb3ce63b9df.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-6497fdfa44339620797f447d06a81793.ctex",
+    "size": 7190780,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-6497fdfa44339620797f447d06a81793.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-6497fdfa44339620797f447d06a81793.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901_normal.png-80e0ba96f559953e571b9fa9fa8670ca.ctex",
+    "size": 9901778,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901_normal.png-80e0ba96f559953e571b9fa9fa8670ca.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901_normal.png-fe554af2d9ec52e36d32eb435f03e3b8.ctex",
+    "size": 9901778,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901_normal.png-fe554af2d9ec52e36d32eb435f03e3b8.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/R04_texture_pbr_20250901_normal.png-fe554af2d9ec52e36d32eb435f03e3b8.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/ReefShark_shork.png-04f747107a0c34f3d74a3fd6d7713b1c.ctex",
+    "size": 21244,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/ReefShark_shork.png-04f747107a0c34f3d74a3fd6d7713b1c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP01_Colorsheet Rock grey.png-11decde0bb94666aaf63751e33c20c40.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP01_Colorsheet Rock grey.png-11decde0bb94666aaf63751e33c20c40.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP02_Colorsheet Rock orange.png-406ba007a3cbbb6c8a172fd5345dfe2b.ctex",
+    "size": 312,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP02_Colorsheet Rock orange.png-406ba007a3cbbb6c8a172fd5345dfe2b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP03_Colorsheet Rock sand.png-4acec5750bf0ccb5f282eaea0dbf216b.ctex",
+    "size": 300,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP03_Colorsheet Rock sand.png-4acec5750bf0ccb5f282eaea0dbf216b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP04_Colorsheet Rock green.png-d832d966f1911c6619c7a4df98490285.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP04_Colorsheet Rock green.png-d832d966f1911c6619c7a4df98490285.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP05_Colorsheet Rock green.png-f3dadd3a07b29d3f1c8e88322544a957.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP05_Colorsheet Rock green.png-f3dadd3a07b29d3f1c8e88322544a957.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP06_Colorsheet Rock grey.png-dd6d09bf60adbf4320d7de361a16fd58.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP06_Colorsheet Rock grey.png-dd6d09bf60adbf4320d7de361a16fd58.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP07_Colorsheet Rock orange.png-f689aca70db9b4c2845a573919abaa69.ctex",
+    "size": 312,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP07_Colorsheet Rock orange.png-f689aca70db9b4c2845a573919abaa69.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP08_Colorsheet Rock sand.png-bb2be0e445531c423e1cf5d6b2d5b589.ctex",
+    "size": 300,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP08_Colorsheet Rock sand.png-bb2be0e445531c423e1cf5d6b2d5b589.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP09_Colorsheet Rock orange.png-61ea5aef4a5acf4b44c51c3c8836b77c.ctex",
+    "size": 312,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP09_Colorsheet Rock orange.png-61ea5aef4a5acf4b44c51c3c8836b77c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP10_Colorsheet Rock sand.png-861a2e73620ddedb1c9bc5a6bbce7bbc.ctex",
+    "size": 300,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP10_Colorsheet Rock sand.png-861a2e73620ddedb1c9bc5a6bbce7bbc.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP11_Colorsheet Rock green.png-f7f33e5badf70fe4cceb6305a55d36a1.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP11_Colorsheet Rock green.png-f7f33e5badf70fe4cceb6305a55d36a1.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP12_Colorsheet Rock grey.png-82c60b39337e4aa01382f2bcef904d5d.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP12_Colorsheet Rock grey.png-82c60b39337e4aa01382f2bcef904d5d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP13_Colorsheet Rock grey.png-a2350375d7eb2a64cc26b58a49e7078c.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP13_Colorsheet Rock grey.png-a2350375d7eb2a64cc26b58a49e7078c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP14_Colorsheet Rock orange.png-5422fb4fd840a7c7d124b01e3cc67b64.ctex",
+    "size": 312,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP14_Colorsheet Rock orange.png-5422fb4fd840a7c7d124b01e3cc67b64.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP15_Colorsheet Rock sand.png-e9270e21e2fb4b4bfbf391f8d6efc4d8.ctex",
+    "size": 300,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP15_Colorsheet Rock sand.png-e9270e21e2fb4b4bfbf391f8d6efc4d8.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP16_Colorsheet Rock green.png-7d365de6964ca420540d5200f32119dc.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP16_Colorsheet Rock green.png-7d365de6964ca420540d5200f32119dc.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP17_Colorsheet Rock orange.png-4c07364f6e84d59df72670e42b2aa9ef.ctex",
+    "size": 312,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP17_Colorsheet Rock orange.png-4c07364f6e84d59df72670e42b2aa9ef.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP18_Colorsheet Rock sand.png-6a4fa99acec9787ebe44a9e5034863c7.ctex",
+    "size": 300,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP18_Colorsheet Rock sand.png-6a4fa99acec9787ebe44a9e5034863c7.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP19_Colorsheet Rock green.png-5ee5340b4f7a6099b0fe6ddf26932f50.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP19_Colorsheet Rock green.png-5ee5340b4f7a6099b0fe6ddf26932f50.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP20_Colorsheet Rock grey.png-bae2cebf1c0df3f60e1c769e5ab5854b.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP20_Colorsheet Rock grey.png-bae2cebf1c0df3f60e1c769e5ab5854b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP21_Colorsheet Rock sand.png-9f4b761b4437ae0da19ffb4c15cff531.ctex",
+    "size": 300,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP21_Colorsheet Rock sand.png-9f4b761b4437ae0da19ffb4c15cff531.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP22_Colorsheet Rock green.png-90eedd61ae6c3cf5e929672d077c49ce.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP22_Colorsheet Rock green.png-90eedd61ae6c3cf5e929672d077c49ce.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP23_Colorsheet Rock grey.png-2101b795954888c03b62c87520aab9a9.ctex",
+    "size": 306,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP23_Colorsheet Rock grey.png-2101b795954888c03b62c87520aab9a9.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP24_Colorsheet Rock orange.png-6cc62cddb7ff2eda95c49f31269fee0d.ctex",
+    "size": 312,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/RP24_Colorsheet Rock orange.png-6cc62cddb7ff2eda95c49f31269fee0d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH01_0.png-4fdbf3a50c968ee9f26c4eb198a55669.ctex",
+    "size": 260168,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH01_0.png-4fdbf3a50c968ee9f26c4eb198a55669.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH01_1.jpg-2ba8e4e266918bb25aa352d34a28a668.ctex",
+    "size": 1449872,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH01_1.jpg-2ba8e4e266918bb25aa352d34a28a668.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH02_0.png-3529ce5d921a20dd6285d16bd2472995.ctex",
+    "size": 265348,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH02_0.png-3529ce5d921a20dd6285d16bd2472995.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH02_1.jpg-8196c7bfe4052dbb153d5ef67ba567f7.ctex",
+    "size": 1215212,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH02_1.jpg-8196c7bfe4052dbb153d5ef67ba567f7.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH03_0.png-b7f4a751659b72c7fbfd3c04141cc2a8.ctex",
+    "size": 226992,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH03_0.png-b7f4a751659b72c7fbfd3c04141cc2a8.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH03_1.jpg-cb3064d845f51226f3e4f8ef14c4ec97.ctex",
+    "size": 1157648,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH03_1.jpg-cb3064d845f51226f3e4f8ef14c4ec97.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH04_0.png-59fa703e40f61f0d73687b4057ec75cc.ctex",
+    "size": 212854,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH04_0.png-59fa703e40f61f0d73687b4057ec75cc.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH04_1.jpg-ae01d8baaddf05d7a38b5a7feb835490.ctex",
+    "size": 875734,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH04_1.jpg-ae01d8baaddf05d7a38b5a7feb835490.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH05_0.png-2278d6bca3a4e4700850e54f24bcd1d7.ctex",
+    "size": 214008,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH05_0.png-2278d6bca3a4e4700850e54f24bcd1d7.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH05_1.jpg-a286efdf2066729f0bd6a04c3379b698.ctex",
+    "size": 1399080,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH05_1.jpg-a286efdf2066729f0bd6a04c3379b698.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH06_0.png-0aaee46df7ce27f5f0c33079ffcf4433.ctex",
+    "size": 238134,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH06_0.png-0aaee46df7ce27f5f0c33079ffcf4433.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH06_1.jpg-72019ceccc693642f9de38c36eda9eaf.ctex",
+    "size": 1203714,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH06_1.jpg-72019ceccc693642f9de38c36eda9eaf.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH07_0.png-efe10d81e1cfdd2c85b01103fcc60d48.ctex",
+    "size": 210512,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH07_0.png-efe10d81e1cfdd2c85b01103fcc60d48.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH07_1.jpg-30d642f1e1999ad0e3f1382d69119a1f.ctex",
+    "size": 1269564,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH07_1.jpg-30d642f1e1999ad0e3f1382d69119a1f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH08_0.png-15d9ec222c89a4e99eb826de9c93ce9d.ctex",
+    "size": 223516,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH08_0.png-15d9ec222c89a4e99eb826de9c93ce9d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH08_1.jpg-c01edb9d8062cc09acbc9f590abef63a.ctex",
+    "size": 1435302,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH08_1.jpg-c01edb9d8062cc09acbc9f590abef63a.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH09_0.png-47c69c8e8fec46f4fb4539c449479303.ctex",
+    "size": 95106,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH09_0.png-47c69c8e8fec46f4fb4539c449479303.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH09_1.jpg-7c4c13e1c8ae0b9252b3a48492fb6dff.ctex",
+    "size": 1450530,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH09_1.jpg-7c4c13e1c8ae0b9252b3a48492fb6dff.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH10_0.png-fbfb20c647072014728663c889202791.ctex",
+    "size": 263874,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH10_0.png-fbfb20c647072014728663c889202791.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH10_1.jpg-884d2bbf7f5392a8d0dc847e49faf209.ctex",
+    "size": 1387854,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH10_1.jpg-884d2bbf7f5392a8d0dc847e49faf209.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH11_0.png-0d0a0b6e911d3a79d2821d2b38488ffb.ctex",
+    "size": 127402,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH11_0.png-0d0a0b6e911d3a79d2821d2b38488ffb.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH11_1.jpg-fb77c75f2bfef521f007a1e474f881b0.ctex",
+    "size": 1395376,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH11_1.jpg-fb77c75f2bfef521f007a1e474f881b0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH12_0.png-545c93a3719075436cc1ccc38416df4e.ctex",
+    "size": 203934,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH12_0.png-545c93a3719075436cc1ccc38416df4e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH12_1.jpg-9088a176b0fb688a51d133e2732e8875.ctex",
+    "size": 1824492,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH12_1.jpg-9088a176b0fb688a51d133e2732e8875.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH13_0.png-fa2155ef2438f9f143748ce5ec321f00.ctex",
+    "size": 8164,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH13_0.png-fa2155ef2438f9f143748ce5ec321f00.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH13_1.jpg-d3d24c8f861c370a8de167970fcbcbf3.ctex",
+    "size": 524412,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH13_1.jpg-d3d24c8f861c370a8de167970fcbcbf3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH14_0.png-4bc596204cef0a58dbfb57d756225552.ctex",
+    "size": 244526,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH14_0.png-4bc596204cef0a58dbfb57d756225552.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH14_1.jpg-4e2c254423978ccf66f014acedab7d16.ctex",
+    "size": 1562792,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH14_1.jpg-4e2c254423978ccf66f014acedab7d16.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH15_0.png-786ea88493266cec148297cee817856e.ctex",
+    "size": 524128,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH15_0.png-786ea88493266cec148297cee817856e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH15_1.jpg-087c6247d3f99a9c296e84807769105d.ctex",
+    "size": 1157694,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH15_1.jpg-087c6247d3f99a9c296e84807769105d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH16_0.png-3e7a45c0f46049bff9151dc863d5c50e.ctex",
+    "size": 793268,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH16_0.png-3e7a45c0f46049bff9151dc863d5c50e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH16_1.jpg-cddf1158379ea2b737a0bb17b3beb60e.ctex",
+    "size": 1606078,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH16_1.jpg-cddf1158379ea2b737a0bb17b3beb60e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH17_0.png-99b7d5322bca680c4f6718cc07996e8c.ctex",
+    "size": 240780,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH17_0.png-99b7d5322bca680c4f6718cc07996e8c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH17_1.jpg-82bfcddc77e92526e3aa715f0fdf7867.ctex",
+    "size": 1673784,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH17_1.jpg-82bfcddc77e92526e3aa715f0fdf7867.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH18_0.png-c3e4b73a389c343715a4a2125863ecae.ctex",
+    "size": 27976,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH18_0.png-c3e4b73a389c343715a4a2125863ecae.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH18_1.jpg-a208c2fcab5fbf9e0050b1d0a51080a5.ctex",
+    "size": 1759484,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH18_1.jpg-a208c2fcab5fbf9e0050b1d0a51080a5.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH19_0.png-c9e1e003b08ea7b272d9971241ca7840.ctex",
+    "size": 516270,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH19_0.png-c9e1e003b08ea7b272d9971241ca7840.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH19_1.jpg-818d3af1441ed142240a4bc3e5363680.ctex",
+    "size": 999388,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH19_1.jpg-818d3af1441ed142240a4bc3e5363680.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH20_0.png-692ac145aef70a2eeec9afe73b4c2d2b.ctex",
+    "size": 220760,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH20_0.png-692ac145aef70a2eeec9afe73b4c2d2b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH20_1.jpg-b339dbd6d631be35c1253db0e549d63e.ctex",
+    "size": 1358934,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH20_1.jpg-b339dbd6d631be35c1253db0e549d63e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH21_0.png-6ab839abba15de83b722eb8dfaa23e83.ctex",
+    "size": 220676,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH21_0.png-6ab839abba15de83b722eb8dfaa23e83.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH21_1.jpg-bc649d41bb36bb707763d2632b8400bc.ctex",
+    "size": 1597160,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH21_1.jpg-bc649d41bb36bb707763d2632b8400bc.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH22_0.png-3e1a0b52dd5ba55e0fea442039f66684.ctex",
+    "size": 208170,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH22_0.png-3e1a0b52dd5ba55e0fea442039f66684.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH22_1.jpg-dfa8ad0ecbc9cd444fb7941ee4a795db.ctex",
+    "size": 865514,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH22_1.jpg-dfa8ad0ecbc9cd444fb7941ee4a795db.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH23_0.png-cd0c9af4ddf851cd43491c4e6dd9182e.ctex",
+    "size": 174600,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH23_0.png-cd0c9af4ddf851cd43491c4e6dd9182e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH23_1.jpg-baaa82bb2a7a5a84f26adfe73ddabaca.ctex",
+    "size": 1032884,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH23_1.jpg-baaa82bb2a7a5a84f26adfe73ddabaca.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH24_0.png-9cfb40869ed28c279c81306f00491c27.ctex",
+    "size": 477510,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH24_0.png-9cfb40869ed28c279c81306f00491c27.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH24_1.jpg-5c95f13d8d55e315f8aceff31fb5a045.ctex",
+    "size": 1430996,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH24_1.jpg-5c95f13d8d55e315f8aceff31fb5a045.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH25_0.png-f7a067143ca5a2a428bdd7960396e7e3.ctex",
+    "size": 630234,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH25_0.png-f7a067143ca5a2a428bdd7960396e7e3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH25_1.jpg-d88cb0591e3fbaf3defca95e6cf4b6dd.ctex",
+    "size": 1250226,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/SH25_1.jpg-d88cb0591e3fbaf3defca95e6cf4b6dd.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T05_Rock_strata_BaseColor.png-aa2aeacdefc3efaa38e085837abbcf68.ctex",
+    "size": 1681822,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T05_Rock_strata_BaseColor.png-aa2aeacdefc3efaa38e085837abbcf68.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T05_T05_grass_BaseColor.png-0e916ba6c68b9f8badcb4e9a85ef3de5.ctex",
+    "size": 1802928,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T05_T05_grass_BaseColor.png-0e916ba6c68b9f8badcb4e9a85ef3de5.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T06_Rock_strata_BaseColor.png-304b206e7e6e73c02afd631c180768c9.ctex",
+    "size": 1681822,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T06_Rock_strata_BaseColor.png-304b206e7e6e73c02afd631c180768c9.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T06_T05_grass_BaseColor.png-cbee1ccdf7c8d967f8ad1acf12322f49.ctex",
+    "size": 1802928,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T06_T05_grass_BaseColor.png-cbee1ccdf7c8d967f8ad1acf12322f49.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T07_Rock_strata_BaseColor.png-44d14abca6540a968b42327ff88d4788.ctex",
+    "size": 1681822,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T07_Rock_strata_BaseColor.png-44d14abca6540a968b42327ff88d4788.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T07_T05_grass_BaseColor.png-3337243fcb206d243cd79cae41fc566b.ctex",
+    "size": 1802928,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/T07_T05_grass_BaseColor.png-3337243fcb206d243cd79cae41fc566b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP01.glb-8e6c43eed866bf269d6cf6e38fe8e449.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP01.glb-8e6c43eed866bf269d6cf6e38fe8e449.scn",
+    "size": 36107,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP01_Colorsheet Tree normal.png-7ead898ce11be466490250a238d842ae.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP01_Colorsheet Tree normal.png-7ead898ce11be466490250a238d842ae.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP02.glb-5ce7330462cb8a135b62aeabaf1965b4.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP02.glb-5ce7330462cb8a135b62aeabaf1965b4.scn",
+    "size": 34605,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP02_Colorsheet Tree normal.png-b2aa58ce1f72fc5308be5428944c8280.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP02_Colorsheet Tree normal.png-b2aa58ce1f72fc5308be5428944c8280.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP03.glb-b9904a64c275d8927baf1a1e41a8e35a.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP03.glb-b9904a64c275d8927baf1a1e41a8e35a.scn",
+    "size": 66300,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP03_Colorsheet Tree normal.png-2cf155588a61762b3c7ece70069fb9ce.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP03_Colorsheet Tree normal.png-2cf155588a61762b3c7ece70069fb9ce.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP04.glb-7d959eb2aba6081b73479c505e8ec161.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP04.glb-7d959eb2aba6081b73479c505e8ec161.scn",
+    "size": 126593,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP04_Colorsheet Tree normal.png-a02da718d8ccf58d431d54d83b5f15eb.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP04_Colorsheet Tree normal.png-a02da718d8ccf58d431d54d83b5f15eb.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP05.glb-b0f8fc731157ae6bdbb31e92939da73a.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP05.glb-b0f8fc731157ae6bdbb31e92939da73a.scn",
+    "size": 16413,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP05_Colorsheet Tree normal.png-8a5b50136e1fd9da6dff5f59ce4c3fea.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP05_Colorsheet Tree normal.png-8a5b50136e1fd9da6dff5f59ce4c3fea.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP06.glb-cc2750ebf3959adfe4e34f79893da30e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP06.glb-cc2750ebf3959adfe4e34f79893da30e.scn",
+    "size": 39426,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP06_Colorsheet Tree normal.png-0aa5e2c6c9fa97dd10ef5904b0b96dc1.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP06_Colorsheet Tree normal.png-0aa5e2c6c9fa97dd10ef5904b0b96dc1.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP07.glb-67946e799c659d6721e7de1a97c925a4.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP07.glb-67946e799c659d6721e7de1a97c925a4.scn",
+    "size": 3397,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP07_Colorsheet Tree normal.png-8125bb02ed17aff9b1de66229454c62f.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP07_Colorsheet Tree normal.png-8125bb02ed17aff9b1de66229454c62f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP08.glb-fe55d94773279e0a01427517e8f884c6.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP08.glb-fe55d94773279e0a01427517e8f884c6.scn",
+    "size": 3397,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP08_Colorsheet Tree normal.png-813831be28bd3220f41f77b2ee101dc5.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP08_Colorsheet Tree normal.png-813831be28bd3220f41f77b2ee101dc5.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP09.glb-1f4f682e83e5f9edce089b7a2f2ed176.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP09.glb-1f4f682e83e5f9edce089b7a2f2ed176.scn",
+    "size": 4400,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP09_Colorsheet Tree normal.png-d322a4bafbc0c95691d760113985eba0.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP09_Colorsheet Tree normal.png-d322a4bafbc0c95691d760113985eba0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP10.glb-edc9f83a1d689dd460d2f52af285ba31.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP10.glb-edc9f83a1d689dd460d2f52af285ba31.scn",
+    "size": 5725,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP10_Colorsheet Tree normal.png-985cd7aea0e64d5187f1d2d5d3b58fd0.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP10_Colorsheet Tree normal.png-985cd7aea0e64d5187f1d2d5d3b58fd0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP11.glb-baa24834af2f97132c69a715e0dc2389.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP11.glb-baa24834af2f97132c69a715e0dc2389.scn",
+    "size": 7350,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP11_Colorsheet Tree normal.png-3c2d9d038d4444fd49273bbc5bb2dfd3.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP11_Colorsheet Tree normal.png-3c2d9d038d4444fd49273bbc5bb2dfd3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP12.glb-6cebe6596f3889a58c298228ecfa5c63.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP12.glb-6cebe6596f3889a58c298228ecfa5c63.scn",
+    "size": 6848,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP12_Colorsheet Tree normal.png-d8bc3dfbbcc9452a6eee0d65aae5987f.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP12_Colorsheet Tree normal.png-d8bc3dfbbcc9452a6eee0d65aae5987f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP13.glb-c8d95dfd0e5d32886dce6abdc09d47d0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP13.glb-c8d95dfd0e5d32886dce6abdc09d47d0.scn",
+    "size": 6842,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP13_Colorsheet Tree normal.png-43a9e6d8e18ebca39731334bebfbd953.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP13_Colorsheet Tree normal.png-43a9e6d8e18ebca39731334bebfbd953.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP14.glb-d065fe54e77dbbae650fe9ed04373fa1.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP14.glb-d065fe54e77dbbae650fe9ed04373fa1.scn",
+    "size": 9435,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP14_Colorsheet Tree normal.png-3f5aee85fb5abe21ef63a92ffb447cb0.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP14_Colorsheet Tree normal.png-3f5aee85fb5abe21ef63a92ffb447cb0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP15.glb-21567bcde018d67d31827b136298dbd3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP15.glb-21567bcde018d67d31827b136298dbd3.scn",
+    "size": 11462,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP15_Colorsheet Tree normal.png-e87867b1546e3f5b4244e4e234727215.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP15_Colorsheet Tree normal.png-e87867b1546e3f5b4244e4e234727215.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP16.glb-c19703e50caae963d12f8b89169cfc51.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP16.glb-c19703e50caae963d12f8b89169cfc51.scn",
+    "size": 13772,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP16_Colorsheet Tree normal.png-40575121093eaccfd4d2d0b51a7ef366.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP16_Colorsheet Tree normal.png-40575121093eaccfd4d2d0b51a7ef366.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP17.glb-7e230307732aa1c6cf0bf5b773f672cf.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP17.glb-7e230307732aa1c6cf0bf5b773f672cf.scn",
+    "size": 7086,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP17_Colorsheet Tree normal.png-78b851565ec0a17d11a9179ead1e9124.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP17_Colorsheet Tree normal.png-78b851565ec0a17d11a9179ead1e9124.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP18.glb-81e61572462dc9f0c915f0d7fe4b9f8e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP18.glb-81e61572462dc9f0c915f0d7fe4b9f8e.scn",
+    "size": 12307,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP18_Colorsheet Tree normal.png-40a1411da1dd46f9115640952507a185.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP18_Colorsheet Tree normal.png-40a1411da1dd46f9115640952507a185.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP19.glb-12361b880f3bd637d977d4b017f1285b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP19.glb-12361b880f3bd637d977d4b017f1285b.scn",
+    "size": 16804,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP19_Colorsheet Tree normal.png-157a813234180eeba4d5fbabb99f2e6c.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP19_Colorsheet Tree normal.png-157a813234180eeba4d5fbabb99f2e6c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP20.glb-f6babb2a1bacf8976b7d598627d53434.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP20.glb-f6babb2a1bacf8976b7d598627d53434.scn",
+    "size": 21162,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP20_Colorsheet Tree normal.png-d58fbf24ad831d72df85b5f5efa5adc1.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP20_Colorsheet Tree normal.png-d58fbf24ad831d72df85b5f5efa5adc1.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP21.glb-27636acf438cf96d3b6fd201e902738b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP21.glb-27636acf438cf96d3b6fd201e902738b.scn",
+    "size": 19664,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP21_Colorsheet Tree normal.png-5f6b566106a495c5058048679beaf1a1.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP21_Colorsheet Tree normal.png-5f6b566106a495c5058048679beaf1a1.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP22.glb-bb2f998b7a48240e924ab11c1b7dedf6.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP22.glb-bb2f998b7a48240e924ab11c1b7dedf6.scn",
+    "size": 8892,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP22_Colorsheet Tree normal.png-b23bd69240e9659f5aa126ed4419b8a0.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP22_Colorsheet Tree normal.png-b23bd69240e9659f5aa126ed4419b8a0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP23.glb-dac68580eb9cd92927ee19f449077045.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP23.glb-dac68580eb9cd92927ee19f449077045.scn",
+    "size": 12061,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP23_Colorsheet Tree normal.png-9ea9df98b7e4b1ac2b868d6538a6cdda.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP23_Colorsheet Tree normal.png-9ea9df98b7e4b1ac2b868d6538a6cdda.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP24.glb-02af4c22d45ad56a161ca9d053ed8aae.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP24.glb-02af4c22d45ad56a161ca9d053ed8aae.scn",
+    "size": 14425,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP24_Colorsheet Tree normal.png-813b67c50735398ee45d413017d89dc6.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP24_Colorsheet Tree normal.png-813b67c50735398ee45d413017d89dc6.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP25.glb-df85d174cc69e9aaf528b45376f6ba1e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP25.glb-df85d174cc69e9aaf528b45376f6ba1e.scn",
+    "size": 25772,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP25_Colorsheet Tree normal.png-0c6f8e7caf4850767c7156608ef4985b.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP25_Colorsheet Tree normal.png-0c6f8e7caf4850767c7156608ef4985b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP26.glb-e6fb3e0c428ca8d591c12b86b03d829d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP26.glb-e6fb3e0c428ca8d591c12b86b03d829d.scn",
+    "size": 46112,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP26_Colorsheet Tree normal.png-627807ba5b48139704dba0bbeca75c69.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP26_Colorsheet Tree normal.png-627807ba5b48139704dba0bbeca75c69.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP27.glb-7f33a425bc1ec085372e05fbafd7bfb9.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP27.glb-7f33a425bc1ec085372e05fbafd7bfb9.scn",
+    "size": 7977,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP27_Colorsheet Tree normal.png-a0d91f92f16ae8762aa638af3bc03919.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP27_Colorsheet Tree normal.png-a0d91f92f16ae8762aa638af3bc03919.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP28.glb-4a547fa2d8ddd15b6a7ccb26101a9a15.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP28.glb-4a547fa2d8ddd15b6a7ccb26101a9a15.scn",
+    "size": 13856,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP28_Colorsheet Tree normal.png-8e43ed452158710dea6a99dc175f5e2a.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP28_Colorsheet Tree normal.png-8e43ed452158710dea6a99dc175f5e2a.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP29.glb-6ddb7170be04d12576a569746c4c61ef.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP29.glb-6ddb7170be04d12576a569746c4c61ef.scn",
+    "size": 20385,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP29_Colorsheet Tree normal.png-d7908b870ca2fc7a0fa68a86e0e2c4df.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP29_Colorsheet Tree normal.png-d7908b870ca2fc7a0fa68a86e0e2c4df.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP30.glb-89ff2bb4ccd0194e281cd6852d81c3d6.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP30.glb-89ff2bb4ccd0194e281cd6852d81c3d6.scn",
+    "size": 30053,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP30_Colorsheet Tree normal.png-ac87afdb7fab54139ba2917a00ff1735.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP30_Colorsheet Tree normal.png-ac87afdb7fab54139ba2917a00ff1735.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP31.glb-0aff68de264295b28da83a123b035398.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP31.glb-0aff68de264295b28da83a123b035398.scn",
+    "size": 9789,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP31_Colorsheet Tree normal.png-af996bf5ee6585e2bf6d3339c376801d.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP31_Colorsheet Tree normal.png-af996bf5ee6585e2bf6d3339c376801d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP32.glb-fc88cc5eaf6f16c1cf8a11f5a1a3c979.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP32.glb-fc88cc5eaf6f16c1cf8a11f5a1a3c979.scn",
+    "size": 38582,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP32_Colorsheet Tree normal.png-d4943279aa628fea849f190122fe8755.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP32_Colorsheet Tree normal.png-d4943279aa628fea849f190122fe8755.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP33.glb-6c3a926f97bfa8a58cb85a312f4cb0a1.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP33.glb-6c3a926f97bfa8a58cb85a312f4cb0a1.scn",
+    "size": 52470,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP33_Colorsheet Tree normal.png-dd046345b8cc09a5325d362219284663.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP33_Colorsheet Tree normal.png-dd046345b8cc09a5325d362219284663.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP34.glb-f8806efbe700fd4e8af807c359580027.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP34.glb-f8806efbe700fd4e8af807c359580027.scn",
+    "size": 101573,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP34_Colorsheet Tree normal.png-6b4d96a03aaaaddf027ab6fb43c69e39.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP34_Colorsheet Tree normal.png-6b4d96a03aaaaddf027ab6fb43c69e39.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP35.glb-8135f40cc1d0d982f1af8a9c0309b07b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP35.glb-8135f40cc1d0d982f1af8a9c0309b07b.scn",
+    "size": 12547,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP35_Colorsheet Tree normal.png-e66f66329653469bd1aa9e68c0df943e.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP35_Colorsheet Tree normal.png-e66f66329653469bd1aa9e68c0df943e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP36.glb-17e511958062937b9245943c637a5c59.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP36.glb-17e511958062937b9245943c637a5c59.scn",
+    "size": 14038,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP36_Colorsheet Tree normal.png-899ab5ba29cf85f9f79c03da7eb8dfb8.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP36_Colorsheet Tree normal.png-899ab5ba29cf85f9f79c03da7eb8dfb8.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP37.glb-287e4a0554139d51aa3a3fb4e0c18bc0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP37.glb-287e4a0554139d51aa3a3fb4e0c18bc0.scn",
+    "size": 12899,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP37_Colorsheet Tree normal.png-656e272657b7246a3d15fbc7ee366014.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP37_Colorsheet Tree normal.png-656e272657b7246a3d15fbc7ee366014.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP38.glb-5a054f8410fc5779a6eeb27f76b2051c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP38.glb-5a054f8410fc5779a6eeb27f76b2051c.scn",
+    "size": 22672,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP38_Colorsheet Tree normal.png-7592af96f69b1aec6c1380bfbf2d5083.ctex",
+    "size": 616,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/TP38_Colorsheet Tree normal.png-7592af96f69b1aec6c1380bfbf2d5083.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01.glb-cf92808a0c55d4e88843a3f0554b7443.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01.glb-cf92808a0c55d4e88843a3f0554b7443.scn",
+    "size": 20289686,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901.png-30d2537b2ac147c5e83b999f1e6ee9bb.ctex",
+    "size": 17566776,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901.png-30d2537b2ac147c5e83b999f1e6ee9bb.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901.png-343f14b43bd7c53f49ba2bd1299d2f70.ctex",
+    "size": 17566776,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901.png-343f14b43bd7c53f49ba2bd1299d2f70.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901.png-343f14b43bd7c53f49ba2bd1299d2f70.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-2dcf7663f0f7f8b9b6a0798d39800239.ctex",
+    "size": 5808274,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-2dcf7663f0f7f8b9b6a0798d39800239.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-2dcf7663f0f7f8b9b6a0798d39800239.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-a2ee0219ad67583c5e9f60809486b2f7.ctex",
+    "size": 5808274,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-a2ee0219ad67583c5e9f60809486b2f7.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901_normal.png-60f872e71a3baeedf829a721094fd992.ctex",
+    "size": 3731864,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901_normal.png-60f872e71a3baeedf829a721094fd992.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901_normal.png-9cae3b0766bbc89102721783915a3173.ctex",
+    "size": 3731864,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901_normal.png-9cae3b0766bbc89102721783915a3173.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V01_texture_pbr_20250901_normal.png-9cae3b0766bbc89102721783915a3173.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02.glb-85274d941547f1826ba1ba0acdd910ba.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02.glb-85274d941547f1826ba1ba0acdd910ba.scn",
+    "size": 20061852,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901.png-090e652a8b9f0e168891f4719fd01d11.ctex",
+    "size": 16634972,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901.png-090e652a8b9f0e168891f4719fd01d11.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901.png-090e652a8b9f0e168891f4719fd01d11.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901.png-44525f1c7f16346cba49b58c3b0e390b.ctex",
+    "size": 16634972,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901.png-44525f1c7f16346cba49b58c3b0e390b.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-0b609f6c07fc70a4007e93ea43f04883.ctex",
+    "size": 5561776,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-0b609f6c07fc70a4007e93ea43f04883.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-0b609f6c07fc70a4007e93ea43f04883.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-0c1bb292bed90fdf798f1a0aad4cf733.ctex",
+    "size": 5561776,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-0c1bb292bed90fdf798f1a0aad4cf733.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901_normal.png-0426516af8976bd496efb2867a9b747e.ctex",
+    "size": 3251124,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901_normal.png-0426516af8976bd496efb2867a9b747e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901_normal.png-9a7a09d488eaf507988f2de036768deb.ctex",
+    "size": 3251124,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901_normal.png-9a7a09d488eaf507988f2de036768deb.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V02_texture_pbr_20250901_normal.png-9a7a09d488eaf507988f2de036768deb.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03.glb-9413e6375a4a8614dd8538c1d177f2e8.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03.glb-9413e6375a4a8614dd8538c1d177f2e8.scn",
+    "size": 233641,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03.glb-aed13e57890ed942f02191f59d946e72.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03.glb-aed13e57890ed942f02191f59d946e72.scn",
+    "size": 55672833,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03.glb-b2843845217eb610f4cd84c2a1f6a4db.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03.glb-b2843845217eb610f4cd84c2a1f6a4db.scn",
+    "size": 28067192,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901.png-0c4da253f05e1601b43c2e406aecfa65.ctex",
+    "size": 15517542,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901.png-0c4da253f05e1601b43c2e406aecfa65.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901.png-0c4da253f05e1601b43c2e406aecfa65.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901.png-160f76c656fea2e32a0bde27fc417b38.ctex",
+    "size": 15517542,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901.png-160f76c656fea2e32a0bde27fc417b38.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901.png-fc01a6eed95b500a26ce9c6bf9912968.ctex",
+    "size": 15517542,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901.png-fc01a6eed95b500a26ce9c6bf9912968.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901.png-fc01a6eed95b500a26ce9c6bf9912968.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-2ca09852d37d88d5bf043903f6ed4322.ctex",
+    "size": 7810290,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-2ca09852d37d88d5bf043903f6ed4322.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-2ca09852d37d88d5bf043903f6ed4322.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-9bc6fe4bb638d2e6410e970d25ead0c7.ctex",
+    "size": 7810290,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-9bc6fe4bb638d2e6410e970d25ead0c7.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-9bc6fe4bb638d2e6410e970d25ead0c7.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-f20aea573b6ff421bdf7edf6776ff093.ctex",
+    "size": 7810290,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-f20aea573b6ff421bdf7edf6776ff093.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_normal.png-209ea70877c03b7a2dd7df82702ce048.ctex",
+    "size": 7232162,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_normal.png-209ea70877c03b7a2dd7df82702ce048.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_normal.png-209ea70877c03b7a2dd7df82702ce048.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_normal.png-8db751da6b7e9a2a28f49d48196a1ae3.ctex",
+    "size": 7232162,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_normal.png-8db751da6b7e9a2a28f49d48196a1ae3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_normal.png-973182d0a9e9cbb143f56cd15fe97bf2.ctex",
+    "size": 7232162,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_normal.png-973182d0a9e9cbb143f56cd15fe97bf2.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V03_texture_pbr_20250901_normal.png-973182d0a9e9cbb143f56cd15fe97bf2.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04.glb-157d44e62a66529f93c562429e3ef61e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04.glb-157d44e62a66529f93c562429e3ef61e.scn",
+    "size": 44678544,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04.glb-41414be4a8b6ee52fbd8131a2ddc0dde.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04.glb-41414be4a8b6ee52fbd8131a2ddc0dde.scn",
+    "size": 231029,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04.glb-8e589b4f3db878cdbef650e001994b7c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04.glb-8e589b4f3db878cdbef650e001994b7c.scn",
+    "size": 20245716,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901.png-43e7ede1534333aa50289d134bbb86dc.ctex",
+    "size": 17146804,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901.png-43e7ede1534333aa50289d134bbb86dc.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901.png-43e7ede1534333aa50289d134bbb86dc.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901.png-4ab3558e9b7c362bca0ec39b9046face.ctex",
+    "size": 17146804,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901.png-4ab3558e9b7c362bca0ec39b9046face.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901.png-cb1c90d9602bb5c3eeee544bc31bdb99.ctex",
+    "size": 17146804,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901.png-cb1c90d9602bb5c3eeee544bc31bdb99.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901.png-cb1c90d9602bb5c3eeee544bc31bdb99.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-098e9e5f846f3d3a39650076edc37083.ctex",
+    "size": 7924236,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-098e9e5f846f3d3a39650076edc37083.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-098e9e5f846f3d3a39650076edc37083.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-33122b90c2add1f1b43219f5b2233cbe.ctex",
+    "size": 7924236,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-33122b90c2add1f1b43219f5b2233cbe.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-33122b90c2add1f1b43219f5b2233cbe.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-f28a6b5eacbad680d45b1d6e9f8ab892.ctex",
+    "size": 7924236,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-f28a6b5eacbad680d45b1d6e9f8ab892.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_normal.png-089da25100e9b60b8d8492fe4a61a299.ctex",
+    "size": 7702330,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_normal.png-089da25100e9b60b8d8492fe4a61a299.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_normal.png-2324efad072c7c7a973f8a2bbd7bd94e.ctex",
+    "size": 7702330,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_normal.png-2324efad072c7c7a973f8a2bbd7bd94e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_normal.png-2324efad072c7c7a973f8a2bbd7bd94e.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_normal.png-639c66ea03d0d86b03a0a3bf1df86439.ctex",
+    "size": 7702330,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_normal.png-639c66ea03d0d86b03a0a3bf1df86439.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V04_texture_pbr_20250901_normal.png-639c66ea03d0d86b03a0a3bf1df86439.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05.glb-74f41851bc11a264c1e4b8af8f02f317.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05.glb-74f41851bc11a264c1e4b8af8f02f317.scn",
+    "size": 29240461,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901.png-0708aa8622e3068f4c42dbbe36d4f46a.ctex",
+    "size": 15779482,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901.png-0708aa8622e3068f4c42dbbe36d4f46a.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901.png-61b6097a052122a8b368725d9ab24a51.ctex",
+    "size": 15779482,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901.png-61b6097a052122a8b368725d9ab24a51.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901.png-61b6097a052122a8b368725d9ab24a51.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-222f995bac066792d4a2d6b9a93e166c.ctex",
+    "size": 4813154,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-222f995bac066792d4a2d6b9a93e166c.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-222f995bac066792d4a2d6b9a93e166c.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-92f454f51b940de71b1c286bf5dd4c13.ctex",
+    "size": 4813154,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-92f454f51b940de71b1c286bf5dd4c13.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901_normal.png-184d4a3bd289ac81cb0b1c530aa4d8d8.ctex",
+    "size": 1972310,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901_normal.png-184d4a3bd289ac81cb0b1c530aa4d8d8.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901_normal.png-1b9129f4df79fede33f9594b97b642df.ctex",
+    "size": 1972310,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901_normal.png-1b9129f4df79fede33f9594b97b642df.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V05_texture_pbr_20250901_normal.png-1b9129f4df79fede33f9594b97b642df.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06.glb-b0de07a9ab538df78d219ca60c0bf157.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06.glb-b0de07a9ab538df78d219ca60c0bf157.scn",
+    "size": 21641155,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901.png-6364edf9aec73c99e117dc8393777a61.ctex",
+    "size": 18238016,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901.png-6364edf9aec73c99e117dc8393777a61.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901.png-9b379cf2d56ef1fc1de9cae564f05364.ctex",
+    "size": 18238016,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901.png-9b379cf2d56ef1fc1de9cae564f05364.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901.png-9b379cf2d56ef1fc1de9cae564f05364.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-0d17736e0fd60bc34e8d94226c573465.ctex",
+    "size": 6467868,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-0d17736e0fd60bc34e8d94226c573465.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-0d17736e0fd60bc34e8d94226c573465.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-657d2bcc925276050de32092898f8fc3.ctex",
+    "size": 6467868,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-657d2bcc925276050de32092898f8fc3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901_normal.png-1528e7fee7d68c351b14c491f61f3b26.ctex",
+    "size": 1382558,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901_normal.png-1528e7fee7d68c351b14c491f61f3b26.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901_normal.png-5a7e2affefdfb3975d8bdea49b4910c2.ctex",
+    "size": 1382558,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901_normal.png-5a7e2affefdfb3975d8bdea49b4910c2.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V06_texture_pbr_20250901_normal.png-5a7e2affefdfb3975d8bdea49b4910c2.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07.glb-84b8dd66889e3645af1efe3124656e85.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07.glb-84b8dd66889e3645af1efe3124656e85.scn",
+    "size": 13138386,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901.png-89cf42755bc7b3eff6bb2a1af3b17645.ctex",
+    "size": 13758416,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901.png-89cf42755bc7b3eff6bb2a1af3b17645.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901.png-89cf42755bc7b3eff6bb2a1af3b17645.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901.png-b979c519aa5b34f1dbdb92a47b2e510e.ctex",
+    "size": 13758416,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901.png-b979c519aa5b34f1dbdb92a47b2e510e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-d02f51001da6e951a711d31c289ee97f.ctex",
+    "size": 5938664,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-d02f51001da6e951a711d31c289ee97f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-fcf6cd2c18b8827f968afc4095d71bf3.ctex",
+    "size": 5938664,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-fcf6cd2c18b8827f968afc4095d71bf3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-fcf6cd2c18b8827f968afc4095d71bf3.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901_normal.png-b5a7414d221fe60f49140699b076c40e.ctex",
+    "size": 3174686,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901_normal.png-b5a7414d221fe60f49140699b076c40e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901_normal.png-f50c58edfd8d61cd051fbabc812b52b3.ctex",
+    "size": 3174686,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901_normal.png-f50c58edfd8d61cd051fbabc812b52b3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V07_texture_pbr_20250901_normal.png-f50c58edfd8d61cd051fbabc812b52b3.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08.glb-4a4d3f825771eed28e05299ac60bcb33.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08.glb-4a4d3f825771eed28e05299ac60bcb33.scn",
+    "size": 19078991,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901.png-4ce5a47f4f541a0d3a0a620afc0bdbe3.ctex",
+    "size": 12966354,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901.png-4ce5a47f4f541a0d3a0a620afc0bdbe3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901.png-4ce5a47f4f541a0d3a0a620afc0bdbe3.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901.png-59d3a64760da6fea46f19ecde2c34fe1.ctex",
+    "size": 12966354,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901.png-59d3a64760da6fea46f19ecde2c34fe1.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-113f53030ca9e10d2826e79f4002d5de.ctex",
+    "size": 5981262,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-113f53030ca9e10d2826e79f4002d5de.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-113f53030ca9e10d2826e79f4002d5de.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-ec8c61b71caea0db35f08cf509838737.ctex",
+    "size": 5981262,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-ec8c61b71caea0db35f08cf509838737.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901_normal.png-cfd08b64f3558947acc132a12a46bce8.ctex",
+    "size": 3207936,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901_normal.png-cfd08b64f3558947acc132a12a46bce8.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901_normal.png-cfd08b64f3558947acc132a12a46bce8.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901_normal.png-e4ab6af6e57ad528d14404d89cbaa56f.ctex",
+    "size": 3207936,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/V08_texture_pbr_20250901_normal.png-e4ab6af6e57ad528d14404d89cbaa56f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world.glb-ff88dd6c467a53c1bf53dcda0f634600.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world.glb-ff88dd6c467a53c1bf53dcda0f634600.scn",
+    "size": 32413241,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_damp_sill_BaseColor.png-ce98bcabf3b751055b84caa801ee1d67.ctex",
+    "size": 983210,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_damp_sill_BaseColor.png-ce98bcabf3b751055b84caa801ee1d67.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_damp_sill_BaseColor.png-ce98bcabf3b751055b84caa801ee1d67.s3tc.ctex",
+    "size": 699116,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_exposed_warm_fibres_BaseColor.png-a3edcbfd0614748cc7f7f925b425c5b0.ctex",
+    "size": 960010,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_exposed_warm_fibres_BaseColor.png-a3edcbfd0614748cc7f7f925b425c5b0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_exposed_warm_fibres_BaseColor.png-a3edcbfd0614748cc7f7f925b425c5b0.s3tc.ctex",
+    "size": 699116,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_interior_lining_BaseColor.png-3dfd5b6b8607b26c319f45bc6caf8963.ctex",
+    "size": 934218,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_interior_lining_BaseColor.png-3dfd5b6b8607b26c319f45bc6caf8963.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_interior_lining_BaseColor.png-3dfd5b6b8607b26c319f45bc6caf8963.s3tc.ctex",
+    "size": 699116,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_pale_chipped_trim_BaseColor.png-b8a63b7f186ea205dd70f97424a96480.ctex",
+    "size": 1066246,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_pale_chipped_trim_BaseColor.png-b8a63b7f186ea205dd70f97424a96480.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_pale_chipped_trim_BaseColor.png-b8a63b7f186ea205dd70f97424a96480.s3tc.ctex",
+    "size": 699116,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_silver_grey_roof_BaseColor.png-05401fb16a225acafd9ec971382a3467.ctex",
+    "size": 949716,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_silver_grey_roof_BaseColor.png-05401fb16a225acafd9ec971382a3467.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_silver_grey_roof_BaseColor.png-05401fb16a225acafd9ec971382a3467.s3tc.ctex",
+    "size": 699116,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_warm_weathered_siding_BaseColor.png-f4913657af1140912b266dab6144c375.ctex",
+    "size": 1023016,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_warm_weathered_siding_BaseColor.png-f4913657af1140912b266dab6144c375.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_warm_weathered_siding_BaseColor.png-f4913657af1140912b266dab6144c375.s3tc.ctex",
+    "size": 699116,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_weathered_wood_normal.png-3822b8244faa9419ff0b20693f2263e4.ctex",
+    "size": 2476878,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_weathered_wood_normal.png-3822b8244faa9419ff0b20693f2263e4.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_weathered_wood_normal.png-3822b8244faa9419ff0b20693f2263e4.s3tc.ctex",
+    "size": 2106020,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_worn_floor_BaseColor.png-70770c2b799d207775cea7c7d538ee18.ctex",
+    "size": 960066,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_worn_floor_BaseColor.png-70770c2b799d207775cea7c7d538ee18.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B01_worn_floor_BaseColor.png-70770c2b799d207775cea7c7d538ee18.s3tc.ctex",
+    "size": 699116,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B02_red_paint.png-2a78cd4b80d3c2a2bef2e7d8639b7adb.ctex",
+    "size": 1388458,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B02_red_paint.png-2a78cd4b80d3c2a2bef2e7d8639b7adb.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B02_red_paint.png-2a78cd4b80d3c2a2bef2e7d8639b7adb.s3tc.ctex",
+    "size": 1053036,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B02_roof_metal.png-946de5b18cb0fe7f2d592df7bf820f74.ctex",
+    "size": 1234748,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B02_roof_metal.png-946de5b18cb0fe7f2d592df7bf820f74.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B02_roof_metal.png-946de5b18cb0fe7f2d592df7bf820f74.s3tc.ctex",
+    "size": 1053036,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B02_wood_normal.png-32e3218d81a97482a64b61bf17402de0.ctex",
+    "size": 2476878,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B02_wood_normal.png-32e3218d81a97482a64b61bf17402de0.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B02_wood_normal.png-32e3218d81a97482a64b61bf17402de0.s3tc.ctex",
+    "size": 2106020,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B03_plaster.png-0362413fc6c374867d237468037fd282.ctex",
+    "size": 1944326,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B03_plaster.png-0362413fc6c374867d237468037fd282.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B03_plaster.png-0362413fc6c374867d237468037fd282.s3tc.ctex",
+    "size": 1053036,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B03_roof.png-259613942a2f4efcae89ac69bae8e19f.ctex",
+    "size": 1304720,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B03_roof.png-259613942a2f4efcae89ac69bae8e19f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_B03_roof.png-259613942a2f4efcae89ac69bae8e19f.s3tc.ctex",
+    "size": 1053036,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_crack_decal.png-76cf0633c210c9fe211eff349c44ce7a.ctex",
+    "size": 132548,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_crack_decal.png-76cf0633c210c9fe211eff349c44ce7a.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_crack_decal.png-76cf0633c210c9fe211eff349c44ce7a.s3tc.ctex",
+    "size": 2106020,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_ivy_wall.png-e400da86c48ecf6822a4a632fb5909f9.ctex",
+    "size": 1398580,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_ivy_wall.png-e400da86c48ecf6822a4a632fb5909f9.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_ivy_wall.png-e400da86c48ecf6822a4a632fb5909f9.s3tc.ctex",
+    "size": 2106020,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901.png-62891b15553505d2e49bda6642f15544.ctex",
+    "size": 16546998,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901.png-62891b15553505d2e49bda6642f15544.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901.png-62891b15553505d2e49bda6642f15544.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_19.png-c02edf1559652c97ca389ea3d08ea8a4.ctex",
+    "size": 17264864,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_19.png-c02edf1559652c97ca389ea3d08ea8a4.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_19.png-c02edf1559652c97ca389ea3d08ea8a4.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_22.png-583e7bab649c88536d2b550f169c4c1f.ctex",
+    "size": 24836872,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_22.png-583e7bab649c88536d2b550f169c4c1f.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_22.png-583e7bab649c88536d2b550f169c4c1f.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-82d5d7fa7a734e4251c75f7faf11c90e.ctex",
+    "size": 8077128,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-82d5d7fa7a734e4251c75f7faf11c90e.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png-82d5d7fa7a734e4251c75f7faf11c90e.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness_20.png-2dd3343d7d4f2a0c14a9eec191b63849.ctex",
+    "size": 6714552,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness_20.png-2dd3343d7d4f2a0c14a9eec191b63849.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness_20.png-2dd3343d7d4f2a0c14a9eec191b63849.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness_23.png-33a897d06122e570025680b6f8693f66.ctex",
+    "size": 8413440,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness_23.png-33a897d06122e570025680b6f8693f66.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness_23.png-33a897d06122e570025680b6f8693f66.s3tc.ctex",
+    "size": 11184876,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_normal.png-82cbca25e7e4d7cd6eefe22ce8534dc3.ctex",
+    "size": 9760236,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_normal.png-82cbca25e7e4d7cd6eefe22ce8534dc3.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_normal.png-82cbca25e7e4d7cd6eefe22ce8534dc3.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_normal_18.png-91e3fdf054240af6db12c2db66f6687d.ctex",
+    "size": 9934908,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_normal_18.png-91e3fdf054240af6db12c2db66f6687d.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_normal_18.png-91e3fdf054240af6db12c2db66f6687d.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_normal_21.png-6c150a2c5add329a17dacbb9a3a4dbb4.ctex",
+    "size": 17737684,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_normal_21.png-6c150a2c5add329a17dacbb9a3a4dbb4.md5",
+    "size": 91,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "游戏/.godot/imported/world_texture_pbr_20250901_normal_21.png-6c150a2c5add329a17dacbb9a3a4dbb4.s3tc.ctex",
+    "size": 22369700,
+    "reason": "原资源已归档，当前 .import 文件未引用的导入缓存"
+  },
+  {
+    "path": "工具/建筑道路与植被改版/__pycache__/terrain_sampling.cpython-313.pyc",
+    "size": 2962,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/affinity.cpython-313.pyc",
+    "size": 8816,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/conftest.cpython-313.pyc",
+    "size": 2408,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/constructive.cpython-313.pyc",
+    "size": 56980,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/coordinates.cpython-313.pyc",
+    "size": 17193,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/coords.cpython-313.pyc",
+    "size": 4354,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/creation.cpython-313.pyc",
+    "size": 28391,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/decorators.cpython-313.pyc",
+    "size": 8834,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/errors.cpython-313.pyc",
+    "size": 3580,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/geos.cpython-313.pyc",
+    "size": 801,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/io.cpython-313.pyc",
+    "size": 15320,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/linear.cpython-313.pyc",
+    "size": 8015,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/measurement.cpython-313.pyc",
+    "size": 10849,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/ops.cpython-313.pyc",
+    "size": 26418,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/plotting.cpython-313.pyc",
+    "size": 7565,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/predicates.cpython-313.pyc",
+    "size": 41836,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/prepared.cpython-313.pyc",
+    "size": 3987,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/set_operations.cpython-313.pyc",
+    "size": 23880,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/speedups.cpython-313.pyc",
+    "size": 1219,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/strtree.cpython-313.pyc",
+    "size": 19505,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/testing.cpython-313.pyc",
+    "size": 7544,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/validation.cpython-313.pyc",
+    "size": 1752,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/wkb.cpython-313.pyc",
+    "size": 2457,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/wkt.cpython-313.pyc",
+    "size": 2213,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/_coverage.cpython-313.pyc",
+    "size": 9918,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/_enum.cpython-313.pyc",
+    "size": 1647,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/_geometry.cpython-313.pyc",
+    "size": 32104,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/_ragged_array.cpython-313.pyc",
+    "size": 17771,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/_version.cpython-313.pyc",
+    "size": 360,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/__pycache__/__init__.cpython-313.pyc",
+    "size": 2264,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/vectorized/__pycache__/__init__.cpython-313.pyc",
+    "size": 3720,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/common.cpython-313.pyc",
+    "size": 13427,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_constructive.cpython-313.pyc",
+    "size": 74551,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_coordinates.cpython-313.pyc",
+    "size": 27423,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_coverage.cpython-313.pyc",
+    "size": 25537,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_creation.cpython-313.pyc",
+    "size": 41781,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_creation_indices.cpython-313.pyc",
+    "size": 30020,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_decorators.cpython-313.pyc",
+    "size": 7328,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_geometry.cpython-313.pyc",
+    "size": 39691,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_io.cpython-313.pyc",
+    "size": 64294,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_linear.cpython-313.pyc",
+    "size": 15070,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_measurement.cpython-313.pyc",
+    "size": 16873,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_misc.cpython-313.pyc",
+    "size": 11355,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_plotting.cpython-313.pyc",
+    "size": 7312,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_predicates.cpython-313.pyc",
+    "size": 28568,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_ragged_array.cpython-313.pyc",
+    "size": 26887,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_set_operations.cpython-313.pyc",
+    "size": 26588,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_strtree.cpython-313.pyc",
+    "size": 78905,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/test_testing.cpython-313.pyc",
+    "size": 4663,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/__pycache__/__init__.cpython-313.pyc",
+    "size": 193,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/conftest.cpython-313.pyc",
+    "size": 764,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_affinity.cpython-313.pyc",
+    "size": 17025,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_box.cpython-313.pyc",
+    "size": 1803,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_buffer.cpython-313.pyc",
+    "size": 11632,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_cga.cpython-313.pyc",
+    "size": 3467,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_clip_by_rect.cpython-313.pyc",
+    "size": 5365,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_create_inconsistent_dimensionality.cpython-313.pyc",
+    "size": 7879,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_delaunay.cpython-313.pyc",
+    "size": 2059,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_empty_polygons.cpython-313.pyc",
+    "size": 1549,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_equality.cpython-313.pyc",
+    "size": 1503,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_geointerface.cpython-313.pyc",
+    "size": 4255,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_invalid_geometries.cpython-313.pyc",
+    "size": 1846,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_linear_referencing.cpython-313.pyc",
+    "size": 7297,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_linemerge.cpython-313.pyc",
+    "size": 2337,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_locale.cpython-313.pyc",
+    "size": 2123,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_make_valid.cpython-313.pyc",
+    "size": 1334,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_mapping.cpython-313.pyc",
+    "size": 1172,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_minimum_clearance.cpython-313.pyc",
+    "size": 1501,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_ndarrays.cpython-313.pyc",
+    "size": 2430,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_nearest.cpython-313.pyc",
+    "size": 1418,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_operations.cpython-313.pyc",
+    "size": 6568,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_operators.cpython-313.pyc",
+    "size": 3117,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_orient.cpython-313.pyc",
+    "size": 5707,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_parallel_offset.cpython-313.pyc",
+    "size": 3534,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_persist.cpython-313.pyc",
+    "size": 3071,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_pickle.cpython-313.pyc",
+    "size": 4406,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_polygonize.cpython-313.pyc",
+    "size": 3035,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_polylabel.cpython-313.pyc",
+    "size": 4438,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_predicates.cpython-313.pyc",
+    "size": 5138,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_prepared.cpython-313.pyc",
+    "size": 4392,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_products_z.cpython-313.pyc",
+    "size": 1183,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_shape.cpython-313.pyc",
+    "size": 3404,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_shared_paths.cpython-313.pyc",
+    "size": 3086,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_singularity.cpython-313.pyc",
+    "size": 1101,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_snap.cpython-313.pyc",
+    "size": 1514,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_split.cpython-313.pyc",
+    "size": 16625,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_substring.cpython-313.pyc",
+    "size": 28012,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_svg.cpython-313.pyc",
+    "size": 9450,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_transform.cpython-313.pyc",
+    "size": 10895,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_union.cpython-313.pyc",
+    "size": 3719,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_validation.cpython-313.pyc",
+    "size": 858,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_vectorized.cpython-313.pyc",
+    "size": 7743,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_voronoi_diagram.cpython-313.pyc",
+    "size": 7087,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_wkb.cpython-313.pyc",
+    "size": 8942,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/test_wkt.cpython-313.pyc",
+    "size": 3364,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/threading_test.cpython-313.pyc",
+    "size": 2126,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/legacy/__pycache__/__init__.cpython-313.pyc",
+    "size": 200,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_collection.cpython-313.pyc",
+    "size": 4472,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_coords.cpython-313.pyc",
+    "size": 9208,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_decimal.cpython-313.pyc",
+    "size": 3569,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_emptiness.cpython-313.pyc",
+    "size": 5761,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_equality.cpython-313.pyc",
+    "size": 12217,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_format.cpython-313.pyc",
+    "size": 5093,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_geometry_base.cpython-313.pyc",
+    "size": 21924,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_hash.cpython-313.pyc",
+    "size": 1268,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_linestring.cpython-313.pyc",
+    "size": 12538,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_multi.cpython-313.pyc",
+    "size": 1012,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_multilinestring.cpython-313.pyc",
+    "size": 4929,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_multipoint.cpython-313.pyc",
+    "size": 6294,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_multipolygon.cpython-313.pyc",
+    "size": 6409,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_point.cpython-313.pyc",
+    "size": 10429,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/test_polygon.cpython-313.pyc",
+    "size": 23891,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/tests/geometry/__pycache__/__init__.cpython-313.pyc",
+    "size": 202,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/geometry/__pycache__/base.cpython-313.pyc",
+    "size": 51746,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/geometry/__pycache__/collection.cpython-313.pyc",
+    "size": 2492,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/geometry/__pycache__/geo.cpython-313.pyc",
+    "size": 5554,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/geometry/__pycache__/linestring.cpython-313.pyc",
+    "size": 7932,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/geometry/__pycache__/multilinestring.cpython-313.pyc",
+    "size": 4482,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/geometry/__pycache__/multipoint.cpython-313.pyc",
+    "size": 4743,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/geometry/__pycache__/multipolygon.cpython-313.pyc",
+    "size": 5509,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/geometry/__pycache__/point.cpython-313.pyc",
+    "size": 6544,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/geometry/__pycache__/polygon.cpython-313.pyc",
+    "size": 15355,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/geometry/__pycache__/__init__.cpython-313.pyc",
+    "size": 969,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/algorithms/__pycache__/cga.cpython-313.pyc",
+    "size": 2837,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/algorithms/__pycache__/polylabel.cpython-313.pyc",
+    "size": 1562,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/algorithms/__pycache__/_oriented_envelope.cpython-313.pyc",
+    "size": 2469,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  },
+  {
+    "path": "工具/岸线网格/python_libs/shapely/algorithms/__pycache__/__init__.cpython-313.pyc",
+    "size": 247,
+    "reason": "Python 字节码或系统缩略图缓存，可再生成"
+  }
+]

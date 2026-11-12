@@ -1,0 +1,22 @@
+{
+  "tool": "built-in image_gen via ImageGen skill",
+  "outputs": [
+    {
+      "alpha_check": "Pillow逐像素读取完整RGBA alpha：尺寸1254x1254，总像素1,572,516；alpha=0: 980,259；alpha 1..254: 591,717；alpha=255: 540。alpha>127覆盖率约26.18%。",
+      "requested_size": "1024x1024",
+      "transparent_background_requested": true,
+      "actual_size": "1254x1254",
+      "file": "ivy_wall.png",
+      "prompt": "1024 square transparent PNG vertical climbing ivy decal. Front-facing vertical climbing ivy/vine cluster for game walls; green recognizable three-lobed or palmately lobed Boston ivy leaves; thin vines grow upward from bottom and branch. Fairly dense foliage while retaining clear transparent gaps. Limited-palette hand-painted pixel/block art, crisp readable silhouettes. Tall irregular natural silhouette. Flat albedo only, no cast shadow/highlights/glow. Actual transparent alpha; no wall, backdrop, planter, soil, flowers, text, watermark."
+    },
+    {
+      "alpha_check": "Pillow逐像素读取完整RGBA alpha：尺寸1254x1254，总像素1,572,516；alpha=0: 1,510,273；alpha 1..254: 61,635；alpha=255: 608。",
+      "requested_size": "1024x1024",
+      "transparent_background_requested": true,
+      "actual_size": "1254x1254",
+      "file": "crack_decal.png",
+      "prompt": "1024 square transparent PNG irregular dark grey stone-wall crack decal. One main crack rises vertically from bottom, wider/branching near bottom and tapering fine upward; only a few short angled side branches; narrow subtle pale grey chipped edge. Hand-painted pixel/block art, crisp stepped edges. Outside crack and very narrow edge fully transparent; no rectangular silhouette. Flat color, no glow/shadows/highlights. Actual transparent alpha; no wall/background/texture field, objects, text, watermark."
+    }
+  ],
+  "limitations": "ImageGen outputs are 1254x1254 rather than requested 1024; no resizing performed. Alpha counts are exhaustive Pillow per-pixel counts."
+}

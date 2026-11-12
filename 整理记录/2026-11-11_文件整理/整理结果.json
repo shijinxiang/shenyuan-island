@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "date": "2026-11-11",
+  "cleanup_method": "Windows回收站",
+  "removed_from_workspace_bytes": 9485558458,
+  "recycled_files": 8709,
+  "recycled_directories": 17,
+  "archive_unique_files": 100,
+  "moved_topic_files": 29,
+  "history": "D:\\浪费GPT额度\\历史交付\\深渊岛_交付_2026-11-07",
+  "runtime_files_verified": 1502,
+  "missing_runtime_dependencies": 0,
+  "evidence_paths_verified": 67,
+  "documents_byte_identical": true,
+  "workspace_after_bytes": 29567250602,
+  "workspace_after_files": 3689
+}

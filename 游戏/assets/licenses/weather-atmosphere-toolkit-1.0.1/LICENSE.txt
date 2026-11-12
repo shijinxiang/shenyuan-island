@@ -1,0 +1,63 @@
+WEATHER & ATMOSPHERE TOOLKIT — COMMERCIAL ASSET LICENSE
+Version 1.0
+
+Copyright © 2026 RastalR. All rights reserved
+except for the permissions granted below.
+
+1. LICENSE GRANT
+
+A person or legal entity that lawfully obtains this asset package (the
+"Licensee") receives a non-exclusive, worldwide, perpetual license to use,
+copy, and modify the included code, scenes, presets, documentation, and demo
+materials (the "Assets") in personal and commercial games, applications,
+interactive media, films, videos, and other larger projects.
+
+Attribution is appreciated but not required.
+
+2. PROJECT DISTRIBUTION
+
+The Licensee may distribute the Assets only when they are integrated into a
+larger project and are not the primary downloadable product. Compiled games and
+applications may include the Assets. Source files may be shared with employees
+or contractors solely as needed to work on the Licensee's projects; those
+people may not reuse or redistribute the Assets independently.
+
+3. PROHIBITED REDISTRIBUTION
+
+The Licensee may not resell, sublicense, publish, share, or redistribute the
+Assets, modified versions of the Assets, or substantially equivalent extracted
+files as a standalone asset pack, template, library, starter kit, source-code
+download, or competing product. The Licensee may not make the Assets available
+in a form designed to let end users extract and reuse them outside the larger
+project.
+
+4. OWNERSHIP AND NON-EXCLUSIVITY
+
+The Licensee owns their larger project but does not gain ownership of the
+Assets themselves. The Assets are licensed non-exclusively and may be licensed
+to other customers.
+
+5. AI DISCLOSURE
+
+Generative AI and AI-assisted coding tools were used during production. The
+package was assembled, reviewed, tested, and documented as an engine-ready
+product.
+
+6. TRADEMARKS AND ENDORSEMENT
+
+This package is not affiliated with or endorsed by the Godot Engine project or
+itch.io. Names and trademarks belong to their respective owners.
+
+7. WARRANTY AND LIABILITY
+
+The Assets are provided "as is," without express or implied warranties. To the
+maximum extent permitted by applicable law, the publisher is not liable for
+indirect, incidental, special, or consequential damages arising from use of the
+Assets.
+
+8. TERMINATION
+
+This license terminates automatically if the Licensee materially violates its
+terms. Rights are restored if the violation is corrected within 30 days after
+the Licensee becomes aware of it, unless the violation was deliberate and
+cannot reasonably be corrected.

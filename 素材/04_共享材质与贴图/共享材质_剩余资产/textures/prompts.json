@@ -1,0 +1,21 @@
+{
+  "generatedBy": "ImageGen",
+  "assets": [
+    {
+      "filename": "P02_teal_painted_wood_BaseColor.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "bytes": 2170386,
+      "prompt": "Seamless tileable BaseColor texture for a 3D game, square top-down orthographic material swatch, flat full frame surface only. Hand-painted stylized game art matching the provided references: aged wooden planks with warm brown timber beneath muted teal green paint covering about 60 percent; horizontal long fine wood grain and plank direction; irregular chipped paint edges exposing brown wood, subtle fine cracks, small scale details suitable for near-field sampling. Unlit, neutral even color, no lighting, shading, shadows, highlights or baked AO. Perfectly repeatable edges on all four sides. No perspective, boat silhouette, objects, metal, nails, rope, water, environment, oversized pixel blocks, text, watermark."
+    },
+    {
+      "filename": "Rock_strata_BaseColor.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "bytes": 1743558,
+      "prompt": "Use case: game-texture. Asset type: seamless tileable BaseColor texture for a 3D game, intended for near-field sampling. Input images: the provided pointed standing rock and western shore cliff images are style references for the game's hand-painted softly faceted rock palette and surface marks. Scene/backdrop: flat full-frame surface texture only. Subject: continuous gray-purple and warm gray rock strata. Style/medium: hand-painted stylized game texture with fine pixel-like color patches, low contrast, matching the references but with no object silhouette. Composition/framing: square orthographic top-down texture swatch, evenly fills frame edge to edge, seamless tileable on all four edges, subtle fractured layered strata flow across the image. Lighting/mood: unlit neutral diffuse BaseColor, even values, no baked light or shading. Color palette: muted gray-purple and warm gray stone, restrained tonal variation. Materials/textures: low-contrast fine fragmented sedimentary layers and small angular color facets, subtle surface granulation, moderately fine scale for close sampling. Constraints: texture map only, flat orthographic, seamless repeatable edges, no lighting, shadows, highlights, ambient occlusion, perspective or depth. Avoid: cliff or boulder silhouette, large rock forms, large black cracks, deep fissures, green grass, moss, vegetation, sky, environment, border, vignette, text, watermark, photorealism."
+    }
+  ]
+}

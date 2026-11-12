@@ -1,0 +1,42 @@
+{
+  "code": "C03",
+  "label": "商人",
+  "source": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\人物接入\\商人\\原始模型\\tripo_convert_c3b0d688-1d8e-4b91-91bb-b6dfab78e124.fbx",
+  "bounds": [
+    [
+      -0.499755859375,
+      -0.112548828125,
+      -4.919665563818398e-09
+    ],
+    [
+      0.499755859375,
+      0.11254886537790298,
+      0.89599609375
+    ]
+  ],
+  "meshes": [
+    {
+      "name": "tripo_node_c3b0d688",
+      "vertices": 19243,
+      "triangles": 39039,
+      "uv_layers": 1,
+      "vertex_groups": 0,
+      "materials": [
+        "tripo_mat_c3b0d688"
+      ],
+      "modifiers": []
+    }
+  ],
+  "armatures": [],
+  "images": [
+    {
+      "name": "tripo_image_c3b0d688_0",
+      "size": [
+        2048,
+        2048
+      ],
+      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\人物接入\\商人\\原始模型\\tripo_convert_c3b0d688-1d8e-4b91-91bb-b6dfab78e124.fbm\\tripo_image_c3b0d688-1d8e-4b91-91bb-b6dfab78e124_0_0.jpg",
+      "packed": false
+    }
+  ]
+}

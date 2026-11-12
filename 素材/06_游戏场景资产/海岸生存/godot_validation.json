@@ -1,0 +1,128 @@
+{
+  "bed": {
+    "aabb_min": [
+      -0.615000009536743,
+      0.0,
+      -0.964999914169312
+    ],
+    "aabb_size": [
+      1.22931480407715,
+      0.949999928474426,
+      1.92999982833862
+    ],
+    "mesh_paths": [
+      "BedMesh"
+    ]
+  },
+  "cabin_lamp": {
+    "aabb_min": [
+      -0.186438366770744,
+      -0.00129896402359009,
+      -0.181110680103302
+    ],
+    "aabb_size": [
+      0.372876763343811,
+      0.601299047470093,
+      0.362221360206604
+    ],
+    "mesh_paths": [
+      "CabinLampMesh"
+    ]
+  },
+  "chest": {
+    "aabb_min": [
+      -0.575000047683716,
+      0.0,
+      -0.294655740261078
+    ],
+    "aabb_size": [
+      1.14999997615814,
+      0.653999984264374,
+      0.609460830688477
+    ],
+    "closed_transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 1.0, 0.0), Z: (0.0, 0.0, 1.0), O: (0.0, 0.535, -0.285)]",
+    "lid_path": "LidPivot",
+    "mesh_paths": [
+      "ChestBase",
+      "LidPivot/ChestLid"
+    ],
+    "opened_transform": "[X: (1.0, 0.0, 0.0), Y: (0.0, 0.267499, -0.963558), Z: (0.0, 0.963558, 0.267499), O: (0.0, 0.535, -0.285)]"
+  },
+  "failures": [],
+  "food_bundle": {
+    "aabb_min": [
+      -0.209232732653618,
+      0.0,
+      -0.15999998152256
+    ],
+    "aabb_size": [
+      0.418465465307236,
+      0.257608413696289,
+      0.31999996304512
+    ],
+    "mesh_paths": [
+      "FoodBundleMesh"
+    ]
+  },
+  "medical_kit": {
+    "aabb_min": [
+      -0.180000007152557,
+      0.0,
+      -0.0900000035762787
+    ],
+    "aabb_size": [
+      0.360000014305115,
+      0.329403132200241,
+      0.194000005722046
+    ],
+    "mesh_paths": [
+      "MedicalKitMesh"
+    ]
+  },
+  "passed": true,
+  "saltwater_crocodile": {
+    "aabb_min": [
+      -0.542287111282349,
+      0.0000000298023223876953,
+      -1.57000017166138
+    ],
+    "aabb_size": [
+      1.0845742225647,
+      0.560073375701904,
+      2.91000032424927
+    ],
+    "animations": {
+      "Attack": {
+        "jaw_rotation_at_quarter": "(-0.342382, 0, 0, 0.939561)",
+        "length": 0.899999976158142,
+        "tracks": 20
+      },
+      "Crawl": {
+        "length": 1.20000004768372,
+        "tracks": 20
+      },
+      "Death": {
+        "length": 1.29999995231628,
+        "tracks": 20
+      },
+      "Eat": {
+        "length": 1.39999997615814,
+        "tracks": 20
+      },
+      "Idle": {
+        "length": 2.0,
+        "tracks": 20
+      },
+      "Swim": {
+        "length": 1.60000002384186,
+        "tracks": 20
+      }
+    },
+    "animator_path": "AnimationPlayer",
+    "bone_count": 19,
+    "mesh_paths": [
+      "CrocodileRig/Skeleton3D/CrocodileMesh"
+    ],
+    "skeleton_path": "CrocodileRig/Skeleton3D"
+  }
+}

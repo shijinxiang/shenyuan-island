@@ -1,0 +1,74 @@
+[
+  {
+    "Berries": false,
+    "Flame": false,
+    "Harvest": false,
+    "error": 0,
+    "file": "berry.glb",
+    "meshes": 1
+  },
+  {
+    "Berries": true,
+    "Flame": false,
+    "Harvest": false,
+    "error": 0,
+    "file": "berry_bush.glb",
+    "meshes": 2
+  },
+  {
+    "Berries": false,
+    "Flame": false,
+    "Harvest": false,
+    "error": 0,
+    "file": "berry_bush_empty.glb",
+    "meshes": 1
+  },
+  {
+    "Berries": false,
+    "Flame": true,
+    "Harvest": false,
+    "error": 0,
+    "file": "cooking_pot.glb",
+    "meshes": 3
+  },
+  {
+    "Berries": false,
+    "Flame": false,
+    "Harvest": false,
+    "error": 0,
+    "file": "meal_bowl.glb",
+    "meshes": 1
+  },
+  {
+    "Berries": false,
+    "Flame": false,
+    "Harvest": false,
+    "error": 0,
+    "file": "meat.glb",
+    "meshes": 1
+  },
+  {
+    "Berries": false,
+    "Flame": false,
+    "Harvest": false,
+    "error": 0,
+    "file": "mushroom.glb",
+    "meshes": 1
+  },
+  {
+    "Berries": false,
+    "Flame": false,
+    "Harvest": true,
+    "error": 0,
+    "file": "mushrooms.glb",
+    "meshes": 2
+  },
+  {
+    "Berries": false,
+    "Flame": false,
+    "Harvest": false,
+    "error": 0,
+    "file": "mushrooms_empty.glb",
+    "meshes": 1
+  }
+]

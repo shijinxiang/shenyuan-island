@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://depjmj07qepxn"
+path="res://.godot/imported/shallow_water_solver.glsl-cc0109048e12590faceade001c6fbe18.res"
+
+[deps]
+
+source_file="res://shaders/shallow_water_solver.glsl"
+dest_files=["res://.godot/imported/shallow_water_solver.glsl-cc0109048e12590faceade001c6fbe18.res"]
+
+[params]
+

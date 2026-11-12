@@ -1,0 +1,40 @@
+{
+  "triangles": 1499986,
+  "meshes": 1,
+  "all_have_uv": true,
+  "images": [
+    {
+      "name": "texture_pbr_20250901",
+      "size": [
+        4096,
+        4096
+      ],
+      "loaded": true,
+      "packed": true
+    },
+    {
+      "name": "texture_pbr_20250901_metallic-texture_pbr_20250901_roughness",
+      "size": [
+        4096,
+        4096
+      ],
+      "loaded": true,
+      "packed": true
+    },
+    {
+      "name": "texture_pbr_20250901_normal",
+      "size": [
+        4096,
+        4096
+      ],
+      "loaded": true,
+      "packed": true
+    }
+  ],
+  "geometry_and_materials_modified": false,
+  "dimensions": [
+    0.7625179886817932,
+    0.7570882439613342,
+    1.0943821668624878
+  ]
+}

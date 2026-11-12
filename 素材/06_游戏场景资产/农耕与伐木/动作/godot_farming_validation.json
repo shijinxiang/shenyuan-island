@@ -1,0 +1,30 @@
+[
+	{
+		"bones": 53,
+		"clip": "Harvest",
+		"duration": 7.1,
+		"hips_height_range": [
+			0.447629511356354,
+			0.900759220123291
+		],
+		"loop": 0,
+		"max_left_hand_angle_radians": 0.436332821846008,
+		"sampled_frames": 214,
+		"track_example": "GeneralSkeleton/Skeleton3D:Hips",
+		"tracks": 53
+	},
+	{
+		"bones": 53,
+		"clip": "Watering",
+		"duration": 5.6,
+		"hips_height_range": [
+			0.879049181938171,
+			0.902649223804474
+		],
+		"loop": 0,
+		"max_left_hand_angle_radians": 0.962570250034332,
+		"sampled_frames": 169,
+		"track_example": "GeneralSkeleton/Skeleton3D:Hips",
+		"tracks": 53
+	}
+]

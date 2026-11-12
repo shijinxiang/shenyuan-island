@@ -1,0 +1,171 @@
+{
+  "units": "metres",
+  "forward": "+Z",
+  "size_x_y_z": [
+    1.498,
+    1.704,
+    2.631992
+  ],
+  "ground_y": 0,
+  "wheel_radius": 0.329,
+  "wheels": {
+    "Wheel_FL": {
+      "path": "Steer_L/Wheel_FL",
+      "position": [
+        -0.6000000238418579,
+        0.32899999618530273,
+        0.8500000238418579
+      ],
+      "spin_axis": "X",
+      "radius": 0.329,
+      "steering_pivot": "Steer_L"
+    },
+    "Wheel_RL": {
+      "path": "Wheel_RL",
+      "position": [
+        -0.6000000238418579,
+        0.32899999618530273,
+        -0.8500000238418579
+      ],
+      "spin_axis": "X",
+      "radius": 0.329,
+      "steering_pivot": null
+    },
+    "Wheel_FR": {
+      "path": "Steer_R/Wheel_FR",
+      "position": [
+        0.6000000238418579,
+        0.32899999618530273,
+        0.8500000238418579
+      ],
+      "spin_axis": "X",
+      "radius": 0.329,
+      "steering_pivot": "Steer_R"
+    },
+    "Wheel_RR": {
+      "path": "Wheel_RR",
+      "position": [
+        0.6000000238418579,
+        0.32899999618530273,
+        -0.8500000238418579
+      ],
+      "spin_axis": "X",
+      "radius": 0.329,
+      "steering_pivot": null
+    }
+  },
+  "steering_wheel": {
+    "path": "SteeringWheel",
+    "position": [
+      0,
+      1.055,
+      0.04
+    ],
+    "rotation_axis": "Z",
+    "radius": 0.208
+  },
+  "markers": {
+    "DriverSeat": {
+      "path": "DriverSeat",
+      "position": [
+        0,
+        0,
+        -0.25
+      ]
+    },
+    "SeatPelvis": {
+      "path": "SeatPelvis",
+      "position": [
+        0,
+        0.78,
+        -0.25
+      ]
+    },
+    "EntryPoint": {
+      "path": "EntryPoint",
+      "position": [
+        -0.98,
+        0,
+        -0.25
+      ]
+    },
+    "ExitPoint": {
+      "path": "ExitPoint",
+      "position": [
+        1.0,
+        0,
+        -0.25
+      ]
+    },
+    "CameraFollow": {
+      "path": "CameraFollow",
+      "position": [
+        0,
+        1.65,
+        -2.8
+      ]
+    },
+    "HandGripL": {
+      "path": "HandGripL",
+      "position": [
+        0.208,
+        1.056,
+        0.01
+      ]
+    },
+    "HandGripR": {
+      "path": "HandGripR",
+      "position": [
+        -0.207,
+        1.048,
+        0.056
+      ]
+    }
+  },
+  "driver_anchor_note": "Parent the C01 visual at DriverSeat (actor-origin marker Y=0). The animation itself places Hips at Y=.78. Do not add .78 twice. SeatPelvis is an anatomical reference, not the actor root.",
+  "seat_cushion_top_y": 0.7,
+  "driver_pelvis_y": 0.78,
+  "animations": {
+    "Entering Car": {
+      "resource": "res://assets/characters/C01_entering_car.res",
+      "duration": 5.466666666666667,
+      "loop": false,
+      "horizontal_root_motion": false,
+      "vertical_motion_preserved": true,
+      "end_hips_y": 0.78
+    },
+    "Driving": {
+      "resource": "res://assets/characters/C01_driving.res",
+      "duration": 5.0,
+      "loop": true,
+      "horizontal_root_motion": false,
+      "hips_y": 0.78
+    }
+  },
+  "meshes": {
+    "BuggyBody": {
+      "triangles": 3472,
+      "vertices": 1880
+    },
+    "Wheel_FL": {
+      "triangles": 936,
+      "vertices": 516
+    },
+    "Wheel_RL": {
+      "triangles": 936,
+      "vertices": 516
+    },
+    "Wheel_FR": {
+      "triangles": 936,
+      "vertices": 516
+    },
+    "Wheel_RR": {
+      "triangles": 936,
+      "vertices": 516
+    },
+    "SteeringWheel": {
+      "triangles": 260,
+      "vertices": 140
+    }
+  }
+}

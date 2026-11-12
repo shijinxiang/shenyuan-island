@@ -1,0 +1,40 @@
+[
+  {
+    "format": "glb",
+    "triangles": 11848,
+    "welded_nonmanifold_edges": 0,
+    "zero_area_faces": 0,
+    "duplicate_triangles": 0,
+    "missing_uv": [],
+    "images": [
+      {
+        "name": "木纹_BaseColor",
+        "packed": true,
+        "loaded": true,
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "format": "fbx",
+    "triangles": 11848,
+    "welded_nonmanifold_edges": 0,
+    "zero_area_faces": 0,
+    "duplicate_triangles": 0,
+    "missing_uv": [],
+    "images": [
+      {
+        "name": "Weathered honey timber",
+        "packed": true,
+        "loaded": true,
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ]
+  }
+]

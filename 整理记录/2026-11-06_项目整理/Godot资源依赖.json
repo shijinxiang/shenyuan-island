@@ -1,0 +1,1397 @@
+{
+  "res://addons/godot_ai/client_configurator.gd": [],
+  "res://addons/godot_ai/clients/_atomic_write.gd": [],
+  "res://addons/godot_ai/clients/_base.gd": [],
+  "res://addons/godot_ai/clients/_cli_exec.gd": [],
+  "res://addons/godot_ai/clients/_cli_finder.gd": [],
+  "res://addons/godot_ai/clients/_cli_strategy.gd": [],
+  "res://addons/godot_ai/clients/_dsh_strategy.gd": [],
+  "res://addons/godot_ai/clients/_json_strategy.gd": [],
+  "res://addons/godot_ai/clients/_manual_command.gd": [],
+  "res://addons/godot_ai/clients/_path_template.gd": [],
+  "res://addons/godot_ai/clients/_registry.gd": [],
+  "res://addons/godot_ai/clients/_toml_strategy.gd": [],
+  "res://addons/godot_ai/clients/_yaml_strategy.gd": [],
+  "res://addons/godot_ai/clients/antigravity.gd": [],
+  "res://addons/godot_ai/clients/claude_code.gd": [],
+  "res://addons/godot_ai/clients/claude_desktop.gd": [],
+  "res://addons/godot_ai/clients/cline.gd": [],
+  "res://addons/godot_ai/clients/codebuddy.gd": [],
+  "res://addons/godot_ai/clients/codex.gd": [],
+  "res://addons/godot_ai/clients/cursor.gd": [],
+  "res://addons/godot_ai/clients/deepseek_harness.gd": [],
+  "res://addons/godot_ai/clients/gemini_cli.gd": [],
+  "res://addons/godot_ai/clients/grok.gd": [],
+  "res://addons/godot_ai/clients/hermes.gd": [],
+  "res://addons/godot_ai/clients/kilo_code.gd": [],
+  "res://addons/godot_ai/clients/kimi_code.gd": [],
+  "res://addons/godot_ai/clients/kiro.gd": [],
+  "res://addons/godot_ai/clients/omp.gd": [],
+  "res://addons/godot_ai/clients/opencode.gd": [],
+  "res://addons/godot_ai/clients/pi.gd": [],
+  "res://addons/godot_ai/clients/qoder.gd": [],
+  "res://addons/godot_ai/clients/qoder_cn.gd": [],
+  "res://addons/godot_ai/clients/qwen_code.gd": [],
+  "res://addons/godot_ai/clients/roo_code.gd": [],
+  "res://addons/godot_ai/clients/trae.gd": [],
+  "res://addons/godot_ai/clients/vscode.gd": [],
+  "res://addons/godot_ai/clients/vscode_insiders.gd": [],
+  "res://addons/godot_ai/clients/windsurf.gd": [],
+  "res://addons/godot_ai/clients/zcode.gd": [],
+  "res://addons/godot_ai/clients/zed.gd": [],
+  "res://addons/godot_ai/clients/zoo_code.gd": [],
+  "res://addons/godot_ai/connection.gd": [],
+  "res://addons/godot_ai/custom_tools/custom_tool_wrapper.gd": [],
+  "res://addons/godot_ai/custom_tools/mcp_call_context.gd": [],
+  "res://addons/godot_ai/custom_tools/mcp_custom_tool_spec.gd": [],
+  "res://addons/godot_ai/custom_tools/mcp_service_locator.gd": [],
+  "res://addons/godot_ai/custom_tools/mcp_tool_registry.gd": [],
+  "res://addons/godot_ai/debugger/mcp_debugger_plugin.gd": [],
+  "res://addons/godot_ai/dispatcher.gd": [],
+  "res://addons/godot_ai/dock_panels/log_viewer.gd": [],
+  "res://addons/godot_ai/dock_panels/port_picker_panel.gd": [],
+  "res://addons/godot_ai/export/mcp_export_plugin.gd": [],
+  "res://addons/godot_ai/handlers/_node_validator.gd": [],
+  "res://addons/godot_ai/handlers/_param_validators.gd": [],
+  "res://addons/godot_ai/handlers/_property_errors.gd": [],
+  "res://addons/godot_ai/handlers/animation_handler.gd": [],
+  "res://addons/godot_ai/handlers/animation_presets.gd": [],
+  "res://addons/godot_ai/handlers/animation_tree_handler.gd": [],
+  "res://addons/godot_ai/handlers/animation_values.gd": [],
+  "res://addons/godot_ai/handlers/api_handler.gd": [],
+  "res://addons/godot_ai/handlers/audio_bus_handler.gd": [],
+  "res://addons/godot_ai/handlers/audio_handler.gd": [],
+  "res://addons/godot_ai/handlers/autoload_handler.gd": [],
+  "res://addons/godot_ai/handlers/batch_handler.gd": [],
+  "res://addons/godot_ai/handlers/camera_handler.gd": [],
+  "res://addons/godot_ai/handlers/camera_presets.gd": [],
+  "res://addons/godot_ai/handlers/camera_values.gd": [],
+  "res://addons/godot_ai/handlers/client_handler.gd": [],
+  "res://addons/godot_ai/handlers/command_handler.gd": [],
+  "res://addons/godot_ai/handlers/control_draw_recipe_handler.gd": [],
+  "res://addons/godot_ai/handlers/csg_handler.gd": [],
+  "res://addons/godot_ai/handlers/curve_handler.gd": [],
+  "res://addons/godot_ai/handlers/editor_handler.gd": [],
+  "res://addons/godot_ai/handlers/environment_handler.gd": [],
+  "res://addons/godot_ai/handlers/filesystem_handler.gd": [],
+  "res://addons/godot_ai/handlers/filesystem_mutation.gd": [],
+  "res://addons/godot_ai/handlers/gridmap_handler.gd": [],
+  "res://addons/godot_ai/handlers/input_handler.gd": [],
+  "res://addons/godot_ai/handlers/material_handler.gd": [],
+  "res://addons/godot_ai/handlers/material_presets.gd": [],
+  "res://addons/godot_ai/handlers/material_values.gd": [],
+  "res://addons/godot_ai/handlers/navigation_handler.gd": [],
+  "res://addons/godot_ai/handlers/node_handler.gd": [],
+  "res://addons/godot_ai/handlers/particle_handler.gd": [],
+  "res://addons/godot_ai/handlers/particle_presets.gd": [],
+  "res://addons/godot_ai/handlers/particle_values.gd": [],
+  "res://addons/godot_ai/handlers/physics_shape_handler.gd": [],
+  "res://addons/godot_ai/handlers/physics_shape_refresh.gd": [],
+  "res://addons/godot_ai/handlers/project_handler.gd": [],
+  "res://addons/godot_ai/handlers/resource_handler.gd": [],
+  "res://addons/godot_ai/handlers/scene_handler.gd": [],
+  "res://addons/godot_ai/handlers/script_handler.gd": [],
+  "res://addons/godot_ai/handlers/shader_handler.gd": [],
+  "res://addons/godot_ai/handlers/signal_handler.gd": [],
+  "res://addons/godot_ai/handlers/test_handler.gd": [],
+  "res://addons/godot_ai/handlers/texture_handler.gd": [],
+  "res://addons/godot_ai/handlers/theme_handler.gd": [],
+  "res://addons/godot_ai/handlers/tilemap_handler.gd": [],
+  "res://addons/godot_ai/handlers/tileset_handler.gd": [],
+  "res://addons/godot_ai/handlers/ui_handler.gd": [],
+  "res://addons/godot_ai/handlers/visual_shader_handler.gd": [],
+  "res://addons/godot_ai/mcp_dock.gd": [],
+  "res://addons/godot_ai/migration_bridge.gd": [],
+  "res://addons/godot_ai/migration_coordinator.gd": [],
+  "res://addons/godot_ai/migration_fallback.gd": [],
+  "res://addons/godot_ai/plugin.gd": [],
+  "res://addons/godot_ai/runtime/draw_recipe.gd": [],
+  "res://addons/godot_ai/runtime/editor_logger.gd": [],
+  "res://addons/godot_ai/runtime/game_helper.gd": [],
+  "res://addons/godot_ai/runtime/game_logger.gd": [],
+  "res://addons/godot_ai/runtime/validation_logger.gd": [],
+  "res://addons/godot_ai/telemetry.gd": [],
+  "res://addons/godot_ai/testing/script_error_capture.gd": [],
+  "res://addons/godot_ai/testing/test_runner.gd": [],
+  "res://addons/godot_ai/testing/test_suite.gd": [],
+  "res://addons/godot_ai/tool_catalog.gd": [],
+  "res://addons/godot_ai/utils/allow_hosts.gd": [],
+  "res://addons/godot_ai/utils/class_introspection.gd": [],
+  "res://addons/godot_ai/utils/client_job_owner.gd": [],
+  "res://addons/godot_ai/utils/client_mutation_lock.gd": [],
+  "res://addons/godot_ai/utils/client_repair_ownership.gd": [],
+  "res://addons/godot_ai/utils/diagnostics_capture.gd": [],
+  "res://addons/godot_ai/utils/editor_log_buffer.gd": [],
+  "res://addons/godot_ai/utils/error_codes.gd": [],
+  "res://addons/godot_ai/utils/fuzzy_suggestions.gd": [],
+  "res://addons/godot_ai/utils/game_log_buffer.gd": [],
+  "res://addons/godot_ai/utils/json_values.gd": [],
+  "res://addons/godot_ai/utils/linux_proc.gd": [],
+  "res://addons/godot_ai/utils/log_backtrace.gd": [],
+  "res://addons/godot_ai/utils/log_buffer.gd": [],
+  "res://addons/godot_ai/utils/mcp_adoption_label.gd": [],
+  "res://addons/godot_ai/utils/mcp_client_refresh_state.gd": [],
+  "res://addons/godot_ai/utils/mcp_server_state.gd": [],
+  "res://addons/godot_ai/utils/mcp_startup_path.gd": [],
+  "res://addons/godot_ai/utils/mesh_workload.gd": [],
+  "res://addons/godot_ai/utils/path_validator.gd": [],
+  "res://addons/godot_ai/utils/plugin_reload.gd": [],
+  "res://addons/godot_ai/utils/port_resolver.gd": [],
+  "res://addons/godot_ai/utils/release_verifier.gd": [],
+  "res://addons/godot_ai/utils/resource_builders.gd": [],
+  "res://addons/godot_ai/utils/resource_inspector.gd": [],
+  "res://addons/godot_ai/utils/resource_io.gd": [],
+  "res://addons/godot_ai/utils/scene_path.gd": [],
+  "res://addons/godot_ai/utils/screenshot_encode.gd": [],
+  "res://addons/godot_ai/utils/script_work.gd": [],
+  "res://addons/godot_ai/utils/server_authority.gd": [],
+  "res://addons/godot_ai/utils/server_lifecycle.gd": [],
+  "res://addons/godot_ai/utils/server_version_check.gd": [],
+  "res://addons/godot_ai/utils/settings.gd": [],
+  "res://addons/godot_ai/utils/structured_log_ring.gd": [],
+  "res://addons/godot_ai/utils/surfaced_error_tracker.gd": [],
+  "res://addons/godot_ai/utils/transport_capability.gd": [],
+  "res://addons/godot_ai/utils/update_activation_runner.gd": [],
+  "res://addons/godot_ai/utils/update_installer.gd": [],
+  "res://addons/godot_ai/utils/update_manager.gd": [],
+  "res://addons/godot_ai/utils/update_mixed_state.gd": [],
+  "res://addons/godot_ai/utils/uv_cache_cleanup.gd": [],
+  "res://addons/godot_ai/utils/uv_resolution_policy.gd": [],
+  "res://addons/godot_ai/utils/variant_serializer.gd": [],
+  "res://addons/godot_ai/utils/windows_port_reservation.gd": [],
+  "res://addons/godot_ai/vision_routing.gd": [],
+  "res://addons/low_poly_skies/demo/gallery.gd": [],
+  "res://addons/low_poly_skies/demo/gallery.tscn": [
+    "res://addons/low_poly_skies/demo/gallery.gd"
+  ],
+  "res://addons/low_poly_skies/demo/props.gd": [],
+  "res://addons/low_poly_skies/demo/props.tscn": [
+    "res://addons/low_poly_skies/demo/props.gd"
+  ],
+  "res://addons/low_poly_skies/demo/skies.gd": [],
+  "res://addons/low_poly_skies/demo/skies.tscn": [
+    "res://addons/low_poly_skies/demo/skies.gd"
+  ],
+  "res://addons/low_poly_skies/models/cloud_bank_model.glb": [],
+  "res://addons/low_poly_skies/models/cloud_cumulus_model.glb": [],
+  "res://addons/low_poly_skies/models/cloud_cumulus_small_model.glb": [],
+  "res://addons/low_poly_skies/models/cloud_storm_model.glb": [],
+  "res://addons/low_poly_skies/models/ground_meadow_model.glb": [],
+  "res://addons/low_poly_skies/models/lightning_model.glb": [],
+  "res://addons/low_poly_skies/models/moon_crescent_model.glb": [],
+  "res://addons/low_poly_skies/models/rainbow_model.glb": [],
+  "res://addons/low_poly_skies/models/star_model.glb": [],
+  "res://addons/low_poly_skies/models/sun_model.glb": [],
+  "res://addons/low_poly_skies/props.tres": [
+    "res://addons/low_poly_skies/atlas.png",
+    "res://addons/low_poly_skies/atlas_glow.png"
+  ],
+  "res://addons/low_poly_skies/props/cloud_bank.tscn": [
+    "res://addons/low_poly_skies/models/cloud_bank_model.glb"
+  ],
+  "res://addons/low_poly_skies/props/cloud_cumulus.tscn": [
+    "res://addons/low_poly_skies/models/cloud_cumulus_model.glb"
+  ],
+  "res://addons/low_poly_skies/props/cloud_cumulus_small.tscn": [
+    "res://addons/low_poly_skies/models/cloud_cumulus_small_model.glb"
+  ],
+  "res://addons/low_poly_skies/props/cloud_storm.tscn": [
+    "res://addons/low_poly_skies/models/cloud_storm_model.glb"
+  ],
+  "res://addons/low_poly_skies/props/ground_meadow.tscn": [
+    "res://addons/low_poly_skies/models/ground_meadow_model.glb"
+  ],
+  "res://addons/low_poly_skies/props/lightning.tscn": [
+    "res://addons/low_poly_skies/models/lightning_model.glb"
+  ],
+  "res://addons/low_poly_skies/props/moon_crescent.tscn": [
+    "res://addons/low_poly_skies/models/moon_crescent_model.glb"
+  ],
+  "res://addons/low_poly_skies/props/rainbow.tscn": [
+    "res://addons/low_poly_skies/models/rainbow_model.glb"
+  ],
+  "res://addons/low_poly_skies/props/star.tscn": [
+    "res://addons/low_poly_skies/models/star_model.glb"
+  ],
+  "res://addons/low_poly_skies/props/sun.tscn": [
+    "res://addons/low_poly_skies/models/sun_model.glb"
+  ],
+  "res://addons/low_poly_skies/skies/day_fair.tres": [
+    "res://addons/low_poly_skies/skies/day_fair.png"
+  ],
+  "res://addons/low_poly_skies/skies/day_fair.tscn": [
+    "res://addons/low_poly_skies/skies/day_fair.tres"
+  ],
+  "res://addons/low_poly_skies/skies/night_full_moon.tres": [
+    "res://addons/low_poly_skies/skies/night_full_moon.png"
+  ],
+  "res://addons/low_poly_skies/skies/night_full_moon.tscn": [
+    "res://addons/low_poly_skies/skies/night_full_moon.tres"
+  ],
+  "res://addons/low_poly_skies/skies/overcast_grey.tres": [
+    "res://addons/low_poly_skies/skies/overcast_grey.png"
+  ],
+  "res://addons/low_poly_skies/skies/overcast_grey.tscn": [
+    "res://addons/low_poly_skies/skies/overcast_grey.tres"
+  ],
+  "res://addons/low_poly_skies/skies/sunset_orange.tres": [
+    "res://addons/low_poly_skies/skies/sunset_orange.png"
+  ],
+  "res://addons/low_poly_skies/skies/sunset_orange.tscn": [
+    "res://addons/low_poly_skies/skies/sunset_orange.tres"
+  ],
+  "res://addons/nimblux_fx/core/nimblux_effect_3d.gd": [],
+  "res://addons/nimblux_fx/core/nimblux_meshes.gd": [],
+  "res://addons/nimblux_fx/nodes_3d/nimblux_rain_3d.gd": [],
+  "res://addons/nimblux_fx/presets/3d/rain_steady.tscn": [
+    "res://addons/nimblux_fx/nodes_3d/nimblux_rain_3d.gd"
+  ],
+  "res://addons/nimblux_fx/shaders/nimblux_common.gdshaderinc": [],
+  "res://addons/nimblux_fx/shaders/nimblux_precip.gdshader": [],
+  "res://addons/nimblux_fx/shaders/nimblux_splash.gdshader": [],
+  "res://addons/pd_move_vfx/demo/free_demo.gd": [],
+  "res://addons/pd_move_vfx/demo/free_demo.tscn": [
+    "res://addons/pd_move_vfx/demo/free_demo.gd",
+    "res://addons/pd_move_vfx/effects/Landing_Heavy.tscn",
+    "res://addons/pd_move_vfx/effects/Dash_Ground.tscn",
+    "res://addons/pd_move_vfx/effects/Footstep_Water_PSX.tscn"
+  ],
+  "res://addons/pd_move_vfx/effects/Dash_Ground.tscn": [
+    "res://addons/pd_move_vfx/scripts/pd_move_fx.gd",
+    "res://addons/pd_move_vfx/textures/MV_Streak.png",
+    "res://addons/pd_move_vfx/textures/VFX_Mask_02_Glow_Hot_1K.png",
+    "res://addons/pd_move_vfx/textures/VFX_Flipbook_01_Smoke_Puff_ONE_8x8_2048_alpha.png"
+  ],
+  "res://addons/pd_move_vfx/effects/Footstep_Water_PSX.tscn": [
+    "res://addons/pd_move_vfx/scripts/pd_move_fx.gd",
+    "res://addons/pd_move_vfx/textures/PX_VFX_Mask_04_Ring_Thin_1K.png",
+    "res://addons/pd_move_vfx/textures/PX_VFX_Mask_18_Droplet_128_alpha.png"
+  ],
+  "res://addons/pd_move_vfx/effects/Landing_Heavy.tscn": [
+    "res://addons/pd_move_vfx/scripts/pd_move_fx.gd",
+    "res://addons/pd_move_vfx/textures/VFX_Flipbook_01_Smoke_Puff_ONE_8x8_2048_alpha.png",
+    "res://addons/pd_move_vfx/textures/VFX_Mask_06_Shockwave_1K.png",
+    "res://addons/pd_move_vfx/textures/VFX_Mask_03_Circle_128_alpha.png"
+  ],
+  "res://addons/pd_move_vfx/scripts/pd_move_fx.gd": [],
+  "res://addons/pd_vfx_tools/pd_vfx_tools.gd": [],
+  "res://addons/weather_atmosphere/components/atmosphere_particles_3d.gd": [],
+  "res://addons/weather_atmosphere/components/lightning_3d.gd": [],
+  "res://addons/weather_atmosphere/components/precipitation_3d.gd": [],
+  "res://addons/weather_atmosphere/components/rain_splash_3d.gd": [],
+  "res://addons/weather_atmosphere/components/weather_audio.gd": [],
+  "res://addons/weather_atmosphere/core/weather_controller_3d.gd": [],
+  "res://addons/weather_atmosphere/core/weather_profile.gd": [],
+  "res://addons/weather_atmosphere/debug/wind_visualizer_3d.gd": [],
+  "res://addons/weather_atmosphere/presets/blizzard.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/presets/breezy_day.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/presets/clear_calm.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/presets/dense_fog.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/presets/dust_storm.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/presets/gentle_snow.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/presets/heavy_rain.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/presets/heavy_snow.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/presets/light_drizzle.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/presets/morning_mist.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/presets/steady_rain.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/presets/thunderstorm.tres": [
+    "res://addons/weather_atmosphere/core/weather_profile.gd"
+  ],
+  "res://addons/weather_atmosphere/weather_system_3d.tscn": [
+    "res://addons/weather_atmosphere/core/weather_controller_3d.gd",
+    "res://addons/weather_atmosphere/components/precipitation_3d.gd",
+    "res://addons/weather_atmosphere/components/lightning_3d.gd",
+    "res://addons/weather_atmosphere/components/atmosphere_particles_3d.gd",
+    "res://addons/weather_atmosphere/components/rain_splash_3d.gd",
+    "res://addons/weather_atmosphere/components/weather_audio.gd",
+    "res://addons/weather_atmosphere/debug/wind_visualizer_3d.gd"
+  ],
+  "res://addons/weather_atmosphere/zones/weather_zone_3d.gd": [],
+  "res://assets/adventure/harpoon.glb": [],
+  "res://assets/adventure/letter_table.glb": [],
+  "res://assets/adventure/seed_bag.glb": [],
+  "res://assets/adventure/voyager_boat.glb": [],
+  "res://assets/boating/hull_lining.glb": [],
+  "res://assets/boating/wooden_paddle.glb": [],
+  "res://assets/characters/C01_locomotion.glb": [
+    "uid://b5xociy2hlima::::res://assets/characters/C01_locomotion_tripo_image_72ed5180-d0cd-4602-8fc9-1fa72f6a8119_0_0.jpg"
+  ],
+  "res://assets/characters/C01_rigged.glb": [
+    "uid://tl63y8ll6you::::res://assets/characters/C01_rigged_tripo_image_72ed5180-d0cd-4602-8fc9-1fa72f6a8119_0_0.jpg"
+  ],
+  "res://assets/characters/C03_rigged.glb": [
+    "uid://w7ko7q1mcwys::::res://assets/characters/C03_rigged_tripo_image_c3b0d688-1d8e-4b91-91bb-b6dfab78e124_0_0.jpg"
+  ],
+  "res://assets/characters/C03_talking.glb": [
+    "uid://dxxe2frfxp67u::::res://assets/characters/C03_talking_tripo_image_c3b0d688-1d8e-4b91-91bb-b6dfab78e124_0_0.jpg"
+  ],
+  "res://assets/fauna/birds/American_Robin.glb": [
+    "uid://b824f5pmxltfb::::res://assets/fauna/birds/American_Robin_American_Robin_Tex.png"
+  ],
+  "res://assets/fauna/marine/BrownFish.glb": [],
+  "res://assets/fauna/marine/ClownFish.glb": [],
+  "res://assets/fauna/marine/Crab.glb": [],
+  "res://assets/fauna/marine/Dolphin.glb": [],
+  "res://assets/fauna/marine/DoryFish.glb": [],
+  "res://assets/fauna/marine/Eel.glb": [],
+  "res://assets/fauna/marine/Hammerhead.glb": [],
+  "res://assets/fauna/marine/Lobster.glb": [],
+  "res://assets/fauna/marine/Octopus.glb": [],
+  "res://assets/fauna/marine/Penguin.glb": [],
+  "res://assets/fauna/marine/Piranha.glb": [
+    "uid://cgweuakjiqdp0::::res://assets/fauna/marine/Piranha_piranhahigh.png"
+  ],
+  "res://assets/fauna/marine/ReefShark.glb": [
+    "uid://croeie5exrc8m::::res://assets/fauna/marine/ReefShark_shork.png"
+  ],
+  "res://assets/fauna/marine/Seal.glb": [],
+  "res://assets/fauna/marine/Shark.glb": [],
+  "res://assets/fauna/marine/Squid.glb": [],
+  "res://assets/fauna/marine/StingRay.glb": [],
+  "res://assets/fauna/marine/TunaFish.glb": [],
+  "res://assets/fauna/marine/Turtle.glb": [],
+  "res://assets/fauna/marine/Whale.glb": [],
+  "res://assets/fauna/marine/fish01.glb": [],
+  "res://assets/fauna/marine/fish01_shade.glb": [],
+  "res://assets/fauna/marine/fish02.glb": [],
+  "res://assets/fauna/marine/fish02_shade.glb": [],
+  "res://assets/fauna/marine/fish03.glb": [],
+  "res://assets/fauna/marine/fish03_shade.glb": [],
+  "res://assets/fishing/fishing_hook.glb": [
+    "uid://bm4c8wc1y6nbv::::res://assets/fishing/fishing_hook_tripo_image_038b5da5-966b-4e7f-b85f-59e4ff4877ae_0_0.jpg"
+  ],
+  "res://assets/fishing/fishing_rod_rigged.glb": [
+    "uid://m0ilohlmnt1b::::res://assets/fishing/fishing_rod_rigged_tripo_image_038b5da5-966b-4e7f-b85f-59e4ff4877ae_0_0.jpg"
+  ],
+  "res://assets/library/all_island_static.scn": [
+    "res://assets/optimized/B02_interactive_B02_red_paint.png",
+    "res://assets/optimized/B02_interactive_B02_wood_normal.png",
+    "res://assets/optimized/B02_interactive_B02_roof_metal.png",
+    "res://assets/optimized/B02_interactive_crack_decal.png",
+    "res://assets/library/shells/SH01_1.jpg",
+    "res://assets/library/shells/SH01_0.png",
+    "res://assets/library/shells/SH02_1.jpg",
+    "res://assets/library/shells/SH02_0.png",
+    "res://assets/library/shells/SH03_1.jpg",
+    "res://assets/library/shells/SH03_0.png",
+    "res://assets/library/shells/SH04_1.jpg",
+    "res://assets/library/shells/SH04_0.png",
+    "res://assets/library/shells/SH05_1.jpg",
+    "res://assets/library/shells/SH05_0.png",
+    "res://assets/library/shells/SH06_1.jpg",
+    "res://assets/library/shells/SH06_0.png",
+    "res://assets/library/shells/SH07_1.jpg",
+    "res://assets/library/shells/SH07_0.png",
+    "res://assets/library/shells/SH08_1.jpg",
+    "res://assets/library/shells/SH08_0.png",
+    "res://assets/library/shells/SH09_1.jpg",
+    "res://assets/library/shells/SH09_0.png",
+    "res://assets/library/shells/SH10_1.jpg",
+    "res://assets/library/shells/SH10_0.png",
+    "res://assets/library/shells/SH11_1.jpg",
+    "res://assets/library/shells/SH11_0.png",
+    "res://assets/library/shells/SH12_1.jpg",
+    "res://assets/library/shells/SH12_0.png",
+    "res://assets/library/shells/SH13_1.jpg",
+    "res://assets/library/shells/SH13_0.png",
+    "res://assets/library/shells/SH14_1.jpg",
+    "res://assets/library/shells/SH14_0.png",
+    "res://assets/library/shells/SH15_1.jpg",
+    "res://assets/library/shells/SH15_0.png",
+    "res://assets/library/shells/SH16_1.jpg",
+    "res://assets/library/shells/SH16_0.png",
+    "res://assets/library/shells/SH17_1.jpg",
+    "res://assets/library/shells/SH17_0.png",
+    "res://assets/library/shells/SH18_1.jpg",
+    "res://assets/library/shells/SH18_0.png",
+    "res://assets/library/shells/SH19_1.jpg",
+    "res://assets/library/shells/SH19_0.png",
+    "res://assets/library/shells/SH20_1.jpg",
+    "res://assets/library/shells/SH20_0.png",
+    "res://assets/library/shells/SH21_1.jpg",
+    "res://assets/library/shells/SH21_0.png",
+    "res://assets/library/shells/SH22_1.jpg",
+    "res://assets/library/shells/SH22_0.png",
+    "res://assets/library/shells/SH23_1.jpg",
+    "res://assets/library/shells/SH23_0.png",
+    "res://assets/library/shells/SH24_1.jpg",
+    "res://assets/library/shells/SH24_0.png",
+    "res://assets/library/shells/SH25_1.jpg",
+    "res://assets/library/shells/SH25_0.png",
+    "res://assets/library/rocks/RP01_Colorsheet Rock grey.png",
+    "res://assets/library/rocks/RP02_Colorsheet Rock orange.png",
+    "res://assets/library/rocks/RP03_Colorsheet Rock sand.png",
+    "res://assets/library/rocks/RP04_Colorsheet Rock green.png",
+    "res://assets/library/rocks/RP05_Colorsheet Rock green.png",
+    "res://assets/library/rocks/RP06_Colorsheet Rock grey.png",
+    "res://assets/library/rocks/RP07_Colorsheet Rock orange.png",
+    "res://assets/library/rocks/RP08_Colorsheet Rock sand.png",
+    "res://assets/library/rocks/RP09_Colorsheet Rock orange.png",
+    "res://assets/library/rocks/RP10_Colorsheet Rock sand.png",
+    "res://assets/library/rocks/RP11_Colorsheet Rock green.png",
+    "res://assets/library/rocks/RP12_Colorsheet Rock grey.png",
+    "res://assets/library/rocks/RP13_Colorsheet Rock grey.png",
+    "res://assets/library/rocks/RP14_Colorsheet Rock orange.png",
+    "res://assets/library/rocks/RP15_Colorsheet Rock sand.png",
+    "res://assets/library/rocks/RP16_Colorsheet Rock green.png",
+    "res://assets/library/rocks/RP17_Colorsheet Rock orange.png",
+    "res://assets/library/rocks/RP18_Colorsheet Rock sand.png",
+    "res://assets/library/rocks/RP19_Colorsheet Rock green.png",
+    "res://assets/library/rocks/RP20_Colorsheet Rock grey.png",
+    "res://assets/library/rocks/RP21_Colorsheet Rock sand.png",
+    "res://assets/library/rocks/RP22_Colorsheet Rock green.png",
+    "res://assets/library/rocks/RP23_Colorsheet Rock grey.png",
+    "res://assets/library/rocks/RP24_Colorsheet Rock orange.png",
+    "res://assets/library/trees/TP22_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP02_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP11_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP25_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP01_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP17_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP13_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP08_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP33_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP20_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP06_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP05_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP10_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP21_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP26_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP18_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP04_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP12_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP19_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP32_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP03_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP07_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP34_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP28_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP15_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP14_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP09_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP27_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP24_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP16_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP31_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP30_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP23_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP29_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP35_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP36_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP37_Colorsheet Tree normal.png",
+    "res://assets/library/trees/TP38_Colorsheet Tree normal.png",
+    "res://assets/optimized/V08_texture_pbr_20250901.png",
+    "res://assets/optimized/V08_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "res://assets/optimized/V08_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/library/custom_corals/NC01.glb": [],
+  "res://assets/library/custom_corals/NC02.glb": [],
+  "res://assets/library/custom_corals/NC03.glb": [],
+  "res://assets/library/custom_corals/NW01.glb": [],
+  "res://assets/library/forest_nature/NF_Boulder_01.glb": [],
+  "res://assets/library/forest_nature/NF_Boulder_02.glb": [],
+  "res://assets/library/forest_nature/NF_Boulder_03.glb": [],
+  "res://assets/library/forest_nature/NF_Bush_Clumps_large.glb": [],
+  "res://assets/library/forest_nature/NF_Bush_Clumps_medium.glb": [],
+  "res://assets/library/forest_nature/NF_Bush_Clumps_small.glb": [],
+  "res://assets/library/forest_nature/NF_Bush_large.glb": [],
+  "res://assets/library/forest_nature/NF_Bush_medium.glb": [],
+  "res://assets/library/forest_nature/NF_Bush_small.glb": [],
+  "res://assets/library/forest_nature/NF_Bush_with_Flowers.glb": [],
+  "res://assets/library/forest_nature/NF_Fallen_Log.glb": [],
+  "res://assets/library/forest_nature/NF_Flowers_red.glb": [],
+  "res://assets/library/forest_nature/NF_Mushroom_Brown_large.glb": [],
+  "res://assets/library/forest_nature/NF_Mushroom_Brown_medium.glb": [],
+  "res://assets/library/forest_nature/NF_Mushroom_Brown_small.glb": [],
+  "res://assets/library/forest_nature/NF_Mushroom_Red_large.glb": [],
+  "res://assets/library/forest_nature/NF_Mushroom_Red_small.glb": [],
+  "res://assets/library/forest_nature/NF_Rock_01.glb": [],
+  "res://assets/library/forest_nature/NF_Rock_02.glb": [],
+  "res://assets/library/forest_nature/NF_Rock_03.glb": [],
+  "res://assets/library/forest_nature/NF_Rock_04.glb": [],
+  "res://assets/library/forest_nature/NF_Rock_05.glb": [],
+  "res://assets/library/forest_nature/NF_Rock_06.glb": [],
+  "res://assets/library/forest_nature/NF_Rock_07.glb": [],
+  "res://assets/library/forest_nature/NF_Rock_08.glb": [],
+  "res://assets/library/forest_nature/NF_Rock_09.glb": [],
+  "res://assets/library/forest_nature/NF_Rock_10.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Birch_hero_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Birch_large_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Birch_medium_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Birch_small_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Cypress_large.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Cypress_medium.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Cypress_small.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Elm_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Maple_red.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Oak_hero_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Oak_large_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Oak_medium_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Oak_small_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Park_large_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Park_medium_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Park_small_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Pine_hero.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Pine_large.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Pine_medium.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Pine_small.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Simple_large.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Simple_medium.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Simple_small.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Spruce_large.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Spruce_medium.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Spruce_small.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Stump.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_Windswept_dark_green.glb": [],
+  "res://assets/library/forest_nature/NF_Tree_with_Mistletoe.glb": [],
+  "res://assets/library/island_trails.scn": [
+    "res://shaders/island_trail.gdshader"
+  ],
+  "res://assets/library/marine_props/MP_Coral.glb": [],
+  "res://assets/library/marine_props/MP_Coral1.glb": [],
+  "res://assets/library/marine_props/MP_Coral2.glb": [],
+  "res://assets/library/marine_props/MP_Coral3.glb": [],
+  "res://assets/library/marine_props/MP_Coral4.glb": [],
+  "res://assets/library/marine_props/MP_Coral5.glb": [],
+  "res://assets/library/marine_props/MP_Coral6.glb": [],
+  "res://assets/library/marine_props/MP_Rock.glb": [],
+  "res://assets/library/marine_props/MP_Rock1.glb": [],
+  "res://assets/library/marine_props/MP_Rock10.glb": [],
+  "res://assets/library/marine_props/MP_Rock2.glb": [],
+  "res://assets/library/marine_props/MP_Rock3.glb": [],
+  "res://assets/library/marine_props/MP_Rock4.glb": [],
+  "res://assets/library/marine_props/MP_Rock5.glb": [],
+  "res://assets/library/marine_props/MP_Rock6.glb": [],
+  "res://assets/library/marine_props/MP_Rock7.glb": [],
+  "res://assets/library/marine_props/MP_Rock8.glb": [],
+  "res://assets/library/marine_props/MP_Rock9.glb": [],
+  "res://assets/library/marine_props/MP_Shells.glb": [],
+  "res://assets/library/marine_props/MP_Shells1.glb": [],
+  "res://assets/library/marine_props/MP_Shells2.glb": [],
+  "res://assets/library/marine_props/MP_Shells3.glb": [],
+  "res://assets/library/marine_props/MP_StarFish.glb": [],
+  "res://assets/library/original_palms/V03.glb": [
+    "uid://cbv0y3msthyt7::::res://assets/library/original_palms/V03_texture_pbr_20250901.png",
+    "uid://buci5iioeg05r::::res://assets/library/original_palms/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://dc57qq6qw8ln8::::res://assets/library/original_palms/V03_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/library/original_palms/V04.glb": [
+    "uid://sxdd15532gni::::res://assets/library/original_palms/V04_texture_pbr_20250901.png",
+    "uid://dny6wnghb0rk5::::res://assets/library/original_palms/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://dxaocanmguv75::::res://assets/library/original_palms/V04_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/library/pebble_paths.scn": [
+    "res://shaders/path_pebbles.gdshader"
+  ],
+  "res://assets/library/rebuilt_palms/V03.glb": [],
+  "res://assets/library/rebuilt_palms/V04.glb": [],
+  "res://assets/library/rocks/RP01.glb": [
+    "uid://cfbjejky6rn4o::::res://assets/library/rocks/RP01_Colorsheet Rock grey.png"
+  ],
+  "res://assets/library/rocks/RP02.glb": [
+    "uid://bwwek86avsykj::::res://assets/library/rocks/RP02_Colorsheet Rock orange.png"
+  ],
+  "res://assets/library/rocks/RP03.glb": [
+    "uid://cce1wormv6eys::::res://assets/library/rocks/RP03_Colorsheet Rock sand.png"
+  ],
+  "res://assets/library/rocks/RP04.glb": [
+    "uid://xmo7moyjuskk::::res://assets/library/rocks/RP04_Colorsheet Rock green.png"
+  ],
+  "res://assets/library/rocks/RP05.glb": [
+    "uid://d27lwg70w1yqd::::res://assets/library/rocks/RP05_Colorsheet Rock green.png"
+  ],
+  "res://assets/library/rocks/RP06.glb": [
+    "uid://cj3qjdo47bg47::::res://assets/library/rocks/RP06_Colorsheet Rock grey.png"
+  ],
+  "res://assets/library/rocks/RP07.glb": [
+    "uid://gybunvc8hirv::::res://assets/library/rocks/RP07_Colorsheet Rock orange.png"
+  ],
+  "res://assets/library/rocks/RP08.glb": [
+    "uid://bdevjah26sw1e::::res://assets/library/rocks/RP08_Colorsheet Rock sand.png"
+  ],
+  "res://assets/library/rocks/RP09.glb": [
+    "uid://b31uxh85o3cg0::::res://assets/library/rocks/RP09_Colorsheet Rock orange.png"
+  ],
+  "res://assets/library/rocks/RP10.glb": [
+    "uid://bnm7njdnnb1wm::::res://assets/library/rocks/RP10_Colorsheet Rock sand.png"
+  ],
+  "res://assets/library/rocks/RP11.glb": [
+    "uid://cvx24pm2w0jc1::::res://assets/library/rocks/RP11_Colorsheet Rock green.png"
+  ],
+  "res://assets/library/rocks/RP12.glb": [
+    "uid://dfsqtmnpgoiba::::res://assets/library/rocks/RP12_Colorsheet Rock grey.png"
+  ],
+  "res://assets/library/rocks/RP13.glb": [
+    "uid://bitbafxq24mhr::::res://assets/library/rocks/RP13_Colorsheet Rock grey.png"
+  ],
+  "res://assets/library/rocks/RP14.glb": [
+    "uid://bv74pnpnwd6jf::::res://assets/library/rocks/RP14_Colorsheet Rock orange.png"
+  ],
+  "res://assets/library/rocks/RP15.glb": [
+    "uid://b6rm52x6uetrn::::res://assets/library/rocks/RP15_Colorsheet Rock sand.png"
+  ],
+  "res://assets/library/rocks/RP16.glb": [
+    "uid://dnwmtamsvlr1l::::res://assets/library/rocks/RP16_Colorsheet Rock green.png"
+  ],
+  "res://assets/library/rocks/RP17.glb": [
+    "uid://dc3047me1xmo4::::res://assets/library/rocks/RP17_Colorsheet Rock orange.png"
+  ],
+  "res://assets/library/rocks/RP18.glb": [
+    "uid://vls8xhtoj116::::res://assets/library/rocks/RP18_Colorsheet Rock sand.png"
+  ],
+  "res://assets/library/rocks/RP19.glb": [
+    "uid://ck78hp85k02m::::res://assets/library/rocks/RP19_Colorsheet Rock green.png"
+  ],
+  "res://assets/library/rocks/RP20.glb": [
+    "uid://opyrai85d226::::res://assets/library/rocks/RP20_Colorsheet Rock grey.png"
+  ],
+  "res://assets/library/rocks/RP21.glb": [
+    "uid://c3qx8b0j0yklb::::res://assets/library/rocks/RP21_Colorsheet Rock sand.png"
+  ],
+  "res://assets/library/rocks/RP22.glb": [
+    "uid://bc88wew3gbxf6::::res://assets/library/rocks/RP22_Colorsheet Rock green.png"
+  ],
+  "res://assets/library/rocks/RP23.glb": [
+    "uid://bgkxcvq11pjcb::::res://assets/library/rocks/RP23_Colorsheet Rock grey.png"
+  ],
+  "res://assets/library/rocks/RP24.glb": [
+    "uid://batnbxhdmlmeo::::res://assets/library/rocks/RP24_Colorsheet Rock orange.png"
+  ],
+  "res://assets/library/seaweed/MP_SeaWeed.glb": [],
+  "res://assets/library/seaweed/MP_SeaWeed1.glb": [],
+  "res://assets/library/seaweed/MP_SeaWeed2.glb": [],
+  "res://assets/library/shells/SH01.glb": [
+    "uid://doejnfrn1une6::::res://assets/library/shells/SH01_1.jpg",
+    "uid://fnmlv1x78mmq::::res://assets/library/shells/SH01_0.png"
+  ],
+  "res://assets/library/shells/SH02.glb": [
+    "uid://dmfus115j7h33::::res://assets/library/shells/SH02_1.jpg",
+    "uid://kt7utkr8rcmn::::res://assets/library/shells/SH02_0.png"
+  ],
+  "res://assets/library/shells/SH03.glb": [
+    "uid://bn58yiirwdd0e::::res://assets/library/shells/SH03_1.jpg",
+    "uid://en5pqnyrev7o::::res://assets/library/shells/SH03_0.png"
+  ],
+  "res://assets/library/shells/SH04.glb": [
+    "uid://c1q076hlfro13::::res://assets/library/shells/SH04_1.jpg",
+    "uid://xkubvuh2rhno::::res://assets/library/shells/SH04_0.png"
+  ],
+  "res://assets/library/shells/SH05.glb": [
+    "uid://b6myem2xu7afn::::res://assets/library/shells/SH05_1.jpg",
+    "uid://cfgkrij0xgu85::::res://assets/library/shells/SH05_0.png"
+  ],
+  "res://assets/library/shells/SH06.glb": [
+    "uid://bcmhaqo0ycpmx::::res://assets/library/shells/SH06_1.jpg",
+    "uid://bdvojj43yuyvj::::res://assets/library/shells/SH06_0.png"
+  ],
+  "res://assets/library/shells/SH07.glb": [
+    "uid://d2yr2wkxiqdmm::::res://assets/library/shells/SH07_1.jpg",
+    "uid://cmqf4gqn5s3mu::::res://assets/library/shells/SH07_0.png"
+  ],
+  "res://assets/library/shells/SH08.glb": [
+    "uid://05w20lpy1ld0::::res://assets/library/shells/SH08_1.jpg",
+    "uid://dm5ekura5fbg3::::res://assets/library/shells/SH08_0.png"
+  ],
+  "res://assets/library/shells/SH09.glb": [
+    "uid://wiibyejty0nl::::res://assets/library/shells/SH09_1.jpg",
+    "uid://jnyulshxnww1::::res://assets/library/shells/SH09_0.png"
+  ],
+  "res://assets/library/shells/SH10.glb": [
+    "uid://b5xfrnivshlwd::::res://assets/library/shells/SH10_1.jpg",
+    "uid://hsq6vhtq8gx8::::res://assets/library/shells/SH10_0.png"
+  ],
+  "res://assets/library/shells/SH11.glb": [
+    "uid://c3wg744etx7uq::::res://assets/library/shells/SH11_1.jpg",
+    "uid://brrx1iff62ply::::res://assets/library/shells/SH11_0.png"
+  ],
+  "res://assets/library/shells/SH12.glb": [
+    "uid://dea2yq10ab0ss::::res://assets/library/shells/SH12_1.jpg",
+    "uid://by2id2yullnyh::::res://assets/library/shells/SH12_0.png"
+  ],
+  "res://assets/library/shells/SH13.glb": [
+    "uid://dmcw2qa3cdg3o::::res://assets/library/shells/SH13_1.jpg",
+    "uid://bw0gwj2emh8os::::res://assets/library/shells/SH13_0.png"
+  ],
+  "res://assets/library/shells/SH14.glb": [
+    "uid://c4sxunbe7jceh::::res://assets/library/shells/SH14_1.jpg",
+    "uid://q44h07q1ehbr::::res://assets/library/shells/SH14_0.png"
+  ],
+  "res://assets/library/shells/SH15.glb": [
+    "uid://bxy43itt41gbx::::res://assets/library/shells/SH15_1.jpg",
+    "uid://bvf3fyi1r34qp::::res://assets/library/shells/SH15_0.png"
+  ],
+  "res://assets/library/shells/SH16.glb": [
+    "uid://rpc5apnv507j::::res://assets/library/shells/SH16_1.jpg",
+    "uid://b8a62l50jrvoc::::res://assets/library/shells/SH16_0.png"
+  ],
+  "res://assets/library/shells/SH17.glb": [
+    "uid://r5f5wev3t5gf::::res://assets/library/shells/SH17_1.jpg",
+    "uid://c5hgas38g2016::::res://assets/library/shells/SH17_0.png"
+  ],
+  "res://assets/library/shells/SH18.glb": [
+    "uid://dtje2sf4c01r2::::res://assets/library/shells/SH18_1.jpg",
+    "uid://dp7anj2nblygx::::res://assets/library/shells/SH18_0.png"
+  ],
+  "res://assets/library/shells/SH19.glb": [
+    "uid://dlfqwmjyv8lmm::::res://assets/library/shells/SH19_1.jpg",
+    "uid://h7pturittqtp::::res://assets/library/shells/SH19_0.png"
+  ],
+  "res://assets/library/shells/SH20.glb": [
+    "uid://bvb88uu6srre7::::res://assets/library/shells/SH20_1.jpg",
+    "uid://df8eekgvsy2wd::::res://assets/library/shells/SH20_0.png"
+  ],
+  "res://assets/library/shells/SH21.glb": [
+    "uid://bp4u1617idemq::::res://assets/library/shells/SH21_1.jpg",
+    "uid://c5kmkhhu33yif::::res://assets/library/shells/SH21_0.png"
+  ],
+  "res://assets/library/shells/SH22.glb": [
+    "uid://boe5k0cwumdj5::::res://assets/library/shells/SH22_1.jpg",
+    "uid://bjdu5paooyb0e::::res://assets/library/shells/SH22_0.png"
+  ],
+  "res://assets/library/shells/SH23.glb": [
+    "uid://c4tyhgb0ckk1d::::res://assets/library/shells/SH23_1.jpg",
+    "uid://dkbb2kk7t3103::::res://assets/library/shells/SH23_0.png"
+  ],
+  "res://assets/library/shells/SH24.glb": [
+    "uid://byyemmiqc01su::::res://assets/library/shells/SH24_1.jpg",
+    "uid://b2scjniambxd7::::res://assets/library/shells/SH24_0.png"
+  ],
+  "res://assets/library/shells/SH25.glb": [
+    "uid://7jol6fqyi5u0::::res://assets/library/shells/SH25_1.jpg",
+    "uid://eiyt7xas0itn::::res://assets/library/shells/SH25_0.png"
+  ],
+  "res://assets/library/trees/TP01.glb": [
+    "uid://c8rkphb5k5gfl::::res://assets/library/trees/TP01_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP02.glb": [
+    "uid://5es4j8si3rrp::::res://assets/library/trees/TP02_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP03.glb": [
+    "uid://cntwpko2jtiyw::::res://assets/library/trees/TP03_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP04.glb": [
+    "uid://cocsgxiorcf5w::::res://assets/library/trees/TP04_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP05.glb": [
+    "uid://c1y1s017lfcf3::::res://assets/library/trees/TP05_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP06.glb": [
+    "uid://bnkj7uf3csoqh::::res://assets/library/trees/TP06_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP07.glb": [
+    "uid://dhmqntj7uj7xb::::res://assets/library/trees/TP07_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP08.glb": [
+    "uid://dyvs4neo42ctj::::res://assets/library/trees/TP08_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP09.glb": [
+    "uid://cnganb8xyo1tr::::res://assets/library/trees/TP09_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP10.glb": [
+    "uid://d2ghoc7jyfsml::::res://assets/library/trees/TP10_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP11.glb": [
+    "uid://dbi7805ua1bff::::res://assets/library/trees/TP11_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP12.glb": [
+    "uid://bq8dbh8jghmsc::::res://assets/library/trees/TP12_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP13.glb": [
+    "uid://dr2yoxwf2gg65::::res://assets/library/trees/TP13_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP14.glb": [
+    "uid://pabe8q3crrd7::::res://assets/library/trees/TP14_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP15.glb": [
+    "uid://c5docifh8gqyo::::res://assets/library/trees/TP15_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP16.glb": [
+    "uid://cvjh7r514uytk::::res://assets/library/trees/TP16_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP17.glb": [
+    "uid://ciwna3l7pd1us::::res://assets/library/trees/TP17_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP18.glb": [
+    "uid://chsa88x4oil7a::::res://assets/library/trees/TP18_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP19.glb": [
+    "uid://bqxqr4s4uo8c3::::res://assets/library/trees/TP19_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP20.glb": [
+    "uid://vd22st7j1e00::::res://assets/library/trees/TP20_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP21.glb": [
+    "uid://d0ygymckdxll6::::res://assets/library/trees/TP21_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP22.glb": [
+    "uid://cycm3lj6ex4bo::::res://assets/library/trees/TP22_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP23.glb": [
+    "uid://cmlhbmhi0f124::::res://assets/library/trees/TP23_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP24.glb": [
+    "uid://wngr5loser15::::res://assets/library/trees/TP24_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP25.glb": [
+    "uid://c4b2g62y2e3uo::::res://assets/library/trees/TP25_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP26.glb": [
+    "uid://b2i84smr4spbn::::res://assets/library/trees/TP26_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP27.glb": [
+    "uid://3cwgg4jcbb5u::::res://assets/library/trees/TP27_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP28.glb": [
+    "uid://dhbv6tiv83o0h::::res://assets/library/trees/TP28_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP29.glb": [
+    "uid://du0f0a7qey236::::res://assets/library/trees/TP29_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP30.glb": [
+    "uid://c4p0ex3fum3b::::res://assets/library/trees/TP30_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP31.glb": [
+    "uid://bsrvdoua46lbv::::res://assets/library/trees/TP31_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP32.glb": [
+    "uid://xbrpmcnmokuk::::res://assets/library/trees/TP32_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP33.glb": [
+    "uid://421ef335tp6k::::res://assets/library/trees/TP33_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP34.glb": [
+    "uid://lvo7cdvn8emw::::res://assets/library/trees/TP34_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP35.glb": [
+    "uid://4w7feb7sytoy::::res://assets/library/trees/TP35_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP36.glb": [
+    "uid://lta2wd27cox2::::res://assets/library/trees/TP36_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP37.glb": [
+    "uid://snpvjcn3hfvn::::res://assets/library/trees/TP37_Colorsheet Tree normal.png"
+  ],
+  "res://assets/library/trees/TP38.glb": [
+    "uid://dy6607j24gfds::::res://assets/library/trees/TP38_Colorsheet Tree normal.png"
+  ],
+  "res://assets/models/C02.glb": [
+    "uid://cjlcypxai2n3n::::res://assets/models/C02_texture_pbr_20250901.png",
+    "uid://bu2ui7wtqtppd::::res://assets/models/C02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://cxat4qj5ytjm0::::res://assets/models/C02_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/F01.glb": [
+    "uid://bgyjfl2shg3lo::::res://assets/models/F01_Rock_strata_BaseColor.png",
+    "uid://c7pk5g5hby7kf::::res://assets/models/F01_T05_grass_BaseColor.png"
+  ],
+  "res://assets/models/F02.glb": [],
+  "res://assets/models/P01_L.glb": [
+    "uid://cx514bk5625ae::::res://assets/models/P01_L_木纹_BaseColor.png"
+  ],
+  "res://assets/models/P03.glb": [
+    "uid://5rx60x7fwaok::::res://assets/models/P03_路面_BaseColor.png",
+    "uid://k2k3o2rbs146::::res://assets/models/P03_岩石_BaseColor.png"
+  ],
+  "res://assets/models/R01.glb": [
+    "uid://qwke4m6xhltq::::res://assets/models/R01_texture_pbr_20250901.png",
+    "uid://cjm45sg1lmf8f::::res://assets/models/R01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://giwhu8fp0k4r::::res://assets/models/R01_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/R02.glb": [
+    "uid://bjpm3vcmjt6qc::::res://assets/models/R02_texture_pbr_20250901.png",
+    "uid://tbcmq7txxaag::::res://assets/models/R02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://detwjurqtpttt::::res://assets/models/R02_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/R03.glb": [
+    "uid://dnacgr2x2tnio::::res://assets/models/R03_texture_pbr_20250901.png",
+    "uid://cb4ytomqjfgms::::res://assets/models/R03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://b52lnoggj5ser::::res://assets/models/R03_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/R04.glb": [
+    "uid://bk1b3so6afm5f::::res://assets/models/R04_texture_pbr_20250901.png",
+    "uid://c0dw2t10jgj5p::::res://assets/models/R04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://hvb2du5qeuas::::res://assets/models/R04_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/V01.glb": [
+    "uid://cb0xts3a6yf4i::::res://assets/models/V01_texture_pbr_20250901.png",
+    "uid://4xmo8d8387cr::::res://assets/models/V01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://bygd3klk7psck::::res://assets/models/V01_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/V02.glb": [
+    "uid://c3pjiy3isl07f::::res://assets/models/V02_texture_pbr_20250901.png",
+    "uid://buxew4gmp6oow::::res://assets/models/V02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://b0uh6v3yxoc5g::::res://assets/models/V02_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/V03.glb": [
+    "uid://glx4rnwxkucu::::res://assets/models/V03_texture_pbr_20250901.png",
+    "uid://daxsf1fuwaey7::::res://assets/models/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://bivcd00sb1pnb::::res://assets/models/V03_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/V04.glb": [
+    "uid://clk7u0egf0elk::::res://assets/models/V04_texture_pbr_20250901.png",
+    "uid://blerh601bnr8t::::res://assets/models/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://dpiysrmd4wmrn::::res://assets/models/V04_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/V05.glb": [
+    "uid://cpmdubbiw4t6j::::res://assets/models/V05_texture_pbr_20250901.png",
+    "uid://c0u6nnhxokj5b::::res://assets/models/V05_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://cmuyp50ty3ye1::::res://assets/models/V05_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/V06.glb": [
+    "uid://di36t3p7tvijs::::res://assets/models/V06_texture_pbr_20250901.png",
+    "uid://vii10nlrsmak::::res://assets/models/V06_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://diaoqhiedyt68::::res://assets/models/V06_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/V07.glb": [
+    "uid://ccruhss1yjc05::::res://assets/models/V07_texture_pbr_20250901.png",
+    "uid://c3creklve24p1::::res://assets/models/V07_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://cfssf4w7dju5o::::res://assets/models/V07_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/V08.glb": [
+    "uid://gy1l3fsjbo75::::res://assets/models/V08_texture_pbr_20250901.png",
+    "uid://dhuylq7wsleqf::::res://assets/models/V08_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://ckepukqjyp8gd::::res://assets/models/V08_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/models/world.glb": [
+    "uid://db3m3u27xp1lq::::res://assets/models/world_B01_warm_weathered_siding_BaseColor.png",
+    "uid://d4byee33gvci3::::res://assets/models/world_B01_weathered_wood_normal.png",
+    "uid://c72ryfno7iiex::::res://assets/models/world_B01_exposed_warm_fibres_BaseColor.png",
+    "uid://73lg2bxin03h::::res://assets/models/world_B01_silver_grey_roof_BaseColor.png",
+    "uid://v021xfpnewul::::res://assets/models/world_B01_pale_chipped_trim_BaseColor.png",
+    "uid://b8owj586rwjsu::::res://assets/models/world_B01_damp_sill_BaseColor.png",
+    "uid://c35e2i2o86esq::::res://assets/models/world_B01_worn_floor_BaseColor.png",
+    "uid://dmdb55ujqadai::::res://assets/models/world_B01_interior_lining_BaseColor.png",
+    "uid://cei24mw4j7wl7::::res://assets/models/world_ivy_wall.png",
+    "uid://bba1euk8et2kt::::res://assets/models/world_crack_decal.png",
+    "uid://wi41m81qx7to::::res://assets/models/world_B02_red_paint.png",
+    "uid://tfd36qr40rp4::::res://assets/models/world_B02_wood_normal.png",
+    "uid://bvtr35jlbdcxb::::res://assets/models/world_B02_roof_metal.png",
+    "uid://b35rranyix6gl::::res://assets/models/world_B03_plaster.png",
+    "uid://c0yx1167lm3ps::::res://assets/models/world_B03_roof.png",
+    "uid://caicuhpl3r0s8::::res://assets/models/world_texture_pbr_20250901.png",
+    "uid://dye45r8vhcgak::::res://assets/models/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://seljg50xhb73::::res://assets/models/world_texture_pbr_20250901_normal.png",
+    "uid://c8jjdtwps4v62::::res://assets/models/world_texture_pbr_20250901_19.png",
+    "uid://bbc26qpb7xwtf::::res://assets/models/world_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness_20.png",
+    "uid://b3ajslgxb2x3::::res://assets/models/world_texture_pbr_20250901_normal_18.png"
+  ],
+  "res://assets/optimized/B01.glb": [
+    "uid://c848sfpbq0spm::::res://assets/optimized/B01_B01_warm_weathered_siding_BaseColor.png",
+    "uid://c8l6iatgftjnl::::res://assets/optimized/B01_B01_weathered_wood_normal.png",
+    "uid://1bo01l2cpior::::res://assets/optimized/B01_B01_exposed_warm_fibres_BaseColor.png",
+    "uid://cfbnc7a1m76gh::::res://assets/optimized/B01_B01_silver_grey_roof_BaseColor.png",
+    "uid://crt3lhbs3j3wl::::res://assets/optimized/B01_B01_pale_chipped_trim_BaseColor.png",
+    "uid://ccgxbqaew8ghf::::res://assets/optimized/B01_B01_damp_sill_BaseColor.png",
+    "uid://e10au22pf6qe::::res://assets/optimized/B01_B01_worn_floor_BaseColor.png",
+    "uid://dncr10w05p2sy::::res://assets/optimized/B01_B01_interior_lining_BaseColor.png",
+    "uid://dl37cmc67xa5u::::res://assets/optimized/B01_ivy_wall.png",
+    "uid://dnrs5gh81k3ay::::res://assets/optimized/B01_crack_decal.png"
+  ],
+  "res://assets/optimized/B01_fishing.glb": [
+    "uid://bma777ck2v13o::::res://assets/optimized/B01_fishing_Warm heartwood beams_Texture.png",
+    "uid://bsxa133lkhilt::::res://assets/optimized/B01_fishing_Interior oak 2_Texture.png",
+    "uid://i37jtlugkwld::::res://assets/optimized/B01_fishing_Interior oak 0_Texture.png",
+    "uid://cuibtch5wm2q7::::res://assets/optimized/B01_fishing_Interior oak 1_Texture.png",
+    "uid://nal6mddq6di2::::res://assets/optimized/B01_fishing_Golden cut timber_Texture.png",
+    "uid://ccf06tcd72a6q::::res://assets/optimized/B01_fishing_Warm inner timber_Texture.png",
+    "uid://b82v6v3er2kec::::res://assets/optimized/B01_fishing_Honey siding 0_Texture.png",
+    "uid://duubwdiiumna8::::res://assets/optimized/B01_fishing_Honey siding 4_Texture.png",
+    "uid://cpdpbhikq7rwc::::res://assets/optimized/B01_fishing_Honey siding 1_Texture.png",
+    "uid://csnrbfybav0on::::res://assets/optimized/B01_fishing_Honey siding 3_Texture.png",
+    "uid://cgo4ytxddpom2::::res://assets/optimized/B01_fishing_Honey siding 2_Texture.png"
+  ],
+  "res://assets/optimized/B02.glb": [
+    "uid://cl14xvfiv28f0::::res://assets/optimized/B02_B02_red_paint.png",
+    "uid://ei3leet6jw4h::::res://assets/optimized/B02_B02_wood_normal.png",
+    "uid://b76nfejj8b2ce::::res://assets/optimized/B02_B02_roof_metal.png",
+    "uid://dyjjk03baq5i6::::res://assets/optimized/B02_ivy_wall.png",
+    "uid://bu2out1rbxg5d::::res://assets/optimized/B02_crack_decal.png"
+  ],
+  "res://assets/optimized/B02_interactive.glb": [
+    "uid://dd6svlo8pxv6e::::res://assets/optimized/B02_interactive_B02_red_paint.png",
+    "uid://bllcp5qqilx4j::::res://assets/optimized/B02_interactive_B02_wood_normal.png",
+    "uid://c0xbyvaeicbto::::res://assets/optimized/B02_interactive_B02_roof_metal.png",
+    "uid://cxvvfs1tgnxcv::::res://assets/optimized/B02_interactive_crack_decal.png"
+  ],
+  "res://assets/optimized/B03.glb": [
+    "uid://c5k23828slyou::::res://assets/optimized/B03_B03_plaster.png",
+    "uid://bvwrt0j118w2e::::res://assets/optimized/B03_B03_roof.png",
+    "uid://b8v5e8rutnlk2::::res://assets/optimized/B03_crack_decal.png"
+  ],
+  "res://assets/optimized/C02.glb": [
+    "uid://eomvhvdybd4m::::res://assets/optimized/C02_texture_pbr_20250901.png",
+    "uid://dgsxrc7i1cyue::::res://assets/optimized/C02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://ckh31nd6bprhf::::res://assets/optimized/C02_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/F01.glb": [
+    "uid://l3v8uj3r8pmp::::res://assets/optimized/F01_Rock_strata_BaseColor.png",
+    "uid://bsomp8sopddmh::::res://assets/optimized/F01_T05_grass_BaseColor.png"
+  ],
+  "res://assets/optimized/F02.glb": [],
+  "res://assets/optimized/P01.glb": [
+    "uid://cj45juxyn176d::::res://assets/optimized/P01_木纹_BaseColor.png"
+  ],
+  "res://assets/optimized/P02.glb": [
+    "uid://c8gfovaomptut::::res://assets/optimized/P02_texture_pbr_20250901.png",
+    "uid://x3a1u6lfjhgn::::res://assets/optimized/P02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://d4j2w3alngy7d::::res://assets/optimized/P02_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/P03.glb": [
+    "uid://by0pyp7cmhrx8::::res://assets/optimized/P03_路面_BaseColor.png",
+    "uid://br1tgkqqnxaia::::res://assets/optimized/P03_岩石_BaseColor.png"
+  ],
+  "res://assets/optimized/R01.glb": [
+    "uid://dk144pu63uku8::::res://assets/optimized/R01_texture_pbr_20250901.png",
+    "uid://cixv1mkn0j4mt::::res://assets/optimized/R01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://de0wgm5123mr7::::res://assets/optimized/R01_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/R02.glb": [
+    "uid://2oo1kt18e37d::::res://assets/optimized/R02_texture_pbr_20250901.png",
+    "uid://di07n45b0gjgm::::res://assets/optimized/R02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://cl08nxgsufj1f::::res://assets/optimized/R02_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/R03.glb": [
+    "uid://c0t2gy4a2r5m0::::res://assets/optimized/R03_texture_pbr_20250901.png",
+    "uid://cwr3u366covq5::::res://assets/optimized/R03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://cnqo5qcu4nmb7::::res://assets/optimized/R03_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/R04.glb": [
+    "uid://4k8cayusreib::::res://assets/optimized/R04_texture_pbr_20250901.png",
+    "uid://dnw030gb8duw5::::res://assets/optimized/R04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://b5r1hdqrheyjk::::res://assets/optimized/R04_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/T05.glb": [
+    "uid://b500ikqj4a1tu::::res://assets/optimized/T05_Rock_strata_BaseColor.png",
+    "uid://dedurgrq55i40::::res://assets/optimized/T05_T05_grass_BaseColor.png"
+  ],
+  "res://assets/optimized/T06.glb": [
+    "uid://pnl55say7sn2::::res://assets/optimized/T06_Rock_strata_BaseColor.png",
+    "uid://c0kso04f4y4cu::::res://assets/optimized/T06_T05_grass_BaseColor.png"
+  ],
+  "res://assets/optimized/T07.glb": [
+    "uid://b4p4be7npcnns::::res://assets/optimized/T07_Rock_strata_BaseColor.png",
+    "uid://wuadaw1bxw4y::::res://assets/optimized/T07_T05_grass_BaseColor.png"
+  ],
+  "res://assets/optimized/V01.glb": [
+    "uid://gl3m3h1dkdy7::::res://assets/optimized/V01_texture_pbr_20250901.png",
+    "uid://cdf5th11s4ito::::res://assets/optimized/V01_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://ncdsypyp0vwt::::res://assets/optimized/V01_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/V02.glb": [
+    "uid://c4ldq171bfs0p::::res://assets/optimized/V02_texture_pbr_20250901.png",
+    "uid://dvt4j7b51gnwx::::res://assets/optimized/V02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://bktmo8lbas6r7::::res://assets/optimized/V02_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/V03.glb": [
+    "uid://dpbbeqng0e77e::::res://assets/optimized/V03_texture_pbr_20250901.png",
+    "uid://5nafj7hodv4e::::res://assets/optimized/V03_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://bpi62uvrtvjdc::::res://assets/optimized/V03_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/V04.glb": [
+    "uid://cw1h8h8mewjae::::res://assets/optimized/V04_texture_pbr_20250901.png",
+    "uid://bt3c1mwh42bb4::::res://assets/optimized/V04_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://duy77xvn053r8::::res://assets/optimized/V04_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/V05.glb": [
+    "uid://e04hw80kgiq4::::res://assets/optimized/V05_texture_pbr_20250901.png",
+    "uid://j6yiersxfnts::::res://assets/optimized/V05_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://dhi6g26ceho5i::::res://assets/optimized/V05_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/V06.glb": [
+    "uid://o67kg072etur::::res://assets/optimized/V06_texture_pbr_20250901.png",
+    "uid://5r3cnsawhwal::::res://assets/optimized/V06_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://c5ghe4wwmgnd6::::res://assets/optimized/V06_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/V07.glb": [
+    "uid://dfyq8y8wrjymf::::res://assets/optimized/V07_texture_pbr_20250901.png",
+    "uid://fv7tmenu0y5r::::res://assets/optimized/V07_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://dttuctbtlje1d::::res://assets/optimized/V07_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/optimized/V08.glb": [
+    "uid://b63akjqnjwsp7::::res://assets/optimized/V08_texture_pbr_20250901.png",
+    "uid://cy55etdsx4vr1::::res://assets/optimized/V08_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://cu2ndx54sbm0::::res://assets/optimized/V08_texture_pbr_20250901_normal.png"
+  ],
+  "res://assets/vegetation/stylized_grass/grass.glb": [],
+  "res://assets/vegetation/stylized_grass/grass2.glb": [],
+  "res://assets/vegetation/stylized_grass/grass_original.gdshader": [],
+  "res://assets/vegetation/stylized_grass/island_grass.scn": [
+    "res://shaders/island_grass.gdshader"
+  ],
+  "res://scenes/coastal_beauty.scn": [
+    "uid://uox5h2a6pede::::res://scripts/coastal_presentation.gd",
+    "uid://dqhu7wwnk7p7r::::res://scripts/explorer.gd",
+    "uid://b5xociy2hlima::::res://assets/characters/C01_locomotion_tripo_image_72ed5180-d0cd-4602-8fc9-1fa72f6a8119_0_0.jpg",
+    "uid://jp7hbayo4lg1::::res://shaders/shore_sand.gdshader",
+    "uid://eomvhvdybd4m::::res://assets/optimized/C02_texture_pbr_20250901.png",
+    "uid://dgsxrc7i1cyue::::res://assets/optimized/C02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://ckh31nd6bprhf::::res://assets/optimized/C02_texture_pbr_20250901_normal.png",
+    "uid://dsjcj172emx2w::::res://shaders/shore_waves.gdshader",
+    "uid://c5k23828slyou::::res://assets/optimized/B03_B03_plaster.png",
+    "uid://bvwrt0j118w2e::::res://assets/optimized/B03_B03_roof.png",
+    "uid://b8v5e8rutnlk2::::res://assets/optimized/B03_crack_decal.png",
+    "uid://c8gfovaomptut::::res://assets/optimized/P02_texture_pbr_20250901.png",
+    "uid://x3a1u6lfjhgn::::res://assets/optimized/P02_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://d4j2w3alngy7d::::res://assets/optimized/P02_texture_pbr_20250901_normal.png",
+    "uid://bihs6ygg6pgfk::::res://shaders/physical_water.gdshader",
+    "uid://bma777ck2v13o::::res://assets/optimized/B01_fishing_Warm heartwood beams_Texture.png",
+    "uid://bsxa133lkhilt::::res://assets/optimized/B01_fishing_Interior oak 2_Texture.png",
+    "uid://i37jtlugkwld::::res://assets/optimized/B01_fishing_Interior oak 0_Texture.png",
+    "uid://cuibtch5wm2q7::::res://assets/optimized/B01_fishing_Interior oak 1_Texture.png",
+    "uid://nal6mddq6di2::::res://assets/optimized/B01_fishing_Golden cut timber_Texture.png",
+    "uid://ccf06tcd72a6q::::res://assets/optimized/B01_fishing_Warm inner timber_Texture.png",
+    "uid://b82v6v3er2kec::::res://assets/optimized/B01_fishing_Honey siding 0_Texture.png",
+    "uid://duubwdiiumna8::::res://assets/optimized/B01_fishing_Honey siding 4_Texture.png",
+    "uid://cpdpbhikq7rwc::::res://assets/optimized/B01_fishing_Honey siding 1_Texture.png",
+    "uid://csnrbfybav0on::::res://assets/optimized/B01_fishing_Honey siding 3_Texture.png",
+    "uid://cgo4ytxddpom2::::res://assets/optimized/B01_fishing_Honey siding 2_Texture.png",
+    "uid://g6xtrifs732v::::res://scripts/building_doors.gd",
+    "uid://cj45juxyn176d::::res://assets/optimized/P01_木纹_BaseColor.png",
+    "uid://by0pyp7cmhrx8::::res://assets/optimized/P03_路面_BaseColor.png",
+    "uid://br1tgkqqnxaia::::res://assets/optimized/P03_岩石_BaseColor.png",
+    "uid://dd6svlo8pxv6e::::res://assets/optimized/B02_interactive_B02_red_paint.png",
+    "uid://bllcp5qqilx4j::::res://assets/optimized/B02_interactive_B02_wood_normal.png",
+    "uid://c0xbyvaeicbto::::res://assets/optimized/B02_interactive_B02_roof_metal.png",
+    "uid://cxvvfs1tgnxcv::::res://assets/optimized/B02_interactive_crack_decal.png",
+    "uid://doejnfrn1une6::::res://assets/library/shells/SH01_1.jpg",
+    "uid://fnmlv1x78mmq::::res://assets/library/shells/SH01_0.png",
+    "uid://dmfus115j7h33::::res://assets/library/shells/SH02_1.jpg",
+    "uid://kt7utkr8rcmn::::res://assets/library/shells/SH02_0.png",
+    "uid://bn58yiirwdd0e::::res://assets/library/shells/SH03_1.jpg",
+    "uid://en5pqnyrev7o::::res://assets/library/shells/SH03_0.png",
+    "uid://c1q076hlfro13::::res://assets/library/shells/SH04_1.jpg",
+    "uid://xkubvuh2rhno::::res://assets/library/shells/SH04_0.png",
+    "uid://b6myem2xu7afn::::res://assets/library/shells/SH05_1.jpg",
+    "uid://cfgkrij0xgu85::::res://assets/library/shells/SH05_0.png",
+    "uid://bcmhaqo0ycpmx::::res://assets/library/shells/SH06_1.jpg",
+    "uid://bdvojj43yuyvj::::res://assets/library/shells/SH06_0.png",
+    "uid://d2yr2wkxiqdmm::::res://assets/library/shells/SH07_1.jpg",
+    "uid://cmqf4gqn5s3mu::::res://assets/library/shells/SH07_0.png",
+    "uid://05w20lpy1ld0::::res://assets/library/shells/SH08_1.jpg",
+    "uid://dm5ekura5fbg3::::res://assets/library/shells/SH08_0.png",
+    "uid://wiibyejty0nl::::res://assets/library/shells/SH09_1.jpg",
+    "uid://jnyulshxnww1::::res://assets/library/shells/SH09_0.png",
+    "uid://b5xfrnivshlwd::::res://assets/library/shells/SH10_1.jpg",
+    "uid://hsq6vhtq8gx8::::res://assets/library/shells/SH10_0.png",
+    "uid://c3wg744etx7uq::::res://assets/library/shells/SH11_1.jpg",
+    "uid://brrx1iff62ply::::res://assets/library/shells/SH11_0.png",
+    "uid://dea2yq10ab0ss::::res://assets/library/shells/SH12_1.jpg",
+    "uid://by2id2yullnyh::::res://assets/library/shells/SH12_0.png",
+    "uid://dmcw2qa3cdg3o::::res://assets/library/shells/SH13_1.jpg",
+    "uid://bw0gwj2emh8os::::res://assets/library/shells/SH13_0.png",
+    "uid://c4sxunbe7jceh::::res://assets/library/shells/SH14_1.jpg",
+    "uid://q44h07q1ehbr::::res://assets/library/shells/SH14_0.png",
+    "uid://bxy43itt41gbx::::res://assets/library/shells/SH15_1.jpg",
+    "uid://bvf3fyi1r34qp::::res://assets/library/shells/SH15_0.png",
+    "uid://rpc5apnv507j::::res://assets/library/shells/SH16_1.jpg",
+    "uid://b8a62l50jrvoc::::res://assets/library/shells/SH16_0.png",
+    "uid://r5f5wev3t5gf::::res://assets/library/shells/SH17_1.jpg",
+    "uid://c5hgas38g2016::::res://assets/library/shells/SH17_0.png",
+    "uid://dtje2sf4c01r2::::res://assets/library/shells/SH18_1.jpg",
+    "uid://dp7anj2nblygx::::res://assets/library/shells/SH18_0.png",
+    "uid://dlfqwmjyv8lmm::::res://assets/library/shells/SH19_1.jpg",
+    "uid://h7pturittqtp::::res://assets/library/shells/SH19_0.png",
+    "uid://bvb88uu6srre7::::res://assets/library/shells/SH20_1.jpg",
+    "uid://df8eekgvsy2wd::::res://assets/library/shells/SH20_0.png",
+    "uid://bp4u1617idemq::::res://assets/library/shells/SH21_1.jpg",
+    "uid://c5kmkhhu33yif::::res://assets/library/shells/SH21_0.png",
+    "uid://boe5k0cwumdj5::::res://assets/library/shells/SH22_1.jpg",
+    "uid://bjdu5paooyb0e::::res://assets/library/shells/SH22_0.png",
+    "uid://c4tyhgb0ckk1d::::res://assets/library/shells/SH23_1.jpg",
+    "uid://dkbb2kk7t3103::::res://assets/library/shells/SH23_0.png",
+    "uid://byyemmiqc01su::::res://assets/library/shells/SH24_1.jpg",
+    "uid://b2scjniambxd7::::res://assets/library/shells/SH24_0.png",
+    "uid://7jol6fqyi5u0::::res://assets/library/shells/SH25_1.jpg",
+    "uid://eiyt7xas0itn::::res://assets/library/shells/SH25_0.png",
+    "uid://cfbjejky6rn4o::::res://assets/library/rocks/RP01_Colorsheet Rock grey.png",
+    "uid://bwwek86avsykj::::res://assets/library/rocks/RP02_Colorsheet Rock orange.png",
+    "uid://cce1wormv6eys::::res://assets/library/rocks/RP03_Colorsheet Rock sand.png",
+    "uid://xmo7moyjuskk::::res://assets/library/rocks/RP04_Colorsheet Rock green.png",
+    "uid://d27lwg70w1yqd::::res://assets/library/rocks/RP05_Colorsheet Rock green.png",
+    "uid://cj3qjdo47bg47::::res://assets/library/rocks/RP06_Colorsheet Rock grey.png",
+    "uid://gybunvc8hirv::::res://assets/library/rocks/RP07_Colorsheet Rock orange.png",
+    "uid://bdevjah26sw1e::::res://assets/library/rocks/RP08_Colorsheet Rock sand.png",
+    "uid://b31uxh85o3cg0::::res://assets/library/rocks/RP09_Colorsheet Rock orange.png",
+    "uid://bnm7njdnnb1wm::::res://assets/library/rocks/RP10_Colorsheet Rock sand.png",
+    "uid://cvx24pm2w0jc1::::res://assets/library/rocks/RP11_Colorsheet Rock green.png",
+    "uid://dfsqtmnpgoiba::::res://assets/library/rocks/RP12_Colorsheet Rock grey.png",
+    "uid://bitbafxq24mhr::::res://assets/library/rocks/RP13_Colorsheet Rock grey.png",
+    "uid://bv74pnpnwd6jf::::res://assets/library/rocks/RP14_Colorsheet Rock orange.png",
+    "uid://b6rm52x6uetrn::::res://assets/library/rocks/RP15_Colorsheet Rock sand.png",
+    "uid://dnwmtamsvlr1l::::res://assets/library/rocks/RP16_Colorsheet Rock green.png",
+    "uid://dc3047me1xmo4::::res://assets/library/rocks/RP17_Colorsheet Rock orange.png",
+    "uid://vls8xhtoj116::::res://assets/library/rocks/RP18_Colorsheet Rock sand.png",
+    "uid://ck78hp85k02m::::res://assets/library/rocks/RP19_Colorsheet Rock green.png",
+    "uid://opyrai85d226::::res://assets/library/rocks/RP20_Colorsheet Rock grey.png",
+    "uid://c3qx8b0j0yklb::::res://assets/library/rocks/RP21_Colorsheet Rock sand.png",
+    "uid://bc88wew3gbxf6::::res://assets/library/rocks/RP22_Colorsheet Rock green.png",
+    "uid://bgkxcvq11pjcb::::res://assets/library/rocks/RP23_Colorsheet Rock grey.png",
+    "uid://batnbxhdmlmeo::::res://assets/library/rocks/RP24_Colorsheet Rock orange.png",
+    "uid://cycm3lj6ex4bo::::res://assets/library/trees/TP22_Colorsheet Tree normal.png",
+    "uid://5es4j8si3rrp::::res://assets/library/trees/TP02_Colorsheet Tree normal.png",
+    "uid://dbi7805ua1bff::::res://assets/library/trees/TP11_Colorsheet Tree normal.png",
+    "uid://c4b2g62y2e3uo::::res://assets/library/trees/TP25_Colorsheet Tree normal.png",
+    "uid://c8rkphb5k5gfl::::res://assets/library/trees/TP01_Colorsheet Tree normal.png",
+    "uid://ciwna3l7pd1us::::res://assets/library/trees/TP17_Colorsheet Tree normal.png",
+    "uid://dr2yoxwf2gg65::::res://assets/library/trees/TP13_Colorsheet Tree normal.png",
+    "uid://dyvs4neo42ctj::::res://assets/library/trees/TP08_Colorsheet Tree normal.png",
+    "uid://421ef335tp6k::::res://assets/library/trees/TP33_Colorsheet Tree normal.png",
+    "uid://vd22st7j1e00::::res://assets/library/trees/TP20_Colorsheet Tree normal.png",
+    "uid://bnkj7uf3csoqh::::res://assets/library/trees/TP06_Colorsheet Tree normal.png",
+    "uid://c1y1s017lfcf3::::res://assets/library/trees/TP05_Colorsheet Tree normal.png",
+    "uid://d2ghoc7jyfsml::::res://assets/library/trees/TP10_Colorsheet Tree normal.png",
+    "uid://d0ygymckdxll6::::res://assets/library/trees/TP21_Colorsheet Tree normal.png",
+    "uid://b2i84smr4spbn::::res://assets/library/trees/TP26_Colorsheet Tree normal.png",
+    "uid://chsa88x4oil7a::::res://assets/library/trees/TP18_Colorsheet Tree normal.png",
+    "uid://cocsgxiorcf5w::::res://assets/library/trees/TP04_Colorsheet Tree normal.png",
+    "uid://bq8dbh8jghmsc::::res://assets/library/trees/TP12_Colorsheet Tree normal.png",
+    "uid://bqxqr4s4uo8c3::::res://assets/library/trees/TP19_Colorsheet Tree normal.png",
+    "uid://xbrpmcnmokuk::::res://assets/library/trees/TP32_Colorsheet Tree normal.png",
+    "uid://cntwpko2jtiyw::::res://assets/library/trees/TP03_Colorsheet Tree normal.png",
+    "uid://dhmqntj7uj7xb::::res://assets/library/trees/TP07_Colorsheet Tree normal.png",
+    "uid://lvo7cdvn8emw::::res://assets/library/trees/TP34_Colorsheet Tree normal.png",
+    "uid://dhbv6tiv83o0h::::res://assets/library/trees/TP28_Colorsheet Tree normal.png",
+    "uid://c5docifh8gqyo::::res://assets/library/trees/TP15_Colorsheet Tree normal.png",
+    "uid://pabe8q3crrd7::::res://assets/library/trees/TP14_Colorsheet Tree normal.png",
+    "uid://cnganb8xyo1tr::::res://assets/library/trees/TP09_Colorsheet Tree normal.png",
+    "uid://3cwgg4jcbb5u::::res://assets/library/trees/TP27_Colorsheet Tree normal.png",
+    "uid://wngr5loser15::::res://assets/library/trees/TP24_Colorsheet Tree normal.png",
+    "uid://cvjh7r514uytk::::res://assets/library/trees/TP16_Colorsheet Tree normal.png",
+    "uid://bsrvdoua46lbv::::res://assets/library/trees/TP31_Colorsheet Tree normal.png",
+    "uid://c4p0ex3fum3b::::res://assets/library/trees/TP30_Colorsheet Tree normal.png",
+    "uid://cmlhbmhi0f124::::res://assets/library/trees/TP23_Colorsheet Tree normal.png",
+    "uid://du0f0a7qey236::::res://assets/library/trees/TP29_Colorsheet Tree normal.png",
+    "uid://4w7feb7sytoy::::res://assets/library/trees/TP35_Colorsheet Tree normal.png",
+    "uid://lta2wd27cox2::::res://assets/library/trees/TP36_Colorsheet Tree normal.png",
+    "uid://snpvjcn3hfvn::::res://assets/library/trees/TP37_Colorsheet Tree normal.png",
+    "uid://dy6607j24gfds::::res://assets/library/trees/TP38_Colorsheet Tree normal.png",
+    "uid://b63akjqnjwsp7::::res://assets/optimized/V08_texture_pbr_20250901.png",
+    "uid://cy55etdsx4vr1::::res://assets/optimized/V08_texture_pbr_20250901_metallic-texture_pbr_20250901_roughness.png",
+    "uid://cu2ndx54sbm0::::res://assets/optimized/V08_texture_pbr_20250901_normal.png",
+    "uid://dcjcyu8yac7te::::res://shaders/path_pebbles.gdshader",
+    "uid://cr6iewpxsp0mg::::res://shaders/island_grass.gdshader",
+    "uid://bwxn1kkdi77js::::res://shaders/island_trail.gdshader"
+  ],
+  "res://scenes/coastal_showcase.tscn": [
+    "uid://bsfystrgu1j6s::::res://scripts/coastal_showcase.gd",
+    "uid://tre80xn3r688::::res://assets/models/world.glb",
+    "uid://cg31bqxslffcc::::res://assets/models/V01.glb",
+    "uid://c1vv1wmans7mr::::res://assets/models/V02.glb",
+    "uid://dt50fgk1qe3gr::::res://assets/models/V03.glb",
+    "uid://6ubq70d0g80s::::res://assets/models/V05.glb",
+    "uid://b8rmkgbdbuhg6::::res://assets/models/V06.glb",
+    "uid://cssfvauq5chxy::::res://assets/models/V08.glb",
+    "uid://cgek6m54gr8fk::::res://assets/models/V07.glb",
+    "uid://b85lwwudl381f::::res://assets/models/R04.glb",
+    "uid://bpk7sdx14nod7::::res://assets/models/R03.glb",
+    "uid://be5ullrpmd3pg::::res://assets/models/R01.glb",
+    "uid://dqhu7wwnk7p7r::::res://scripts/explorer.gd"
+  ],
+  "res://scenes/island.tscn": [
+    "uid://0i6ychnplgxu::::res://scripts/island_builder.gd",
+    "uid://tre80xn3r688::::res://assets/models/world.glb",
+    "uid://cg31bqxslffcc::::res://assets/models/V01.glb",
+    "uid://c1vv1wmans7mr::::res://assets/models/V02.glb",
+    "uid://dt50fgk1qe3gr::::res://assets/models/V03.glb",
+    "uid://6ubq70d0g80s::::res://assets/models/V05.glb",
+    "uid://b8rmkgbdbuhg6::::res://assets/models/V06.glb",
+    "uid://cssfvauq5chxy::::res://assets/models/V08.glb",
+    "uid://cgek6m54gr8fk::::res://assets/models/V07.glb",
+    "uid://b85lwwudl381f::::res://assets/models/R04.glb",
+    "uid://bpk7sdx14nod7::::res://assets/models/R03.glb",
+    "uid://be5ullrpmd3pg::::res://assets/models/R01.glb",
+    "uid://dqhu7wwnk7p7r::::res://scripts/explorer.gd"
+  ],
+  "res://scripts/audit_l_dock.gd": [],
+  "res://scripts/audit_shore_bed.gd": [],
+  "res://scripts/bake_fisherwoman_player.gd": [],
+  "res://scripts/bake_grass_into_scene.gd": [],
+  "res://scripts/bake_island_grass.gd": [],
+  "res://scripts/bake_pebble_paths.gd": [],
+  "res://scripts/bake_static_island.gd": [],
+  "res://scripts/bake_water_scene.gd": [],
+  "res://scripts/boat_wake.gd": [],
+  "res://scripts/building_doors.gd": [],
+  "res://scripts/building_revision.gd": [],
+  "res://scripts/cabin_access.gd": [],
+  "res://scripts/caught_fish.gd": [],
+  "res://scripts/check_character_rigs.gd": [],
+  "res://scripts/check_fishing_rig.gd": [],
+  "res://scripts/coastal_palm_setup.gd": [],
+  "res://scripts/coastal_presentation.gd": [],
+  "res://scripts/coastal_showcase.gd": [],
+  "res://scripts/explorer.gd": [],
+  "res://scripts/export_asset_footprints.gd": [],
+  "res://scripts/export_dock_site.gd": [],
+  "res://scripts/export_static_fluid_geometry.gd": [],
+  "res://scripts/fish_schools.gd": [],
+  "res://scripts/fisherwoman_setup.gd": [],
+  "res://scripts/fishing_controller.gd": [],
+  "res://scripts/fishing_locomotion.gd": [],
+  "res://scripts/follow_camera_safety.gd": [],
+  "res://scripts/forest_biome_setup.gd": [],
+  "res://scripts/grade_fishing_cabin_site.gd": [],
+  "res://scripts/ground_sampler.gd": [],
+  "res://scripts/inspect_asset_bounds.gd": [],
+  "res://scripts/inspect_forest_pack.gd": [],
+  "res://scripts/inspect_static_scene.gd": [],
+  "res://scripts/island_adventure.gd": [],
+  "res://scripts/island_builder.gd": [],
+  "res://scripts/island_game_ui.gd": [],
+  "res://scripts/island_grass_setup.gd": [],
+  "res://scripts/island_opening.gd": [],
+  "res://scripts/island_rain.gd": [],
+  "res://scripts/island_static_setup.gd": [],
+  "res://scripts/island_weather.gd": [],
+  "res://scripts/island_wildlife.gd": [],
+  "res://scripts/l_dock_setup.gd": [],
+  "res://scripts/lagoon_gap_fix.gd": [],
+  "res://scripts/lighthouse_base_setup.gd": [],
+  "res://scripts/live_item_preview.gd": [],
+  "res://scripts/nautical_button.gd": [],
+  "res://scripts/nautical_panel.gd": [],
+  "res://scripts/nearshore_enrichment.gd": [],
+  "res://scripts/player_movement_vfx.gd": [],
+  "res://scripts/rowboat_controller.gd": [],
+  "res://scripts/shallow_water_simulation.gd": [],
+  "res://scripts/shore_slice.gd": [],
+  "res://scripts/shore_waves_setup.gd": [],
+  "res://scripts/world_life_setup.gd": [],
+  "res://shaders/boat_foam.gdshader": [],
+  "res://shaders/coastal_volume_fog.gdshader": [],
+  "res://shaders/island_biome.gdshaderinc": [],
+  "res://shaders/island_grass.gdshader": [],
+  "res://shaders/island_trail.gdshader": [],
+  "res://shaders/island_weather_sky.gdshader": [],
+  "res://shaders/path_pebbles.gdshader": [],
+  "res://shaders/physical_water.gdshader": [],
+  "res://shaders/rain_surface_height.gdshaderinc": [],
+  "res://shaders/shore_sand.gdshader": [],
+  "res://shaders/shore_water.gdshader": [],
+  "res://shaders/shore_waves.gdshader": [],
+  "res://shaders/water.gdshader": [],
+  "res://shaders/water_realistic.gdshader": [],
+  "res://shaders/weather_rain_precip.gdshader": [],
+  "res://shaders/weather_rain_splash.gdshader": []
+}

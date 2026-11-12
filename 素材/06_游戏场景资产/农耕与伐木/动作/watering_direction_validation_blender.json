@@ -1,0 +1,1185 @@
+[
+  {
+    "frame": 1,
+    "blend": 0,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 16.474233570510457,
+    "wrist_displacement_m": 3.332000937312528e-08
+  },
+  {
+    "frame": 2,
+    "blend": 0,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 15.919193615535004,
+    "wrist_displacement_m": 3.725290298461914e-09
+  },
+  {
+    "frame": 3,
+    "blend": 0,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 15.252471529893379,
+    "wrist_displacement_m": 4.360340502381185e-08
+  },
+  {
+    "frame": 4,
+    "blend": 0,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 14.461487812681712,
+    "wrist_displacement_m": 2.6863450374185958e-08
+  },
+  {
+    "frame": 5,
+    "blend": 0.004013615810597976,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 13.569564144821012,
+    "wrist_displacement_m": 5.972094663188382e-08
+  },
+  {
+    "frame": 6,
+    "blend": 0.015648021134989577,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 12.688651595676019,
+    "wrist_displacement_m": 1.4901161193847656e-08
+  },
+  {
+    "frame": 7,
+    "blend": 0.03429355281207133,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 11.967212864593423,
+    "wrist_displacement_m": 1.4901161193847656e-08
+  },
+  {
+    "frame": 8,
+    "blend": 0.05934054768073972,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 11.60072284297711,
+    "wrist_displacement_m": 6.064333243705223e-08
+  },
+  {
+    "frame": 9,
+    "blend": 0.09017934257989127,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 11.865927135617657,
+    "wrist_displacement_m": 1.4901161193847656e-08
+  },
+  {
+    "frame": 10,
+    "blend": 0.1262002743484225,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 13.023541747097267,
+    "wrist_displacement_m": 1.666000468656264e-08
+  },
+  {
+    "frame": 11,
+    "blend": 0.16679367982522986,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 14.941054177328525,
+    "wrist_displacement_m": 1.666000468656264e-08
+  },
+  {
+    "frame": 12,
+    "blend": 0.21134989584920988,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 17.908585249044183,
+    "wrist_displacement_m": 2.1073424255447017e-08
+  },
+  {
+    "frame": 13,
+    "blend": 0.2592592592592593,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 21.214678552633618,
+    "wrist_displacement_m": 1.4901161193847656e-08
+  },
+  {
+    "frame": 14,
+    "blend": 0.3099121068942743,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 25.197841678457245,
+    "wrist_displacement_m": 2.9802322387695312e-08
+  },
+  {
+    "frame": 15,
+    "blend": 0.3626987755931515,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 30.114399673234598,
+    "wrist_displacement_m": 1.4901161193847656e-08
+  },
+  {
+    "frame": 16,
+    "blend": 0.41700960219478744,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 35.48406900245601,
+    "wrist_displacement_m": 6.322027276634104e-08
+  },
+  {
+    "frame": 17,
+    "blend": 0.4722349235380786,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 41.361597047413724,
+    "wrist_displacement_m": 8.940696716308594e-08
+  },
+  {
+    "frame": 18,
+    "blend": 0.5277650764619214,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 47.69476359680841,
+    "wrist_displacement_m": 0.0
+  },
+  {
+    "frame": 19,
+    "blend": 0.5829903978052127,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 54.433373590429625,
+    "wrist_displacement_m": 6.664001874625056e-08
+  },
+  {
+    "frame": 20,
+    "blend": 0.6373012244068486,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 61.18050424504044,
+    "wrist_displacement_m": 7.450580596923828e-09
+  },
+  {
+    "frame": 21,
+    "blend": 0.6900878931057258,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 67.71471399755985,
+    "wrist_displacement_m": 0.0
+  },
+  {
+    "frame": 22,
+    "blend": 0.7407407407407407,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 74.0000111661565,
+    "wrist_displacement_m": 3.725290298461914e-08
+  },
+  {
+    "frame": 23,
+    "blend": 0.78865010415079,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 79.83943358573471,
+    "wrist_displacement_m": 0.0
+  },
+  {
+    "frame": 24,
+    "blend": 0.8332063201747703,
+    "forearm_correction_deg": 5.355883680219699,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.01780345998079898
+  },
+  {
+    "frame": 25,
+    "blend": 0.8737997256515775,
+    "forearm_correction_deg": 10.34352686878396,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.034348601274255174
+  },
+  {
+    "frame": 26,
+    "blend": 0.9098206574201089,
+    "forearm_correction_deg": 14.775056055125782,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.0489955233898225
+  },
+  {
+    "frame": 27,
+    "blend": 0.9406594523192603,
+    "forearm_correction_deg": 18.655279692420855,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.061760700944604424
+  },
+  {
+    "frame": 28,
+    "blend": 0.9657064471879286,
+    "forearm_correction_deg": 21.761096481619884,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07192802826236856
+  },
+  {
+    "frame": 29,
+    "blend": 0.9843519788650105,
+    "forearm_correction_deg": 24.188661825858308,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07983855448045628
+  },
+  {
+    "frame": 30,
+    "blend": 0.995986384189402,
+    "forearm_correction_deg": 25.902574854667947,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.085402182507896
+  },
+  {
+    "frame": 31,
+    "blend": 1,
+    "forearm_correction_deg": 26.838706921931553,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08843307274287249
+  },
+  {
+    "frame": 32,
+    "blend": 1,
+    "forearm_correction_deg": 27.35499409110365,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09010206701547502
+  },
+  {
+    "frame": 33,
+    "blend": 1,
+    "forearm_correction_deg": 27.90795254592954,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09188766235291253
+  },
+  {
+    "frame": 34,
+    "blend": 1,
+    "forearm_correction_deg": 28.403940392888355,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09348735940680802
+  },
+  {
+    "frame": 35,
+    "blend": 1,
+    "forearm_correction_deg": 28.906389598802004,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.0951061969251348
+  },
+  {
+    "frame": 36,
+    "blend": 1,
+    "forearm_correction_deg": 29.432635183783976,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09679977332578855
+  },
+  {
+    "frame": 37,
+    "blend": 1,
+    "forearm_correction_deg": 29.955452013802603,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.098480169493072
+  },
+  {
+    "frame": 38,
+    "blend": 1,
+    "forearm_correction_deg": 30.504141600397237,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10024168814113202
+  },
+  {
+    "frame": 39,
+    "blend": 1,
+    "forearm_correction_deg": 31.01643993909404,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10188421974439922
+  },
+  {
+    "frame": 40,
+    "blend": 1,
+    "forearm_correction_deg": 31.41042574098789,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10314601216829158
+  },
+  {
+    "frame": 41,
+    "blend": 1,
+    "forearm_correction_deg": 31.680525571716043,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10401035951184315
+  },
+  {
+    "frame": 42,
+    "blend": 1,
+    "forearm_correction_deg": 31.84451158349888,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10453485498328226
+  },
+  {
+    "frame": 43,
+    "blend": 1,
+    "forearm_correction_deg": 31.918113701994937,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.1047701361125868
+  },
+  {
+    "frame": 44,
+    "blend": 1,
+    "forearm_correction_deg": 31.91618758864899,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10476404360494436
+  },
+  {
+    "frame": 45,
+    "blend": 1,
+    "forearm_correction_deg": 31.884413548630093,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10466238978366074
+  },
+  {
+    "frame": 46,
+    "blend": 1,
+    "forearm_correction_deg": 31.79787505184603,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10438570255130314
+  },
+  {
+    "frame": 47,
+    "blend": 1,
+    "forearm_correction_deg": 31.66685153299768,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10396660378166941
+  },
+  {
+    "frame": 48,
+    "blend": 1,
+    "forearm_correction_deg": 31.525753485123555,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10351511902702355
+  },
+  {
+    "frame": 49,
+    "blend": 1,
+    "forearm_correction_deg": 31.275379240718397,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10271363686793616
+  },
+  {
+    "frame": 50,
+    "blend": 1,
+    "forearm_correction_deg": 31.00855790079185,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10185893179474614
+  },
+  {
+    "frame": 51,
+    "blend": 1,
+    "forearm_correction_deg": 30.637227836374937,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10066852454802912
+  },
+  {
+    "frame": 52,
+    "blend": 1,
+    "forearm_correction_deg": 30.196598672639073,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09925471833414548
+  },
+  {
+    "frame": 53,
+    "blend": 1,
+    "forearm_correction_deg": 29.76702075498029,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09787478325706998
+  },
+  {
+    "frame": 54,
+    "blend": 1,
+    "forearm_correction_deg": 29.356280499052403,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09655409966053041
+  },
+  {
+    "frame": 55,
+    "blend": 1,
+    "forearm_correction_deg": 28.889935673091443,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.0950531608796707
+  },
+  {
+    "frame": 56,
+    "blend": 1,
+    "forearm_correction_deg": 28.44393798066795,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09361627661368203
+  },
+  {
+    "frame": 57,
+    "blend": 1,
+    "forearm_correction_deg": 28.002680439528447,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09219325356210269
+  },
+  {
+    "frame": 58,
+    "blend": 1,
+    "forearm_correction_deg": 27.60845558101365,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09092077268115283
+  },
+  {
+    "frame": 59,
+    "blend": 1,
+    "forearm_correction_deg": 27.284663633220028,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08987477129161978
+  },
+  {
+    "frame": 60,
+    "blend": 1,
+    "forearm_correction_deg": 26.95397319436469,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08880587787520215
+  },
+  {
+    "frame": 61,
+    "blend": 1,
+    "forearm_correction_deg": 26.59407003642921,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08764154236310298
+  },
+  {
+    "frame": 62,
+    "blend": 1,
+    "forearm_correction_deg": 26.264356314625182,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08657415040723031
+  },
+  {
+    "frame": 63,
+    "blend": 1,
+    "forearm_correction_deg": 25.983983879385327,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08566592580926431
+  },
+  {
+    "frame": 64,
+    "blend": 1,
+    "forearm_correction_deg": 25.757494806507705,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08493194996767707
+  },
+  {
+    "frame": 65,
+    "blend": 1,
+    "forearm_correction_deg": 25.544891508212718,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08424264981017195
+  },
+  {
+    "frame": 66,
+    "blend": 1,
+    "forearm_correction_deg": 25.373597194017968,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08368704483946056
+  },
+  {
+    "frame": 67,
+    "blend": 1,
+    "forearm_correction_deg": 25.19739880399915,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08311528128050165
+  },
+  {
+    "frame": 68,
+    "blend": 1,
+    "forearm_correction_deg": 25.065480530369523,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08268717008861291
+  },
+  {
+    "frame": 69,
+    "blend": 1,
+    "forearm_correction_deg": 24.96744682521233,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08236889856285656
+  },
+  {
+    "frame": 70,
+    "blend": 1,
+    "forearm_correction_deg": 24.776652320937195,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08174932482448172
+  },
+  {
+    "frame": 71,
+    "blend": 1,
+    "forearm_correction_deg": 24.560381211057912,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08104675825814606
+  },
+  {
+    "frame": 72,
+    "blend": 1,
+    "forearm_correction_deg": 24.39907946361889,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08052256612381643
+  },
+  {
+    "frame": 73,
+    "blend": 1,
+    "forearm_correction_deg": 24.290008172762956,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08016802122091324
+  },
+  {
+    "frame": 74,
+    "blend": 1,
+    "forearm_correction_deg": 24.13154095382949,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07965283702036567
+  },
+  {
+    "frame": 75,
+    "blend": 1,
+    "forearm_correction_deg": 23.935924336000326,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07901655150170742
+  },
+  {
+    "frame": 76,
+    "blend": 1,
+    "forearm_correction_deg": 23.81515976128533,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07862368212779548
+  },
+  {
+    "frame": 77,
+    "blend": 1,
+    "forearm_correction_deg": 23.709339640474322,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07827934947271808
+  },
+  {
+    "frame": 78,
+    "blend": 1,
+    "forearm_correction_deg": 23.630922238613405,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07802409047707895
+  },
+  {
+    "frame": 79,
+    "blend": 1,
+    "forearm_correction_deg": 23.41963033663906,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07733627581847523
+  },
+  {
+    "frame": 80,
+    "blend": 1,
+    "forearm_correction_deg": 23.21560575594161,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07667180067055471
+  },
+  {
+    "frame": 81,
+    "blend": 1,
+    "forearm_correction_deg": 22.886424788892846,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07559926349262054
+  },
+  {
+    "frame": 82,
+    "blend": 1,
+    "forearm_correction_deg": 22.389330451288487,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07397843026846831
+  },
+  {
+    "frame": 83,
+    "blend": 1,
+    "forearm_correction_deg": 21.847669129349796,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07221071712263612
+  },
+  {
+    "frame": 84,
+    "blend": 1,
+    "forearm_correction_deg": 21.224974443098073,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.0701765237384612
+  },
+  {
+    "frame": 85,
+    "blend": 1,
+    "forearm_correction_deg": 20.65970798738782,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06832814354670579
+  },
+  {
+    "frame": 86,
+    "blend": 1,
+    "forearm_correction_deg": 20.272381619934734,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06706068885247125
+  },
+  {
+    "frame": 87,
+    "blend": 1,
+    "forearm_correction_deg": 19.983983712420116,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06611642896943268
+  },
+  {
+    "frame": 88,
+    "blend": 1,
+    "forearm_correction_deg": 19.761094149235092,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06538635035697686
+  },
+  {
+    "frame": 89,
+    "blend": 1,
+    "forearm_correction_deg": 19.6104679874688,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06489277126349532
+  },
+  {
+    "frame": 90,
+    "blend": 1,
+    "forearm_correction_deg": 19.598112175260248,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06485233975300722
+  },
+  {
+    "frame": 91,
+    "blend": 1,
+    "forearm_correction_deg": 19.650889046976936,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.0650252584250899
+  },
+  {
+    "frame": 92,
+    "blend": 1,
+    "forearm_correction_deg": 19.76996656496694,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06541540573597086
+  },
+  {
+    "frame": 93,
+    "blend": 1,
+    "forearm_correction_deg": 19.986941184330732,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06612602266768587
+  },
+  {
+    "frame": 94,
+    "blend": 1,
+    "forearm_correction_deg": 20.286629394543382,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06710733289159548
+  },
+  {
+    "frame": 95,
+    "blend": 1,
+    "forearm_correction_deg": 20.544619299873105,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06795159118520558
+  },
+  {
+    "frame": 96,
+    "blend": 1,
+    "forearm_correction_deg": 20.834676943356037,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06890047951921897
+  },
+  {
+    "frame": 97,
+    "blend": 1,
+    "forearm_correction_deg": 21.22384063169585,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07017278698320296
+  },
+  {
+    "frame": 98,
+    "blend": 1,
+    "forearm_correction_deg": 21.827649844892488,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07214531839864467
+  },
+  {
+    "frame": 99,
+    "blend": 1,
+    "forearm_correction_deg": 22.477747250094303,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07426679539942044
+  },
+  {
+    "frame": 100,
+    "blend": 1,
+    "forearm_correction_deg": 23.1998690000939,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07662051232735065
+  },
+  {
+    "frame": 101,
+    "blend": 1,
+    "forearm_correction_deg": 23.92255765579461,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07897307378698921
+  },
+  {
+    "frame": 102,
+    "blend": 1,
+    "forearm_correction_deg": 24.72563763802637,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08158365286892863
+  },
+  {
+    "frame": 103,
+    "blend": 1,
+    "forearm_correction_deg": 25.656448987926538,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08460434945601328
+  },
+  {
+    "frame": 104,
+    "blend": 1,
+    "forearm_correction_deg": 26.626813963310248,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08774755542374749
+  },
+  {
+    "frame": 105,
+    "blend": 1,
+    "forearm_correction_deg": 27.55993391714988,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09076406595158672
+  },
+  {
+    "frame": 106,
+    "blend": 1,
+    "forearm_correction_deg": 28.494003267284143,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.0937776558908343
+  },
+  {
+    "frame": 107,
+    "blend": 1,
+    "forearm_correction_deg": 29.40819676693367,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09672111980494222
+  },
+  {
+    "frame": 108,
+    "blend": 1,
+    "forearm_correction_deg": 30.31762279454253,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09964313107495502
+  },
+  {
+    "frame": 109,
+    "blend": 1,
+    "forearm_correction_deg": 31.071955716667908,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10206198238713877
+  },
+  {
+    "frame": 110,
+    "blend": 1,
+    "forearm_correction_deg": 31.68986244031145,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10404030016609453
+  },
+  {
+    "frame": 111,
+    "blend": 1,
+    "forearm_correction_deg": 32.09104726159049,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10532294585286733
+  },
+  {
+    "frame": 112,
+    "blend": 1,
+    "forearm_correction_deg": 32.269765991413045,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10589392811445533
+  },
+  {
+    "frame": 113,
+    "blend": 1,
+    "forearm_correction_deg": 32.28692342660811,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10594871567950208
+  },
+  {
+    "frame": 114,
+    "blend": 1,
+    "forearm_correction_deg": 32.21247436465497,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.1057109008581773
+  },
+  {
+    "frame": 115,
+    "blend": 1,
+    "forearm_correction_deg": 32.13511564211541,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10546374973129263
+  },
+  {
+    "frame": 116,
+    "blend": 1,
+    "forearm_correction_deg": 31.885574680788995,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10466604424786748
+  },
+  {
+    "frame": 117,
+    "blend": 1,
+    "forearm_correction_deg": 31.396560456972765,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.10310157599087838
+  },
+  {
+    "frame": 118,
+    "blend": 1,
+    "forearm_correction_deg": 30.799335546136017,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.1011883731266484
+  },
+  {
+    "frame": 119,
+    "blend": 1,
+    "forearm_correction_deg": 30.204385088292888,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09927960286392817
+  },
+  {
+    "frame": 120,
+    "blend": 1,
+    "forearm_correction_deg": 29.58490742114024,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09728941220209593
+  },
+  {
+    "frame": 121,
+    "blend": 1,
+    "forearm_correction_deg": 29.093413838655295,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09570834421747083
+  },
+  {
+    "frame": 122,
+    "blend": 1,
+    "forearm_correction_deg": 28.702132791672774,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09444836438868309
+  },
+  {
+    "frame": 123,
+    "blend": 1,
+    "forearm_correction_deg": 28.41034028014066,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09350799453528635
+  },
+  {
+    "frame": 124,
+    "blend": 1,
+    "forearm_correction_deg": 27.879689223144027,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.09179638199217278
+  },
+  {
+    "frame": 125,
+    "blend": 1,
+    "forearm_correction_deg": 27.3135280126525,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08996810483167025
+  },
+  {
+    "frame": 126,
+    "blend": 1,
+    "forearm_correction_deg": 26.540330108039548,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08746757151210822
+  },
+  {
+    "frame": 127,
+    "blend": 1,
+    "forearm_correction_deg": 25.669836158699763,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08464775308848109
+  },
+  {
+    "frame": 128,
+    "blend": 1,
+    "forearm_correction_deg": 24.87078598807831,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.08205505150677288
+  },
+  {
+    "frame": 129,
+    "blend": 1,
+    "forearm_correction_deg": 23.78902745752086,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.07853867858998555
+  },
+  {
+    "frame": 130,
+    "blend": 1,
+    "forearm_correction_deg": 22.3200859934829,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.073752557843513
+  },
+  {
+    "frame": 131,
+    "blend": 1,
+    "forearm_correction_deg": 20.561387414285484,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06800642004181556
+  },
+  {
+    "frame": 132,
+    "blend": 1,
+    "forearm_correction_deg": 18.5672590445869,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.06147189621017056
+  },
+  {
+    "frame": 133,
+    "blend": 1,
+    "forearm_correction_deg": 16.619603282001087,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.05507164782414574
+  },
+  {
+    "frame": 134,
+    "blend": 1,
+    "forearm_correction_deg": 14.940981840632903,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.04954257913038276
+  },
+  {
+    "frame": 135,
+    "blend": 1,
+    "forearm_correction_deg": 13.510057209515232,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.04482097898412547
+  },
+  {
+    "frame": 136,
+    "blend": 1,
+    "forearm_correction_deg": 12.355604975621336,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.041006464552575596
+  },
+  {
+    "frame": 137,
+    "blend": 1,
+    "forearm_correction_deg": 11.45752389222387,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.03803622573161578
+  },
+  {
+    "frame": 138,
+    "blend": 1,
+    "forearm_correction_deg": 10.667373458090944,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.03542095935070941
+  },
+  {
+    "frame": 139,
+    "blend": 1,
+    "forearm_correction_deg": 9.951159821723408,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.03304899302131218
+  },
+  {
+    "frame": 140,
+    "blend": 0.995986384189402,
+    "forearm_correction_deg": 9.14411149958387,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.03037467992435676
+  },
+  {
+    "frame": 141,
+    "blend": 0.9843519788650102,
+    "forearm_correction_deg": 7.978027453533444,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.026507905030840915
+  },
+  {
+    "frame": 142,
+    "blend": 0.9657064471879285,
+    "forearm_correction_deg": 6.104841243468277,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.020290772430028473
+  },
+  {
+    "frame": 143,
+    "blend": 0.9406594523192603,
+    "forearm_correction_deg": 3.771621302235241,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.012539489870126186
+  },
+  {
+    "frame": 144,
+    "blend": 0.9098206574201089,
+    "forearm_correction_deg": 0.9428233253935902,
+    "wrist_bend_deg": 80.0,
+    "wrist_displacement_m": 0.0031350983667058755
+  },
+  {
+    "frame": 145,
+    "blend": 0.8737997256515777,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 77.61292852009394,
+    "wrist_displacement_m": 0.0
+  },
+  {
+    "frame": 146,
+    "blend": 0.8332063201747705,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 73.81461934151484,
+    "wrist_displacement_m": 1.862645149230957e-08
+  },
+  {
+    "frame": 147,
+    "blend": 0.7886501041507906,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 69.61324703963494,
+    "wrist_displacement_m": 3.332000937312528e-08
+  },
+  {
+    "frame": 148,
+    "blend": 0.7407407407407403,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 65.04673282472615,
+    "wrist_displacement_m": 7.450580596923828e-09
+  },
+  {
+    "frame": 149,
+    "blend": 0.6900878931057253,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 60.29928689870373,
+    "wrist_displacement_m": 1.4901161193847656e-08
+  },
+  {
+    "frame": 150,
+    "blend": 0.6373012244068483,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 55.4521475315558,
+    "wrist_displacement_m": 2.9802322387695312e-08
+  },
+  {
+    "frame": 151,
+    "blend": 0.5829903978052127,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 50.41914847180807,
+    "wrist_displacement_m": 1.4901161193847656e-08
+  },
+  {
+    "frame": 152,
+    "blend": 0.5277650764619215,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 45.34888048485416,
+    "wrist_displacement_m": 6.143906154658885e-08
+  },
+  {
+    "frame": 153,
+    "blend": 0.4722349235380789,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 40.13853214821247,
+    "wrist_displacement_m": 7.300048299977713e-08
+  },
+  {
+    "frame": 154,
+    "blend": 0.4170096021947879,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 34.83995142787255,
+    "wrist_displacement_m": 0.0
+  },
+  {
+    "frame": 155,
+    "blend": 0.3626987755931508,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 29.678244283405096,
+    "wrist_displacement_m": 5.960464477539063e-08
+  },
+  {
+    "frame": 156,
+    "blend": 0.30991210689427373,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 24.793972592834393,
+    "wrist_displacement_m": 4.2146848510894035e-08
+  },
+  {
+    "frame": 157,
+    "blend": 0.2592592592592591,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 20.382204851308707,
+    "wrist_displacement_m": 3.332000937312528e-08
+  },
+  {
+    "frame": 158,
+    "blend": 0.21134989584920988,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 16.721983314727037,
+    "wrist_displacement_m": 1.666000468656264e-08
+  },
+  {
+    "frame": 159,
+    "blend": 0.16679367982522994,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 14.044242655343036,
+    "wrist_displacement_m": 1.4901161193847656e-08
+  },
+  {
+    "frame": 160,
+    "blend": 0.12620027434842268,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 12.695754992412832,
+    "wrist_displacement_m": 2.2351741790771484e-08
+  },
+  {
+    "frame": 161,
+    "blend": 0.09017934257989156,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 12.65235853174751,
+    "wrist_displacement_m": 3.332000937312528e-08
+  },
+  {
+    "frame": 162,
+    "blend": 0.059340547680740076,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 13.264996618220035,
+    "wrist_displacement_m": 3.003425057343598e-08
+  },
+  {
+    "frame": 163,
+    "blend": 0.034293552812071096,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 14.442767971714,
+    "wrist_displacement_m": 4.485843546238652e-08
+  },
+  {
+    "frame": 164,
+    "blend": 0.015648021134989476,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 16.015902263993215,
+    "wrist_displacement_m": 3.4995925106212377e-08
+  },
+  {
+    "frame": 165,
+    "blend": 0.004013615810597949,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 16.8498615314626,
+    "wrist_displacement_m": 1.862645149230957e-08
+  },
+  {
+    "frame": 166,
+    "blend": 0,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 17.10365599309464,
+    "wrist_displacement_m": 2.242921773119326e-08
+  },
+  {
+    "frame": 167,
+    "blend": 0,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 16.97349307808171,
+    "wrist_displacement_m": 2.843204424245981e-08
+  },
+  {
+    "frame": 168,
+    "blend": 0,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 16.69164190688655,
+    "wrist_displacement_m": 4.712160915387242e-08
+  },
+  {
+    "frame": 169,
+    "blend": 0,
+    "forearm_correction_deg": 0.0,
+    "wrist_bend_deg": 16.47451019317184,
+    "wrist_displacement_m": 3.166496753692627e-08
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "generator": "built-in image_gen",
+  "assets": [
+    {
+      "file": "灯塔底座_建模参考.png",
+      "actual_size": "1672x941",
+      "prompt": "Use case: stylized-concept. Asset type: 3D modeling reference sheet for a game lighthouse breakwater base, not a new lighthouse. Input image: visual reference for the stone-armored causeway and white lighthouse setting; adapt into a bright stylized 3D island game aesthetic compatible with warm sand and a white tower. Show a single coherent solid stone breakwater extending from shore into shallow sea, about 24 m long, 3.5 m walkable road width, ending in a rounded octagonal platform about 9 m across. Platform top about 3 m above sea level; approach gradually rises from shore. Make the platform visibly thick and firmly supported, with substantial warm gray irregular armor boulders along both sides and around the end continuing down to the shallow seabed. Dark gray stone/concrete walking surface, narrow pale curb strips. Leave a clear circular 4.5 m diameter space in the platform center for an existing lighthouse; if needed indicate only a faint translucent cylindrical footprint, no tower. Depict one large clear three-quarter view and one small top-down inset of the exact same design on the same image, no labels. Shore connection and platform must be continuous, no floating parts. Plain light background with minimal shallow-water waterline. No wooden pier, bridge, railings, people, text, watermark, complicated scenery."
+    },
+    {
+      "file": "岩石_BaseColor.png",
+      "requested_size": "1024x1024",
+      "actual_size": "1254x1254",
+      "prompt": "Use case: stylized-concept. Asset type: seamless tileable BaseColor texture for 3D game rocks, requested 1024 x 1024 square. Gray and warm gray stone with subtle fine stylized blocky rock grain and restrained low-contrast color variation, cohesive with bright stylized island game art. Flat albedo only: evenly lit, no baked lighting, no cast shadows, no ambient occlusion, no highlights, no directional shading, no perspective, no individual boulders or obvious mortar seams. Entire square filled edge to edge, seamlessly repeatable on all four edges. No text, logos, watermarks, or background."
+    },
+    {
+      "file": "路面_BaseColor.png",
+      "requested_size": "1024x1024",
+      "actual_size": "1254x1254",
+      "prompt": "Use case: stylized-concept. Asset type: tileable PBR BaseColor texture for the stone/concrete walkway of a stylized island game lighthouse breakwater. Requested resolution: 1024 × 1024 square. Dark medium gray with a subtle blue-gray cast, weathered stone or concrete. Fine hand-painted game-art character with low contrast, tiny granular variation and sparse gentle wear. No brick joints, seams, paving blocks or outlines: the geometry supplies the paving divisions. No directional streaks, no large white patches. Flat albedo only, uniform lighting, no baked shadows, no ambient occlusion, no highlights, no perspective. Fill the square edge to edge and make opposite edges as seamless and tileable as possible. No text, logo, watermark, or background."
+    }
+  ]
+}

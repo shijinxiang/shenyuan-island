@@ -1,0 +1,17 @@
+[
+  {
+    "LeftArm_length_error_m": 0.0,
+    "LeftForeArm_length_error_m": 0.0,
+    "LeftLeg_length_error_m": 0.0,
+    "LeftUpLeg_length_error_m": 0.0,
+    "Left_foot_error_m": 0.0,
+    "RightArm_length_error_m": 0.000000268220901489258,
+    "RightForeArm_length_error_m": 0.0000000298023223876953,
+    "RightLeg_length_error_m": 0.0,
+    "RightUpLeg_length_error_m": 0.0,
+    "Right_foot_error_m": 0.0,
+    "blade_surface_error_m": 0.000000200474616462998,
+    "grip_error_m": 0.0,
+    "height": 0.9
+  }
+]

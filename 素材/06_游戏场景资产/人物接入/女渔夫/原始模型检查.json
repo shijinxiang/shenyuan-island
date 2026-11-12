@@ -1,0 +1,42 @@
+{
+  "code": "C01",
+  "label": "女渔夫",
+  "source": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\人物接入\\女渔夫\\原始模型\\tripo_convert_72ed5180-d0cd-4602-8fc9-1fa72f6a8119.fbx",
+  "bounds": [
+    [
+      -0.475341796875,
+      -0.271240234375,
+      -1.1856287507328034e-08
+    ],
+    [
+      0.475341796875,
+      0.2712402641773224,
+      0.99951171875
+    ]
+  ],
+  "meshes": [
+    {
+      "name": "tripo_node_72ed5180",
+      "vertices": 20563,
+      "triangles": 40764,
+      "uv_layers": 1,
+      "vertex_groups": 0,
+      "materials": [
+        "tripo_mat_72ed5180"
+      ],
+      "modifiers": []
+    }
+  ],
+  "armatures": [],
+  "images": [
+    {
+      "name": "tripo_image_72ed5180_0",
+      "size": [
+        2048,
+        2048
+      ],
+      "path": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\人物接入\\女渔夫\\原始模型\\tripo_convert_72ed5180-d0cd-4602-8fc9-1fa72f6a8119.fbm\\tripo_image_72ed5180-d0cd-4602-8fc9-1fa72f6a8119_0_0.jpg",
+      "packed": false
+    }
+  ]
+}

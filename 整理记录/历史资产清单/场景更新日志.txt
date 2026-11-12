@@ -1,0 +1,95 @@
+00:00.625  blend            | Read blend: "D:\浪费GPT额度\小温的游戏\素材\Blender模型\整岛灰模_v08_建筑细节\深渊岛_建筑细节_v08.blend"
+13:42:10 | INFO: Data are loaded, start creating Blender stuff
+13:42:10 | INFO: Blender create Mesh node node_0
+13:42:13 | INFO: glTF import finished in 2.14s
+13:42:13 | INFO: Data are loaded, start creating Blender stuff
+13:42:13 | INFO: Blender create Mesh node node_0
+13:42:15 | INFO: glTF import finished in 2.01s
+13:42:15 | INFO: Data are loaded, start creating Blender stuff
+13:42:15 | INFO: Blender create Mesh node node_0
+13:42:16 | INFO: glTF import finished in 1.38s
+00:06.578  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:13.453  render           | Saved: 'D:\浪费GPT额度\小温的游戏\素材\02_整岛场景\预览\整岛替换预览.png'
+00:18.813  render           | Saved: 'D:\浪费GPT额度\小温的游戏\素材\02_整岛场景\预览\新码头与船.png'
+Info: No new files have been packed
+Info: Deleted 17 data-block(s)
+Info: Saved as "深渊岛_当前场景.blend"
+INFO Draco is available, use library at D:\blender\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at D:\blender\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+13:42:29 | INFO: Starting glTF 2.0 export
+13:42:29 | INFO: Extracting primitive: Siding_front_00_0 Mesh.003
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Roof_-1_00 Mesh.002
+13:42:29 | INFO: Primitives created: 2
+13:42:29 | INFO: Extracting primitive: Corner_-2.3_-1.9 Mesh.002
+13:42:29 | INFO: Primitives created: 3
+13:42:29 | INFO: Extracting primitive: Window_front_stile0 Mesh.002
+13:42:29 | INFO: Primitives created: 2
+13:42:29 | INFO: Extracting primitive: Lining_front_00_0 Mesh.002
+13:42:29 | INFO: Primitives created: 3
+13:42:29 | INFO: Extracting primitive: Inner_post_-2.14_-1.74 Mesh.002
+13:42:29 | INFO: Primitives created: 2
+13:42:29 | INFO: Extracting primitive: Corner bolt_-2.3_-1.9_0.002
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Ivy_front_001.001
+13:42:29 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Crack_front_079.001
+13:42:29 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Siding_front_00_0 Mesh.004
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Folded_roof_-1.002
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Foundation_-4.015_0 Mesh.002
+13:42:29 | INFO: Primitives created: 3
+13:42:29 | INFO: Extracting primitive: Door0_panel0 Mesh.002
+13:42:29 | INFO: Primitives created: 5
+13:42:29 | INFO: Extracting primitive: Concrete slab Mesh.002
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Column_0_-3.85 Mesh.002
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Hanger_bolt_-1.45_3.002
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Ivy_front_001.002
+13:42:29 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Crack_front_092.001
+13:42:29 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:42:29 | INFO: Primitives created: 1
+13:42:29 | INFO: Extracting primitive: Foundation_0_0.001
+13:42:29 | INFO: Primitives created: 8
+13:42:29 | INFO: Extracting primitive: Crack_curved_tower_0.001
+13:42:29 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:42:29 | INFO: Primitives created: 1
+13:42:30 | INFO: Extracting primitive: node_0.001
+13:42:31 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:42:32 | INFO: Primitives created: 1
+13:42:32 | INFO: Extracting primitive: node_0.002
+13:42:33 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:42:33 | INFO: Primitives created: 1
+13:42:33 | INFO: Extracting primitive: Route | landing to inner beach exact surface
+13:42:33 | INFO: Primitives created: 1
+13:42:33 | INFO: Extracting primitive: Route | pier to landing buildings exact surface
+13:42:33 | INFO: Primitives created: 1
+13:42:33 | INFO: Extracting primitive: Route | southern lagoon overlook exact surface
+13:42:33 | INFO: Primitives created: 1
+13:42:33 | INFO: Extracting primitive: Cone.005
+13:42:33 | INFO: Primitives created: 1
+13:42:33 | INFO: Extracting primitive: Cone.006
+13:42:33 | INFO: Primitives created: 1
+13:42:33 | INFO: Extracting primitive: node_0
+13:42:35 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:42:35 | INFO: Primitives created: 1
+13:42:35 | INFO: Extracting primitive: TERRAIN | continuous island, ridges and lagoon basin
+13:42:35 | INFO: Primitives created: 4
+13:42:35 | INFO: Extracting primitive: W01 | lagoon water colour blockout
+13:42:35 | INFO: Primitives created: 1
+13:42:35 | INFO: Extracting primitive: W02 | surrounding sea blockout
+13:42:35 | INFO: Primitives created: 1
+13:42:36 | INFO: Finished glTF 2.0 export in 6.939438819885254 s
+
+SCENE_REPLACED {"removed_objects": ["P01 proxy | pier deck", "P01 proxy | shore access ramp", "P01 proxy | support 1_-1", "P01 proxy | support 1_1", "P01 proxy | support 8_-1", "P01 proxy | support 8_1", "P01 proxy | support 16_-1", "P01 proxy | support 16_1", "P01 proxy | support 23_-1", "P01 proxy | support 23_1", "P02 proxy | moored boat volume", "T_MountainRange_SurroundingPeaks_12K"], "terrain_vertices_sha256_before": "8edc3b6ef2d0a5d72b684e32c75113145fab753b3d7c89f524835e0b8011bacc", "placements": [{"id": "T00", "triangles": 1499942, "uniform_scale": 293.68461508355676, "bounds": [[-171.9254150390625, 70.92726135253906, -4.0], [168.89202880859375, 189.47483825683594, 86.85194396972656]], "mesh_unchanged": true, "material_unchanged": true}, {"id": "P01", "triangles": 1500000, "uniform_scale": 20.66994549522467, "bounds": [[134.2572479248047, -137.086669921875, -1.946516513824463], [154.02272033691406, -114.13622283935547, 3.3808557987213135]], "mesh_unchanged": true, "material_unchanged": true}, {"id": "P02", "triangles": 999868, "uniform_scale": 5.290635702727515, "bounds": [[150.72454833984375, -132.8638458251953, 0.10000000149011612], [156.46441650390625, -126.51077270507812, 1.6267249584197998]], "mesh_unchanged": true, "material_unchanged": true}], "terrain_and_building_geometry_unchanged": true}
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

@@ -1,0 +1,507 @@
+{
+  "archive": "D:\\浪费GPT额度\\小温的游戏\\归档\\06_本轮制作备份与过程脚本.zip",
+  "sha256": "3aea4cedba98243b69e7954c9972185f871abd09ddbbadae702583199ff85bef",
+  "files": [
+    {
+      "relative_path": "_build/windows_20261111_165010/export.log",
+      "bytes": 127568,
+      "sha256": "568a9c97d72e7b80285735b0626e09f51b210c0e4f67c2e300057de7d094b696"
+    },
+    {
+      "relative_path": "_build/windows_20261111_165010/export_console.log",
+      "bytes": 286504,
+      "sha256": "b7abc37deb739a68ed161176bc8ed257bbe7dd7480f10f1a66b88eee27898891"
+    },
+    {
+      "relative_path": "_build/windows_20261111_165010/import.log",
+      "bytes": 56434,
+      "sha256": "52c4184c93e4d7caf157a8c38edf199503f18d2e76b0c1ef6db5fc5e302e4236"
+    },
+    {
+      "relative_path": "_build/windows_20261111_165010/import_console.log",
+      "bytes": 158388,
+      "sha256": "a9b2eede0514a15ffc2e5473d300fe0ca99d1731a4057b4ea24b532a084e5370"
+    },
+    {
+      "relative_path": "_build/windows_20261111_165801/export.log",
+      "bytes": 127568,
+      "sha256": "568a9c97d72e7b80285735b0626e09f51b210c0e4f67c2e300057de7d094b696"
+    },
+    {
+      "relative_path": "_build/windows_20261111_165801/export_console.log",
+      "bytes": 286504,
+      "sha256": "b7abc37deb739a68ed161176bc8ed257bbe7dd7480f10f1a66b88eee27898891"
+    },
+    {
+      "relative_path": "_build/windows_20261111_165801/import.log",
+      "bytes": 56434,
+      "sha256": "52c4184c93e4d7caf157a8c38edf199503f18d2e76b0c1ef6db5fc5e302e4236"
+    },
+    {
+      "relative_path": "_build/windows_20261111_165801/import_console.log",
+      "bytes": 158388,
+      "sha256": "a9b2eede0514a15ffc2e5473d300fe0ca99d1731a4057b4ea24b532a084e5370"
+    },
+    {
+      "relative_path": "整理记录/开发文档更新_2026-11-11/export_qa_release.ps1",
+      "bytes": 3238,
+      "sha256": "3e4b24e89e050a7a42e9ae452dbe1a82c839a3634da4f38e6bb15fb49c6283ec"
+    },
+    {
+      "relative_path": "整理记录/开发文档更新_2026-11-11/release_smoke.gd",
+      "bytes": 2461,
+      "sha256": "644d553719d0d2170dee90730ccf0d24ef20c243e567fa7567e02d7ac52558ee"
+    },
+    {
+      "relative_path": "整理记录/开发文档更新_2026-11-11/render_when_ready.ps1",
+      "bytes": 665,
+      "sha256": "c7721592d9d048a12517e8d67f6929abdd056730df3f028ad8a25dd0e348e239"
+    },
+    {
+      "relative_path": "整理记录/开发文档更新_2026-11-11/show_diagnostic_word.ps1",
+      "bytes": 375,
+      "sha256": "e6ff8a95fcc247caf994d605719fb665f93798565a45aaa9b62e86c291fabd68"
+    },
+    {
+      "relative_path": "整理记录/开发文档更新_2026-11-11/word_pdf_diagnostic.ps1",
+      "bytes": 437,
+      "sha256": "bd641a103f9dca3e7d23a235e6f8949bfcba689c2a5dfb3d140b13476ef96898"
+    },
+    {
+      "relative_path": "整理记录/开发文档更新_2026-11-11/word_status.ps1",
+      "bytes": 455,
+      "sha256": "5f26cae01a3b3f898cbb6d86df15ec337a5c642ed9c7e04f406089584f73f13a"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/axe.glb",
+      "bytes": 14316,
+      "sha256": "5aba6bf5b9a67368388d021d66ec524c1df7fe1616e3f1f864eb1febadefa3f0"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/axe.glb.import",
+      "bytes": 1138,
+      "sha256": "b7dfce2bef3d08ca31725d3dd4e99217eed782bb6b19ab586af8659afba14be3"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/hoe.glb",
+      "bytes": 13952,
+      "sha256": "6e01b3f928728c617b45a7dc7aff8462a3fb0e30e905a7eff309c7fc027287ea"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/hoe.glb.import",
+      "bytes": 1139,
+      "sha256": "b2a430d00b3b37f91f552cf1318d8c7ca7f96f6381f2084c4310586bff9e3778"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/log.glb",
+      "bytes": 74340,
+      "sha256": "e73d820b5c3f5087318f9a9502ef2dcd80ee4bd84a36755b366155e6b62e1d54"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/log.glb.import",
+      "bytes": 1139,
+      "sha256": "d72ff8abb25f284172f27df481f94399bd1e13da1306ec9cfc06764b3065d178"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/manifest.json",
+      "bytes": 13990,
+      "sha256": "71163b7accf54a324293eda522eec7dbbbf599c698a15d544b75aa609388133f"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/pumpkin_stage_0.glb",
+      "bytes": 8580,
+      "sha256": "5bc8af96207d3d0693500427834c0b9d739a56143121a0966eef86e14f7353fd"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/pumpkin_stage_0.glb.import",
+      "bytes": 1175,
+      "sha256": "e2a171da4772076524dbf32115593de04946eda2bbf4d22dad04abcf1a3c167e"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/pumpkin_stage_1.glb",
+      "bytes": 40212,
+      "sha256": "96ca5d0f91b1d5b6192ff21301148cb6e63640dfb8e7130de3d33b2b8f715923"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/pumpkin_stage_1.glb.import",
+      "bytes": 1175,
+      "sha256": "cbd1c5ae43edc54430985b538407c1a24d7f6c6faf86d9797163db0dbed61b8b"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/pumpkin_stage_2.glb",
+      "bytes": 124380,
+      "sha256": "6b4b468e51ce9339e7e5772aca6cd603206a9f15dd5fe7d4a0db89b4df4514c8"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/pumpkin_stage_2.glb.import",
+      "bytes": 1175,
+      "sha256": "37b49638a2d5582e3890ea5b8c703e0b7231b1a3a5ee89a902ef828ba7cbd198"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/pumpkin_stage_3.glb",
+      "bytes": 130680,
+      "sha256": "c2108112a7477a9e7ef66fb7b57d2b614703c10e943570cb737c950fa92adc1b"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/pumpkin_stage_3.glb.import",
+      "bytes": 1175,
+      "sha256": "8777d4000112617d7240903638efb69f497783ab09c0184a414f97239d689f16"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_dry.tres",
+      "bytes": 419,
+      "sha256": "8cb21bcaf82f5ce74d00e30f679fb8d69727730652902111cacc39c2dd6bc0af"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_dry_albedo.png",
+      "bytes": 397023,
+      "sha256": "d11f6f950e603fffaecfb01057c6a26f2b44ae8e9987efe965c03cea9d777cc6"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_dry_albedo.png.import",
+      "bytes": 964,
+      "sha256": "bf6cef58d9b667afe1adad6c837b7d4dbda91836de95c104269369c13dbcfc82"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_dry_roughness.png",
+      "bytes": 186872,
+      "sha256": "445703d8a57867aaa2cfb82d4c9f36bd6230a47c8210183a4b98fd659da8920e"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_dry_roughness.png.import",
+      "bytes": 972,
+      "sha256": "6ab74376a37ba180b2701f01aa426ae532fc56d7d38f811f38a3b8765b6b6886"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_plot.glb",
+      "bytes": 578196,
+      "sha256": "217ac0c953ce673b47b4f0236e80703c1735e540eb77169d9a37a3c2871e7147"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_plot.glb.import",
+      "bytes": 1157,
+      "sha256": "5f5a95c6ac08f7fbca7d46fba1a25eb4e9284df171cc1ea1f3c3be45aa196cd3"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_plot_soil_dry_albedo.png",
+      "bytes": 397023,
+      "sha256": "d11f6f950e603fffaecfb01057c6a26f2b44ae8e9987efe965c03cea9d777cc6"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_plot_soil_dry_albedo.png.import",
+      "bytes": 1060,
+      "sha256": "fe306773343347b3f32c61c6f7542ca50e0c180d21cb87d888e013510ee70011"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_wet.tres",
+      "bytes": 419,
+      "sha256": "f7895d5020d99003436e9a0e9422bc5341978ba1ec89fbf39ca8979b634e21be"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_wet_albedo.png",
+      "bytes": 346814,
+      "sha256": "07f227e09772086864d61a7886de929e14cbeff32135f85b22c96041aa898605"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_wet_albedo.png.import",
+      "bytes": 963,
+      "sha256": "c25e27cce72e2ea1538d3b4310fcef708f42b984908e5b6fc47e29cbfe5a9cef"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_wet_roughness.png",
+      "bytes": 294297,
+      "sha256": "1cd7156a823f49b3bd91efcfffca5f497f0de65f025da160441bec75ff43b775"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/soil_wet_roughness.png.import",
+      "bytes": 973,
+      "sha256": "800a3a39bc428b3c06fb9dde7862c605a42ef457f57462f6c6e53a66d4e6fd9c"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/stump.glb",
+      "bytes": 50636,
+      "sha256": "6e6fb02472dfd330a50da49f4aef298c66e932429e35494f154ac614f882670c"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/stump.glb.import",
+      "bytes": 1145,
+      "sha256": "b3de029ed6b0192bffb068e48448573a826da468ebec1f9d4a03e78ae911b45e"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/tomato_stage_0.glb",
+      "bytes": 10376,
+      "sha256": "e43123b58d212021af97312a11c9b3b2fc69931e2b8c4be95351fdcb8edb695c"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/tomato_stage_0.glb.import",
+      "bytes": 1172,
+      "sha256": "5ea03654f4c65f16bc9b331ef65ea8508ee005da9567ff4f464dff330f214a83"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/tomato_stage_1.glb",
+      "bytes": 39080,
+      "sha256": "bb980110a4a03d100c733270d0860908c614f593e6b844d436503f5c2af37c66"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/tomato_stage_1.glb.import",
+      "bytes": 1172,
+      "sha256": "8693f10cec8268df69a4967d74394a047725df4f6ac5fcdb82529e1b2e97bd33"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/tomato_stage_2.glb",
+      "bytes": 130924,
+      "sha256": "5dcd5f513701902abfaa68b4641d371f58a9e6b2f5f94c4930c4ae5b77657f33"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/tomato_stage_2.glb.import",
+      "bytes": 1171,
+      "sha256": "d73c2204b7743eef5d0915ad0bf1a3c9f9c6e93dc2f5c5bc045fd8cdf822585d"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/tomato_stage_3.glb",
+      "bytes": 155472,
+      "sha256": "157a6bae3182882db10f9c067f1182b1b45058a9bef52ac0763b74401640dbbe"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/tomato_stage_3.glb.import",
+      "bytes": 1172,
+      "sha256": "13a4d9271f90366f641535c78ba44fdf5d6eebe95ce73c90893b6fb8163a9f51"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/turnip_stage_0.glb",
+      "bytes": 8884,
+      "sha256": "32e056e53e97d84e3d3ae51b9e1c860f852237362d1c4cc227c012022b6456bf"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/turnip_stage_0.glb.import",
+      "bytes": 1172,
+      "sha256": "a05dfd5da2858c28f89fe7f870594e66d180f4b4b12eadd51814e2a1b5a8f18e"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/turnip_stage_1.glb",
+      "bytes": 26716,
+      "sha256": "1e5eef30d1e44d20f5ba3faa3c001ddb285c5c890a3a53747492cdf6035d2b48"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/turnip_stage_1.glb.import",
+      "bytes": 1171,
+      "sha256": "da802157fcb2f563597affa4ef1168df6b485b76dd6a028b946082ede19cf528"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/turnip_stage_2.glb",
+      "bytes": 34188,
+      "sha256": "49b2e54f231331b979b2cc9b5fcdf36b406a4f6e1644642de66e6d6dce2411ce"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/turnip_stage_2.glb.import",
+      "bytes": 1172,
+      "sha256": "5efffa3f9d4affd39d68473e772598f93946d8f29c171bd02ada2b2df59d72b8"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/turnip_stage_3.glb",
+      "bytes": 44488,
+      "sha256": "c699f1faf1f5d6e5935f6cd3299a62cc66c2121d2e34f3348b2b2ada113df655"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/turnip_stage_3.glb.import",
+      "bytes": 1171,
+      "sha256": "4c06c14d65674cc31b964a96c31c0d1d5edd4e382d659c10a6b5e89a95102ec0"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/watering_can.glb",
+      "bytes": 53652,
+      "sha256": "1ea82480325af85151dcc9c9614b1a93894d757477a71f0ff60a9085b47f4a2d"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/farming/watering_can.glb.import",
+      "bytes": 1165,
+      "sha256": "5c598d9e0df4475715527fe776c776546107519f80ff0fc19b2c0c3c57151e87"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/bed.glb",
+      "bytes": 103172,
+      "sha256": "6b2a7f5414475b999c3463a6c5ecbf387cabef1ef8d63d35cbca402b7e34a7f5"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/bed.glb.import",
+      "bytes": 1140,
+      "sha256": "34919e854342d3a058ee82dd9e1218458594ed77275a49515a42dd5638e91fc8"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/cabin_lamp.glb",
+      "bytes": 57112,
+      "sha256": "aca6f08aef696bafe2408762a19b387ddebbd27d7941aef8250ce7d75e190ae5"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/cabin_lamp.glb.import",
+      "bytes": 1161,
+      "sha256": "0bf491106ed92e3a527993215092df4f0ffb53523538cb0c59f55cf51234a99a"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/chest.glb",
+      "bytes": 116068,
+      "sha256": "a1cb9a8e1a4e4d4bb183397104e53b69ddb3137e943c50f190c37fd83ec4a9af"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/chest.glb.import",
+      "bytes": 1145,
+      "sha256": "4aee2931021ebcb3d9ed9eac7b7be6db4cbaef414b14ac2ae233149c0af250ed"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/food_bundle.glb",
+      "bytes": 19236,
+      "sha256": "65bc3a809dc45ff93ff5ca370698a58325d14484675b1c37a9ba8b61f13cedbb"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/food_bundle.glb.import",
+      "bytes": 1163,
+      "sha256": "a3d72ffe126440a638faa430a99f73441586c787be0f7bc5d2f763aba7f730a6"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/medical_kit.glb",
+      "bytes": 13064,
+      "sha256": "34de8c85158c1a0bae7e9e700ba4ff5b07be5d6b435dc7c5f18f9471d35c74ca"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/medical_kit.glb.import",
+      "bytes": 1164,
+      "sha256": "40c52528adf040c5fe17477299993a0f032f2e9e6679614a85e7303bfc17139a"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/saltwater_crocodile.glb",
+      "bytes": 448324,
+      "sha256": "0c47d965b60dc043507daf7759b8ccec9fbc4e09013f7220f766a73d5e6fdffe"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/assets/survival/saltwater_crocodile.glb.import",
+      "bytes": 1187,
+      "sha256": "2a2ba6d4fd7ba2bae1f6f5a3445404f8064d467228fdbd6ad8655fb69082b088"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/project.godot",
+      "bytes": 140,
+      "sha256": "1668fbf8aa90c2c1627031b0799f15d2f6467254237689b0a433ef43c8bacdfc"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/verify_assets.gd",
+      "bytes": 3419,
+      "sha256": "60a7d408685efb1faeed72705ba4a7b43283cabcb70f922128abf4135b19a597"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/verify_assets.gd.uid",
+      "bytes": 20,
+      "sha256": "b0b1030701a05cbf14e274b7b1954e279fce5d8f5b1a2db39964850706ad3765"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/verify_survival.gd",
+      "bytes": 3542,
+      "sha256": "327435310fe413b7b58c4ac9dc1ff71cfc5058c76bf3c10ff3f8158ced1d51f4"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/verify_godot/verify_survival.gd.uid",
+      "bytes": 20,
+      "sha256": "4c3c95e9f94edaaaf93b410b46eee30c03bc338878955f546c75a9ff8c8d8ab6"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/动作/C01_watering_held_review.blend1",
+      "bytes": 7268150,
+      "sha256": "a7543dee27f6efdd0d584db419d84f2712159a502b25eb47f255903676406fad"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/农耕与伐木/动作/C01_watering_preview.blend1",
+      "bytes": 7307543,
+      "sha256": "bcd8b18ff1d01b7f5a987aea8768260c5f234fa72d390fe13367bf0df3d8b032"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/沙滩车/C01_车辆动作_重定向.blend1",
+      "bytes": 7948022,
+      "sha256": "b5b03228806c53cb4d5837ff81933ed440084210671d46913ed9a3fb9b27483f"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/沙滩车/沙滩车_人物驾驶核验.blend1",
+      "bytes": 3107686,
+      "sha256": "9fb2ec9b85032a5797eb115c849ed78a131267a163343a0f7b6305a2e886176e"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/沙滩车/沙滩车_模型库.blend1",
+      "bytes": 221539,
+      "sha256": "57576068eba7520cd8131ff244cd3d74097d1051212956a34c00b44a70889fd0"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/海岸生存/海岸生存_模型与动画.blend1",
+      "bytes": 379480,
+      "sha256": "c6df732a32bb2fc3746f1b2dc70d55599470e89d098e4c2c390a3679f1934cf1"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/海岸生存/海岸生存_预览场景.blend1",
+      "bytes": 377013,
+      "sha256": "66b55448d32ce348c03ae650308c2b5ba1ff1e1b7b6a0d12356a946bed875af7"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/海岸生存/鲨鱼游泳修复/Shark_原骨骼动作核验.blend1",
+      "bytes": 238896,
+      "sha256": "112daf1de8a7cd2866b85661ed08726e924a9c791e0160c332772be3a13dee12"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/剥皮小刀/备份_低位前/skinning_grip.gd",
+      "bytes": 4509,
+      "sha256": "e543324f7738f3dec56a27c263c3efa57d733293b6d0fc07027ca2fe2d2ae616"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/剥皮小刀/备份_低位前/validate_skinning.gd",
+      "bytes": 3096,
+      "sha256": "bf83ca75c3dcf8e7e17f29f597e18464728dfbc06aeb1b1b9fb50ddaace66e59"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/剥皮小刀/备份_初版/build_skinning_knife.py",
+      "bytes": 3128,
+      "sha256": "891522afb0a0e639c0a646b318ea4aeecc9ee938d8392f148813884e3b4d6250"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/剥皮小刀/备份_初版/skinning_grip.gd",
+      "bytes": 4509,
+      "sha256": "e543324f7738f3dec56a27c263c3efa57d733293b6d0fc07027ca2fe2d2ae616"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/剥皮小刀/备份_初版/validate_skinning.gd",
+      "bytes": 2739,
+      "sha256": "26438bd5e44be245561d981538f546222022cd4e414e5ecbc845b10cb7ad4e8d"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/武器/bow.blend1",
+      "bytes": 103370,
+      "sha256": "179858e099c07d9f399e5106bbd531f693ef9bfdb53baccb976f76e861f75216"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/武器/C01_弓姿窄帽檐变体.blend1",
+      "bytes": 3164728,
+      "sha256": "aaaa86de5ab31be1e40c9dc543383a35f57a8040a3d746451f4e9328ffa7a216"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/武器/C01_狩猎动作_重定向.blend1",
+      "bytes": 4575262,
+      "sha256": "c79caecc8149ac0a2484f5628e0af142b5bca63d52241f6bb927cba803b24ff2"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/武器/hunting_rifle.blend1",
+      "bytes": 98402,
+      "sha256": "e2701638ce89cf29caa9d4a7f350d7263c836da3da036d470672dbaaf7c65b32"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/武器/rifle_ammo.blend1",
+      "bytes": 97428,
+      "sha256": "b5e03430a8ffb6925cbc4459e991154e915bc1bce851d8509038e7cd2647bb12"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/武器/wooden_arrow.blend1",
+      "bytes": 96605,
+      "sha256": "8ab30eaf82773a34393741cd196af1b3f555abe9df3e1eb0efa77a458b51a386"
+    },
+    {
+      "relative_path": "素材/06_游戏场景资产/狩猎与烹饪/烹饪采集/cooking_forage.blend1",
+      "bytes": 215349,
+      "sha256": "1cba54fef7e999fde534be26f94286b9276e54131fd68d818c2bc2dae887909a"
+    }
+  ],
+  "crc_verified": true
+}

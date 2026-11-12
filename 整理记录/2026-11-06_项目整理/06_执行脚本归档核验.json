@@ -1,0 +1,63 @@
+{
+  "archive": "归档/06_本次整理执行脚本.zip",
+  "verified": true,
+  "sha256": "8e243fa5ef3cd737e70f35f8b4248b4e5135e76c4a47238664c8612e1cffa2cf",
+  "files": [
+    {
+      "path": "整理记录/analyze_usage.py",
+      "size": 3710,
+      "sha256": "21b2000d91bf3afa8b9188646cd58b928fbe6db2acfff8c6297bf2d4f2c21883"
+    },
+    {
+      "path": "整理记录/apply_organization.ps1",
+      "size": 3704,
+      "sha256": "ca349efe7366047a7bdcf49ab9b60fb20a7b33c71db842e15d699162f182f33d"
+    },
+    {
+      "path": "整理记录/clean_verified_cache.ps1",
+      "size": 1689,
+      "sha256": "056c31206df4b2dec09126259f0b655ef747189ed6c7df1b63d19574112a50e5"
+    },
+    {
+      "path": "整理记录/create_archives.py",
+      "size": 2334,
+      "sha256": "f411780e9afedf4f1dc7f5ab2771ef24a8d8fb903d54408c0ce764aeb0126851"
+    },
+    {
+      "path": "整理记录/finalize_records.py",
+      "size": 3223,
+      "sha256": "89c2be73c3161b87b02626fa44d16ab45ff2112d12b70311e179ddc8ca6ddf0a"
+    },
+    {
+      "path": "整理记录/find_orphan_cache.py",
+      "size": 1229,
+      "sha256": "6d3f4ceb75153e5b07faf619fd195dd57153b48b377933436e72aa4cd48fd5f0"
+    },
+    {
+      "path": "整理记录/prepare_organization.py",
+      "size": 5064,
+      "sha256": "4c29a627eebad05da83e22016ea2ca2adc0d7fe6e62baea45bc7668416a2d5e3"
+    },
+    {
+      "path": "整理记录/rewrite_code_paths.py",
+      "size": 1983,
+      "sha256": "7eaae58a1b4be996422c4157bdfe6a5c4c1a619a92a81b01e833067894bfb940"
+    },
+    {
+      "path": "整理记录/rewrite_scene_dependencies.gd",
+      "size": 1831,
+      "sha256": "361244092afaec309f0fe86bcae3458c7133aa4293c36860fe8185fc43533de4"
+    },
+    {
+      "path": "整理记录/scan_dependencies.gd",
+      "size": 752,
+      "sha256": "08ecd84b241f408c14da7629d93ffccaf46385d3645eac677faa4afcb329b4b4"
+    },
+    {
+      "path": "整理记录/使用已安装MCP检查.py",
+      "size": 3411,
+      "sha256": "02677ddf885c0c91e0b58d1218da288d8bc8734d46bb429e815d063553df1307"
+    }
+  ],
+  "remove_originals": true
+}

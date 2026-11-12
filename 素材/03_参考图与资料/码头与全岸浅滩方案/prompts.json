@@ -1,0 +1,23 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "images": [
+    {
+      "file": "码头浅水坡_设计效果.png",
+      "prompt": "Use case: stylized-concept. Create a bright, refined stylized 3D design visualization of a weathered wooden pier extending from a beach into the sea, guided by the first reference for the pier's construction and the second reference for visual style. Main view is a large three-quarter side view with clear transparent water revealing the entire underwater structure and sand bed. The deck is approximately horizontal with only a gentle slope, with weathered planks, roughly six posts per side and diagonal braces. The sand bed slopes smoothly and continuously down away from shore at approximately 1:12 to 1:18. Near-shore support posts are short and posts progressively lengthen toward deeper water; each post penetrates the sand bed with no suspended bottoms. Most posts nearly vertical, a few subtly tilted 3–6 degrees from weathering. Transparent pale turquoise shallows transition to blue and deep blue, with subtle foam, and a gentle beach-to-water transition, no vertical shore wall. Clearly show the post bottoms and slope. No people, mountains, waterfalls, purple background, floating deck, large leaning columns, stepped deck, opaque cut-water block walls, labels or text. This is conceptual design art, not a completed model.",
+      "references": [
+        "P01_01_source.png",
+        "frame_00_0.0s.jpg"
+      ],
+      "actual_size": "1774x887"
+    },
+    {
+      "file": "整岛浅水带_设计效果.png",
+      "prompt": "Use case: stylized-concept. Create a high oblique aerial 3D concept visualization of the ENTIRE island, following the first reference's existing irregular ring-shaped landmass and large enclosed central lagoon and the second reference's soft, refined stylized 3D game aesthetic. Preserve the original ring outline and the enclosed central lagoon, never replace it with a solid round island. The whole exterior coast has a continuous underwater sandy shallow slope, naturally varying in width, approximately 20–40 m, blending gradually to deep blue ocean. Every inner lagoon shore has a narrower continuous submerged sandy shelf approximately 8–15 m wide, then gently deepens toward the lagoon center. Transparent shallow water reveals smooth sand transitions with no vertical cut-off cliffs. No neon glow, no uniform bright circular halo, no separate round platform near the dock and no flanking grooves. Mark a small landing pier and only a few small existing structures such as a red warehouse and wooden hut; a white lighthouse stands at the end of a stone breakwater extending from the island. Natural light and soft colors, finely detailed materials, full island and surrounding seabed visible. No mountains, waterfall, people, dense buildings, labels or text. This is a conceptual design image, not an actual completed model.",
+      "references": [
+        "01_全岛俯视.png",
+        "frame_00_0.0s.jpg"
+      ],
+      "actual_size": "1672x941"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+name: 功能与资产任务
+description: 记录玩法、模型、动作或文档工作
+title: "[任务] "
+labels: [enhancement, 待处理]
+body:
+  - type: textarea
+    id: outcome
+    attributes:
+      label: 预期效果
+      description: 写明玩家操作和完成后可以观察到的结果。
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: 涉及文件与分工
+      description: 说明负责人、修改目录、二进制文件占用和交接对象。
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: 验收条件
+      description: 用可以逐项核对的条件说明完成标准。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 完成后的交付与实机证据

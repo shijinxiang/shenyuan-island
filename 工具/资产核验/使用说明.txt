@@ -1,0 +1,12 @@
+资产核验
+
+农耕与生存\verify_assets.gd 检查农具、土块和作物模型。
+农耕与生存\verify_survival.gd 检查床箱灯、鳄鱼骨架和动作。
+
+以 游戏 作为Godot项目路径运行脚本，脚本后的第一个用户参数可指定JSON报告路径。
+未指定时写入项目 整理记录\运行诊断。
+
+示例命令
+在项目根目录打开PowerShell，执行以下两行。
+$projectDir=(Get-Location).Path
+& "$projectDir\工具\Godot_4.7.2\Godot_v4.7.2-stable_win64_console.exe" --headless --path "$projectDir\游戏" --script "$projectDir\工具\资产核验\农耕与生存\verify_assets.gd" -- "$projectDir\整理记录\运行诊断\农耕模型核验.json"

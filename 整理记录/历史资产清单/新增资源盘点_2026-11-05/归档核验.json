@@ -1,0 +1,104 @@
+{
+  "日期": "2026-11-05",
+  "文件数量": 12,
+  "总字节数": 11413911,
+  "逐文件核验全部一致": true,
+  "文件": [
+    {
+      "原相对路径": "草地\\shaderSTYLIZEDGRASS.zip",
+      "归档相对路径": "05_待选资源库\\草地\\shaderSTYLIZEDGRASS.zip",
+      "字节数": 1228,
+      "移动前SHA256": "f961a17a0e8a030d11dfcd330ceb5297b6630c8d8383b3d5953ec4435237ccf7",
+      "移动后SHA256": "f961a17a0e8a030d11dfcd330ceb5297b6630c8d8383b3d5953ec4435237ccf7",
+      "一致": true
+    },
+    {
+      "原相对路径": "草地\\stylizedGrassMeshes.zip",
+      "归档相对路径": "05_待选资源库\\草地\\stylizedGrassMeshes.zip",
+      "字节数": 17220,
+      "移动前SHA256": "5c549a7630dc8bc94f6fda1e73d5aea7e71539e1899bb89d96cb2308fe743ac9",
+      "移动后SHA256": "5c549a7630dc8bc94f6fda1e73d5aea7e71539e1899bb89d96cb2308fe743ac9",
+      "一致": true
+    },
+    {
+      "原相对路径": "石头合集\\LowPolyRockPack.blend",
+      "归档相对路径": "05_待选资源库\\石头合集\\LowPolyRockPack.blend",
+      "字节数": 919816,
+      "移动前SHA256": "05333cf7ca07da5bfb28f882fa7966ef6d906c66552472343dcb59e75d3779a0",
+      "移动后SHA256": "05333cf7ca07da5bfb28f882fa7966ef6d906c66552472343dcb59e75d3779a0",
+      "一致": true
+    },
+    {
+      "原相对路径": "树合集\\LowPolyTreePack.blend",
+      "归档相对路径": "05_待选资源库\\树合集\\LowPolyTreePack.blend",
+      "字节数": 2741460,
+      "移动前SHA256": "83b28ffdaa9156dd91642e35e91a0a64e54b23039aaf874c42d6450ff3208136",
+      "移动后SHA256": "83b28ffdaa9156dd91642e35e91a0a64e54b23039aaf874c42d6450ff3208136",
+      "一致": true
+    },
+    {
+      "原相对路径": "鱼\\fish01.fbx",
+      "归档相对路径": "05_待选资源库\\鱼\\fish01.fbx",
+      "字节数": 46668,
+      "移动前SHA256": "b85140ec18cc85af5f5ed82e7dc6b496777d3ba3e03036fb5af8813012307e61",
+      "移动后SHA256": "b85140ec18cc85af5f5ed82e7dc6b496777d3ba3e03036fb5af8813012307e61",
+      "一致": true
+    },
+    {
+      "原相对路径": "鱼\\fish01_shade.fbx",
+      "归档相对路径": "05_待选资源库\\鱼\\fish01_shade.fbx",
+      "字节数": 46780,
+      "移动前SHA256": "fe4a1f4b52e5100155fcd1c3b4112606557b5c8aa7d721828fde695863fcb4ee",
+      "移动后SHA256": "fe4a1f4b52e5100155fcd1c3b4112606557b5c8aa7d721828fde695863fcb4ee",
+      "一致": true
+    },
+    {
+      "原相对路径": "鱼\\fish02.fbx",
+      "归档相对路径": "05_待选资源库\\鱼\\fish02.fbx",
+      "字节数": 49932,
+      "移动前SHA256": "6e4c51ae1a57edfef7a8b1a62e34580b40daca433df98fa19cd7de89882aaea9",
+      "移动后SHA256": "6e4c51ae1a57edfef7a8b1a62e34580b40daca433df98fa19cd7de89882aaea9",
+      "一致": true
+    },
+    {
+      "原相对路径": "鱼\\fish02_shade.fbx",
+      "归档相对路径": "05_待选资源库\\鱼\\fish02_shade.fbx",
+      "字节数": 50204,
+      "移动前SHA256": "23ea233936f5d5e0115b39d54ee7d08f025d32a8efcf61de10e80c2355dfc4ff",
+      "移动后SHA256": "23ea233936f5d5e0115b39d54ee7d08f025d32a8efcf61de10e80c2355dfc4ff",
+      "一致": true
+    },
+    {
+      "原相对路径": "鱼\\fish03.fbx",
+      "归档相对路径": "05_待选资源库\\鱼\\fish03.fbx",
+      "字节数": 36172,
+      "移动前SHA256": "358d50774b99327ff7a5c639c703dfa2ed981289937a9ce21c9fc20c7e2765dc",
+      "移动后SHA256": "358d50774b99327ff7a5c639c703dfa2ed981289937a9ce21c9fc20c7e2765dc",
+      "一致": true
+    },
+    {
+      "原相对路径": "鱼\\fish03_shade.fbx",
+      "归档相对路径": "05_待选资源库\\鱼\\fish03_shade.fbx",
+      "字节数": 37484,
+      "移动前SHA256": "9561a057b49796934a5d6c57dfe8ef7a7dde266e9c6ec409f648ca4e4c257dfb",
+      "移动后SHA256": "9561a057b49796934a5d6c57dfe8ef7a7dde266e9c6ec409f648ca4e4c257dfb",
+      "一致": true
+    },
+    {
+      "原相对路径": "鱼\\FishBundleLowPoly.rar",
+      "归档相对路径": "05_待选资源库\\鱼\\FishBundleLowPoly.rar",
+      "字节数": 224129,
+      "移动前SHA256": "4b806a4013ac5e92e2e4ac188bb0b4cef00578f507f536b2e7bfb005da40e9d8",
+      "移动后SHA256": "4b806a4013ac5e92e2e4ac188bb0b4cef00578f507f536b2e7bfb005da40e9d8",
+      "一致": true
+    },
+    {
+      "原相对路径": "鱼\\FolderToUpload.zip",
+      "归档相对路径": "05_待选资源库\\鱼\\FolderToUpload.zip",
+      "字节数": 7242818,
+      "移动前SHA256": "df55e667c1d85717258ef1e57881e460cca87e2c683814300243c71b41a5035a",
+      "移动后SHA256": "df55e667c1d85717258ef1e57881e460cca87e2c683814300243c71b41a5035a",
+      "一致": true
+    }
+  ]
+}

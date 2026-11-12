@@ -1,0 +1,91 @@
+﻿类型,组,位置,包内路径,字节,SHA256,许可,备注
+原始文件,草地,05_待选资源库\草地\shaderSTYLIZEDGRASS.zip,,1228,f961a17a0e8a030d11dfcd330ceb5297b6630c8d8383b3d5953ec4435237ccf7,压缩包内 MIT License，Copyright (c) 2023 StayAtHomeDev,原件，未修改
+ZIP成员,草地,05_待选资源库\草地\shaderSTYLIZEDGRASS.zip,grass.gdshader,479,9cc3d712d305248150431a6242b916b5a33fbcd80cd2ec07b4ba06c9807b9573,压缩包内 MIT License，Copyright (c) 2023 StayAtHomeDev,ZIP CRC完整性通过
+ZIP成员,草地,05_待选资源库\草地\shaderSTYLIZEDGRASS.zip,license.txt,1089,bfd7213754799408a097116331b93e25ddc9ac7754d436224a81e8d041541e65,压缩包内 MIT License，Copyright (c) 2023 StayAtHomeDev,ZIP CRC完整性通过；SHA256与其他条目相同
+原始文件,草地,05_待选资源库\草地\stylizedGrassMeshes.zip,,17220,5c549a7630dc8bc94f6fda1e73d5aea7e71539e1899bb89d96cb2308fe743ac9,压缩包内 MIT License，Copyright (c) 2023 StayAtHomeDev,原件，未修改
+ZIP成员,草地,05_待选资源库\草地\stylizedGrassMeshes.zip,grass.glb,6804,9d160b59e0e96a1df04aedac4984f84266586db79840f3ab7416ff0949332f8d,压缩包内 MIT License，Copyright (c) 2023 StayAtHomeDev,ZIP CRC完整性通过
+ZIP成员,草地,05_待选资源库\草地\stylizedGrassMeshes.zip,grass.res,6308,85a82a62965825e4524d8566f3c5fca1c2067df91a0cf506ea6df7f9743adf68,压缩包内 MIT License，Copyright (c) 2023 StayAtHomeDev,ZIP CRC完整性通过
+ZIP成员,草地,05_待选资源库\草地\stylizedGrassMeshes.zip,grass2.glb,4924,bd393d0bedd7d79cb5278dd95038c14b41955891407583801da3150c19c30110,压缩包内 MIT License，Copyright (c) 2023 StayAtHomeDev,ZIP CRC完整性通过
+ZIP成员,草地,05_待选资源库\草地\stylizedGrassMeshes.zip,grass2.res,4112,bf56aa0ed0b85dc19422904770640deac014bdf0edccace9f5f3bc6cd083f38f,压缩包内 MIT License，Copyright (c) 2023 StayAtHomeDev,ZIP CRC完整性通过
+ZIP成员,草地,05_待选资源库\草地\stylizedGrassMeshes.zip,license.txt,1089,bfd7213754799408a097116331b93e25ddc9ac7754d436224a81e8d041541e65,压缩包内 MIT License，Copyright (c) 2023 StayAtHomeDev,ZIP CRC完整性通过；SHA256与其他条目相同
+原始文件,石头合集,05_待选资源库\石头合集\LowPolyRockPack.blend,,919816,05333cf7ca07da5bfb28f882fa7966ef6d906c66552472343dcb59e75d3779a0,未发现许可文件,原件，未修改
+原始文件,树合集,05_待选资源库\树合集\LowPolyTreePack.blend,,2741460,83b28ffdaa9156dd91642e35e91a0a64e54b23039aaf874c42d6450ff3208136,未发现许可文件,原件，未修改
+原始文件,鱼,05_待选资源库\鱼\fish01.fbx,,46668,b85140ec18cc85af5f5ed82e7dc6b496777d3ba3e03036fb5af8813012307e61,未发现许可文件,原件，未修改
+原始文件,鱼,05_待选资源库\鱼\fish01_shade.fbx,,46780,fe4a1f4b52e5100155fcd1c3b4112606557b5c8aa7d721828fde695863fcb4ee,未发现许可文件,原件，未修改
+原始文件,鱼,05_待选资源库\鱼\fish02.fbx,,49932,6e4c51ae1a57edfef7a8b1a62e34580b40daca433df98fa19cd7de89882aaea9,未发现许可文件,原件，未修改
+原始文件,鱼,05_待选资源库\鱼\fish02_shade.fbx,,50204,23ea233936f5d5e0115b39d54ee7d08f025d32a8efcf61de10e80c2355dfc4ff,未发现许可文件,原件，未修改
+原始文件,鱼,05_待选资源库\鱼\fish03.fbx,,36172,358d50774b99327ff7a5c639c703dfa2ed981289937a9ce21c9fc20c7e2765dc,未发现许可文件,原件，未修改
+原始文件,鱼,05_待选资源库\鱼\fish03_shade.fbx,,37484,9561a057b49796934a5d6c57dfe8ef7a7dde266e9c6ec409f648ca4e4c257dfb,未发现许可文件,原件，未修改
+原始文件,鱼,05_待选资源库\鱼\FishBundleLowPoly.rar,,224129,4b806a4013ac5e92e2e4ac188bb0b4cef00578f507f536b2e7bfb005da40e9d8,未发现许可文件,原件，未修改
+RAR成员,鱼,05_待选资源库\鱼\FishBundleLowPoly.rar,Piranha\piranhahigh.bin,9380,b065120147817c55b9180cfdc570cd057d13ee2eda5f5c6273d7da1ea1ecdb66,未发现许可文件,tar解包成功
+RAR成员,鱼,05_待选资源库\鱼\FishBundleLowPoly.rar,Piranha\piranhahigh.blend,922992,9089eb9d1c232cef4ed64a20af4a1797d48b45ee8592c65019080d118a485b7a,未发现许可文件,tar解包成功
+RAR成员,鱼,05_待选资源库\鱼\FishBundleLowPoly.rar,Piranha\piranhahigh.gltf,4077,cd649aa040c2c0047b541f1d01a72e9e69c46e822d759c3f23d05647e2461d77,未发现许可文件,tar解包成功
+RAR成员,鱼,05_待选资源库\鱼\FishBundleLowPoly.rar,Piranha\piranhahigh.mtl,254,c7f4b8c4bd6d7992b87dd849e5d767faffd3338bc66b4f7f84847f2195f1877d,未发现许可文件,tar解包成功
+RAR成员,鱼,05_待选资源库\鱼\FishBundleLowPoly.rar,Piranha\piranhahigh.png,2419,2b62c913ea42e87999e2eeb82871496084f006f36a2eae9f363b8e39bee515a3,未发现许可文件,tar解包成功
+RAR成员,鱼,05_待选资源库\鱼\FishBundleLowPoly.rar,Shark\shork.bin,13388,63077dbf79514ed3a2b18bbf83dd4923ca5c0f4b38577d02cb64b2e8e6df8ebf,未发现许可文件,tar解包成功
+RAR成员,鱼,05_待选资源库\鱼\FishBundleLowPoly.rar,Shark\shork.blend,959356,d3ea079c700b357c3c6f58fa574b2dff4adbb619ff49cace8eb67aa1004f073c,未发现许可文件,tar解包成功
+RAR成员,鱼,05_待选资源库\鱼\FishBundleLowPoly.rar,Shark\shork.gltf,3792,792b9257383d3906c3bbb72fd0bdd2faa083b04aa39794ff90832dcd647bb195,未发现许可文件,tar解包成功
+RAR成员,鱼,05_待选资源库\鱼\FishBundleLowPoly.rar,Shark\shork.mtl,252,e9bf22a33b3ed306fb853a01e5d8c3c92c6c94a0d44edffaf4cac56bfff1b041,未发现许可文件,tar解包成功
+RAR成员,鱼,05_待选资源库\鱼\FishBundleLowPoly.rar,Shark\shork.png,15507,5c498d5484b79f74ac3f2b22e37548923f60428d3d7fb7316d64df79e6e690a0,未发现许可文件,tar解包成功
+原始文件,鱼,05_待选资源库\鱼\FolderToUpload.zip,,7242818,df55e667c1d85717258ef1e57881e460cca87e2c683814300243c71b41a5035a,未发现许可文件,原件，未修改
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Coral.blend,1081252,020e7c7a39563299e21a3656801e85315f50c22dfe0f6d33e002b1b7d817f3df,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Crab.blend,1269036,9a83894e20fae0ed00512511ccc3d0ec19508b0331bfa07ea1e96cb67516b0f5,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Dolphin.blend,858364,13271b00230a21af1de0f9d84df74ea70f5d2f02e475268908f9c8cc362af32b,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Eel.blend,772704,f907c6d9646331413278455aeefab829a1aed7cde18a27458ad151897b635c83,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Fish.blend,2554924,c790f8f18ee0b350b4ebc172ebec3e11f791dc2e991223632c214a062558cb3d,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Hammerhead.blend,717404,1e1629fb9e03b5fb20b30a912fb80b6ea8ec7ce3bcdcc0ded6fffeade27a3b48,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Lobster.blend,1316112,970e53d1dec47ca02712144368667ed1a3e008122fcfddc82aff63864a80b2b0,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Octopus.blend,3400764,64879ae11cd9d54a5951252036b2c0c5b2beb7296655fabbd671d75cc0d87c2b,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Penguin.blend,786000,11228014a182532e3d9b36d328a06c7465ce47399da2e115d8ff5766a1f6f85a,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Rocks.blend,798684,a80bf517f0510ad26abeb247252ccdff80013d29f87587364fee659be020ff9d,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Seal.blend,791768,b03845fe0d28d91cfeb6b33dc464445375114409ac9c347aeef5e227e7df7c4c,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/SeaWeed.blend,1225228,41e4375f3473a6e9ae2a48ebcc739a717d3c98e6f08552102059ac5c8a5b5e3d,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Shark.blend,950152,cc3e97141ca5bc0411feb6f4ee478896e4c52523c4b6a9c6fe810412269890a8,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Shells.blend,791608,e49241f483e3047e950f0c69235641e3fcd00bb1e8e1b32f8b0e332629688b4c,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Squid.blend,865168,38f029576b77d48c1e586c9e3541e63b18535712e435d04a9b1bb52ffd882d3a,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/StarFish.blend,671428,bdb77819091c47a34d2731743742217556dd398fe26bd3e8cd3ce3f6247cdc5f,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/StingRay.blend,677692,d80bf7b7c0de3f2ff6dbd5ee871a3c9d83ae41bd50868a17241f4746b9b322cb,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Turtle.blend,818212,241e8383a47ef4a02742ba7a72692f43558831a9d4d4325cddd53c1061b187f8,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/blend/Whale.blend,753388,436ec030db94df356f468fd98989a9b62d3b3d34a1d73e7c49bf1a6a946c11b4,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/BrownFish.fbx,648204,799f3eede7a04cc2b25c46db4a12278c1824f20bcbcf1662bcb65e613ae94c14,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/ClownFish.fbx,114908,7d2f6fc518a98be9a79974cf90484dedbcbe98b04e5c3c7d853b1084e7244fa8,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Coral.fbx,25020,85fe0973243afe6950ce192e0307ec0fcac87dc2dc64b1226f7b5c51b4a2a784,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Coral1.fbx,55228,bc1b318adf2f239c1d0ce9d6e7735e3da2941401d96e6b77f62fddb66fa751fb,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Coral2.fbx,39596,4d718abc4ee6c178027613673630566c111791b7e5027e639becdf4a13993d76,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Coral3.fbx,60508,ed8b184530a81d250a798fc7e4cf246328a9e6147fc397a77284ce0b14f54241,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Coral4.fbx,37676,1d104773be2840d50f163bff70c1027d1fd8d2c4d3450bd6c0e3d2171a43363d,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Coral5.fbx,39708,e0aed57bc2ace424261ad9f50643b6562dddd1eab54d75d9504835af0f09ae37,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Coral6.fbx,32060,c342f95944e3306261f24fc1fd7e64182664e27a4d84c7e7100abcefd5e0cfc8,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Crab.fbx,1486892,304803674c2d9faf37da9285c3c09427a2bdf87208147725216050296c835445,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/desktop.ini,1104,8650f312185970f97e5f921063a33f9ed8c00e5b62fbf326bd1836349c001eac,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/DoryFish.fbx,646604,3e7905f4c1e610b9b6cd1332519199ebc5d17b8fcd1adc675e1ac837539f3a5b,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Eel.fbx,130508,820b6b545f49b5d95999609ede2ea0a4eca8e7402f16d65f4e8e17ea9e62bf16,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Hammerhead.fbx,174204,b966d15ab8b57216461e20895940fc8d124764d18117a80afdd0d31a6f96e82a,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Lobster.fbx,1516012,94abd8fee6e24e20feae05c94dbbd3dd02eeaf97bea09f39cd85d799a08663a8,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Octopus.fbx,429884,db3cc0f497d81a6dc030afa2fec8b8d345c53f0951a7a4aae54f2070eeb2df26,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Penguin.fbx,122012,049af8443892c62a07089c97099ebef364d524eadf1dd573b2df24d599a2a2ee,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Rock.fbx,16236,f48e3019d11a8c003aeb730574c5fe939eddfa8ebea4c6b2464bb43cc98d4f3c,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Rock1.fbx,18620,2f0ec157c09e63b1f6120b163788257ac4028f8949eec7d54078c8cf923af0ed,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Rock10.fbx,15580,76cceb60bafb04401a404c0be8e5c2775b8d2134679edf0dbdcdd681e5aa7700,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Rock2.fbx,18364,b68006eb02c5b41213b3b5e4e749a10ec295558d99ea106fae6bb041042b6521,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Rock3.fbx,21692,e2466648501786ba5bd77744659754f6a8a4a31b5039522d6ec40caec99b7002,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Rock4.fbx,15628,3f538ad3a1c15b9a51ba54b0fa722ea49d33330021cfbbc9eb9d34f80b000da1,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Rock5.fbx,15612,85abc16a87d6096a9d9c18f4e37b159a9b4585c988f9e1fbf5f545874a82c84e,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Rock6.fbx,16700,2d9dedf4f3c752fe3260523bf31b762e0d007d01a71e3cb8dd44ff94ec7172d8,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Rock7.fbx,16332,da7e7b6e8af7969d2ad5c1efe3547ad1450c3cc146bab0300d4bab631dfd0634,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Rock8.fbx,15788,dfb51774229556b3accaf247cac6b71301318b8ca1a9882f95a0c99bddbcf0a4,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Rock9.fbx,15244,127bea943f4bdda1af5269fb0ecf498180d13526c19997f391a9f50cf9035a9e,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Seal.fbx,315276,e0ac4d0a42211aefcf2a0f5508e38bcaa3fa289560b81620b85d436520b98261,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/SeaWeed.fbx,1980684,7290738750a8e92977cd0df756b8bcbcec380ad9c0ebaf398a9fe14ba7a06124,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/SeaWeed1.fbx,271036,922534e5df8412faab75af2a6eeeda7a45cf3866691c07f5e5459925d158bcfa,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/SeaWeed2.fbx,1237244,feecb45ce0ccd4348145d2458ab5722a8e2b5c84f43ad0abf44c7d9132a457d9,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Shells.fbx,52236,71e827798bb36f0c2442f2dcd1d635f4ea17359a14b6fca2264ea8ac64dce7d3,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Shells1.fbx,17164,56ec614d07a1b6e4f2deb2e43b706d817a869592e3e9b512473e514255228dd6,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Shells2.fbx,17132,5348d5a0965ba3b8e453ec84442107fcffed08b50c40744a5e0585312125a684,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Shells3.fbx,27564,b1c4feb1e9bae146d5ae359b7f918900a8c76ec4f6d3933fb0ec63b224c41c56,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Squid.fbx,315500,8232e8987f96eb37a9c4b73b234b846c5d21a0c745dee8962148776fb27aaf5b,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/StarFish.fbx,79436,ca666156fbbbbd07b331ef99055edf516c47ce2ce1bd79735da632b4c3c34b4e,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/StingRay.fbx,109292,181d7e0001578f16ea2907c04c8d22e31f84afc802654090474406efa06664f5,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/TunaFish.fbx,109388,9f71e54fb8757ccc8e23e51ff0a4290b8894277b7149cd03cad8f517959a5724,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Turtle.fbx,197964,a73f8fd8bbac5b89a8861a28f999f04359b54ab802f800ddb0a920d196a939ea,未发现许可文件,ZIP CRC完整性通过
+ZIP成员,鱼,05_待选资源库\鱼\FolderToUpload.zip,FolderToUpload/fbx/Whale.fbx,178380,a691d3f9de69e242bfd5d58db095e184754ca430d92a7c9e4393fb051d66d88a,未发现许可文件,ZIP CRC完整性通过

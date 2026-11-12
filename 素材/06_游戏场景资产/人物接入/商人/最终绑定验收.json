@@ -1,0 +1,57 @@
+{
+  "code": "C03",
+  "name": "商人",
+  "bones": 53,
+  "triangles": 39039,
+  "weighted_vertices": 19243,
+  "max_influences": 4,
+  "rest_bounds": [
+    [
+      -1.0039782524108887,
+      -0.22610355913639069,
+      0.0
+    ],
+    [
+      1.0039782524108887,
+      0.22610355913639069,
+      1.8000000715255737
+    ]
+  ],
+  "textures": [
+    {
+      "name": "tripo_image_c3b0d688_0",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    }
+  ],
+  "blend": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\人物接入\\商人\\C03_商人_已绑骨.blend",
+  "glb": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\人物接入\\商人\\C03_商人_已绑骨.glb",
+  "fbx": "D:\\浪费GPT额度\\小温的游戏\\素材\\06_游戏场景资产\\人物接入\\商人\\C03_商人_已绑骨.fbx",
+  "game_glb": "D:\\浪费GPT额度\\小温的游戏\\游戏\\assets\\characters\\C03_rigged.glb",
+  "animations_exported": false,
+  "glb_roundtrip": {
+    "bones": 53,
+    "bound_error_m": 1.6012091791848708e-07,
+    "textures": [
+      [
+        2048,
+        2048
+      ]
+    ],
+    "weighted": true
+  },
+  "fbx_roundtrip": {
+    "bones": 53,
+    "bound_error_m": 1.7943374184954607e-07,
+    "textures": [
+      [
+        2048,
+        2048
+      ]
+    ],
+    "weighted": true
+  }
+}

@@ -1,0 +1,27 @@
+0.2.0开发文档编制材料
+
+完整开发过程.md 与 三人分工开发记录.md 保存两份文档底稿。
+正式Word文件位于项目 需求\开发过程文档。
+
+编制脚本
+内容整理、证据索引、Word生成、PDF导出与发布核验脚本。
+Python脚本按本目录读取底稿和索引。Word导出采用PowerShell 7的STA模式。
+重建时依次运行 compose_sources.py、build_updated_documents.py、export_word.ps1。
+如需排版检查，再运行 render_updated_documents.py。最后用 finalize_documents.py 更新正式文档与摘要。
+Python环境需具备python-docx、Pillow和pypdfium2，PDF导出需Microsoft Word。
+
+实机证据
+本轮文档采用的原始实机图、问题复现图和图片索引。
+
+证据图片
+文档生成的流程图。
+
+过程日志
+本轮非空编制与运行日志。
+
+打包核验
+逐文件清单、压缩核验、迁移导入记录和发布复核结果。
+
+排版核验 与 成稿
+由编制脚本生成的工作输出目录。完成交付后清理，重建时自动创建。
+临时进程号与空日志已清理，备份和一次性诊断脚本的恢复位置见项目归档索引。

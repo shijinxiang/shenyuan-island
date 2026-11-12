@@ -1,0 +1,342 @@
+{
+  "source": "D:\\\u6d6a\u8d39GPT\u989d\u5ea6\\\u5c0f\u6e29\u7684\u6e38\u620f\\\u6e38\u620f\\assets\\fauna\\marine\\Shark.glb",
+  "armature": "Armature",
+  "mesh": "Shark",
+  "clip": "ArmatureAction",
+  "frame_range": [
+    0.0,
+    124.99999237060547
+  ],
+  "duration_seconds": 4.166666412353516,
+  "bones": {
+    "Bone": {
+      "head": [
+        -2.781951005953436e-17,
+        0.4663495123386383,
+        -0.12528793513774872
+      ],
+      "tail": [
+        -2.1965218683529114e-16,
+        0.9357328414916992,
+        -0.01189395785331726
+      ],
+      "parent": null,
+      "max_local_rotation_change_deg": 2.5098360400082833,
+      "max_local_translation_change_m": 0
+    },
+    "Bone.001": {
+      "head": [
+        -2.781951005953436e-17,
+        0.4663495123386383,
+        -0.12528793513774872
+      ],
+      "tail": [
+        -7.677076341175773e-15,
+        0.9348178505897522,
+        -0.24240495264530182
+      ],
+      "parent": null,
+      "max_local_rotation_change_deg": 0,
+      "max_local_translation_change_m": 0
+    },
+    "Bone.003": {
+      "head": [
+        -2.781951005953436e-17,
+        0.4663495123386383,
+        -0.12528793513774872
+      ],
+      "tail": [
+        9.4663785545155e-14,
+        -0.048723191022872925,
+        -0.006960690021514893
+      ],
+      "parent": null,
+      "max_local_rotation_change_deg": 0,
+      "max_local_translation_change_m": 0
+    },
+    "Bone.005": {
+      "head": [
+        1.2112865066169192e-14,
+        -0.04872312396764755,
+        -0.006960668601095676
+      ],
+      "tail": [
+        1.2699134278870705e-12,
+        -1.1623941659927368,
+        0.04176114872097969
+      ],
+      "parent": "Bone.003",
+      "max_local_rotation_change_deg": 13.227216280599755,
+      "max_local_translation_change_m": 0
+    },
+    "Bone.007": {
+      "head": [
+        1.2986971524228674e-12,
+        -1.1623939275741577,
+        0.041761137545108795
+      ],
+      "tail": [
+        2.465785388372499e-12,
+        -2.025489330291748,
+        -0.006963200867176056
+      ],
+      "parent": "Bone.005",
+      "max_local_rotation_change_deg": 35.394798430003945,
+      "max_local_translation_change_m": 0
+    },
+    "Bone.009": {
+      "head": [
+        2.579472659774984e-12,
+        -2.025489091873169,
+        -0.006963200867176056
+      ],
+      "tail": [
+        4.11419769780208e-12,
+        -2.8859896659851074,
+        -0.08970499783754349
+      ],
+      "parent": "Bone.007",
+      "max_local_rotation_change_deg": 91.76331146136533,
+      "max_local_translation_change_m": 0
+    },
+    "Bone.016": {
+      "head": [
+        1.4901143430279262e-08,
+        -0.048723116517066956,
+        -0.00696065416559577
+      ],
+      "tail": [
+        -0.43636205792427063,
+        -0.16006781160831451,
+        -0.30397829413414
+      ],
+      "parent": "Bone.003",
+      "max_local_rotation_change_deg": 1.0141256772308658,
+      "max_local_translation_change_m": 0
+    },
+    "Bone.018": {
+      "head": [
+        -0.43636196851730347,
+        -0.1600678563117981,
+        -0.30397823452949524
+      ],
+      "tail": [
+        -0.8438323736190796,
+        -0.4391002058982849,
+        -0.5210906267166138
+      ],
+      "parent": "Bone.016",
+      "max_local_rotation_change_deg": 0.1312212074681015,
+      "max_local_translation_change_m": 0
+    },
+    "Bone.020": {
+      "head": [
+        6.884746814534229e-14,
+        -0.04872312396764755,
+        -0.006960668601095676
+      ],
+      "tail": [
+        0.436362087726593,
+        -0.16006770730018616,
+        -0.30397829413414
+      ],
+      "parent": "Bone.003",
+      "max_local_rotation_change_deg": 9.925085340502575,
+      "max_local_translation_change_m": 0
+    },
+    "Bone.021": {
+      "head": [
+        0.43636199831962585,
+        -0.16006770730018616,
+        -0.3039783239364624
+      ],
+      "tail": [
+        0.84383225440979,
+        -0.4391002058982849,
+        -0.5210908055305481
+      ],
+      "parent": "Bone.020",
+      "max_local_rotation_change_deg": 0.6644049439656978,
+      "max_local_translation_change_m": 0
+    }
+  },
+  "skinning_weights": {
+    "Bone": 1464,
+    "Bone.001": 1298,
+    "Bone.003": 323,
+    "Bone.005": 548,
+    "Bone.007": 490,
+    "Bone.009": 506,
+    "Bone.016": 182,
+    "Bone.018": 139,
+    "Bone.020": 182,
+    "Bone.021": 139
+  },
+  "mesh_vertices": 3948,
+  "samples": [
+    {
+      "time_seconds": 0.0,
+      "max_vertex_delta_m": 0.0,
+      "rigid_fit_residual_rms_m": 2.8423494168769083e-16,
+      "rigid_fit_residual_max_m": 6.377745716588144e-16
+    },
+    {
+      "time_seconds": 0.1736111005147298,
+      "max_vertex_delta_m": 0.052109217688982225,
+      "rigid_fit_residual_rms_m": 0.0077864338725885844,
+      "rigid_fit_residual_max_m": 0.029693151933565805
+    },
+    {
+      "time_seconds": 0.3472222010294596,
+      "max_vertex_delta_m": 0.1984884041817707,
+      "rigid_fit_residual_rms_m": 0.02918243544371333,
+      "rigid_fit_residual_max_m": 0.11054105317358338
+    },
+    {
+      "time_seconds": 0.5208333015441895,
+      "max_vertex_delta_m": 0.42705482117176,
+      "rigid_fit_residual_rms_m": 0.061283313164171946,
+      "rigid_fit_residual_max_m": 0.2294623838015033
+    },
+    {
+      "time_seconds": 0.6944444020589192,
+      "max_vertex_delta_m": 0.7226592718634042,
+      "rigid_fit_residual_rms_m": 0.10069467276977365,
+      "rigid_fit_residual_max_m": 0.37063047729629783
+    },
+    {
+      "time_seconds": 0.868055502573649,
+      "max_vertex_delta_m": 1.0625669632319932,
+      "rigid_fit_residual_rms_m": 0.14354196918116532,
+      "rigid_fit_residual_max_m": 0.5162763238660211
+    },
+    {
+      "time_seconds": 1.041666603088379,
+      "max_vertex_delta_m": 1.4160586502035353,
+      "rigid_fit_residual_rms_m": 0.18596481806573248,
+      "rigid_fit_residual_max_m": 0.6498878851700656
+    },
+    {
+      "time_seconds": 1.2152777036031088,
+      "max_vertex_delta_m": 1.7495824638952504,
+      "rigid_fit_residual_rms_m": 0.22482423632983328,
+      "rigid_fit_residual_max_m": 0.7602951683950291
+    },
+    {
+      "time_seconds": 1.3888888041178384,
+      "max_vertex_delta_m": 2.035653506572311,
+      "rigid_fit_residual_rms_m": 0.2581474402274183,
+      "rigid_fit_residual_max_m": 0.843886789853881
+    },
+    {
+      "time_seconds": 1.5624999046325683,
+      "max_vertex_delta_m": 2.2590258748081853,
+      "rigid_fit_residual_rms_m": 0.2849707998409744,
+      "rigid_fit_residual_max_m": 0.9031543542986447
+    },
+    {
+      "time_seconds": 1.736111005147298,
+      "max_vertex_delta_m": 2.4160860900611305,
+      "rigid_fit_residual_rms_m": 0.30482431709113117,
+      "rigid_fit_residual_max_m": 0.9428641513239123
+    },
+    {
+      "time_seconds": 1.909722105662028,
+      "max_vertex_delta_m": 2.5095280655081464,
+      "rigid_fit_residual_rms_m": 0.31729104630023985,
+      "rigid_fit_residual_max_m": 0.9665039873241333
+    },
+    {
+      "time_seconds": 2.083333206176758,
+      "max_vertex_delta_m": 2.541436095948892,
+      "rigid_fit_residual_rms_m": 0.32170095590351466,
+      "rigid_fit_residual_max_m": 0.9747289572576064
+    },
+    {
+      "time_seconds": 2.2569443066914876,
+      "max_vertex_delta_m": 2.509528304966646,
+      "rigid_fit_residual_rms_m": 0.3172910770383308,
+      "rigid_fit_residual_max_m": 0.9665040438073381
+    },
+    {
+      "time_seconds": 2.4305554072062177,
+      "max_vertex_delta_m": 2.416086208744619,
+      "rigid_fit_residual_rms_m": 0.3048243565454181,
+      "rigid_fit_residual_max_m": 0.9428640090081448
+    },
+    {
+      "time_seconds": 2.6041665077209473,
+      "max_vertex_delta_m": 2.2590261508700062,
+      "rigid_fit_residual_rms_m": 0.2849708433176137,
+      "rigid_fit_residual_max_m": 0.9031543260641446
+    },
+    {
+      "time_seconds": 2.777777608235677,
+      "max_vertex_delta_m": 2.0356539638790982,
+      "rigid_fit_residual_rms_m": 0.25814750016909765,
+      "rigid_fit_residual_max_m": 0.8438869578581598
+    },
+    {
+      "time_seconds": 2.951388708750407,
+      "max_vertex_delta_m": 1.749582850775242,
+      "rigid_fit_residual_rms_m": 0.22482428147153907,
+      "rigid_fit_residual_max_m": 0.7602952462172847
+    },
+    {
+      "time_seconds": 3.1249998092651365,
+      "max_vertex_delta_m": 1.4160587752446623,
+      "rigid_fit_residual_rms_m": 0.18596483277476067,
+      "rigid_fit_residual_max_m": 0.6498879257159321
+    },
+    {
+      "time_seconds": 3.2986109097798666,
+      "max_vertex_delta_m": 1.0625678332021797,
+      "rigid_fit_residual_rms_m": 0.14354207216741716,
+      "rigid_fit_residual_max_m": 0.5162766775692635
+    },
+    {
+      "time_seconds": 3.472222010294596,
+      "max_vertex_delta_m": 0.72266003432396,
+      "rigid_fit_residual_rms_m": 0.10069479061157825,
+      "rigid_fit_residual_max_m": 0.370630833742909
+    },
+    {
+      "time_seconds": 3.6458331108093263,
+      "max_vertex_delta_m": 0.42705482117176,
+      "rigid_fit_residual_rms_m": 0.061283359100510505,
+      "rigid_fit_residual_max_m": 0.22946227910693498
+    },
+    {
+      "time_seconds": 3.819444211324056,
+      "max_vertex_delta_m": 0.19848866571758036,
+      "rigid_fit_residual_rms_m": 0.0291825033485912,
+      "rigid_fit_residual_max_m": 0.11054119046448715
+    },
+    {
+      "time_seconds": 3.993055311838786,
+      "max_vertex_delta_m": 0.052109217688982225,
+      "rigid_fit_residual_rms_m": 0.007786445314612722,
+      "rigid_fit_residual_max_m": 0.029693123827399314
+    },
+    {
+      "time_seconds": 4.166666412353516,
+      "max_vertex_delta_m": 0.0,
+      "rigid_fit_residual_rms_m": 2.8423494168769083e-16,
+      "rigid_fit_residual_max_m": 6.377745716588144e-16
+    }
+  ],
+  "max_nonrigid_rms_m": 0.32170095590351466,
+  "max_nonrigid_vertex_residual_m": 0.9747289572576064,
+  "loop_seam_nonrigid_rms_m": 2.8423494168769083e-16,
+  "has_real_deformation": true,
+  "bounds_min": [
+    -1.3055107593536377,
+    -1.7596335411071777,
+    -0.3859265446662903
+  ],
+  "bounds_size": [
+    2.095715045928955,
+    3.3006656169891357,
+    1.2980233430862427
+  ]
+}

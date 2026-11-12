@@ -1,0 +1,32 @@
+[
+  {
+    "LeftArm_length_error_m": 0.0000000894069671630859,
+    "LeftForeArm_length_error_m": 0.0,
+    "LeftLeg_length_error_m": 0.0000000596046447753906,
+    "LeftUpLeg_length_error_m": 0.0000000596046447753906,
+    "Left_foot_error_m": 0.0000000759813119088903,
+    "RightArm_length_error_m": 0.000000238418579101563,
+    "RightForeArm_length_error_m": 0.0000000298023223876953,
+    "RightLeg_length_error_m": 0.000000119209289550781,
+    "RightUpLeg_length_error_m": 0.000000119209289550781,
+    "Right_foot_error_m": 0.000000155572692506212,
+    "blade_surface_error_m": 0.00000019371509552002,
+    "grip_error_m": 0.0,
+    "height": 0.15
+  },
+  {
+    "LeftArm_length_error_m": 0.000000149011611938477,
+    "LeftForeArm_length_error_m": 0.0000000745058059692383,
+    "LeftLeg_length_error_m": 0.000000149011611938477,
+    "LeftUpLeg_length_error_m": 0.0000000894069671630859,
+    "Left_foot_error_m": 0.0000000802452078119131,
+    "RightArm_length_error_m": 0.0000000596046447753906,
+    "RightForeArm_length_error_m": 0.0,
+    "RightLeg_length_error_m": 0.0000000894069671630859,
+    "RightUpLeg_length_error_m": 0.0,
+    "Right_foot_error_m": 0.0000000614390600617298,
+    "blade_surface_error_m": 0.000000197686247815909,
+    "grip_error_m": 0.0,
+    "height": 0.45
+  }
+]

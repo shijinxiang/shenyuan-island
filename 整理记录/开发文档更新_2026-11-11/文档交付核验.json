@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "version": "0.2.0",
+  "documents": [
+    {
+      "file": "D:\\浪费GPT额度\\小温的游戏\\需求\\开发过程文档\\深渊岛_三人分工开发文档.docx",
+      "pages": 68,
+      "images": 74,
+      "bytes": 50414875,
+      "sha256": "417ca992141132a5f686d6b0136b9dd24fc75e7138bccfa4713ff9e8d5a5a04e",
+      "requirements": 27,
+      "toc_updated": true
+    },
+    {
+      "file": "D:\\浪费GPT额度\\小温的游戏\\需求\\开发过程文档\\深渊岛_完整开发过程.docx",
+      "pages": 97,
+      "images": 111,
+      "bytes": 69330469,
+      "sha256": "c6d30f28792b2b887701e5e9e4164605176c5db189156232fab1f039563db257",
+      "requirements": 27,
+      "toc_updated": true
+    }
+  ],
+  "new_requirement_records": 27,
+  "runtime_evidence_files": 67,
+  "visual_review_pages": 165,
+  "newly_rendered_from_release_pck": 33,
+  "role_basis": "组员一资源建模 组员二内容规划 组员三场景接入的责任框架"
+}
