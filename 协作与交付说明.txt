@@ -32,7 +32,7 @@ Windows 版使用 Forward+，需要支持 Vulkan 的显卡与相应驱动。
 
 多人如何协作
 当前工程使用 Git 和 Git LFS 管理，远程仓库为 https://github.com/shijinxiang/shenyuan-island。
-仓库为私有，协作者取得访问权限后，通过 Git 克隆并执行 git lfs pull 获取资源。
+仓库已公开，可通过 Git 克隆并执行 git lfs pull 获取资源。协作者取得写入权限后可以推送分支。
 首次克隆的电脑需要自行准备 Godot 4.7.2，根目录 README.md 写明了引擎和导出模板的位置。
 main 保存已合并版本，日常修改从 main 建立自己的功能分支，通过 Pull Request 交接和合并。
 Issues 记录负责人、复现步骤、预期效果和验收结果，项目看板跟踪待处理、进行中、待验收和已完成。
