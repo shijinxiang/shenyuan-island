@@ -4,6 +4,45 @@
 
 当前游戏版本为 **0.2.0**。本仓库从 2026 年 11 月 12 日建立版本历史，之前的开发过程保存在需求文档和实机记录中。
 
+[![灯塔码头垂钓，木船与鱼群就在身旁](资料/宣传/web/fishing.jpg)](资料/宣传/深渊岛_灯塔海钓_实机宣传图_4K.png)
+
+## 实机画面
+
+以下画面取自 0.2.0 版本，使用独立拍摄存档并隐藏 UI。点击图片可查看 3840×2160 原图。
+
+<table>
+<tr>
+<td width="50%">
+<a href="资料/宣传/深渊岛_菜园浇水_实机宣传图_4K.png"><img width="420" src="资料/宣传/web/garden.jpg" alt="在小屋旁给番茄、南瓜和萝卜浇水"></a>
+<p><strong>种植与收获</strong><br>用锄头开垦耕地，播种后每天浇水，作物在 3～5 天内成熟。</p>
+</td>
+<td width="50%">
+<a href="资料/宣传/深渊岛_浅海划船_实机宣传图_4K.png"><img width="420" src="资料/宣传/web/rowing.jpg" alt="划着木船经过清澈浅海中的鱼群"></a>
+<p><strong>划船探索</strong><br>驾驶木船沿海岸探索，也能停船垂钓，寻找不同水域的鱼。</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="资料/宣传/深渊岛_沙滩车探索_实机宣传图_4K.png"><img width="420" src="资料/宣传/web/buggy.jpg" alt="驾驶沙滩车沿海滩行驶"></a>
+<p><strong>沙滩车</strong><br>完成商人的东部海域委托后，可以用沉船宝藏换取沙滩车。</p>
+</td>
+<td width="50%">
+<a href="资料/宣传/深渊岛_小屋烹饪_实机宣传图_4K.png"><img width="420" src="资料/宣传/web/cooking.jpg" alt="小屋门口的大锅正在烹饪蔬菜"></a>
+<p><strong>采集与烹饪</strong><br>鱼获、蔬菜和林间食材都能入锅，做好的饭菜可以补充饱食度。</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="资料/宣传/深渊岛_海岛全景_实机宣传图_4K.png"><img width="420" src="资料/宣传/web/island.jpg" alt="环形海岛、内湖、树林与灯塔的全景"></a>
+<p><strong>环岛漫游</strong><br>内湖、树林和海滩分布在环形岛屿上，近岸浅水里能看到鱼群和珊瑚。</p>
+</td>
+<td width="50%">
+<a href="资料/宣传/深渊岛_夜间小屋_实机宣传图_4K.png"><img width="420" src="资料/宣传/web/cabin-night.jpg" alt="夜间小屋里的床、储物箱和床头灯"></a>
+<p><strong>小屋生活</strong><br>床、储物箱和床头灯都可以互动，夜间关灯后可以睡到次日清晨。</p>
+</td>
+</tr>
+</table>
+
 ## 试玩
 
 在仓库的 Releases 页面下载 `ShenyuanIsland_Windows_v0.2.0.zip`，完整解压后运行“开始游戏.cmd”。请把 EXE、同名 PCK 和许可证目录一起保留。Windows 版本需要支持 Vulkan 的显卡和驱动。
