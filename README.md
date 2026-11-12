@@ -48,7 +48,7 @@ git lfs fsck
 
 日常修改从 `main` 新建功能分支，完成后提交 Pull Request。二进制 `.scn`、`.blend`、`.glb` 和 Word 文件开始编辑前，在对应 Issue 中约定负责人。
 
-任务状态在[开发看板](https://github.com/users/shijinxiang/projects/2/views/1)中维护，依次为待处理、进行中、待验收和已完成。具体命令、交接要求与发布步骤见 [协作规范](CONTRIBUTING.md)。
+任务状态在[开发看板](https://github.com/users/shijinxiang/projects/2/views/2)中维护，依次为待处理、进行中、待验收和已完成。具体命令、交接要求与发布步骤见 [协作规范](CONTRIBUTING.md)。
 
 ## 版本与验证
 
